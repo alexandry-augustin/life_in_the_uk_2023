@@ -1,0 +1,27 @@
+= What is the UK
+
+UK:: 
+* England
+* Scotland
+* Wales
+* Northern Ireland
+Great Britain (GB):: 
+* England
+* Scotland
+* Wales
+Crown Dependencies:: 
+* Isle of Man
+* Channel Islands
+British Overseas Territories::
+* St Helena
+* Falkland Islands
+* ...
+
+//-
+
+* The official name of the UK is the "United Kingdom of Great Britain and Northern Ireland"
+* The words 'Britain', 'British Isles' or 'British' are used in the book to refer to everyone in the UK
+* Crown Dependencies have their own government
+* British Overseas Territories are linked to the UK but are not a part of it
+* The UK is governed by the Parliament sitting in Westminster
+** Scotland, Wales and Northern Ireland also have parliaments or assemblies of their own

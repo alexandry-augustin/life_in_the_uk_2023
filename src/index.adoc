@@ -1,0 +1,21 @@
+= Life in the UK Test: Study Notes
+:author: Alexandry Augustin
+:front-cover-image: image:./res/cover/LITUK2023-HB-Cover_0522.png[Front Cover,1050,1600]
+// :data-uri:
+:version-label: Edition
+:revnumber: 2023
+:toc: left
+// :revdate: 2023
+// :sectnums:
+
+include::./sections/the_values_and_principles_of_the_uk.adoc[leveloffset=+1]
+
+include::./sections/what_is_the_uk.adoc[leveloffset=+1]
+
+include::./sections/a_long_and_illustrious_history.adoc[leveloffset=+1]
+
+include::./sections/a_modern_thriving_society.adoc[leveloffset=+1]
+
+include::./sections/uk_government_the_law_and_your_role.adoc[leveloffset=+1]
+
+include::./sections/appendices.adoc[leveloffset=+1]

@@ -1,0 +1,11 @@
+= Life in the UK Test: Study Notes
+:author: Alexandry Augustin
+:url-official: https://www.gov.uk/life-in-the-uk-test
+
+This repository is a collection of my personal notes taken while preparing for the {url-official}[Life in the UK Test].
+This test is required for anyone applying for British citizenship or settlement in the UK.
+
+== Project Files
+
+* `src/`: This is where the original source files are located.
+* `dist/`: The compiled output of the source files in various formats (e.g. HTML, EPUB3).
