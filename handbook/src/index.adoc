@@ -7,6 +7,8 @@
 :toc: left
 // :revdate: 2023
 // :sectnums:
+:description: Everything you need to study for the British citizenship test 2023
+:keywords: test citizenship uk
 
 include::./sections/the_values_and_principles_of_the_uk.adoc[leveloffset=+1]
 

@@ -3,7 +3,7 @@
 == Early Britain
 
 * Stone Age:
-** The first people to live in Britain were hunter-gatheres, in what we call the Stone Age
+** The first people to live in Britain were hunter-gatheres
 ** For most of the Stone Age, Britain was connected to the continent by a land bridge
 ** Britain only became permanently separated from the continent by the Channel about 10,000 years ago
 ** The first farmers: 
@@ -13,23 +13,26 @@
 * Bronze Age:
 ** ~4,000 years ago people learned to make bronze, started living in roundhouses, and buried their dead in tombs called round barrows
 
-* Iron age:
+* Iron Age:
 ** People learned to make weapons and tools out of iron
 ** People started living in larger settlements, and sometimes defended sites called hill forts (e.g. Maiden Castle)
-** They made the first coins to be minted in Britain, come inscribed with the names of the Iron Age Kings
-** This marks the beginnings of British history
+** They made the first coins to be minted in Britain
+*** Come inscribed with the names of the Iron Age Kings
+** Marks the beginnings of British history
 
 [.lead]
 The Romans
 
 * The Romans:
-** 55 BC First invasion led by Julius Ceasar. 
+** 55 BC Julius Ceasar
+*** Led first invasion
 *** Was unsuccessful
-** 43 AD Emperor Claudius invaded and captured almost all of Britain
-** Remained in Britain for 400 years
-** Built roads and public buildings, created a structure of law, and introduced new plants and animals
-** Never conquered Scotland
-* Boudica (queen of Iceni) fought against the Romans
+** 43 AD Emperor Claudius 
+*** Invaded and captured almost all of Britain
+*** Remained in Britain for 400 years
+*** Built roads and public buildings, created a structure of law, and introduced new plants and animals
+*** Never conquered Scotland
+* Boudica (or Boudicca, queen of Iceni) fought against the Romans
 * Hadrian's Wall:
 ** Built by Emperor Hadrian to keep the Picts (ancestor of the Scottish people) out
 ** Included a number of forts (e.g. forts of Housesteads and Vindolanda)
@@ -38,9 +41,9 @@ The Romans
 The Anglo-Saxons
 
 * The Romans left Britain in AD 410 to defend other parts of the empire and never returned
-* Britain was again invaded by tribes from northern Europe (i.e. the Jutes, the Angles and the Saxon)
+* Britain was again invaded by tribes from northern Europe (i.e. the Jutes, the Angles, and the Saxon)
 * Around 600 AD Anglo-Saxon kingdoms were established in Britain (mostly in England)
-* One of the Anglo-Saxon King was Sutton Hoo
+* The burial place of one of the Anglo-Saxon King was at Sutton Hoo
 * Parts of the west of Britain, including much of Wales and Scotland remained free of Anglo-Saxon rule
 * Anglo-Saxons were not Christians
 * Missionaries came to Britain to preach about Christianity
@@ -50,17 +53,20 @@ The Anglo-Saxons
 [.lead]
 The Vikings
 
-* The Vikings came from Denmark, Norway and Sweden
+* Came from Denmark, Norway and Sweden
 * First visited Britain in AD 789
-* King Alfred the Great united the Anglo-Saxon kingdoms and defeated the Vikings
-* Many of the Vikings invaders stayed in Britain, mostly in Danelaw. Some converted to Christianity
-* Anglo-Saxon kings were ruling during this period. Except for a short period when they were Danish kings ruling, the first one was Cnut, also called Canute
-* King Kenneth MacAlpin united the north to protect it from the Vikings. The term Scotland began to be used to describe that country
+* 'King Alfred the Great' united the Anglo-Saxon kingdoms and defeated the Vikings
+* Many of the Vikings invaders stayed in Britain, mostly in Danelaw. 
+** Some converted to Christianity
+* Anglo-Saxon kings were ruling during this period. 
+** Except for a short period when they were Danish kings ruling, the first one was Cnut, also called Canute
+* King Kenneth MacAlpin united the north to protect it from the Vikings. 
+** The term 'Scotland' began to be used to describe that country
 
 [.lead]
 The Norman Conquest
 
-** 1066 invasion by William, Duke of Normandy
+** 1066 Invasion by William, Duke of Normandy
 ** Defeated the Saxon king Harrold at the battle of Hastings
 ** Harrold was killed in the battle
 ** William became King of England and is known as William the Conqueror
@@ -105,14 +111,19 @@ The Black Death
 Legal and Political Changes
 
 * 1215 King John:
-** He was forced to agree to the Magna Carta (Great Charter)
+** Was forced to agree to the Magna Carta (Great Charter)
 *** Made king subject to the law
 *** Protected the rights of the nobility
 *** Restricted the King's power to collect taxes or to make or changes the law
 *** Decisions need to involve noblemen in parliaments (England)
 ** Parliaments:
-*** In England: house of Commons (knights, wealthy people), house of Lords (nobility, great landowners, bishops)
-*** In Scotland: house of Commons, house of Lords, Clergy
+*** In England: 
+**** House of Commons (knights, wealthy people)
+**** House of Lords (nobility, great landowners, bishops)
+*** In Scotland: 
+**** House of Commons
+**** House of Lords
+**** Clergy
 ** Law:
 *** The principle that judges are independent of the government began to be established
 *** In England: Common Law (based on precedence)
@@ -127,7 +138,7 @@ A distinct Identity
 ** The poems were the first books to be printed in England using the printing press (by William Caxton)
 * People continued to speak Gaelic and Scot language in Scotland
 ** John Barbour was an influential Scot poet of this period
-** He wrote The Bruce about the Battle of Bannockburn
+** He wrote 'The Bruce' about the Battle of Bannockburn
 * England was an important trading nation during this period
 ** Wool became very important export
 
@@ -175,8 +186,8 @@ Henry VIII married 6 times:
 ** The King, not the Pope, have the power to appoint bishops and order how people should worship
 
 * The Reformation in Europe was a movement against:
-** the authority of Pope,
-** the ideas and practice of the Roman Catholic Church
+** The authority of Pope,
+** The ideas and practice of the Roman Catholic Church
 * The Protestants:
 ** Read the Bible in their own language instead of Latin
 ** Deemed relationship with god more important than the relationship with the church
@@ -188,18 +199,18 @@ Henry VIII married 6 times:
 ** The Welsh legal system was reformed
 
 * Edward VI:
-** succeeded his father Henry VIII
-** was strongly protestant 
-** introduced the `Book of Common Prayer`
-*** written and used in the Church of England
-** died at the age of 15 after ruling for just over 6 years
+** Succeeded his father Henry VIII
+** Was strongly protestant 
+** Introduced the `Book of Common Prayer`
+*** Written and used in the Church of England
+** Died at the age of 15 after ruling for just over 6 years
 
 * Queen Mary (half-sister of Edward VI) succeeded Edward VI
 ** She was a devoted Catholic and persecuted Protestant
 ** For this reason, she became known as `Bloody Mary`
-** had a short reign
+** Had a short reign
 
-* Queen Elizabeth (half-sister of Mary) succeeded Mary
+* Queen Elizabeth I (half-sister of Mary) succeeded Mary
 ** Daughter of Henry VIII and Anne Boleyn
 
 [.lead]
@@ -217,7 +228,8 @@ Queen Elizabeth I
 The Reformation in Scotland and Mary, Queen of Scots
 
 * 1560 Protestant parliament abolished the authority of the Pope in Scotland and Roman Catholic religious services became illegal
-* Protestant Church of Scotland with elected leaders was established, unlike England, this was not state church
+* Protestant Church of Scotland with elected leaders was established
+** Unlike England, this was not state church
 
 * Mary Stuart (Mary Queen of Scots):
 ** Catholic
@@ -251,7 +263,7 @@ Exploration, Poetry and Drama
 ** Romeo and Juliet
 * One of the first to portray ordinary Englishmen and women
 * Had a great influence on English language
-* invented many words in use today:
+* Invented many words in use today:
 ** "Once more unto the breach" (Henry V)
 ** "To be or not to be" (Hamlet)
 ** "A rose by any other name" (Romeo and Juliet)
@@ -263,11 +275,11 @@ Exploration, Poetry and Drama
 [.lead]
 James VI and I
 
-* Elizabeth I:
-** never married
-** had no children to inherit her throne
-** died in 1603
-** her heir was James VI of Scotland
+* Elizabeth I
+** Never married
+** Had no children to inherit her throne
+** Died in 1603
+** Her heir was James VI of Scotland
 
 * James VI became King James I of England, Wales and Ireland (Scotland remained a separate country)
 
@@ -313,15 +325,17 @@ The Beginning of the English Civil War
 ** Parliament took the opportunity to demand control of the English army
 ** Charles I invaded the parliament and tried to arrest 5 parliamentary leaders
 *** No monarch has set foot in the Commons since
-** 1642 civil war the Cavaliers (with the King) and the Roundheads (with Parliament)
+** 1642 Civil war between 
+*** The Cavaliers (with the King)
+*** The Roundheads (with Parliament)
 
 [.lead]
 Oliver Cromwell and the English Republic
 
 * King's army defeated in Marston Moore and Naseby
-* 1646 parliament won the war
+* 1646 Parliament won the war
 * Charles I was held prisoner by the parliamentary army
-* 1649 he was executed
+* 1649 He was executed
 * England declared itself a republic called `Commonwealth`
 ** No monarch
 ** Not clear how the country would be governed
@@ -357,9 +371,9 @@ The Restoration
 ** The Church of England became again the established official Church
 *** Roman Catholics and Puritans were kept out of power
 
-* 1665 plague outbreak
-** affected poorer areas the most
-* 1666 great fire
+* 1665 Plague outbreak
+** Affected poorer areas the most
+* 1666 Great fire
 ** St. Paul was rebuilt by Christopher Wren
 *** Samuel Pepys wrote about these events in a published diary
 
@@ -409,7 +423,7 @@ The Glorious Revolution
 * William the Orange:
 ** Protestant leader of the Netherlands
 ** 1688 Protestants in England asked him to invade England and proclaim himself King
-** 1688 invaded England, found no resistance
+** 1688 Invaded England, found no resistance
 ** James fled to France
 ** Became William III in England, Wales and Ireland, and William II of Scotland
 ** Rules jointly with Mary
@@ -453,7 +467,7 @@ Constitutional Monarchy -- The Bill of Rights
 ** Was read at the coronation of William III and Mary
 ** Confirm that the King would no longer be able to raise taxes or administer justice without agreement from Parliament
 
-* 1689 Bill of rights
+* 1689 Bill of Rights
 ** Confirms the right of Parliament and limits Kings power
 ** Parliament took control of who could be monarch
 ** Parliament declared that the monarch must be Protestant
@@ -467,15 +481,15 @@ Constitutional Monarchy -- The Bill of Rights
 * 1695 Newspapers did not need a government license anymore
 
 * Constitutional Monarchy:
-** Beginis with the law passed after the Glorious Revolution
+** Begins with the law passed after the Glorious Revolution
 ** Monarch was no longer to rule without Parliament
-** Ministers became more important than the monarch after William II
+** Ministers became more important than the monarch after William III
 ** It was not democracy in the modern sense
 *** The number of people able to vote for members of Parliament was small
-**** wealthy man
-**** no women
-*** If one family controlled a constituency this was called a `pocket borough`
-*** If there were no voters in a constituency this was called a `rotten borough`
+**** Wealthy man
+**** No women
+*** `pocket borough`: One family controlled a constituency
+*** `rotten borough`: No voters in a constituency
 
 [.lead]
 A Growing Population
@@ -616,9 +630,9 @@ The Slave Trade
 * 1833 `Emancipation Act`
 ** Abolished slavery throughout the British Empire
 ** Royal Navy:
-*** stopped slave ships from other countries
-*** freed the slaves
-*** punish slave traders
+*** Stopped slave ships from other countries
+*** Freed the slaves
+*** Punish slave traders
 * > 1833 2M Indian and Chinese workers were employed to replace slaves
 
 [.lead]
@@ -647,7 +661,7 @@ War with France
 *** British Royal Navy versus French and Spanish Navy
 *** Admiral Nelson (in charge of the British fleet) died
 *** Nelson's Column in Trafalgar Square is a monument to him
-*** HMS Victory (his ship) can be visited in Portsmouth
+*** Nelson's ship (HMS Victory) can be visited in Portsmouth
 
 * Battle of Waterloo (1815):
 ** Ended the French Wars

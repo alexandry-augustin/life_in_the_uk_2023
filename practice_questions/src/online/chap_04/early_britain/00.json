@@ -1,0 +1,314 @@
+[
+    {
+        "question": "A statue of which ancient leader can be found on Westminster Bridge, near Parliament?",
+        "options": {
+            "A": "Boudicca (or Boudica)",
+            "B": "William the Conqueror",
+            "C": "Admiral Nelson",
+            "D": "Henry I"
+        },
+        "answer": {
+            "options": "A", 
+            "text": "One of the tribal leaders who fought against the Romans was Boudicca (or Boudica), the queen of the Iceni in what is now eastern England. She is still remembered today and there is a statue of her on Westminster Bridge in London, near the Houses of Parliament."
+        }
+    }, 
+    {
+        "question": "What did missionaries teach the Anglo-Saxons?",
+        "options": {
+            "A": "About other cultures",
+            "B": "About Christianity",
+            "C": "About other languages",
+            "D": "About trade"
+        },
+        "answer": {
+            "options": "B", 
+            "text": "The Anglo-Saxons were not Christians when they first came to Britain but, during this period, missionaries came to Britain to preach about Christianity. Missionaries from Ireland spread the religion in the north."
+        }
+    }, 
+    {
+        "question": "Which saint, who became the first Archbishop of Canterbury, led missionaries from Rome who spread Christianity in the south of Britain?",
+        "options": {
+            "A": "Andrew",
+            "B": "Columba",
+            "C": "Benedict",
+            "D": "Augustine"
+        },
+        "answer": {
+            "options": "D", 
+            "text": "St Augustine led missionaries from Rome, who spread Christianity in the south. St Augustine became the first Archbishop of Canterbury."
+        }
+    }, 
+    {
+        "question": "What is Sutton Hoo?",
+        "options": {
+            "A": "An Anglo-Saxon burial site",
+            "B": "A Stone Age monument",
+            "C": "An Iron Age fort",
+            "D": "A Roman villa"
+        },
+        "answer": {
+            "options": "A", 
+            "text": "By about AD 600, Anglo-Saxon kingdoms were established in Britain. The burial place of one of the kings was at Sutton Hoo in what is now Suffolk. This king was buried with treasure and armour, all placed in a ship which was then covered by a mound of earth."
+        }
+    }, 
+    {
+        "question": "Who was Cnut, also called Canute?",
+        "options": {
+            "A": "A Danish king of England",
+            "B": "An Anglo-Saxon king of England",
+            "C": "A Scottish lord",
+            "D": "A Viking warrior"
+        },
+        "answer": {
+            "options": "A", 
+            "text": "After defeating the Vikings, Anglo-Saxon kings continued to rule what is now England, except for a short period when there were Danish kings. The first of these was Cnut, also called Canute."
+        }
+    }, 
+    {
+        "question": "When did Vikings first visit Britain?",
+        "options": {
+            "A": "AD 476",
+            "B": "55 BC",
+            "C": "AD 789",
+            "D": "AD 43"
+        },
+        "answer": {
+            "options": "C", 
+            "text": "The Vikings came from Denmark, Norway and Sweden. They first visited Britain in AD 789 to raid coastal towns and take away goods and slaves."
+        }
+    }, 
+    {
+        "question": "What is the Domesday Book?",
+        "options": {
+            "A": "A book about early Christianity",
+            "B": "A book about the towns, villages and people in England and Wales",
+            "C": "A history of the Norman invasion",
+            "D": "A record of the Battle of Hastings"
+        },
+        "answer": {
+            "options": "B", 
+            "text": "William sent people all over England to draw up lists of all the towns and villages. The people who lived there, who owned the land and what animals they owned were also listed. This was called the Domesday Book. It still exists today and gives a picture of society in England just after the Norman Conquest."
+        }
+    }, 
+    {
+        "question": "What is the Bayeux Tapestry?",
+        "options": {
+            "A": "A painting",
+            "B": "An embroidery",
+            "C": "A flag",
+            "D": "A treaty"
+        },
+        "answer": {
+            "options": "B", 
+            "text": "The Battle of Hastings is commemorated in a great piece of embroidery, known as the Bayeux Tapestry, which can still be seen in France today."
+        }
+    }, 
+    {
+        "question": "When was the last successful foreign invasion of England?",
+        "options": {
+            "A": "AD 789",
+            "B": "1066",
+            "C": "1940",
+            "D": "1688"
+        },
+        "answer": {
+            "options": "B", 
+            "text": "In 1066, an invasion led by William, the Duke of Normandy defeated Harold, the Saxon king of England, at the Battle of Hastings. Harold was killed in the battle. William became king of England and is known as William the Conqueror. The Norman Conquest was the last successful foreign invasion of England."
+        }
+    }, 
+    {
+        "question": "The people of which age were the first to make coins to be minted in Britain?",
+        "options": {
+            "A": "Bronze Age",
+            "B": "Iron Age",
+            "C": "Stone Age",
+            "D": "Middle Ages"
+        },
+        "answer": {
+            "options": "B", 
+            "text": "The people of the Iron Age had a sophisticated culture and economy. They made the first coins to be minted in Britain, some inscribed with the names of Iron Age kings."
+        }
+    }, 
+    {
+        "question": "For much of the Stone Age, Britain was connected to the continent by what?",
+        "options": {
+            "A": "A bridge",
+            "B": "A land bridge",
+            "C": "A glacier",
+            "D": "A tunnel"
+        },
+        "answer": {
+            "options": "B", 
+            "text": "For much of the Stone Age, Britain was connected to the continent by a land bridge."
+        }
+    }, 
+    {
+        "question": "Who was Kenneth MacAlpin?",
+        "options": {
+            "A": "A Danish king",
+            "B": "An Anglo-Saxon king",
+            "C": "A Scottish king",
+            "D": "A Viking"
+        },
+        "answer": {
+            "options": "C", 
+            "text": "In the north, the threat of attack by Vikings had encouraged the people to unite under one king, Kenneth MacAlpin."
+        }
+    }, 
+    {
+        "question": "Who were the Picts?",
+        "options": {
+            "A": "Ancestors of the Irish people",
+            "B": "Ancestors of the Welsh people",
+            "C": "Ancestors of the Scottish people",
+            "D": "Ancestors of the English people"
+        },
+        "answer": {
+            "options": "C", 
+            "text": "Areas of what is now Scotland were never conquered by the Romans, and the Emperor Hadrian built a wall in the north of England to keep out the Picts (ancestors of the Scottish people)."
+        }
+    }, 
+    {
+        "question": "When did the first farmers come to Britain?",
+        "options": {
+            "A": "10,000 years ago",
+            "B": "3,000 years ago",
+            "C": "6,000 years ago",
+            "D": "8,000 years ago"
+        },
+        "answer": {
+            "options": "C", 
+            "text": "The first farmers arrived in Britain 6,000 years ago."
+        }
+    }, 
+    {
+        "question": "Who was buried at Sutton Hoo?",
+        "options": {
+            "A": "A Roman Emperor",
+            "B": "An Iron Age warrior",
+            "C": "An Anglo-Saxon king",
+            "D": "Boudicca"
+        },
+        "answer": {
+            "options": "C", 
+            "text": "By about AD 600, Anglo-Saxon kingdoms were established in Britain. The burial place of one of the kings was at Sutton Hoo in what is now Suffolk. This king was buried with treasure and armour, all placed in a ship which was then covered by a mound of earth."
+        }
+    }, 
+    {
+        "question": "What is Maiden Castle in Dorset an example of?",
+        "options": {
+            "A": "A Norman castle",
+            "B": "A Stone Age settlement",
+            "C": "A Roman fort",
+            "D": "An Iron Age hill fort"
+        },
+        "answer": {
+            "options": "D", 
+            "text": "During the Iron Age, when people learned how to make weapons and tools out of iron, people lived in roundhouses, grouped together into larger settlements, and sometimes defended sites called hill forts. A very impressive hill fort can still be seen today at Maiden Castle, in the English county of Dorset."
+        }
+    }, 
+    {
+        "question": "The Romans remained in Britain for how many years?",
+        "options": {
+            "A": "300",
+            "B": "400",
+            "C": "500",
+            "D": "1,000"
+        },
+        "answer": {
+            "options": "B", 
+            "text": "The Romans remained in Britain for 400 years."
+        }
+    }, 
+    {
+        "question": "Which battle does the Bayeux Tapestry commemorate?",
+        "options": {
+            "A": "Battle of Hastings",
+            "B": "Battle of Bosworth Field",
+            "C": "Battle of Bannockburn",
+            "D": "Battle of Bayeux"
+        },
+        "answer": {
+            "options": "A", 
+            "text": "The Battle of Hastings is commemorated in a great piece of embroidery, known as the Bayeux Tapestry, which can still be seen in France today."
+        }
+    }, 
+    {
+        "question": "What was Stonehenge?",
+        "options": {
+            "A": "A burial mound",
+            "B": "A gathering place for seasonal ceremonies",
+            "C": "A medieval castle",
+            "D": "A Roman fort"
+        },
+        "answer": {
+            "options": "B", 
+            "text": "The first farmers arrived in Britain about 6,000 years ago. These people built houses, tombs and monuments on the land. One of these monuments, Stonehenge, still stands in what is now the English county of Wiltshire. Stonehenge was probably a special gathering place for seasonal ceremonies."
+        }
+    }, 
+    {
+        "question": "Who was St Augustine?",
+        "options": {
+            "A": "A military leader",
+            "B": "The first Archbishop of Canterbury",
+            "C": "A king of England",
+            "D": "A Viking"
+        },
+        "answer": {
+            "options": "B", 
+            "text": "St Augustine led missionaries from Rome, who spread Christianity in the south of Britain. St Augustine became the first Archbishop of Canterbury."
+        }
+    }, 
+    {
+        "question": "Which Roman Emperor built a wall in the North of England to keep out the Picts?",
+        "options": {
+            "A": "Augustus",
+            "B": "Nero",
+            "C": "Hadrian",
+            "D": "Claudius"
+        },
+        "answer": {
+            "options": "C", 
+            "text": "Areas of what is now Scotland were never conquered by the Romans, and the Emperor Hadrian built a wall in the north of England to keep out the Picts (ancestors of the Scottish people)."
+        }
+    }, 
+    {
+        "question": "How many years ago did Britain become separate from the continent?",
+        "options": {
+            "A": "1,000",
+            "B": "10,000",
+            "C": "100,000",
+            "D": "1,000,000"
+        },
+        "answer": {
+            "options": "B", 
+            "text": "Britain only became permanently separated from the continent by the Channel about 10,000 years ago."
+        }
+    }, 
+    {
+        "question": "In what year did the Norman invasion of England by William, Duke of Normandy, take place?",
+        "options": {
+            "A": "1266",
+            "B": "1166",
+            "C": "966",
+            "D": "1066"
+        },
+        "answer": {
+            "options": "D", 
+            "text": "In 1066, an invasion led by William, the Duke of Normandy (in what is now northern France), defeated Harold, the Saxon king of England, at the Battle of Hastings."
+        }
+    }, 
+    {
+        "question": "The Anglo-Saxon kingdoms in England united under which king to defeat the Vikings?",
+        "options": {
+            "A": "Cnut",
+            "B": "Ethelred the Unready",
+            "C": "Edgar I",
+            "D": "Alfred the Great"
+        },
+        "answer": {
+            "options": "D", 
+            "text": "The Anglo-Saxon kingdoms in England united under King Alfred the Great, who defeated the Vikings."
+        }
+    }
+]

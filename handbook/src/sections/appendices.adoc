@@ -184,7 +184,7 @@
 .2+|13th
 |John
 |1215
-|Magna Carta introduced duringKing John's rule
+|Magna Carta introduced during King John's rule
 
 // |
 |Edward I

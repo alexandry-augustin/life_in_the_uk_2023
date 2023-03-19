@@ -1,0 +1,148 @@
+[
+    {
+        "question": "Which TWO of the following best describe applying to become a permanent resident or citizen of the UK?",
+        "options": {
+            "A": "An important decision",
+            "B": "A quick decision",
+            "C": "An easy process",
+            "D": "A commitment"
+        },
+        "answer": {
+            "options": "A, D", 
+            "text": "Applying to become a permanent resident or citizen of the UK is an important decision and commitment. You will be agreeing to accept the responsibilities that go with permanent residence and to respect the laws, values and traditions of the UK."
+        }
+    }, 
+    {
+        "question": "Which TWO of the following are duties of a citizen in the UK?",
+        "options": {
+            "A": "Disrepect the law",
+            "B": "Treat others unfairly",
+            "C": "Look after yourself and your family",
+            "D": "Look after the area in which you live"
+        },
+        "answer": {
+            "options": "C, D", 
+            "text": "If you wish to be a permanent resident or citizen of the UK, you should: - respect and obey the law - respect the rights of others, including their right to their own opinions - treat others with fairness - look after yourself and your family - look after the area in which you live and the environment."
+        }
+    }, 
+    {
+        "question": "Is the statement below TRUE or FALSE? The UK offers citizens of the UK a right to a fair trial and a right to join in the election of a government.",
+        "options": {
+            "A": "True",
+            "B": "False"
+        },
+        "answer": {
+            "options": "A", 
+            "text": "When you become a permanent resident or citizen of the UK you are expected to respect the responsibilities and freedoms shared by all those living in the UK. In return, the UK offers its citizens certain freedoms and rights, including a right to a fair trial and a right to join in the election of a government."
+        }
+    }, 
+    {
+        "question": "There is no place in British society for which TWO of the following?",
+        "options": {
+            "A": "Intolerance",
+            "B": "Politics",
+            "C": "Democracy",
+            "D": "Extremism"
+        },
+        "answer": {
+            "options": "A, D", 
+            "text": "There is no place in British society for extremism or intolerance."
+        }
+    }, 
+    {
+        "question": "Which TWO of the following are freedoms citizens and permanent residents of the UK should respect?",
+        "options": {
+            "A": "Freedom of speech",
+            "B": "Half-day off work on Friday",
+            "C": "Freedom from unfair discrimination",
+            "D": "Free heating during winter"
+        },
+        "answer": {
+            "options": "A, C", 
+            "text": "There are responsibilities and freedoms which are shared by all those living in the UK and which all residents are expected to respect. The freedoms are: freedom of belief and religion; freedom of speech; freedom from unfair discrimination; a right to a fair trial; a right to join in the election of a government."
+        }
+    }, 
+    {
+        "question": "To apply to become a permanent resident or citizen of the UK, you will need to be able to do which TWO of the following?",
+        "options": {
+            "A": "Speak and read English",
+            "B": "Speak Welsh",
+            "C": "Have a good understanding of life in the UK",
+            "D": "Speak more than one language"
+        },
+        "answer": {
+            "options": "A, C", 
+            "text": "To apply to become a permanent resident or citizen of the UK, you will need to speak and read English, and have a good understanding of life in the UK."
+        }
+    }, 
+    {
+        "question": "Which of the following statements is correct?",
+        "options": {
+            "A": "The British welcome anyone into their society.",
+            "B": "The British welcome those seeking to make a positive contribution to their society."
+        },
+        "answer": {
+            "options": "B", 
+            "text": "The British welcome those seeking to make a positive contribution to our society."
+        }
+    }, 
+    {
+        "question": "What do you accept and agree to respect when you become a permanent resident of the UK?",
+        "options": {
+            "A": "Catholic beliefs and values",
+            "B": "The right to be tried for crimes in your country of origin",
+            "C": "To respect the laws and traditions of the UK",
+            "D": "Protestant beliefs and values"
+        },
+        "answer": {
+            "options": "C", 
+            "text": "Applying to become a permanent resident or citizen of the UK is an important decision and commitment. You will be agreeing to accept the responsibilities that go with permanent residence and to respect the laws, values and traditions of the UK."
+        }
+    }, 
+    {
+        "question": "Is the statement below TRUE or FALSE? Britain is a modern, thriving society with a short and relatively recent history.",
+        "options": {
+            "A": "True",
+            "B": "False"
+        },
+        "answer": {
+            "options": "B", 
+            "text": "Britain is a fantastic place to live: a modern, thriving society with a long and illustrious history."
+        }
+    }, 
+    {
+        "question": "Which of the following statements is correct?",
+        "options": {
+            "A": "Passing the Life in the UK test is part of demonstrating that you are ready to become a permanent migrant to the UK.",
+            "B": "Passing the Life in the UK test fully demonstrates that you are ready to become a permanent migrant to the UK."
+        },
+        "answer": {
+            "options": "A", 
+            "text": "Passing the Life in the UK test is only part of demonstrating that you are ready to become a permanent migrant to the UK. You must also be able to speak and read English to a set level."
+        }
+    }, 
+    {
+        "question": "Is the statement below TRUE or FALSE? Britain is proud of its record of welcoming migrants, who add to the diversity and dynamism of our national life.",
+        "options": {
+            "A": "True",
+            "B": "False"
+        },
+        "answer": {
+            "options": "A", 
+            "text": "The British are proud of our record of welcoming new migrants who will add to the diversity and dynamism of our national life."
+        }
+    }, 
+    {
+        "question": "Which of the following languages can the Life in the UK test be taken in?",
+        "options": {
+            "A": "German",
+            "B": "Cornish",
+            "C": "French",
+            "D": "Welsh"
+        },
+        "answer": {
+            "options": "D", 
+            "text": "The Life in the UK test is usually taken in English, although special arrangements can be made if you wish to take it in Welsh or Scottish Gaelic. The Life in the UK test cannot be taken in any language other than these three."
+        }
+    }
+]
