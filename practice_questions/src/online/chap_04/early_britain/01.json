@@ -1,314 +1,292 @@
 [
     {
-        "question": "",
+        "question": "Which of the following statements is correct?",
         "options": {
-            "A": "",
-            "B": "",
-            "C": "",
-            "D": ""
+            "A": "The Norman conquest was the last successful foreign invasion of England.",
+            "B": "The Norman conquest was the first successful foreign invasion of England."
         },
         "answer": {
-            "options": "", 
-            "text": ""
+            "options": "A", 
+            "text": "The Norman Conquest was the last successful foreign invasion of England and led to many changes in government and social structures in England."
         }
     }, 
     {
-        "question": "",
+        "question": "Why did the Roman Emperor Hadrian build a wall across parts of northern England?",
         "options": {
-            "A": "",
-            "B": "",
-            "C": "",
-            "D": ""
+            "A": "To protect towns from the Vikings",
+            "B": "To keep cattle in",
+            "C": "To form settlements",
+            "D": "To keep out the Picts"
         },
         "answer": {
-            "options": "", 
-            "text": ""
+            "options": "D", 
+            "text": "Areas of what is now Scotland were never conquered by the Romans, and the Emperor Hadrian built a wall in the north of England to keep out the Picts (ancestors of the Scottish people)."
         }
     }, 
     {
-        "question": "",
+        "question": "Which of the following statements is correct?",
         "options": {
-            "A": "",
-            "B": "",
-            "C": "",
-            "D": ""
+            "A": "Sutton Hoo, in modern Suffolk, was a famous 18th century garden designed by Capability Brown.",
+            "B": "There is a famous Anglo-Saxon burial site at Sutton Hoo in modern Suffolk."
         },
         "answer": {
-            "options": "", 
-            "text": ""
+            "options": "B", 
+            "text": "By about AD 600, Anglo-Saxon kingdoms were established in Britain. The burial place of one of the kings was at Sutton Hoo in what is now Suffolk. This king was buried with treasure and armour, all placed in a ship which was then covered by a mound of earth."
         }
     }, 
     {
-        "question": "",
+        "question": "Who built Hadrian's Wall?",
         "options": {
-            "A": "",
-            "B": "",
-            "C": "",
-            "D": ""
+            "A": "The English",
+            "B": "The Picts",
+            "C": "The Scottish",
+            "D": "The Romans"
         },
         "answer": {
-            "options": "", 
-            "text": ""
+            "options": "D", 
+            "text": "Hadrian's Wall was built on the orders of the Roman Emperor Hadrian to keep out the Picts (ancestors of the Scottish people). It is a popular area for walkers and is a UNESCO (United Nations Educational, Scientific and Cultural Organization) World Heritage Site."
         }
     }, 
     {
-        "question": "",
+        "question": "Which of the following Stone Age monuments is a World Heritage Site found in Wiltshire?",
         "options": {
-            "A": "",
-            "B": "",
-            "C": "",
-            "D": ""
+            "A": "Stonehenge",
+            "B": "Skara Brae",
+            "C": "The White Tower",
+            "D": "Sutton Hoo"
         },
         "answer": {
-            "options": "", 
-            "text": ""
+            "options": "A", 
+            "text": "Stonehenge, still stands in what is now the English county of Wiltshire. It was built in the Stone Age and was probably a special gathering place for seasonal ceremonies."
         }
     }, 
     {
-        "question": "",
+        "question": "Which of the following statements is correct?",
         "options": {
-            "A": "",
-            "B": "",
-            "C": "",
-            "D": ""
+            "A": "The Roman invasion of Britain by Emperor Claudius was unsuccessful.",
+            "B": "The Roman invasion of Britain by Emperor Claudius was successful."
         },
         "answer": {
-            "options": "", 
-            "text": ""
+            "options": "B", 
+            "text": "Julius Caesar led a Roman invasion of Britain in 55 BC. This was unsuccessful and for nearly 100 years Britain remained separate from the Roman Empire. In AD 43 the Emperor Claudius led the Roman army in a new invasion. This time, there was resistance from some of the British tribes but the Romans were successful in occupying almost all of Britain."
         }
     }, 
     {
-        "question": "",
+        "question": "Which of the following statements is correct?",
         "options": {
-            "A": "",
-            "B": "",
-            "C": "",
-            "D": ""
+            "A": "The Romans built roads, public buildings and created a structure of law.",
+            "B": "The Romans unified the whole of the British Isles."
         },
         "answer": {
-            "options": "", 
-            "text": ""
+            "options": "A", 
+            "text": "The Romans remained in Britain for 400 years but never conquered areas of Scotland. They built roads and public buildings, created a structure of law, and introduced new plants and animals."
         }
     }, 
     {
-        "question": "",
+        "question": "The last successful foreign invasion of England was by which of the following?",
         "options": {
-            "A": "",
-            "B": "",
-            "C": "",
-            "D": ""
+            "A": "The Romans led by Julius Caesar",
+            "B": "The Romans led by Emperor Claudius",
+            "C": "The Vikings",
+            "D": "The Normans led by William"
         },
         "answer": {
-            "options": "", 
-            "text": ""
+            "options": "D", 
+            "text": "The Norman Conquest was the last successful foreign invasion of England and led to many changes in government and social structures in England."
         }
     }, 
     {
-        "question": "",
+        "question": "Which of the following statements is correct?",
         "options": {
-            "A": "",
-            "B": "",
-            "C": "",
-            "D": ""
+            "A": "The Normans took over some land on the border between Scotland and England but did not invade Scotland.",
+            "B": "The Normans took over some land on the border between Scotland and England before successfully invading Scotland."
         },
         "answer": {
-            "options": "", 
-            "text": ""
+            "options": "A", 
+            "text": "Initially the Normans also conquered Wales, but the Welsh gradually won territory back. The Scots and the Normans fought on the border between England and Scotland; the Normans took over some land on the border but did not invade Scotland."
         }
     }, 
     {
-        "question": "",
+        "question": "The first people lived in Britain during which period?",
         "options": {
-            "A": "",
-            "B": "",
-            "C": "",
-            "D": ""
+            "A": "The Middle Ages",
+            "B": "The Jurassic period",
+            "C": "The Bronze Age",
+            "D": "The Stone Age"
         },
         "answer": {
-            "options": "", 
-            "text": ""
+            "options": "D", 
+            "text": "The first people to live in Britain were hunter-gatherers, in what we call the Stone Age."
         }
     }, 
     {
-        "question": "",
+        "question": "Who were the Jutes, Angles and Saxons?",
         "options": {
-            "A": "",
-            "B": "",
-            "C": "",
-            "D": ""
+            "A": "Tribespeople from northern Europe",
+            "B": "Romans",
+            "C": "Tribespeople from Wales",
+            "D": "Tribespeople from Scotland"
         },
         "answer": {
-            "options": "", 
-            "text": ""
+            "options": "A", 
+            "text": "The Roman army left Britain in AD 410 to defend other parts of the Roman Empire and never returned. Britain was then invaded by tribes from northern Europe: the Jutes, the Angles and the Saxons."
         }
     }, 
     {
-        "question": "",
+        "question": "Stone Age people came from Denmark and Norway to raid coastal towns and take away slaves.",
         "options": {
-            "A": "",
-            "B": "",
-            "C": "",
-            "D": ""
+            "A": "True",
+            "B": "False"
         },
         "answer": {
-            "options": "", 
-            "text": ""
+            "options": "B", 
+            "text": "The first people to live in Britain were hunter-gatherers, in what we call the Stone Age. For much of the Stone Age, Britain was connected to the continent by a land bridge. People came and went, following the herds of deer and horses which they hunted."
         }
     }, 
     {
-        "question": "",
+        "question": "Which TWO of the following are World Heritage Sites?",
         "options": {
-            "A": "",
-            "B": "",
-            "C": "",
-            "D": ""
+            "A": "Stonehenge",
+            "B": "Sutton Hoo",
+            "C": "Maiden Castle",
+            "D": "Hadrian's Wall"
         },
         "answer": {
-            "options": "", 
-            "text": ""
+            "options": "A, D", 
+            "text": "Stonehenge and Hadrian's Wall are both World Heritage Sites."
         }
     }, 
     {
-        "question": "",
+        "question": "From which TWO of the following places did the Vikings come?",
         "options": {
-            "A": "",
-            "B": "",
-            "C": "",
-            "D": ""
+            "A": "Spain",
+            "B": "France",
+            "C": "Denmark",
+            "D": "Norway"
         },
         "answer": {
-            "options": "", 
-            "text": ""
+            "options": "C, D", 
+            "text": "The Vikings came from Denmark, Norway and Sweden."
         }
     }, 
     {
-        "question": "",
+        "question": "Which of the following statements is correct?",
         "options": {
-            "A": "",
-            "B": "",
-            "C": "",
-            "D": ""
+            "A": "The Normans successfully invaded Wales, but the Welsh regained much of their territory.",
+            "B": "The Normans successfully invaded Wales and the Welsh were unsuccessful in their attempts to regain territory."
         },
         "answer": {
-            "options": "", 
-            "text": ""
+            "options": "A", 
+            "text": "Initially the Normans also conquered Wales, but the Welsh gradually won territory back."
         }
     }, 
     {
-        "question": "",
+        "question": "The Normans successfully invaded Scotland.",
         "options": {
-            "A": "",
-            "B": "",
-            "C": "",
-            "D": ""
+            "A": "True",
+            "B": "False"
         },
         "answer": {
-            "options": "", 
-            "text": ""
+            "options": "B", 
+            "text": "Initially the Normans also conquered Wales, but the Welsh gradually won territory back. The Scots and the Normans fought on the border between England and Scotland; the Normans took over some land on the border but did not invade Scotland."
         }
     }, 
     {
-        "question": "",
+        "question": "Where is the prehistoric village of Skara Brae?",
         "options": {
-            "A": "",
-            "B": "",
-            "C": "",
-            "D": ""
+            "A": "The Shetland Islands",
+            "B": "Oxfordshire",
+            "C": "Orkney",
+            "D": "Wiltshire"
         },
         "answer": {
-            "options": "", 
-            "text": ""
+            "options": "C", 
+            "text": "Various Stone Age sites have survived. Skara Brae on Orkney, off the north coast of Scotland, is the best-preserved prehistoric village in northern Europe, and has helped archaeologists to understand more about how people lived near the end of the Stone Age."
         }
     }, 
     {
-        "question": "",
+        "question": "Which of the following statements is correct?",
         "options": {
-            "A": "",
-            "B": "",
-            "C": "",
-            "D": ""
+            "A": "St Augustine and St Columba were early Christian missionaries.",
+            "B": "St Augustine and St Columba were leaders who fought against the Romans."
         },
         "answer": {
-            "options": "", 
-            "text": ""
+            "options": "A", 
+            "text": "St Augustine and St Columba were early Christian missionaries who came to Britain to preach about Christianity. St Columba founded a monastery on the island of Iona, off the coast of what is now Scotland. St Augustine led missionaries from Rome, who spread Christianity in the south. St Augustine also became the first Archbishop of Canterbury."
         }
     }, 
     {
-        "question": "",
+        "question": "Boudicca is remembered for her rebellion against the Romans.",
         "options": {
-            "A": "",
-            "B": "",
-            "C": "",
-            "D": ""
+            "A": "True",
+            "B": "False"
         },
         "answer": {
-            "options": "", 
-            "text": ""
+            "options": "A", 
+            "text": "Boudicca was a tribal leader who fought against the Romans. She is still remembered today and there is a statue of her on Westminster Bridge in London, near the Houses of Parliament."
         }
     }, 
     {
-        "question": "",
+        "question": "Who was a famous missionary and is the patron saint of Ireland?",
         "options": {
-            "A": "",
-            "B": "",
-            "C": "",
-            "D": ""
+            "A": "St Patrick",
+            "B": "St George",
+            "C": "St Andrew",
+            "D": "St David"
         },
         "answer": {
-            "options": "", 
-            "text": ""
+            "options": "A", 
+            "text": "Missionaries from Ireland spread the Christian religion in the north, during the Anglo-Saxon period. One of the most famous of these was St Patrick, who would become the patron saint of Ireland."
         }
     }, 
     {
-        "question": "",
+        "question": "Why did the Vikings first come to Britain?",
         "options": {
-            "A": "",
-            "B": "",
-            "C": "",
-            "D": ""
+            "A": "To destroy the Anglo-Saxons",
+            "B": "To learn about Christianity",
+            "C": "To take away goods and slaves",
+            "D": "To grow crops"
         },
         "answer": {
-            "options": "", 
-            "text": ""
+            "options": "C", 
+            "text": "The Vikings came from Denmark, Norway and Sweden. They first visited Britain in AD 789 to raid coastal towns and take away goods and slaves."
         }
     }, 
     {
-        "question": "",
+        "question": "Who was the first Archbishop of Canterbury?",
         "options": {
-            "A": "",
-            "B": "",
-            "C": "",
-            "D": ""
+            "A": "St Columba",
+            "B": "St Augustine",
+            "C": "Winston Churchill",
+            "D": "Oliver Cromwell"
         },
         "answer": {
-            "options": "", 
-            "text": ""
+            "options": "B", 
+            "text": "The Anglo-Saxons were not Christians when they first came to Britain but, during this period, missionaries came to Britain to preach about Christianity. St Augustine led missionaries from Rome, who spread Christianity in the south of Britain. St Augustine became the first Archbishop of Canterbury."
         }
     }, 
     {
-        "question": "",
+        "question": "The Domesday Book gives a picture of society in England just after which period?",
         "options": {
-            "A": "",
-            "B": "",
-            "C": "",
-            "D": ""
+            "A": "The Second World War",
+            "B": "The Industrial Revolution",
+            "C": "The Norman Conquest",
+            "D": "The Middle Ages"
         },
         "answer": {
-            "options": "", 
-            "text": ""
+            "options": "C", 
+            "text": "The Domesday Book still exists today and gives a picture of society in England just after the Norman Conquest."
         }
     }, 
     {
-        "question": "",
+        "question": "Which of the following statements is correct?",
         "options": {
-            "A": "",
-            "B": "",
-            "C": "",
-            "D": ""
+            "A": "The first Christian communities began to appear in Britain during the 3rd and 4th centuries AD.",
+            "B": "The first Christian communities began to appear in Britain after the Norman conquest."
         },
         "answer": {
-            "options": "", 
-            "text": ""
+            "options": "A", 
+            "text": "It was during the 3rd and 4th centuries AD that the first Christian communities began to appear in Britain."
         }
     }
 ]

@@ -1,28 +1,26 @@
 [
     {
-        "question": "",
+        "question": "Areas of what is now Scotland were never conquered by the Romans.",
         "options": {
-            "A": "",
-            "B": "",
-            "C": "",
-            "D": ""
+            "A": "True",
+            "B": "False"
         },
         "answer": {
-            "options": "", 
-            "text": ""
+            "options": "A", 
+            "text": "Areas of what is now Scotland were never conquered by the Romans, and the Emperor Hadrian built a wall in the north of England to keep out the Picts (ancestors of the Scottish people)."
         }
     }, 
     {
-        "question": "",
+        "question": "What were TWO of the main occupations of Iron Age people?",
         "options": {
-            "A": "",
-            "B": "",
-            "C": "",
-            "D": ""
+            "A": "Hunter-gatherers",
+            "B": "Farmers",
+            "C": "Craft workers",
+            "D": "Fishermen"
         },
         "answer": {
-            "options": "", 
-            "text": ""
+            "options": "B, C", 
+            "text": "Most people in the Iron Age were farmers, craft workers or warriors."
         }
     }, 
     {

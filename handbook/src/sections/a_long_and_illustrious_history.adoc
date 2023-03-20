@@ -47,14 +47,14 @@ The Anglo-Saxons
 * Parts of the west of Britain, including much of Wales and Scotland remained free of Anglo-Saxon rule
 * Anglo-Saxons were not Christians
 * Missionaries came to Britain to preach about Christianity
-* St. Patrick, St. Columba and St. Augustine were the most famous missionaries
-* St. Augustine became the first Archbishop of Canterbury
+** St. Patrick, St. Columba and St. Augustine were the most famous missionaries
+** St. Augustine became the first Archbishop of Canterbury
 
 [.lead]
 The Vikings
 
 * Came from Denmark, Norway and Sweden
-* First visited Britain in AD 789
+* First visited Britain in AD 789 to raid coastal towns and take away goods and slaves
 * 'King Alfred the Great' united the Anglo-Saxon kingdoms and defeated the Vikings
 * Many of the Vikings invaders stayed in Britain, mostly in Danelaw. 
 ** Some converted to Christianity
