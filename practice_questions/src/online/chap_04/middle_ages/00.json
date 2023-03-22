@@ -1,314 +1,300 @@
 [
     {
-        "question": "",
+        "question": "The Canterbury Tales are still popular today.",
         "options": {
-            "A": "",
-            "B": "",
-            "C": "",
-            "D": ""
+            "A": "True",
+            "B": "False"
         },
         "answer": {
-            "options": "", 
-            "text": ""
+            "options": "A", 
+            "text": "In the years leading up to 1400, Geoffrey Chaucer wrote a series of poems called The Canterbury Tales. Many of the stories are still popular. Some have been made into plays and television programmes."
         }
     }, 
     {
-        "question": "",
+        "question": "Who was the first person to print books using a printing press?",
         "options": {
-            "A": "",
-            "B": "",
-            "C": "",
-            "D": ""
+            "A": "Geoffrey Chaucer",
+            "B": "Sir Francis Drake",
+            "C": "William Caxton",
+            "D": "Richard Arkwright"
         },
         "answer": {
-            "options": "", 
-            "text": ""
+            "options": "C", 
+            "text": "William Caxton was the first person to print books using a printing press. One of the first books to be printed by William Caxton was Geoffrey Chaucer's collection of poems 'The Canterbury Tales'."
         }
     }, 
     {
-        "question": "",
+        "question": "Which of the following statements is correct?",
         "options": {
-            "A": "",
-            "B": "",
-            "C": "",
-            "D": ""
+            "A": "The Middle Ages was a time of peace and prosperity.",
+            "B": "The Middle Ages was a time of almost constant war."
         },
         "answer": {
-            "options": "", 
-            "text": ""
+            "options": "B", 
+            "text": "Broadly speaking, the Middle Ages (or medieval period) spans a thousand years, from the end of the Roman Empire in AD 476 up until 1485. However, the focus here is on the period after the Norman Conquest. It was a time of almost constant war."
         }
     }, 
     {
-        "question": "",
+        "question": "The Middle Ages saw an increase in the building of which types of structure?",
         "options": {
-            "A": "",
-            "B": "",
-            "C": "",
-            "D": ""
+            "A": "Cathedrals",
+            "B": "Castles",
+            "C": "Town halls",
+            "D": "Farmhouses"
         },
         "answer": {
-            "options": "", 
-            "text": ""
+            "options": "B", 
+            "text": "The Middle Ages saw a change in the type of buildings in Britain. Castles were built in many places in Britain and Ireland, partly for defence."
         }
     }, 
     {
-        "question": "",
+        "question": "Who defeated the English at the Battle of Bannockburn?",
         "options": {
-            "A": "",
-            "B": "",
-            "C": "",
-            "D": ""
+            "A": "The Welsh",
+            "B": "The Irish",
+            "C": "The Scottish",
+            "D": "The French"
         },
         "answer": {
-            "options": "", 
-            "text": ""
+            "options": "C", 
+            "text": "In 1314 the Scottish, led by Robert the Bruce, defeated the English at the Battle of Bannockburn, and Scotland remained unconquered by the English."
         }
     }, 
     {
-        "question": "",
+        "question": "Who were serfs?",
         "options": {
-            "A": "",
-            "B": "",
-            "C": "",
-            "D": ""
+            "A": "Soldiers in the Boer War",
+            "B": "Stone age farmers",
+            "C": "Peasants in Norman times who worked for a lord",
+            "D": "Roman priests"
         },
         "answer": {
-            "options": "", 
-            "text": ""
+            "options": "C", 
+            "text": "The Normans used a system of land ownership known as feudalism. Some peasants had their own land but most were serfs. They had a small area of their lord's land where they could grow food. In return, they had to work for their lord and could not move away."
         }
     }, 
     {
-        "question": "",
+        "question": "When did the Hundred Years War and the Crusades take place?",
         "options": {
-            "A": "",
-            "B": "",
-            "C": "",
-            "D": ""
+            "A": "Middle Ages",
+            "B": "During the Norman Conquest",
+            "C": "Between 1640 and 1646",
+            "D": "The 18th century"
         },
         "answer": {
-            "options": "", 
-            "text": ""
+            "options": "A", 
+            "text": "During the Middle Ages, the English kings fought a number of wars abroad. Many knights took part in the Crusades, in which European Christians fought for control of the Holy Land. English kings also fought a long war with France, called the Hundred Years War (even though it actually lasted 116 years)."
         }
     }, 
     {
-        "question": "",
+        "question": "Why did the English first go to Ireland in the Middle Ages?",
         "options": {
-            "A": "",
-            "B": "",
-            "C": "",
-            "D": ""
+            "A": "To trade with the Irish farmers",
+            "B": "To conquer and control the lands",
+            "C": "To spread Christianity and build churches",
+            "D": "Troops went to help the Irish king"
         },
         "answer": {
-            "options": "", 
-            "text": ""
+            "options": "D", 
+            "text": "At the beginning of the Middle Ages, Ireland was an independent country. The English first went to Ireland as troops to help the Irish king and remained to build their own settlements."
         }
     }, 
     {
-        "question": "",
+        "question": "Which famous historical event took place in 1314?",
         "options": {
-            "A": "",
-            "B": "",
-            "C": "",
-            "D": ""
+            "A": "The Romans successfully invaded Britain",
+            "B": "The Wars of the Roses began",
+            "C": "The Battle of Bannockburn",
+            "D": "King John signed the Magna Carta"
         },
         "answer": {
-            "options": "", 
-            "text": ""
+            "options": "C", 
+            "text": "In 1314 the Scottish, led by Robert the Bruce, defeated the English at the Battle of Bannockburn, and Scotland remained unconquered by the English."
         }
     }, 
     {
-        "question": "",
+        "question": "Under the system of feudalism, the kings gave land to lords, and the landowners had to send men to serve in the army in return.",
         "options": {
-            "A": "",
-            "B": "",
-            "C": "",
-            "D": ""
+            "A": "True",
+            "B": "False"
         },
         "answer": {
-            "options": "", 
-            "text": ""
+            "options": "A", 
+            "text": "The Normans used a system of land ownership known as feudalism. The king gave land to his lords in return for help in war. Landowners had to send certain numbers of men to serve in the army."
         }
     }, 
     {
-        "question": "",
+        "question": "Why was the English victory at the Battle of Agincourt unexpected?",
         "options": {
-            "A": "",
-            "B": "",
-            "C": "",
-            "D": ""
+            "A": "King Henry V was killed",
+            "B": "The English army had fewer weapons",
+            "C": "The English army was weakened by illness",
+            "D": "The French army outnumbered the English"
         },
         "answer": {
-            "options": "", 
-            "text": ""
+            "options": "D", 
+            "text": "One of the most famous battles of the Hundred Years War was the Battle of Agincourt in 1415. The English victory is surprising becayse King Henry V's army was vastly outnumbered by the French. The English largely left France in the 1450s."
         }
     }, 
     {
-        "question": "",
+        "question": "Why were castles built in Britain and Ireland in the Middle Ages?",
         "options": {
-            "A": "",
-            "B": "",
-            "C": "",
-            "D": ""
+            "A": "They were cheap to build",
+            "B": "They were defensive strongholds",
+            "C": "They were status symbols for the nobility",
+            "D": "They created work for tradesmen"
         },
         "answer": {
-            "options": "", 
-            "text": ""
+            "options": "B", 
+            "text": "The Middle Ages saw a change in the type of buildings in Britain. Castles were built in many places in Britain and Ireland, partly for defence."
         }
     }, 
     {
-        "question": "",
+        "question": "Which King of England was killed at the Battle of Bosworth Field in 1485?",
         "options": {
-            "A": "",
-            "B": "",
-            "C": "",
-            "D": ""
+            "A": "Richard III",
+            "B": "John",
+            "C": "Henry V",
+            "D": "Henry Tudor"
         },
         "answer": {
-            "options": "", 
-            "text": ""
+            "options": "A", 
+            "text": "The Wars of the Roses ended with the Battle of Bosworth Field in 1485. King Richard III of the House of York was killed in the battle and Henry Tudor, the leader of the House of Lancaster, became King Henry VII."
         }
     }, 
     {
-        "question": "",
+        "question": "What were The Canterbury Tales?",
         "options": {
-            "A": "",
-            "B": "",
-            "C": "",
-            "D": ""
+            "A": "A book of Christian doctrine",
+            "B": "A series of poems",
+            "C": "A Royal Charter",
+            "D": "A story about Canterbury Cathedral"
         },
         "answer": {
-            "options": "", 
-            "text": ""
+            "options": "B", 
+            "text": "In the years leading up to 1400, Geoffrey Chaucer wrote a series of poems in English about a group of people going to Canterbury on a pilgrimage. This collection of poems is called The Canterbury Tales."
         }
     }, 
     {
-        "question": "",
+        "question": "Which TWO of the following castles were built in Wales during the Middle Ages?",
         "options": {
-            "A": "",
-            "B": "",
-            "C": "",
-            "D": ""
+            "A": "Corfe Castle",
+            "B": "Conwy Castle",
+            "C": "Bodiam Castle",
+            "D": "Caernarvon Castle"
         },
         "answer": {
-            "options": "", 
-            "text": ""
+            "options": "B, D", 
+            "text": "In 1284 King Edward I of England introduced the Statute of Rhuddlan, which annexed Wales to the Crown of England. Huge castles, including Conwy and Caernarvon, were built to maintain this power."
         }
     }, 
     {
-        "question": "",
+        "question": "Along with the great landowners, which TWO groups of people originally sat in the House of Lords?",
         "options": {
-            "A": "",
-            "B": "",
-            "C": "",
-            "D": ""
+            "A": "Merchants",
+            "B": "Knights",
+            "C": "Nobility",
+            "D": "Bishops"
         },
         "answer": {
-            "options": "", 
-            "text": ""
+            "options": "C, D", 
+            "text": "After 1215 the numbers attending Parliament increased and two separate parts, known as Houses, were established. The nobility, great landowners and bishops sat in the House of Lords. Knights, who were usually smaller landowners, and wealthy people from towns and cities were elected to sit in the House of Commons."
         }
     }, 
     {
-        "question": "",
+        "question": "Which of the following statements is correct?",
         "options": {
-            "A": "",
-            "B": "",
-            "C": "",
-            "D": ""
+            "A": "Serfs were free and could do as they chose.",
+            "B": "Serfs had to work for their lord and could not move away."
         },
         "answer": {
-            "options": "", 
-            "text": ""
+            "options": "B", 
+            "text": "Under feudalism, some peasants had their own land but most were serfs. They had a small area of their lord's land where they could grow food. In return, they had to work for their lord and could not move away."
         }
     }, 
     {
-        "question": "",
+        "question": "Which of the following statements is correct?",
         "options": {
-            "A": "",
-            "B": "",
-            "C": "",
-            "D": ""
+            "A": "William Caxton was the first person in England to print books using the printing press.",
+            "B": "William Caxton wrote a collection of poems in English called The Canterbury Tales."
         },
         "answer": {
-            "options": "", 
-            "text": ""
+            "options": "A", 
+            "text": "In the years leading up to 1400, Geoffrey Chaucer wrote a collection of poems called The Canterbury Tales. It was one of the first books to be printed by William Caxton, the first person in England to print books using a printing press."
         }
     }, 
     {
-        "question": "",
+        "question": "Which statement reflects the electoral laws of England's Parliament during the Middle Ages?",
         "options": {
-            "A": "",
-            "B": "",
-            "C": "",
-            "D": ""
+            "A": "In England, only a small part of the population was able to elect members to the House of Commons.",
+            "B": "In England, only the middle classes were able to elect members to the House of Commons."
         },
         "answer": {
-            "options": "", 
-            "text": ""
+            "options": "A", 
+            "text": "During the Middle Ages, only a small part of the population was able to join in electing the members of the Commons."
         }
     }, 
     {
-        "question": "",
+        "question": "English kings fought a long war with France during the Middle Ages. What was it called?",
         "options": {
-            "A": "",
-            "B": "",
-            "C": "",
-            "D": ""
+            "A": "Crimean War",
+            "B": "Fifty Year War",
+            "C": "Hundred Years War",
+            "D": "Boer War"
         },
         "answer": {
-            "options": "", 
-            "text": ""
+            "options": "C", 
+            "text": "English kings also fought a long war with France, called the Hundred Years War (even though it actually lasted 116 years)."
         }
     }, 
     {
-        "question": "",
+        "question": "Richard III was from the House of York and Henry Tudor was from the House of Lancaster.",
         "options": {
-            "A": "",
-            "B": "",
-            "C": "",
-            "D": ""
+            "A": "True",
+            "B": "False"
         },
         "answer": {
-            "options": "", 
-            "text": ""
+            "options": "A", 
+            "text": "The Wars of the Roses ended with the Battle of Bosworth Field in 1485. King Richard III of the House of York was killed in the battle and Henry Tudor, the leader of the House of Lancaster, became King Henry VII."
         }
     }, 
     {
-        "question": "",
+        "question": "Who was defeated by Robert the Bruce at the Battle of Bannockburn?",
         "options": {
-            "A": "",
-            "B": "",
-            "C": "",
-            "D": ""
+            "A": "The English",
+            "B": "The Normans",
+            "C": "The Romans",
+            "D": "The Scottish"
         },
         "answer": {
-            "options": "", 
-            "text": ""
+            "options": "A", 
+            "text": "In 1314 the Scottish, led by Robert the Bruce, defeated the English at the Battle of Bannockburn, and Scotland remained unconquered by the English."
         }
     }, 
     {
-        "question": "",
+        "question": "What TWO effects did the Black Death have on social classes in the 14th century?",
         "options": {
-            "A": "",
-            "B": "",
-            "C": "",
-            "D": ""
+            "A": "A new landowning class known as the gentry emerged",
+            "B": "Lots of peasants survived so their wages fell",
+            "C": "Wealthy middle classes developed in the town",
+            "D": "Lots of Catholic priests were killed, leading to the Reformation"
         },
         "answer": {
-            "options": "", 
-            "text": ""
+            "options": "A, C", 
+            "text": "Following the Black Death, new social classes appeared, including owners of large areas of land (later called the gentry). In the towns, growing wealth led to the development of a strong middle class."
         }
     }, 
     {
-        "question": "",
+        "question": "The Wars of the Roses were fought by the supporters of which TWO families in order to decide who should be king of England?",
         "options": {
-            "A": "",
-            "B": "",
-            "C": "",
-            "D": ""
+            "A": "The House of Lancaster",
+            "B": "The House of Windsor",
+            "C": "The House of York",
+            "D": "The House of Tudor"
         },
         "answer": {
-            "options": "", 
-            "text": ""
+            "options": "A, C", 
+            "text": "In 1455, a civil war was begun to decide who should be king of England. It was fought between the supporters of two families: the House of Lancaster and the House of York. This war was called the Wars of the Roses, because the symbol of Lancaster was a red rose and the symbol of York was a white rose."
         }
     }
 ]

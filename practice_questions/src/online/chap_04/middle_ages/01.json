@@ -1,314 +1,115 @@
 [
     {
-        "question": "",
+        "question": "In 1485, the Wars of the Roses ended with which battle?",
         "options": {
-            "A": "",
-            "B": "",
-            "C": "",
-            "D": ""
+            "A": "The Battle of Bolton Field", 
+            "B": "The Battle of Bakewell Field", 
+            "C": "The Battle of Bognor Field", 
+            "D": "The Battle of Bosworth Field"
         },
         "answer": {
-            "options": "", 
-            "text": ""
+            "options": "D", 
+            "text": "The Wars of the Roses ended with the Battle of Bosworth Field in 1485. King Richard III of the House of York was killed in the battle and Henry Tudor, the leader of the House of Lancaster, became King Henry VII."
         }
     }, 
     {
-        "question": "",
+        "question": "After the Black Death the Pale in Ireland grew in size.",
         "options": {
-            "A": "",
-            "B": "",
-            "C": "",
-            "D": ""
+            "A": "True",
+            "B": "False"
         },
         "answer": {
-            "options": "", 
-            "text": ""
+            "options": "B", 
+            "text": "In Ireland, the Black Death killed many in the Pale and, for a time, the area controlled by the English became smaller."
         }
     }, 
     {
-        "question": "",
+        "question": "By the middle of the 15th century, what had happened to the last of the Welsh rebellions?",
         "options": {
-            "A": "",
-            "B": "",
-            "C": "",
-            "D": ""
+            "A": "They had been defeated by the English",
+            "B": "They had been contained within Wales",
+            "C": "They were victorious over the English armies",
+            "D": "They were abandoned because they were too expensive"
         },
         "answer": {
-            "options": "", 
-            "text": ""
+            "options": "A", 
+            "text": "By the middle of the 15th century the last Welsh rebellions had been defeated. English laws and the English language were introduced."
         }
     }, 
     {
-        "question": "",
+        "question": "Which of the following statements is correct?",
         "options": {
-            "A": "",
-            "B": "",
-            "C": "",
-            "D": ""
+            "A": "King Henry V led his army to victory at the Battle of Agincourt.",
+            "B": "Queen Victoria led her army to victory at the Battle of Agincourt."
         },
         "answer": {
-            "options": "", 
-            "text": ""
+            "options": "A", 
+            "text": "One of the most famous battles of the Hundred Years War was the Battle of Agincourt in 1415, where King Henry V's vastly outnumbered English army defeated the French. The English largely left France in the 1450s."
         }
     }, 
     {
-        "question": "",
+        "question": "Which TWO of the following words in the English language are based on Norman French words?",
         "options": {
-            "A": "",
-            "B": "",
-            "C": "",
-            "D": ""
+            "A": "Park",
+            "B": "Cow",
+            "C": "Beauty",
+            "D": "Apple"
         },
         "answer": {
-            "options": "", 
-            "text": ""
+            "options": "A, C", 
+            "text": "Some words in modern English – for example, ‘park' and ‘beauty' – are based on Norman French words."
         }
     }, 
     {
-        "question": "",
+        "question": "Henry Tudor, leader of the House of Lancaster, defeated Richard III to become which King Henry?",
         "options": {
-            "A": "",
-            "B": "",
-            "C": "",
-            "D": ""
+            "A": "III",
+            "B": "II",
+            "C": "V",
+            "D": "VII"
         },
         "answer": {
-            "options": "", 
-            "text": ""
+            "options": "D", 
+            "text": "The Wars of the Roses ended with the Battle of Bosworth Field in 1485. King Richard III of the House of York was killed in the battle and Henry Tudor, the leader of the House of Lancaster, became King Henry VII."
         }
     }, 
     {
-        "question": "",
+        "question": "Which TWO factors from the list below contributed to the emergence of a strong middle class in Britain?",
         "options": {
-            "A": "",
-            "B": "",
-            "C": "",
-            "D": ""
+            "A": "The Black Death created a shortage of workers, who demanded higher wages.",
+            "B": "Landlords wanted to give peasants a share of their land and wealth.",
+            "C": "The king abolished feudalism and serfdom.",
+            "D": "Workers left the countryside to live in towns and the towns grew wealthier."
         },
         "answer": {
-            "options": "", 
-            "text": ""
+            "options": "A, D", 
+            "text": "Following the Black Death, the smaller population meant there was less need to grow cereal crops. There were labour shortages and peasants began to demand higher wages. New social classes appeared, including owners of large areas of land (later called the gentry), and people left the countryside to live in the towns. In the towns, growing wealth led to the development of a strong middle class."
         }
     }, 
     {
-        "question": "",
+        "question": "What do The Canterbury Tales tell the story of?",
         "options": {
-            "A": "",
-            "B": "",
-            "C": "",
-            "D": ""
+            "A": "A group of people making a pilgrimage to Canterbury",
+            "B": "The life of the first Archbishop of Canterbury",
+            "C": "The growth and significance of the town of Canterbury",
+            "D": "The building of Canterbury Cathedral"
         },
         "answer": {
-            "options": "", 
-            "text": ""
+            "options": "A", 
+            "text": "In the years leading up to 1400, Geoffrey Chaucer wrote a series of poems in English about a group of people going to Canterbury on a pilgrimage. The people decided to tell each other stories on the journey, and the poems describe the travellers and some of the stories they told. This collection of poems is called The Canterbury Tales."
         }
     }, 
     {
-        "question": "",
+        "question": "Scottish poet John Barbour's poem The Bruce was written about which battle?",
         "options": {
-            "A": "",
-            "B": "",
-            "C": "",
-            "D": ""
+            "A": "Loudoun Hill",
+            "B": "Bosworth",
+            "C": "Bannockburn",
+            "D": "Boroughmuir"
         },
         "answer": {
-            "options": "", 
-            "text": ""
-        }
-    }, 
-    {
-        "question": "",
-        "options": {
-            "A": "",
-            "B": "",
-            "C": "",
-            "D": ""
-        },
-        "answer": {
-            "options": "", 
-            "text": ""
-        }
-    }, 
-    {
-        "question": "",
-        "options": {
-            "A": "",
-            "B": "",
-            "C": "",
-            "D": ""
-        },
-        "answer": {
-            "options": "", 
-            "text": ""
-        }
-    }, 
-    {
-        "question": "",
-        "options": {
-            "A": "",
-            "B": "",
-            "C": "",
-            "D": ""
-        },
-        "answer": {
-            "options": "", 
-            "text": ""
-        }
-    }, 
-    {
-        "question": "",
-        "options": {
-            "A": "",
-            "B": "",
-            "C": "",
-            "D": ""
-        },
-        "answer": {
-            "options": "", 
-            "text": ""
-        }
-    }, 
-    {
-        "question": "",
-        "options": {
-            "A": "",
-            "B": "",
-            "C": "",
-            "D": ""
-        },
-        "answer": {
-            "options": "", 
-            "text": ""
-        }
-    }, 
-    {
-        "question": "",
-        "options": {
-            "A": "",
-            "B": "",
-            "C": "",
-            "D": ""
-        },
-        "answer": {
-            "options": "", 
-            "text": ""
-        }
-    }, 
-    {
-        "question": "",
-        "options": {
-            "A": "",
-            "B": "",
-            "C": "",
-            "D": ""
-        },
-        "answer": {
-            "options": "", 
-            "text": ""
-        }
-    }, 
-    {
-        "question": "",
-        "options": {
-            "A": "",
-            "B": "",
-            "C": "",
-            "D": ""
-        },
-        "answer": {
-            "options": "", 
-            "text": ""
-        }
-    }, 
-    {
-        "question": "",
-        "options": {
-            "A": "",
-            "B": "",
-            "C": "",
-            "D": ""
-        },
-        "answer": {
-            "options": "", 
-            "text": ""
-        }
-    }, 
-    {
-        "question": "",
-        "options": {
-            "A": "",
-            "B": "",
-            "C": "",
-            "D": ""
-        },
-        "answer": {
-            "options": "", 
-            "text": ""
-        }
-    }, 
-    {
-        "question": "",
-        "options": {
-            "A": "",
-            "B": "",
-            "C": "",
-            "D": ""
-        },
-        "answer": {
-            "options": "", 
-            "text": ""
-        }
-    }, 
-    {
-        "question": "",
-        "options": {
-            "A": "",
-            "B": "",
-            "C": "",
-            "D": ""
-        },
-        "answer": {
-            "options": "", 
-            "text": ""
-        }
-    }, 
-    {
-        "question": "",
-        "options": {
-            "A": "",
-            "B": "",
-            "C": "",
-            "D": ""
-        },
-        "answer": {
-            "options": "", 
-            "text": ""
-        }
-    }, 
-    {
-        "question": "",
-        "options": {
-            "A": "",
-            "B": "",
-            "C": "",
-            "D": ""
-        },
-        "answer": {
-            "options": "", 
-            "text": ""
-        }
-    }, 
-    {
-        "question": "",
-        "options": {
-            "A": "",
-            "B": "",
-            "C": "",
-            "D": ""
-        },
-        "answer": {
-            "options": "", 
-            "text": ""
+            "options": "C", 
+            "text": "In Scotland in the Middle Ages, a number of poets began to write in the Scots language. One example is John Barbour, who wrote The Bruce about the Battle of Bannockburn."
         }
     }
 ]

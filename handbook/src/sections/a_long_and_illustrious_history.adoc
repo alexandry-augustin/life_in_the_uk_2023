@@ -10,12 +10,15 @@
 *** Arrived in Britain 6,000 years ago
 *** Built houses, tombs and monuments (e.g. Skara Brae, Stonehenge)
 
-* Bronze Age:
-** ~4,000 years ago people learned to make bronze, started living in roundhouses, and buried their dead in tombs called round barrows
+* Bronze Age (~4,000 years ago):
+** People learned to make bronze
+** People started living in roundhouses
+** People buried their dead in tombs called 'round barrows'
 
 * Iron Age:
 ** People learned to make weapons and tools out of iron
-** People started living in larger settlements, and sometimes defended sites called hill forts (e.g. Maiden Castle)
+** People still lived in roundhouses, grouped together in larger settlements
+** Sometimes defended sites called hill forts (e.g. Maiden Castle)
 ** They made the first coins to be minted in Britain
 *** Come inscribed with the names of the Iron Age Kings
 ** Marks the beginnings of British history
@@ -82,15 +85,20 @@ The Norman Conquest
 [.lead]
 War at Home and Abroad
 
-* Middle Ages or Mediaval Period (476 AD-1485 AD) -- with focus on the period after the Norman Conquest:
+* Middle Ages or Mediaval Period (476 AD-1485 AD)
+* The focus here is on the period after the Norman Conquest
 * 1284 King Edward I introduced the statute of Rhuddlon which annexed Wales to the Crown of England. 
 ** Conwy and Caernavon castles were built to maintain this power
 ** English Law and the English language were introduced
 * 1314 Robert the Bruce (Scotland) defeated the English in the battle of Bannockburn
 * By 1200, the English ruled the area of Pale around Dublin
 * Many Kings took part in the Crusades, in which European Christians fought for control of the Holy Land
-* 100 Years War with France lasted 116 years
-** 1415 King Henry V defeated the French in the battle of Agincourt
+* Hundred Years War with France
+** Lasted 116 years
+** Battle of Agincourt (1415)
+*** Most famous battle of the Hundred Years War
+*** King Henry V army vastly outnumbered the French army
+*** King Henry V defeated the French
 **  The English largely left France in the 1450s
 
 
@@ -130,15 +138,16 @@ Legal and Political Changes
 *** In Scotland: Codified
 
 [.lead]
-A distinct Identity
+A Distinct Identity
 
 * The combined Norman French (King and his noblemen) and Anglo-Saxon (peasants) became the English language
 * By 1400 official documents were in English
-* Geoffry Chaucer wrote The Canterbury Tales (collection of poems) in English
+* Geoffry Chaucer wrote 'The Canterbury Tales' (collection of poems)
+** Was written in English
 ** The poems were the first books to be printed in England using the printing press (by William Caxton)
 * People continued to speak Gaelic and Scot language in Scotland
 ** John Barbour was an influential Scot poet of this period
-** He wrote 'The Bruce' about the Battle of Bannockburn
+*** He wrote 'The Bruce' about the Battle of Bannockburn
 * England was an important trading nation during this period
 ** Wool became very important export
 
@@ -149,12 +158,22 @@ The Wars of Roses
 * Supported by 2 families:
 ** House of York (white rose) 
 ** House of Lancaster (red rose)
-* 1485 War ended with battle of Bosworth
+* 1485 Battle of Bosworth
+** Ended the war
 ** King Richard III from House of York was killed
 ** Henry Tudor from House of Lancaster became Henry VII
 *** Was the first King of the House of Tudor
-*** Married Elizabeth of York (King Richard's niece)
+*** Married Elizabeth of York (King Richard III's niece)
 *** The symbol of the House of Tudor was red rose with white rose in the center as the sign that the two families were now allies
+
+.The Red Rose of Lancaster
+image:./res/wars_of_the_roses/Red_Rose_Badge_of_Lancaster.svg[alt=,width=200]
+
+.The White Rose of York
+image:./res/wars_of_the_roses/White_Rose_Badge_of_York.svg[alt=,width=200]
+
+.The Red and White Rose of the House of Tudor
+image:./res/wars_of_the_roses/Tudor_Rose.svg[alt=,width=200]
 
 == Tudors and Stuarts
 

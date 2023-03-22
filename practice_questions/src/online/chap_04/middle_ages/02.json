@@ -1,314 +1,299 @@
 [
     {
-        "question": "",
+        "question": "After the Wars of the Roses, what was the symbol of the House of Tudor, which had a white rose inside it to show that the Houses of York and Lancaster were now allies?",
         "options": {
-            "A": "",
-            "B": "",
-            "C": "",
-            "D": ""
+            "A": "Lion",
+            "B": "Lily",
+            "C": "Rose",
+            "D": "Eagle"
         },
         "answer": {
-            "options": "", 
-            "text": ""
+            "options": "C", 
+            "text": "The symbol of the House of Tudor was a red rose with a white rose inside it as a sign that the Houses of York and Lancaster were now allies."
         }
     }, 
     {
-        "question": "",
+        "question": "In the Middle Ages, Norman French and Anglo-Saxon combined to become which language?",
         "options": {
-            "A": "",
-            "B": "",
-            "C": "",
-            "D": ""
+            "A": "French",
+            "B": "Saxon",
+            "C": "English",
+            "D": "Anglo-Norman"
         },
         "answer": {
-            "options": "", 
-            "text": ""
+            "options": "C", 
+            "text": "After the Norman Conquest, the king and his noblemen had spoken Norman French and the peasants had continued to speak Anglo-Saxon. Gradually these two languages combined to become one English language."
         }
     }, 
     {
-        "question": "",
+        "question": "Which of these groups came to England during the Middle Ages to trade or to work?",
         "options": {
-            "A": "",
-            "B": "",
-            "C": "",
-            "D": ""
+            "A": "Mercenaries from Spain",
+            "B": "Glass manufacturers from Italy",
+            "C": "Missionaries from Holland",
+            "D": "Nurses from Turkey"
         },
         "answer": {
-            "options": "", 
-            "text": ""
+            "options": "B", 
+            "text": "In the Middle Ages people came to England from abroad to trade and also to work. Many had special skills, such as weavers from France, engineers from Germany, glass manufacturers from Italy and canal builders from Holland."
         }
     }, 
     {
-        "question": "",
+        "question": "Which TWO statements describe the development of language in Scotland in the Middle Ages?",
         "options": {
-            "A": "",
-            "B": "",
-            "C": "",
-            "D": ""
+            "A": "People only spoke Gaelic.",
+            "B": "Gaelic was widely spoken and the Scots language also developed.",
+            "C": "Scottish Gaelic died out.",
+            "D": "Poets began to write in the Scots language."
         },
         "answer": {
-            "options": "", 
-            "text": ""
+            "options": "B, D", 
+            "text": "In Scotland in the Middle Ages, many people continued to speak Gaelic and the Scots language also developed. A number of poets began to write in the Scots language. One example is John Barbour, who wrote The Bruce about the Battle of Bannockburn."
         }
     }, 
     {
-        "question": "",
+        "question": "Which cathedral contains a famous example of a stained glass window from the Middle Ages?",
         "options": {
-            "A": "",
-            "B": "",
-            "C": "",
-            "D": ""
+            "A": "Liverpool",
+            "B": "Guildford",
+            "C": "York Minster",
+            "D": "Coventry"
         },
         "answer": {
-            "options": "", 
-            "text": ""
+            "options": "C", 
+            "text": "Great cathedrals – for example, Lincoln Cathedral – were built, and many of these are still used for worship. Several of the cathedrals had windows of stained glass, telling stories about the Bible and Christian saints. The glass in York Minster is a famous example."
         }
     }, 
     {
-        "question": "",
+        "question": "Lincoln Cathedral is an example of one of the great cathedrals built in the Middle Ages.",
         "options": {
-            "A": "",
-            "B": "",
-            "C": "",
-            "D": ""
+            "A": "True",
+            "B": "False"
         },
         "answer": {
-            "options": "", 
-            "text": ""
+            "options": "A", 
+            "text": "Great cathedrals – for example, Lincoln Cathedral – were also built, and many of these are still used for worship. Several of the cathedrals had windows of stained glass, telling stories about the Bible and Christian saints. The glass in York Minster is a famous example."
         }
     }, 
     {
-        "question": "",
+        "question": "Other than Windsor, which famous castle built in the Middle Ages is still in use today?",
         "options": {
-            "A": "",
-            "B": "",
-            "C": "",
-            "D": ""
+            "A": "Edinburgh",
+            "B": "Tintagel",
+            "C": "Corfe",
+            "D": "Camelot"
         },
         "answer": {
-            "options": "", 
-            "text": ""
+            "options": "A", 
+            "text": "The Middle Ages also saw a change in the type of buildings in Britain. Castles were built in many places in Britain and Ireland, partly for defence. Today many are in ruins, although some, such as Windsor and Edinburgh, are still in use."
         }
     }, 
     {
-        "question": "",
+        "question": "Which of the following was an important English export during the Middle Ages?",
         "options": {
-            "A": "",
-            "B": "",
-            "C": "",
-            "D": ""
+            "A": "Wool",
+            "B": "Cheese",
+            "C": "Silk",
+            "D": "Furs"
         },
         "answer": {
-            "options": "", 
-            "text": ""
+            "options": "A", 
+            "text": "During the Middle Ages, England was an important trading nation. English wool became a very important export."
         }
     }, 
     {
-        "question": "",
+        "question": "Which of the following statements is correct?",
         "options": {
-            "A": "",
-            "B": "",
-            "C": "",
-            "D": ""
+            "A": "Elizabeth of York was the daughter of King Richard III.",
+            "B": "Elizabeth of York was the niece of King Richard III."
         },
         "answer": {
-            "options": "", 
-            "text": ""
+            "options": "B", 
+            "text": "After the Wars of the Roses ended, Henry Tudor, the leader of the House of Lancaster, became King Henry VII. Henry then married King Richard’s niece, Elizabeth of York, and united the two families."
         }
     }, 
     {
-        "question": "",
+        "question": "Which Scottish poet wrote The Bruce about the Battle of Bannockburn?",
         "options": {
-            "A": "",
-            "B": "",
-            "C": "",
-            "D": ""
+            "A": "Roald Dahl",
+            "B": "John Barbour",
+            "C": "Geoffrey Chaucer",
+            "D": "John Milton"
         },
         "answer": {
-            "options": "", 
-            "text": ""
+            "options": "B", 
+            "text": "In the Middle Ages a number of poets began to write in the Scots language. One example is John Barbour, who wrote The Bruce about the Battle of Bannockburn."
         }
     }, 
     {
-        "question": "",
+        "question": "The Canterbury Tales was one of the first books to be printed by William Caxton.",
         "options": {
-            "A": "",
-            "B": "",
-            "C": "",
-            "D": ""
+            "A": "True",
+            "B": "False"
         },
         "answer": {
-            "options": "", 
-            "text": ""
+            "options": "A", 
+            "text": "In the years leading up to 1400, Geoffrey Chaucer wrote a series of poems called The Canterbury Tales. It was one of the first books to be printed by William Caxton, the first person in England to print books using a printing press."
         }
     }, 
     {
-        "question": "",
+        "question": "The Ipswich Tales are associated with Geoffrey Chaucer.",
         "options": {
-            "A": "",
-            "B": "",
-            "C": "",
-            "D": ""
+            "A": "True",
+            "B": "False"
         },
         "answer": {
-            "options": "", 
-            "text": ""
+            "options": "B", 
+            "text": "Geoffrey Chaucer wrote a series of poems in English about a group of people going to Canterbury on a pilgrimage. This collection of poems is called The Canterbury Tales."
         }
     }, 
     {
-        "question": "",
+        "question": "Which of the following statements is correct?",
         "options": {
-            "A": "",
-            "B": "",
-            "C": "",
-            "D": ""
+            "A": "By 1400, in England, official documents were being written in English and English was the preferred language of Parliament and the royal court.",
+            "B": "By 1400, a mixture of Norman French and Anglo-Saxon was being spoken and no unified language was emerging."
         },
         "answer": {
-            "options": "", 
-            "text": ""
+            "options": "A", 
+            "text": "By 1400, in England, official documents were being written in English, and English had become the preferred language of the royal court and Parliament."
         }
     }, 
     {
-        "question": "",
+        "question": "Henry VII was the first king of which House?",
         "options": {
-            "A": "",
-            "B": "",
-            "C": "",
-            "D": ""
+            "A": "House of Roses",
+            "B": "House of York",
+            "C": "House of Lords",
+            "D": "House of Tudor"
         },
         "answer": {
-            "options": "", 
-            "text": ""
+            "options": "D", 
+            "text": "The Wars of the Roses ended with the Battle of Bosworth Field in 1485. King Richard III of the House of York was killed in the battle and Henry Tudor, the leader of the House of Lancaster, became King Henry VII. Henry was the first king of the House of Tudor."
         }
     }, 
     {
-        "question": "",
+        "question": "What special type of windows did many cathedrals built in the Middle Ages have?",
         "options": {
-            "A": "",
-            "B": "",
-            "C": "",
-            "D": ""
+            "A": "Arched",
+            "B": "Mullioned",
+            "C": "Stained glass",
+            "D": "Sash"
         },
         "answer": {
-            "options": "", 
-            "text": ""
+            "options": "C", 
+            "text": "Great cathedrals – for example, Lincoln Cathedral – were also built, and many of these are still used for worship. Several of the cathedrals had windows of stained glass, telling stories about the Bible and Christian saints. The glass in York Minster is a famous example."
         }
     }, 
     {
-        "question": "",
+        "question": "Which of the following statements is correct?",
         "options": {
-            "A": "",
-            "B": "",
-            "C": "",
-            "D": ""
+            "A": "After the Wars of the Roses, the Houses of Lancaster and York were united by Henry VII marrying Richard III's niece.",
+            "B": "After the Wars of the Roses, the leaders of the House of York were exiled to France."
         },
         "answer": {
-            "options": "", 
-            "text": ""
+            "options": "A", 
+            "text": "After the Wars of the Roses ended, Henry Tudor, the leader of the House of Lancaster, became King Henry VII. Henry then married King Richard’s niece, Elizabeth of York, and united the two families."
         }
     }, 
     {
-        "question": "",
+        "question": "Who was Geoffrey Chaucer?",
         "options": {
-            "A": "",
-            "B": "",
-            "C": "",
-            "D": ""
+            "A": "Author of The Canterbury Tales",
+            "B": "Archbishop of Canterbury",
+            "C": "Lord Protector",
+            "D": "Leader of the House of Commons"
         },
         "answer": {
-            "options": "", 
-            "text": ""
+            "options": "A", 
+            "text": "In the years leading up to 1400, Geoffrey Chaucer wrote a series of poems in English about a group of people going to Canterbury on a pilgrimage. This collection of poems is called The Canterbury Tales."
         }
     }, 
     {
-        "question": "",
+        "question": "In which language was The Canterbury Tales written?",
         "options": {
-            "A": "",
-            "B": "",
-            "C": "",
-            "D": ""
+            "A": "French",
+            "B": "Welsh",
+            "C": "Scottish Gaelic",
+            "D": "English"
         },
         "answer": {
-            "options": "", 
-            "text": ""
+            "options": "D", 
+            "text": "In the years leading up to 1400, Geoffrey Chaucer wrote a series of poems in English about a group of people going to Canterbury on a pilgrimage. This collection of poems is called The Canterbury Tales."
         }
     }, 
     {
-        "question": "",
+        "question": "What was depicted in the stained glass windows of many cathedrals built in the Middle Ages?",
+        "indication": "Choose only ONE best answer.", 
         "options": {
-            "A": "",
-            "B": "",
-            "C": "",
-            "D": ""
+            "A": "Stories about kings and coronations",
+            "B": "Stories about battles and victories",
+            "C": "Stories about the Bible and saints",
+            "D": "Stories about communities and farming"
         },
         "answer": {
-            "options": "", 
-            "text": ""
+            "options": "C", 
+            "text": "Great cathedrals – for example, Lincoln Cathedral – were also built, and many of these are still used for worship. Several of the cathedrals had windows of stained glass, telling stories about the Bible and Christian saints. The glass in York Minster is a famous example."
         }
     }, 
     {
-        "question": "",
+        "question": "In the English language, the words ‘cow’, ‘apple’ and ‘summer’ are based on Anglo-Saxon words.",
         "options": {
-            "A": "",
-            "B": "",
-            "C": "",
-            "D": ""
+            "A": "True",
+            "B": "False"
         },
         "answer": {
-            "options": "", 
-            "text": ""
+            "options": "A", 
+            "text": "Some words in modern English – for example, ‘apple’, ‘cow’ and ‘summer’ – are based on Anglo-Saxon words."
         }
     }, 
     {
-        "question": "",
+        "question": "During the Middle Ages, which TWO languages were used across England?",
         "options": {
-            "A": "",
-            "B": "",
-            "C": "",
-            "D": ""
+            "A": "Anglo-Saxon",
+            "B": "Welsh",
+            "C": "Danish",
+            "D": "Norman French"
         },
         "answer": {
-            "options": "", 
-            "text": ""
+            "options": "A, D", 
+            "text": "After the Norman Conquest, the king and his noblemen had spoken Norman French and the peasants had continued to speak Anglo-Saxon."
         }
     }, 
     {
-        "question": "",
+        "question": "Which war began in 1455?",
         "options": {
-            "A": "",
-            "B": "",
-            "C": "",
-            "D": ""
+            "A": "The War of the Roses",
+            "B": "The Battle of Britain",
+            "C": "The English Civil War",
+            "D": "The Boer War"
         },
         "answer": {
-            "options": "", 
-            "text": ""
+            "options": "A", 
+            "text": "In 1455, a civil war was begun to decide who should be king of England. It was fought between the supporters of two families: the House of Lancaster and the House of York. This war was called the Wars of the Roses, because the symbol of Lancaster was a red rose and the symbol of York was a white rose."
         }
     }, 
     {
-        "question": "",
+        "question": "Which TWO languages combined in the Middle Ages to become the English language?",
         "options": {
-            "A": "",
-            "B": "",
-            "C": "",
-            "D": ""
+            "A": "Gaelic",
+            "B": "Welsh",
+            "C": "Anglo-Saxon",
+            "D": "Norman French"
         },
         "answer": {
-            "options": "", 
-            "text": ""
+            "options": "C, D", 
+            "text": "After the Norman Conquest, the king and his noblemen had spoken Norman French and the peasants had continued to speak Anglo-Saxon. Gradually these two languages combined to become one English language."
         }
     }, 
     {
-        "question": "",
+        "question": "The Houses of Lancaster and York used red and white roses as their respective symbols.",
         "options": {
-            "A": "",
-            "B": "",
-            "C": "",
-            "D": ""
+            "A": "True",
+            "B": "False"
         },
         "answer": {
-            "options": "", 
-            "text": ""
+            "options": "A", 
+            "text": "In 1455, a civil war was begun to decide who should be king of England. It was fought between the supporters of two families: the House of Lancaster and the House of York. This war was called the Wars of the Roses, because the symbol of Lancaster was a red rose and the symbol of York was a white rose."
         }
     }
 ]

@@ -24,289 +24,269 @@
         }
     }, 
     {
-        "question": "",
+        "question": "What was inscribed on some Iron Age coins?",
         "options": {
-            "A": "",
-            "B": "",
-            "C": "",
-            "D": ""
+            "A": "Dates",
+            "B": "Values",
+            "C": "Names of Iron Age kings",
+            "D": "Names of Iron Age settlements"
         },
         "answer": {
-            "options": "", 
-            "text": ""
+            "options": "C", 
+            "text": "The people of the Iron Age had a sophisticated culture and economy. They made the first coins to be minted in Britain, some inscribed with the names of Iron Age kings. This marks the beginnings of British history."
         }
     }, 
     {
-        "question": "",
+        "question": "What can be seen at Housesteads and Vindolanda?",
         "options": {
-            "A": "",
-            "B": "",
-            "C": "",
-            "D": ""
+            "A": "Roman forts",
+            "B": "Iron Age burial mounds",
+            "C": "Roman hot springs",
+            "D": "Stone Age settlements"
         },
         "answer": {
-            "options": "", 
-            "text": ""
+            "options": "A", 
+            "text": "Areas of what is now Scotland were never conquered by the Romans, and the Emperor Hadrian built a wall in the north of England to keep out the Picts (ancestors of the Scottish people). Included in the wall were a number of forts. Parts of Hadrian's Wall, including the forts of Housesteads and Vindolanda, can still be seen."
         }
     }, 
     {
-        "question": "",
+        "question": "Stonehenge is NOT a World Heritage Site.",
         "options": {
-            "A": "",
-            "B": "",
-            "C": "",
-            "D": ""
+            "A": "True",
+            "B": "False"
         },
         "answer": {
-            "options": "", 
-            "text": ""
+            "options": "B", 
+            "text": "Stonehenge is an ancient monument which still stands in what is now the English county of Wiltshire. Stonehenge is a World Heritage Site."
         }
     }, 
     {
-        "question": "",
+        "question": "Which of the following, found in the Orkney Islands, is the best preserved prehistoric village in Northern Europe?",
         "options": {
-            "A": "",
-            "B": "",
-            "C": "",
-            "D": ""
+            "A": "Snowdonia",
+            "B": "The Giant's Causeway",
+            "C": "Skara Brae",
+            "D": "Sutton Hoo"
         },
         "answer": {
-            "options": "", 
-            "text": ""
+            "options": "C", 
+            "text": "Skara Brae on Orkney, off the north coast of Scotland, is the best preserved prehistoric village in northern Europe, and has helped archaeologists to understand more about how people lived near the end of the Stone Age."
         }
     }, 
     {
-        "question": "",
+        "question": "The first farmers probably came to Britain from where?",
         "options": {
-            "A": "",
-            "B": "",
-            "C": "",
-            "D": ""
+            "A": "Norway",
+            "B": "South-east Europe",
+            "C": "North America",
+            "D": "North-west Europe"
         },
         "answer": {
-            "options": "", 
-            "text": ""
+            "options": "B", 
+            "text": "The first farmers arrived in Britain 6,000 years ago. The ancestors of these first farmers probably came from south-east Europe."
         }
     }, 
     {
-        "question": "",
+        "question": "Boudicca was a tribal leader who fought against which army?",
         "options": {
-            "A": "",
-            "B": "",
-            "C": "",
-            "D": ""
+            "A": "Norman",
+            "B": "Saxon",
+            "C": "Viking",
+            "D": "Roman"
         },
         "answer": {
-            "options": "", 
-            "text": ""
+            "options": "D", 
+            "text": "Boudicca was queen of the Iceni and fought against the Roman army."
         }
     }, 
     {
-        "question": "",
+        "question": "Which of the following are associated with the Iron Age?",
         "options": {
-            "A": "",
-            "B": "",
-            "C": "",
-            "D": ""
+            "A": "Hill forts",
+            "B": "Giant's Causeway",
+            "C": "The White Tower",
+            "D": "Stained glass windows"
         },
         "answer": {
-            "options": "", 
-            "text": ""
+            "options": "A", 
+            "text": "The Bronze Age was followed by the Iron Age, when people learned how to make weapons and tools out of iron. People still lived in roundhouses, grouped together into larger settlements, and sometimes defended sites called hill forts."
         }
     }, 
     {
-        "question": "",
+        "question": "Which of the following statements is correct?",
         "options": {
-            "A": "",
-            "B": "",
-            "C": "",
-            "D": ""
+            "A": "Orkney is off the north coast of Scotland.",
+            "B": "Orkney is off the west coast of Scotland."
         },
         "answer": {
-            "options": "", 
-            "text": ""
+            "options": "A", 
+            "text": "Orkney is off the north coast of Scotland."
         }
     }, 
     {
-        "question": "",
+        "question": "What ‘Age' came after the Bronze Age?",
         "options": {
-            "A": "",
-            "B": "",
-            "C": "",
-            "D": ""
+            "A": "Iron Age",
+            "B": "Steel Age",
+            "C": "Stone Age",
+            "D": "Middle Ages"
         },
         "answer": {
-            "options": "", 
-            "text": ""
+            "options": "A", 
+            "text": "The Bronze Age was followed by the Iron Age, when people learned how to make weapons and tools out of iron."
         }
     }, 
     {
-        "question": "",
+        "question": "Which UNESCO World Heritage site includes the Roman forts of Housesteads and Vindolanda?",
         "options": {
-            "A": "",
-            "B": "",
-            "C": "",
-            "D": ""
+            "A": "Snowdonia",
+            "B": "The Trossachs National Park",
+            "C": "Hadrian's Wall",
+            "D": "The Giant's Causeway"
         },
         "answer": {
-            "options": "", 
-            "text": ""
+            "options": "C", 
+            "text": "Hadrian's Wall, including the forts of Housesteads and Vindolanda, is a UNESCO (United Nations Educational, Scientific and Cultural Organization) World Heritage Site."
         }
     }, 
     {
-        "question": "",
+        "question": "The people of the Iron Age lived in roundhouses, grouped together into larger settlements.",
         "options": {
-            "A": "",
-            "B": "",
-            "C": "",
-            "D": ""
+            "A": "True",
+            "B": "False"
         },
         "answer": {
-            "options": "", 
-            "text": ""
+            "options": "A", 
+            "text": "The Bronze Age was followed by the Iron Age, when people learned how to make weapons and tools out of iron. People still lived in roundhouses, grouped together into larger settlements, and sometimes defended sites called hill forts."
         }
     }, 
     {
-        "question": "",
+        "question": "During the Iron Age people spoke languages from the Celtic language family.",
         "options": {
-            "A": "",
-            "B": "",
-            "C": "",
-            "D": ""
+            "A": "True",
+            "B": "False"
         },
         "answer": {
-            "options": "", 
-            "text": ""
+            "options": "A", 
+            "text": "Most people in the Iron Age were farmers, craft workers or warriors. The language they spoke was part of the Celtic language family. Similar languages were spoken across Europe in the Iron Age, and related languages are still spoken today in some parts of Wales, Scotland and Ireland."
         }
     }, 
     {
-        "question": "",
+        "question": "Where did the people of the Bronze Age bury their dead?",
         "options": {
-            "A": "",
-            "B": "",
-            "C": "",
-            "D": ""
+            "A": "Wheelbarrows",
+            "B": "Round barrows",
+            "C": "Cathedrals",
+            "D": "Hill forts"
         },
         "answer": {
-            "options": "", 
-            "text": ""
+            "options": "B", 
+            "text": "In the Bronze Age people lived in roundhouses and buried their dead in tombs called round barrows."
         }
     }, 
     {
-        "question": "",
+        "question": "In the Iron Age, people spoke Latin in Britain.",
         "options": {
-            "A": "",
-            "B": "",
-            "C": "",
-            "D": ""
+            "A": "True",
+            "B": "False"
         },
         "answer": {
-            "options": "", 
-            "text": ""
+            "options": "B", 
+            "text": "Iron Age people in Britain spoke a language that was part of the Celtic language family."
         }
     }, 
     {
-        "question": "",
+        "question": "Boudicca was queen of the Iceni tribe. Where did they live?",
         "options": {
-            "A": "",
-            "B": "",
-            "C": "",
-            "D": ""
+            "A": "North-west England",
+            "B": "Scotland",
+            "C": "South-west England",
+            "D": "Eastern England"
         },
         "answer": {
-            "options": "", 
-            "text": ""
+            "options": "D", 
+            "text": "One of the tribal leaders who fought against the Romans was Boudicca, the queen of the Iceni who lived in what is now eastern England."
         }
     }, 
     {
-        "question": "",
+        "question": "Hadrian's Wall is a UNESCO World Heritage Site.",
         "options": {
-            "A": "",
-            "B": "",
-            "C": "",
-            "D": ""
+            "A": "True",
+            "B": "False"
         },
         "answer": {
-            "options": "", 
-            "text": ""
+            "options": "A", 
+            "text": "The Emperor Hadrian built a wall in the north of England. Parts of Hadrian's Wall, including the forts of Housesteads and Vindolanda, can still be seen. It is a popular area for walkers and is a UNESCO (United Nations Educational, Scientific and Cultural Organization) World Heritage Site."
         }
     }, 
     {
-        "question": "",
+        "question": "Stonehenge is a famous Stone Age site.",
         "options": {
-            "A": "",
-            "B": "",
-            "C": "",
-            "D": ""
+            "A": "True",
+            "B": "False"
         },
         "answer": {
-            "options": "", 
-            "text": ""
+            "options": "A", 
+            "text": "Stonehenge is a famous Stone Age site in the English county of Wiltshire. Stonehenge was probably a special gathering place for seasonal ceremonies."
         }
     }, 
     {
-        "question": "",
+        "question": "Skara Brae is a prehistoric village found off the coast of which country? ",
         "options": {
-            "A": "",
-            "B": "",
-            "C": "",
-            "D": ""
+            "A": "England",
+            "B": "Scotland",
+            "C": "France",
+            "D": "Wales"
         },
         "answer": {
-            "options": "", 
-            "text": ""
+            "options": "B", 
+            "text": "Skara Brae on Orkney, off the north coast of Scotland, is the best preserved prehistoric village in northern Europe, and has helped archaeologists to understand more about how people lived near the end of the Stone Age."
         }
     }, 
     {
-        "question": "",
+        "question": "In 55 BC, Julius Caesar led a Roman invasion of Britain.",
         "options": {
-            "A": "",
-            "B": "",
-            "C": "",
-            "D": ""
+            "A": "True",
+            "B": "False"
         },
         "answer": {
-            "options": "", 
-            "text": ""
+            "options": "A", 
+            "text": "Julius Caesar led a Roman invasion of Britain in 55 BC."
         }
     }, 
     {
-        "question": "",
+        "question": "The people of the Bronze Age made beautiful objects in bronze and gold, including tools, ornaments and weapons.",
         "options": {
-            "A": "",
-            "B": "",
-            "C": "",
-            "D": ""
+            "A": "True",
+            "B": "False"
         },
         "answer": {
-            "options": "", 
-            "text": ""
+            "options": "A", 
+            "text": "The people of the Bronze Age were accomplished metalworkers who made many beautiful objects in bronze and gold, including tools, ornaments and weapons."
         }
     }, 
     {
-        "question": "",
+        "question": "Stonehenge is in the English county of Wiltshire.",
         "options": {
-            "A": "",
-            "B": "",
-            "C": "",
-            "D": ""
+            "A": "True",
+            "B": "False"
         },
         "answer": {
-            "options": "", 
-            "text": ""
+            "options": "A", 
+            "text": "Stonehenge stands in what is now the English county of Wiltshire."
         }
     }, 
     {
-        "question": "",
+        "question": "Skara Brae is the best preserved example of what in northern Europe?",
         "options": {
-            "A": "",
-            "B": "",
-            "C": "",
-            "D": ""
+            "A": "Iron Age fort",
+            "B": "Crofter's cottage",
+            "C": "Anglo-Saxon helmet",
+            "D": "Prehistoric village"
         },
         "answer": {
-            "options": "", 
-            "text": ""
+            "options": "D", 
+            "text": "Skara Brae on Orkney, off the north coast of Scotland, is the best preserved prehistoric village in northern Europe, and has helped archaeologists to understand more about how people lived near the end of the Stone Age."
         }
     }
 ]
