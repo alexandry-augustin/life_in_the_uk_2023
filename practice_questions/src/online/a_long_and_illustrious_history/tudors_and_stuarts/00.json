@@ -1,0 +1,310 @@
+[
+    {
+        "question": "Who became king after James II?",
+        "options": {
+            "A": "William III",
+            "B": "Elizabeth I",
+            "C": "Elizabeth II",
+            "D": "Henry VIII"
+        },
+        "answer": {
+            "options": "A", 
+            "text": "In 1688, important Protestants in England asked William of Orange to invade England and proclaim himself king. James II fled to France and William took over the throne, becoming William III in England, Wales and Ireland."
+        }
+    }, 
+    {
+        "question": "King James I of England, Wales and Ireland was also monarch of which other country?",
+        "options": {
+            "A": "Denmark",
+            "B": "Scotland",
+            "C": "France",
+            "D": "The Netherlands"
+        },
+        "answer": {
+            "options": "B", 
+            "text": "Elizabeth I never married and so had no children of her own to inherit her throne. When she died in 1603 her heir was James VI of Scotland. He became King James I of England, Wales and Ireland."
+        }
+    }, 
+    {
+        "question": "On his escape from the Battle of Worcester, Charles II famously hid where?",
+        "options": {
+            "A": "In a barn",
+            "B": "In an oak tree",
+            "C": "In a cellar",
+            "D": "In a church"
+        },
+        "answer": {
+            "options": "B", 
+            "text": "The Scots had not agreed to the execution of Charles I and declared his son Charles II to be king. He was crowned king of Scotland and led a Scottish army into England. Cromwell defeated this army in the Battles of Dunbar and Worcester. Charles II escaped from Worcester, famously hiding in an oak tree on one occasion, and eventually fled to Europe."
+        }
+    }, 
+    {
+        "question": "Which of the following statements is correct?",
+        "options": {
+            "A": "A Catholic Church of Scotland with an elected leadership was established in 1560.",
+            "B": "A Protestant Church of Scotland with an elected leadership was established in 1560."
+        },
+        "answer": {
+            "options": "B", 
+            "text": "In 1560, the predominantly Protestant Scottish Parliament abolished the authority of the Pope in Scotland and Roman Catholic religious services became illegal. A Protestant Church of Scotland with an elected leadership was established."
+        }
+    }, 
+    {
+        "question": "How many wives did Henry VIII have?",
+        "options": {
+            "A": "One",
+            "B": "Four",
+            "C": "Six",
+            "D": "Height"
+        },
+        "answer": {
+            "options": "C", 
+            "text": "Henry VIII had six wives."
+        }
+    }, 
+    {
+        "question": "Charles I was unwilling to reach an agreement with Parliament. Following his defeat in the English Civil War, what happened to him?",
+        "options": {
+            "A": "He was exiled",
+            "B": "He was executed",
+            "C": "He was exonerated",
+            "D": "He was excommunicated"
+        },
+        "answer": {
+            "options": "B", 
+            "text": "In the English Civil War, Charles I's army was defeated at the Battles of Marston Moor and Naseby. By 1646, it was clear that Parliament had won the war. Charles was held prisoner by the parliamentary army. He was still unwilling to reach any agreement with Parliament and in 1649 he was executed."
+        }
+    }, 
+    {
+        "question": "Which king invaded Ireland in the seventeenth century in an attempt to regain the throne with an army from France?",
+        "options": {
+            "A": "Henry V",
+            "B": "James II",
+            "C": "Kenneth MacAlpin",
+            "D": "John"
+        },
+        "answer": {
+            "options": "B", 
+            "text": "James II wanted to regain the throne and invaded Ireland with the help of a French army."
+        }
+    }, 
+    {
+        "question": "Who did William III fight at the Battle of the Boyne in 1690?",
+        "options": {
+            "A": "Charles II",
+            "B": "Elizabeth II",
+            "C": "Henry V",
+            "D": "James II"
+        },
+        "answer": {
+            "options": "D", 
+            "text": "William III defeated James II at the Battle of the Boyne in Ireland in 1690, an event which is still celebrated by some in Northern Ireland today."
+        }
+    }, 
+    {
+        "question": "Sir Isaac Newton discovered that white light is made up of what?",
+        "options": {
+            "A": "Green and blue light",
+            "B": "Yellow and green light",
+            "C": "Gases",
+            "D": "The colours of the rainbow"
+        },
+        "answer": {
+            "options": "D", 
+            "text": "Newton also discovered that white light is made up of the colours of the rainbow. Many of his discoveries are still important for modern science."
+        }
+    }, 
+    {
+        "question": "After the execution of which monarch was England declared a republic?",
+        "options": {
+            "A": "Charles I",
+            "B": "Elizabeth I",
+            "C": "Henry VIII",
+            "D": "James I"
+        },
+        "answer": {
+            "options": "A", 
+            "text": "Charles I was unwilling to reach any agreement with Parliament and in 1649 he was executed. England declared itself a republic, called the Commonwealth. It no longer had a monarch."
+        }
+    }, 
+    {
+        "question": "Which TWO names are used for the English translation of the Bible produced during James I's reign?",
+        "options": {
+            "A": "New Testament",
+            "B": "King James Version",
+            "C": "Authorised Version",
+            "D": "Old Testament"
+        },
+        "answer": {
+            "options": "B, C", 
+            "text": "One achievement of King James I's reign was a new translation of the Bible into English. This translation is known as the ‘King James Version' or the ‘Authorised Version'. It was not the first English Bible but is a version that continues to be used in many Protestant churches today."
+        }
+    }, 
+    {
+        "question": "Which one of the following is a play written by William Shakespeare?",
+        "options": {
+            "A": "Under Milk Wood",
+            "B": "Chariots of Fire",
+            "C": "Macbeth",
+            "D": "The Mousetrap"
+        },
+        "answer": {
+            "options": "C", 
+            "text": "Wiliam Shakespeare was a playwright and actor and wrote many poems and plays. His most famous plays include A Midsummer Night's Dream, Hamlet, Macbeth and Romeo and Juliet."
+        }
+    }, 
+    {
+        "question": "England declared itself a republic in 1649 after what happened?",
+        "options": {
+            "A": "Oliver Cromwell died",
+            "B": "Richard Cromwell became Lord Protector",
+            "C": "Charles II was crowned",
+            "D": "Charles I was executed"
+        },
+        "answer": {
+            "options": "D", 
+            "text": "Following the execution of Charles I in 1649 England declared itself a republic."
+        }
+    }, 
+    {
+        "question": "Where was William Shakespeare born?",
+        "options": {
+            "A": "Stratford",
+            "B": "Stratford-upon-Avon",
+            "C": "Bradford-on-Avon",
+            "D": "Bradford"
+        },
+        "answer": {
+            "options": "B", 
+            "text": "Shakespeare was born in Stratford-upon-Avon, England. He was a playwright and actor and wrote many poems and plays."
+        }
+    }, 
+    {
+        "question": "How many times was Henry VIII married?",
+        "options": {
+            "A": "Six times",
+            "B": "Three times",
+            "C": "Four times",
+            "D": "Eight times"
+        },
+        "answer": {
+            "options": "A", 
+            "text": "Henry VIII was most famous for breaking away from the Church of Rome and marrying six times."
+        }
+    }, 
+    {
+        "question": "Which king was executed by Parliament in 1649, after losing the English Civil War?",
+        "options": {
+            "A": "William III",
+            "B": "Richard III",
+            "C": "Henry VIII",
+            "D": "Charles I"
+        },
+        "answer": {
+            "options": "D", 
+            "text": "By 1646, it was clear that Parliament had won the English Civil War. Charles I was held prisoner by the parliamentary army. He was still unwilling to reach any agreement with Parliament and in 1649 he was executed."
+        }
+    }, 
+    {
+        "question": "Catherine Parr was a widow when she married Henry VIII.",
+        "options": {
+            "A": "True",
+            "B": "False"
+        },
+        "answer": {
+            "options": "A", 
+            "text": "Catherine Parr was a widow who married Henry VIII late in his life. She survived him and married again but died soon after. "
+        }
+    }, 
+    {
+        "question": "What were supporters of the king known as during the English Civil War?",
+        "options": {
+            "A": "Suffragettes",
+            "B": "Roundheads",
+            "C": "Cavaliers",
+            "D": "Jesters"
+        },
+        "answer": {
+            "options": "C", 
+            "text": "Civil war between the king and Parliament began in 1642. The country split into those who supported the king (the Cavaliers) and those who supported Parliament (the Roundheads)."
+        }
+    }, 
+    {
+        "question": "King James II of England, Wales and Ireland was also known as King James VII of which country? ",
+        "options": {
+            "A": "Norway",
+            "B": "The Netherlands",
+            "C": "France",
+            "D": "Scotland"
+        },
+        "answer": {
+            "options": "D", 
+            "text": "King James II of England, Wales and Ireland and was also King James VII of Scotland."
+        }
+    }, 
+    {
+        "question": "Mary, Queen of Scots, was imprisoned for 20 years. How did she die?",
+        "options": {
+            "A": "She died in childbirth",
+            "B": "She was executed",
+            "C": "She died of old age",
+            "D": "She died in battle"
+        },
+        "answer": {
+            "options": "B", 
+            "text": "Elizabeth suspected Mary, Queen of Scots, of wanting to take over the English throne, and kept her a prisoner for 20 years. Mary was eventually executed, accused of plotting against Elizabeth I."
+        }
+    }, 
+    {
+        "question": "Who wrote the play Macbeth?",
+        "options": {
+            "A": "Geoffrey Chaucer",
+            "B": "Dame Agatha Christie",
+            "C": "William Shakespeare",
+            "D": "William Wordsworth"
+        },
+        "answer": {
+            "options": "C", 
+            "text": "Wiliam Shakespeare was a playwright and actor and wrote many poems and plays. His most famous plays include A Midsummer Night's Dream, Hamlet, Macbeth and Romeo and Juliet."
+        }
+    }, 
+    {
+        "question": "Under which monarch did English settlers begin to colonise America?",
+        "options": {
+            "A": "Henry VIII",
+            "B": "Edward II",
+            "C": "Victoria",
+            "D": "Elizabeth I"
+        },
+        "answer": {
+            "options": "D", 
+            "text": "In Elizabeth I's time, English settlers first began to colonise the eastern coast of America. This colonisation, particularly by people who disagreed with the religious views of the next two kings, greatly increased in the next century."
+        }
+    }, 
+    {
+        "question": "William of Orange was the Protestant ruler of which country?",
+        "options": {
+            "A": "Spain",
+            "B": "France",
+            "C": "The Netherlands",
+            "D": "Portugal"
+        },
+        "answer": {
+            "options": "C", 
+            "text": "James II's elder daughter, Mary, was married to her cousin William of Orange, the Protestant ruler of the Netherlands."
+        }
+    }, 
+    {
+        "question": "In May 1660 which king returned from exile in Netherlands to restore the monarchy?",
+        "options": {
+            "A": "John",
+            "B": "Charles I",
+            "C": "Henry VIII",
+            "D": "Charles II"
+        },
+        "answer": {
+            "options": "D", 
+            "text": "In May 1660, Parliament invited Charles II to come back from exile in the Netherlands. He was crowned King Charles II of England, Wales, Scotland and Ireland."
+        }
+    }
+]

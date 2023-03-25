@@ -1,0 +1,48 @@
+.Key Dates of the British Calendar
+[cols="<,<",frame=none,grid=rows]
+|===
+|1 Jan
+|New Year's Day
+
+|14 Feb
+|Valentine's Day
+
+|1 March
+|St David's Day
+
+|17 March
+|St Patrick's Day
+
+|1 April
+|April Fool's Day
+
+|14 April
+|Vaisakhi (also Baisakhi)
+
+|23 April
+|St Goerge's Day
+
+|31 Oct
+|Halloween
+
+|5 Nov
+|Bonfire Night
+
+|11 Nov
+|Remembrance Day
+
+|30 Nov
+|St Andrew's Day
+
+|24 Dec
+|Christmas Eve
+
+|25 Dec
+|Christmas Day
+
+|26 Dec
+|Boxing Day
+
+|31 Dec
+|New Year's Eve / Hogmanay
+|===

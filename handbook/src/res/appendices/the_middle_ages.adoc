@@ -1,0 +1,54 @@
+.The Middle Ages (1066-1485)
+[frame=none,grid=rows]
+|===
+|Century|Mornarch|Year|What?
+
+.2+|13th
+|John
+|1215
+|Magna Carta introduced during King John's rule
+
+// |
+|Edward I
+|1284
+|Edward I of England introduces Statute of Rhuddlan, annexing Wales to the Crown of England
+
+|14th
+|
+|1314
+|The Scottish, led by Robert the Bruce, defeat the English at the Battle of Bannockburn
+
+.6+|15th
+|
+|By 1400
+|In England, official documents are written in English and English becomes the preferred language of the royal court and Parliament
+
+// |
+|Henry V
+|1415
+|The Battle of Agincourt, the most famous battle of the Hundred Years War, sees King Henry V's vastly outnumbered army beat the French
+
+// |
+.4+|
+|Mid-15th century
+a|
+* Last Welsh rebellions are defeated. 
+* English law and language are introduced in Wales
+
+// |
+// |
+|1450
+|English leave France
+
+// |
+// |
+|1455
+|The Wars of the Roses start between the House of Lancaster and York over who should be king of England
+
+// |
+// |
+|1485
+a|
+* The Wars of the Roses end with the Wars of Bosworth Field. 
+* King Richard III of the House of York is killed and Henry Tudor of the House of Lancaster becomes Henry VII
+|===

@@ -1,0 +1,73 @@
+.Up to the Norman Conquest
+[frame=none,grid=rows]
+|===
+|Period|Monarch|Year|What?
+
+|Stone Age
+|
+|6,000 years ago
+|First farmers arrive in Britain
+
+.4+|Roman Empire
+.4+|
+|55 BC
+|Julius Caesar unsuccessfully invades Britain
+
+// |
+// |
+|AD 43
+|Emperor Claudius successfully invades Britain
+
+// |
+// |
+|3rd-4th centuries
+|Christian communities appear in Britain
+
+// |
+// |
+|410
+|The Roman army leaves Britain
+
+.2+|Anglo-Saxon
+.2+|
+|600
+|Anglo-Saxon kingdoms are established in Britain
+
+// |
+// |
+|789
+|The Vikings first visit Britain
+
+.3+|[red]#Vikings#
+|[red]#King Alfred the Great#
+|
+|[red]#United the Anglo-Saxon kingdoms and defeated the Vikings#
+
+// |
+|[red]#King Cnut (also called Canute)#
+|
+|[red]#Danish#
+
+// |
+|[red]#King Kenneth MacAlpin#
+|
+|[red]#United the north to protect it from the Vikings (beginning of 'Scotland')#
+
+.3+|Norman Conquest
+|[red]#King Harrold#
+|
+a|
+* [red]#Saxon king#
+* [red]#Defeated by William, Duke of Normandy at the battle of Hastings#
+* [red]#Killed in the battle#
+
+// |
+.2+|William I
+.2+|1066
+|William the Conqueror, Duke of Normandy, becomes King William I of England after defeating Harold, the Saxon King of England, at the Battle of Hastings
+
+// |
+// |
+// |
+|Westminster Abbey first used as coronation church
+|===

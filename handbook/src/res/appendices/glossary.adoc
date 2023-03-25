@@ -1,0 +1,75 @@
+.Glossary
+[cols="<,<",frame=none,grid=rows]
+|===
+|baron
+|A man who has one of the ranks of the British nobility. The title was particularly common during the Middle Ages
+
+|bishop
+|A senior member of the clergy in the Christian religion, often in charge of the churches in a particular area
+
+|by-election
+|An election held in a parliamentary constituency or local authority area to fill a vacancy
+
+|charter
+|An official written statement which describes the rights and responsibilities of a state and its citizens
+
+|chieftain
+|The leader of a clan in Scotland or Ireland
+
+|civil service
+|Government departments managing the business of running the country. People who work for the government can be called civil servants
+
+|clan
+|Group of people or families who live under the rule of a chieftain. Used traditionally in Scotland.
+
+|clergy
+|Religious leaders in Christian Churches
+
+|constituency
+|Area where voters (the constituents) can elect an MP to represent them in Parliament.
+
+|convention (government)
+|Agrement (often between countries) about particular rules or codes of behaviour
+
+|decree (law)
+|Official order, law or decision
+
+|devolution
+|Passing of power from central government to another group at a regional or local level, which can then be called a 'devolved administration'
+
+|franchise
+|The right to vote
+
+|magistrate
+|Person who acts as a judge in a court case where the alleged crime is not a serious one
+
+|oratorio
+|A piece of music for an orchestra (musicians) and singers, often about a religious idea
+
+|Pale
+|Part of Ireland once governed by England
+
+|Presbytian
+|The main Protestant Church in Scotland
+
+|Proportional representation
+|System of election in which political parties are allowed a number of seats in Parliament that represents their share of the total number of votes cast
+
+|Protestants
+|Christians who are not members of the Roman Catholic Church
+
+|Public body
+|A governmental department or a group of people who represent or work for the government and who work for the good of the general public
+
+|Quakers
+|A Protestant religious group
+
+|Reformation, the
+|The religious movement in the 16th century that challenged the authority of the Pope and established Protestant churches in Europe
+
+|Refugee
+|A person who must leave the country where they live, often because of a war or for political reasons
+
+|Seat (Parliament)
+|A constituency
+|===

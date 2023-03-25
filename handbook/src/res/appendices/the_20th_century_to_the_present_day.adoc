@@ -1,0 +1,367 @@
+.The 20th Century to the Present Day
+[frame=none,grid=rows]
+|===
+|Period|Prime Minister|Year|What?
+
+|
+|
+|1913
+|The home Rule Bill is introduced in Parliament proposing a self-governing Ireland with its own parliament
+
+.6+|WWI
+.6+|
+|1914-1918
+|WWI
+
+// |
+// |
+|28 Jun 1914
+|Archduke Franz Ferdinand of Austria is assassinated, setting off a chain of events which leads to WWI
+
+// |
+// |
+|1 Jul 1916
+|A British attack, known as the Battle of the Somme, results in 60,000 British casualties on the first day alone
+
+// |
+// |
+|1916
+a|
+* Irish nationalists revolt against delays in the implementation of Home Rule for Ireland. 
+* Leaders of the failed revolt, which was known as the Easter Rising, are executed under martial law
+
+// |
+// |
+|1918
+|Women over the age of 30 are given the right to vote and stand for Parliament
+
+// |
+// |
+|11 Nov 1918
+|WWI ends at 11:00am
+
+.4+|Inter-war period
+.4+|
+|1921
+|Following a guerilla war against the police and British army in Ireland, a peace treaty is signed with Irish nationalists
+
+// |
+// |
+|1922
+a|
+* Ireland is separated into 2 countries. 
+* The six mainly Protestant counties in the north remain part of the UK as Northern Ireland. 
+* The rest of Ireland becomes the Irish Free State. 
+* A Northern Ireland Parliament is established
+
+// |
+// |
+|1928
+|Women are given the right to vote at 21, the same age as men
+
+// |
+// |
+|1933
+|Adolf Hitler comes to power in Germany
+
+.12+|WWII
+|
+|1939
+a|
+* Hitler invades Poland. 
+* Britain and France declare war on Germany in response to this aggression
+
+// |
+.11+|Winston Churchill
+|1 May 1940
+|Winston Churchill becomes PM
+
+// |
+// |
+|1940
+|German forces defeat allied troops and advance through France
+
+// |
+// |
+|Summer 1940
+|The Royal Air Force wins the crucial air battle, the Battle of Britain, against the German air force
+
+// |
+// |
+|June 1940-June 1941
+|Until German invasion of Soviet Union in June 1941, Britain and the Empire stand alone against Nazi Germany
+
+// |
+// |
+|1941
+|The Social Insurance and Allied Services report (The Beveridge Report) is commissioned
+
+// |
+// |
+|Dec 1941
+|Japan bombs US naval harbour, Pearl Harbor, and the US enters WW2
+
+// |
+// |
+|1942
+|The Social Insurance and Allied Services report (The Beveridge Report) is published by William Beveridge
+
+// |
+// |
+|1944
+|R A Butler oversees introduction of the Education Act 1944 (often called 'The Butler Act') introducing free secondary education in England and Wales and creating primary and secondary stages of education
+
+// |
+// |
+|6 Jun 1944
+a|
+* Allied forces land in Normandy. 
+* This is known as D-day
+
+// |
+// |
+|May 1945
+|The Allies comprehensively defeat Germany
+
+// |
+// |
+|Aug 1945
+a|
+* The US drops atomic bombs on Hiroshima and Nagasaki. 
+* Japan surrenders
+
+.11+|Post-war Britain
+.6+|Clement Attlee
+|1945
+|Clement Attlee becomes PM of a Labour government after Winston Churchill loses the General Election
+
+// |
+// |
+|1947
+|ndependence is granted to 9 colonies of the Empire including India, Pakistan and Ceylon (now Sri Lanka)
+
+// |
+// |
+|1947-1967
+|Other colonies of the Empire in the Caribbean and Pacific achieve the same independence
+
+// |
+// |
+|1948
+|Aneurin (Nye) Bevan, then Minister for Health, leads establishment of the NHS
+
+// |
+// |
+|1949
+|Irish Free State becomes a republic
+
+// |
+// |
+|1950
+|UK is one of the first countries to sign the European Convention on Human Rights and Fundamental Freedoms
+
+// |
+.7+|
+|1951
+|Winston Churchill returns as PM after defeating Clement Attlee
+
+// |
+// |
+|1951-1964
+|There is a Conservative government in the UK
+
+// |
+// |
+|1952
+|Elizabeth II becomes Queen
+
+// |
+// |
+|25 Mar 1957
+|Belgium, France, Germany, Italy, Luxembourg and the Netherlands sign the Treaty of Rome, forming the EEC
+
+// |
+// |
+|1958
+|THE PM is given the power to nominate life peers
+
+.3+|'Swinging Sixties'
+// |
+|1960s
+a|
+* Strict new immigration rules require immigrants to have a connection to the UK through birth or ancestry. 
+* This leads to a fall in the numbers of immigrants coming from West Indies, India, Pakistan and what is now Bangladesh
+
+// |
+// |
+|1964
+|Winston Churchill stands down as an MP at the General Election
+
+// |
+.5+|
+|1969
+|Voting age is reduced to 18 for men and women
+
+.4+|1970s and The Troubles
+// |
+|1969
+|The Troubles, a conflict between those wishing for full Irish independence and those wishing to remain part of the UK, begin in Northern Ireland
+
+// |
+// |
+|1970s
+|There is serious unrest in Northern Ireland, including terror campaigns
+
+// |
+// |
+|1972
+|The Nother Ireland Parliament is abolished
+
+// |
+// |
+|1973
+|UK joins the EEC
+
+.4+|Conservative government
+.3+|Margaret Thatcher
+|1979
+|Margaret Thatcher (Conservative MP) becomes PM
+
+// |
+// |
+|1979-1990
+|Thatcher's Conservative government leads the UK
+
+// |
+// |
+|1982
+a|
+* Argentina invades the Falkland Islands, a British overseas territory in the South Atlantic. 
+* A naval task force is sent from the UK, which recovers the islands
+
+// |
+|John Major
+|1990s
+|The UK plays a leading role in coalition forces during liberation of Kuwait following the Iraqi invasion in 1990 and the conflict in the Former Republic of Yugoslavia
+
+.12+|Labour government
+.9+|Tony Blair
+|1997
+|Tony Blair (Labour MP) is elected as PM
+
+// |
+// |
+|1997
+|Some powers are devolved from central government to give people in Wales, Scotland and Northern Ireland more control over domestic matters
+
+// |
+// |
+|1998
+|The Belfast (or Good Friday) Agreement is signed in Northern Ireland, leading to the establishment of the Northern Ireland Assembly
+
+// |
+// |
+|1998
+|The Human Rights Act incorporates the European Convention on Human Rights and Fundamental Freedoms into UK law
+
+// |
+// |
+|1999
+|The first Northern Ireland Assembly is elected
+
+// |
+// |
+|1999
+|The Welsh Assembly (Senedd) and Scottish Government are formed
+
+// |
+// |
+|1999
+a|
+* Hereditary peers lose the automatic right to attend the House of Lords. 
+* They now elect a few of their number to represent them in the Lords
+
+// |
+// |
+|Since 2000
+|British forces are engaged in a global fight against terrorism and the proliferation of weapons of mass destruction, including operations in Afghanistan and Iraq
+
+// |
+// |
+|2002-2007
+|The Northern Ireland Assembly is suspended
+
+// |
+.3+|Gordon Brown
+|2007
+|Gordon Brown (Labour MP) becomes PM
+
+// |
+// |
+|2008
+|Forced Marriage Protection Orders are introduced in England, Wales and Northern Ireland, allowing the courts to issue orders to protect a person from being forced into a marriage, or a person in a forced marriage
+
+// |
+// |
+|2009
+|British combat troops leave Iraq
+
+.6+|Coalition government
+.8+|David Cameron
+|1 May 2010
+a|
+* The first coalition government since Feb 1974 is elected. 
+* David Cameron (Conservative MP) becomes PM
+
+// |
+// |
+|2011
+|Forced Marriage Protection Orders are introduced in Scotland
+
+// |
+// |
+|2011
+|The Senedd gets power to pass laws on education & training, health & social services, economic development and housing
+
+// |
+// |
+|Nov 2012
+|The first Police and Crime Commissioners (PCCs) are elected in England and Wales
+
+// |
+// |
+|2012
+|Elizabeth II celebrates her Diamond Jubilee (60 years on the throne)
+
+// |
+// |
+|2014
+|Afghanistan has full security responsibility in all of its provinces
+
+.5+|Conservative government
+// |
+|7 May 2015
+a|
+* The Conservative party wins a majority at the General Election. 
+* David Cameron remains PM
+
+// |
+// |
+|23 Jun 2016
+|The UK votes to leave the EU in a referendum
+
+// |
+|Theresa May
+|13 Jul 2016 
+|Theresa May succeeds David Cameron
+
+// |
+.2+|Boris Johnson
+|24 Jul 2019
+|Boris Johnson succeeds Theresa May as PM
+
+// |
+// |
+|31 Jan 2020
+|The UK formally leaves the EU
+|===

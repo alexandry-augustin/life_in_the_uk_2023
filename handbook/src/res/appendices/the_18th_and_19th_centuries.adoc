@@ -1,0 +1,130 @@
+.The 18th and 19th Centuries
+[frame=none,grid=rows]
+|===
+|Period|Mornarch|Year|What?
+
+.5+|The enlightenment
+.2+|Anne
+|1707
+|The Act of Union 1707, known as the Treaty of the Union in Scotland, creates Great Britain, the union of England, Wales and Scotland
+
+// |
+// |
+|1714
+|Queen Anne dies
+
+// |
+|George I
+|1714
+|George I (a German Protestant) becomes king
+
+// |
+.2+|George II
+|1745
+|Charles Edwards Stuart (Bonnie Prince Charlie), grandson of James II, lands in Scotland to try and usurp Goerge II
+
+// |
+// |
+|1746
+a|
+* Bonnie Prince Charlie is defeated by George II at the Battle of Culloden. 
+* Charles escapes back to Europe
+
+.9+|The Industrial Revolution
+.9+|
+|1776
+|13 American colonies declare independence, leading to the American War of Independence between the colonial and British forces
+
+// |
+// |
+|1783
+|The American colonial forces defeat the British army and the independence of the colonies is recognised
+
+// |
+// |
+|1789
+a|
+* Following a revolution in France, the new government declares war on Britain. 
+* Napoleon later becomes Emperor of France and continues the war
+
+// |
+// |
+|1801
+|The Act of Union 1800 unifies Ireland with England, Scotland and Wales
+
+// |
+// |
+|21 Oct 1805
+a|
+* The British navy, lead by Admiral Nelson, defeats the combined Spanish and French fleets at the Battle of Trafalgar. 
+* Nelson is killed in battle
+
+// |
+// |
+|1807
+|It becomes illegal to trade slaves in British ships or from British ports
+
+// |
+// |
+|1815
+|The French Wars end with the defeat of Emperor Napoleon by the Duke of Wellington at Waterloo
+
+// |
+// |
+|1832
+|The first Reform Act grants many more people the right to vote and abolishes both rotten and pocket boroughs
+
+// |
+// |
+|1833
+a|
+* The Emancipation Act abolishes slavery throughout the Empire. 
+* 2M Indian and Chines workers are employed to replace the freed slaves
+
+.9+|The Victorian Age and the Industrial Revolution
+.9+|Victoria
+|1837
+|Victoria becomes Queen at age 18
+
+// |
+// |
+|1846
+|The Corn Laws are repealed, allowing the import of cheap grain
+
+// |
+// |
+|1847
+|Working limits for women and children are introduced at 10h/day
+
+// |
+// |
+|1853-1856
+|The Crimean War is fought with Turkey and France against Russia
+
+// |
+// |
+|1867
+|The second Reform Act creates more urban seats in Parliament and reduces the amount of property people must own in order to vote
+
+// |
+// |
+|1870
+|An Act of Parliament allows women to keep their earnings, property and money when they get married
+
+// |
+// |
+|1882
+|An Act of Parliament gives women the right to keep their own earnings and property
+
+// |
+// |
+|1899-1902
+a|
+* The Boer War is fought against Dutch settlers in South Africa. 
+* The war raises public sympathy for the Boers and lead to questioning the Empire's role
+
+// |
+// |
+|1901
+|Victoria dies after almost 64 years on the throne
+|===
