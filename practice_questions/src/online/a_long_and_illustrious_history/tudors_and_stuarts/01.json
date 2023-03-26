@@ -1,314 +1,292 @@
 [
     {
-        "question": "",
+        "question": "Which TWO of the following were members of the Royal Society?",
         "options": {
-            "A": "",
-            "B": "",
-            "C": "",
-            "D": ""
+            "A": "John Middleton",
+            "B": "Samuel Pepys",
+            "C": "Sir Edmund Halley",
+            "D": "Sir Isaac Newton"
         },
         "answer": {
-            "options": "", 
-            "text": ""
+            "options": "C, D", 
+            "text": "Charles II was interested in science. During his reign, the Royal Society was formed to promote 'natural knowledge'. This is the oldest surviving scientific society in the world. Amongst its early members were Sir Edmund Halley, who successfully predicted the return of the comet now called Halley's Comet, and Sir Isaac Newton."
         }
     }, 
     {
-        "question": "",
+        "question": "Which of the following statements is correct?",
         "options": {
-            "A": "",
-            "B": "",
-            "C": "",
-            "D": ""
+            "A": "During the reign of Elizabeth I everyone had to attend their local church but the queen did not ask what people's real beliefs were.",
+            "B": "During the reign of Elizabeth I people did not have to attend their local church and there were no restrictions on the types of service held."
         },
         "answer": {
-            "options": "", 
-            "text": ""
+            "options": "A", 
+            "text": "Queen Elizabeth I was a Protestant. She re-established the Church of England as the official Church in England. Everyone had to attend their local church and there were laws about the type of religious services and the prayers which could be said, but Elizabeth did not ask about people's real beliefs."
         }
     }, 
     {
-        "question": "",
+        "question": "Which cathedral in London was destroyed by fire in 1666 and redesigned and rebuilt by architect Sir Christopher Wren?",
         "options": {
-            "A": "",
-            "B": "",
-            "C": "",
-            "D": ""
+            "A": "Westminster",
+            "B": "St Augustine's",
+            "C": "St Bartholomew's",
+            "D": "St Paul's"
         },
         "answer": {
-            "options": "", 
-            "text": ""
+            "options": "D", 
+            "text": "During Charles II's reign, in 1666, a great fire destroyed much of the city, including many churches and St Paul's Cathedral. London was rebuilt with a new St Paul's, which was designed by a famous architect, Sir Christopher Wren."
         }
     }, 
     {
-        "question": "",
+        "question": "Where did Charles II go after his army was defeated by Oliver Cromwell at the Battle of Worcester?",
         "options": {
-            "A": "",
-            "B": "",
-            "C": "",
-            "D": ""
+            "A": "He disappeared and was never seen again",
+            "B": "He fled to Europe",
+            "C": "He fled to Ireland",
+            "D": "He was imprisoned in the Tower of London"
         },
         "answer": {
-            "options": "", 
-            "text": ""
+            "options": "B", 
+            "text": "The Scots had not agreed to the execution of Charles I and declared his son Charles II to be king. He was crowned king of Scotland and led a Scottish army into England. Cromwell defeated this army in the Battles of Dunbar and Worcester. Charles II escaped from Worcester, famously hiding in an oak tree on one occasion, and eventually fled to Europe."
         }
     }, 
     {
-        "question": "",
+        "question": "Who was James II's eldest daughter, Mary, married to?",
         "options": {
-            "A": "",
-            "B": "",
-            "C": "",
-            "D": ""
+            "A": "William of Orange",
+            "B": "The Duke of York",
+            "C": "The French Dauphin",
+            "D": "She never married"
         },
         "answer": {
-            "options": "", 
-            "text": ""
+            "options": "A", 
+            "text": "James II's elder daughter, Mary, was married to her cousin William of Orange, the Protestant ruler of the Netherlands."
         }
     }, 
     {
-        "question": "",
+        "question": "Jane Seymour gave birth to the son Henry VIII wanted. What was his name?",
         "options": {
-            "A": "",
-            "B": "",
-            "C": "",
-            "D": ""
+            "A": "Henry",
+            "B": "Edmund",
+            "C": "Edward",
+            "D": "Richard"
         },
         "answer": {
-            "options": "", 
-            "text": ""
+            "options": "C", 
+            "text": "Henry VIII married Jane Seymour after Anne Boleyn's execution. She gave Henry the son he wanted, Edward, but she died shortly after the birth."
         }
     }, 
     {
-        "question": "",
+        "question": "Which of the following statements is correct?",
         "options": {
-            "A": "",
-            "B": "",
-            "C": "",
-            "D": ""
+            "A": "The marriage between Henry VIII and Anne of Cleves ended in divorce.",
+            "B": "The marriage between Henry VIII and Anne of Cleves ended with her execution."
         },
         "answer": {
-            "options": "", 
-            "text": ""
+            "options": "A", 
+            "text": "Anne of Cleves was a German princess. Henry VIII married her for political reasons but divorced her soon after."
         }
     }, 
     {
-        "question": "",
+        "question": "Which of the following statements is correct?",
         "options": {
-            "A": "",
-            "B": "",
-            "C": "",
-            "D": ""
+            "A": "Oliver Cromwell became king of England after Parliament won the Civil War.",
+            "B": "After Parliament won the Civil War, England became a republic and Oliver Cromwell was named Lord Protector."
         },
         "answer": {
-            "options": "", 
-            "text": ""
+            "options": "B", 
+            "text": "At the end of the Civil War, after his campaign in Ireland and victory over Charles II at Worcester, Cromwell was recognised as the leader of the new republic. He was given the title of Lord Protector and ruled until his death in 1658."
         }
     }, 
     {
-        "question": "",
+        "question": "Why did Parliament look to restore Charles II to the throne in 1660?",
         "options": {
-            "A": "",
-            "B": "",
-            "C": "",
-            "D": ""
+            "A": "There was no clear leader after the death of Oliver Cromwell",
+            "B": "They believed in the Divine Right of Kings",
+            "C": "They wanted a Catholic king",
+            "D": "He wanted to give women the vote"
         },
         "answer": {
-            "options": "", 
-            "text": ""
+            "options": "A", 
+            "text": "Although Britain had been a republic for 11 years, without Oliver Cromwell there was no clear leader or system of government. Many people in the country wanted stability. People began to talk about the need for a king."
         }
     }, 
     {
-        "question": "",
+        "question": "Who was Henry VIII's fifth wife and was executed after being accused of taking lovers?",
         "options": {
-            "A": "",
-            "B": "",
-            "C": "",
-            "D": ""
+            "A": "Jane Seymour",
+            "B": "Mary Stuart",
+            "C": "Elizabeth of York",
+            "D": "Catherine Howard"
         },
         "answer": {
-            "options": "", 
-            "text": ""
+            "options": "D", 
+            "text": "Catherine Howard was a cousin of Anne Boleyn and Henry VIII's fifth wife. She was accused of taking lovers and executed."
         }
     }, 
     {
-        "question": "",
+        "question": "People in England feared that James II wanted to make England a Catholic country again.",
         "options": {
-            "A": "",
-            "B": "",
-            "C": "",
-            "D": ""
+            "A": "True",
+            "B": "False"
         },
         "answer": {
-            "options": "", 
-            "text": ""
+            "options": "A", 
+            "text": "People in England worried that James II wanted to make England a Catholic country once more."
         }
     }, 
     {
-        "question": "",
+        "question": "For 11 years, Charles I found ways to raise money without the approval of Parliament. Why did he eventually recall Parliament?",
         "options": {
-            "A": "",
-            "B": "",
-            "C": "",
-            "D": ""
+            "A": "Because of trouble in Wales",
+            "B": "Because of trouble in France",
+            "C": "Because of trouble in Ireland",
+            "D": "Because of trouble in Scotland"
         },
         "answer": {
-            "options": "", 
-            "text": ""
+            "options": "D", 
+            "text": "When Charles I inherited the thrones of England, Wales, Ireland and Scotland, he tried to rule in line with the Divine Right of Kings. When he could not get Parliament to agree with his religious and foreign policies, he tried to rule without Parliament at all. For 11 years, he found ways in which to raise money without Parliament's approval but eventually trouble in Scotland meant that he had to recall Parliament."
         }
     }, 
     {
-        "question": "",
+        "question": "Which of the following statements is correct?",
         "options": {
-            "A": "",
-            "B": "",
-            "C": "",
-            "D": ""
+            "A": "After Elizabeth I died, James I inherited the throne.",
+            "B": "After Elizabeth I died, Elizabeth II inherited the throne."
         },
         "answer": {
-            "options": "", 
-            "text": ""
+            "options": "A", 
+            "text": "Elizabeth I never married and so had no children of her own to inherit her throne. When she died in 1603 her heir was her James VI of Scotland. He became King James I of England, Wales and Ireland but Scotland remained a separate country."
         }
     }, 
     {
-        "question": "",
+        "question": "Which of the following did Sir Isaac Newton show applied to the whole universe in his most famous work Philosophiae Naturalis Principia Mathematica?",
         "options": {
-            "A": "",
-            "B": "",
-            "C": "",
-            "D": ""
+            "A": "Music",
+            "B": "Philosophy",
+            "C": "Nature",
+            "D": "Gravity"
         },
         "answer": {
-            "options": "", 
-            "text": ""
+            "options": "D", 
+            "text": "Born in Lincolnshire, eastern England, Isaac Newton first became interested in science when he studied at Cambridge University. He became an important figure in the field. His most famous published work was Philosophiae Naturalis Principia Mathematica ('Mathematical Principles of Natural Philosophy'), which showed how gravity applied to the whole universe."
         }
     }, 
     {
-        "question": "",
+        "question": "Which of the following statements is correct?",
         "options": {
-            "A": "",
-            "B": "",
-            "C": "",
-            "D": ""
+            "A": "Sir Isaac Newton was a famous scientist.",
+            "B": "Sir Isaac Newton was a famous composer."
         },
         "answer": {
-            "options": "", 
-            "text": ""
+            "options": "A", 
+            "text": "Isaac Newton was a famous scientist who developed our understanding of gravity. Newton also discovered that white light is made up of the colours of the rainbow. Many of his discoveries are still important for modern science."
         }
     }, 
     {
-        "question": "",
+        "question": "Which ideas gradually gained strength in England, Scotland and Wales during the 16th century?",
         "options": {
-            "A": "",
-            "B": "",
-            "C": "",
-            "D": ""
+            "A": "Religious",
+            "B": "Protestant",
+            "C": "Norman",
+            "D": "Irish Catholic"
         },
         "answer": {
-            "options": "", 
-            "text": ""
+            "options": "B", 
+            "text": "Protestant ideas gradually gained strength in England, Wales and Scotland during the 16th century."
         }
     }, 
     {
-        "question": "",
+        "question": "Which of the following statements is correct?",
         "options": {
-            "A": "",
-            "B": "",
-            "C": "",
-            "D": ""
+            "A": "The work of Shakespeare focused mainly on the lives of kings, queens and the nobility.",
+            "B": "Shakespeare was one of the first to portray the lives of ordinary Englishmen and women."
         },
         "answer": {
-            "options": "", 
-            "text": ""
+            "options": "B", 
+            "text": "Shakespeare was born in Stratford-upon-Avon, England. He was a playwright and actor and wrote many poems and plays. He dramatised significant events from the past, but he did not focus solely on kings and queens. He was one of the first to portray ordinary Englishmen and women."
         }
     }, 
     {
-        "question": "",
+        "question": "Following the defeat of James II at the Battle of the Boyne, Irish Catholics were unable to take part in government.",
         "options": {
-            "A": "",
-            "B": "",
-            "C": "",
-            "D": ""
+            "A": "True",
+            "B": "False"
         },
         "answer": {
-            "options": "", 
-            "text": ""
+            "options": "A", 
+            "text": "William III defeated James II at the Battle of the Boyne in Ireland in 1690, an event which is still celebrated by some in Northern Ireland today. William re-conquered Ireland and James fled back to France. Many restrictions were placed on the Roman Catholic Church in Ireland and Irish Catholics were unable to take part in the government."
         }
     }, 
     {
-        "question": "",
+        "question": "Protestantism gained strength in Ireland without resistance during the 16th century.",
         "options": {
-            "A": "",
-            "B": "",
-            "C": "",
-            "D": ""
+            "A": "True",
+            "B": "False"
         },
         "answer": {
-            "options": "", 
-            "text": ""
+            "options": "B", 
+            "text": "In Ireland, attempts by the English to impose Protestantism in the 16th century (alongside efforts to introduce the English system of laws about the inheritance of land) led to rebellion from the Irish chieftains, and much brutal fighting followed."
         }
     }, 
     {
-        "question": "",
+        "question": "Anne Boleyn was Henry VIII's fourth wife.",
         "options": {
-            "A": "",
-            "B": "",
-            "C": "",
-            "D": ""
+            "A": "True",
+            "B": "False"
         },
         "answer": {
-            "options": "", 
-            "text": ""
+            "options": "F", 
+            "text": "Anne Boleyn, cousin of Catherine Howard (Henry VIII's fifth wife), was Henry VIII's second wife."
         }
     }, 
     {
-        "question": "",
+        "question": "During the reign of Charles II, in 1665, there was a major outbreak of what?",
         "options": {
-            "A": "",
-            "B": "",
-            "C": "",
-            "D": ""
+            "A": "Influenza",
+            "B": "Tuberculosis",
+            "C": "Plague",
+            "D": "Smallpox"
         },
         "answer": {
-            "options": "", 
-            "text": ""
+            "options": "C", 
+            "text": "During Charles II's reign, in 1665, there was a major outbreak of plague in London."
         }
     }, 
     {
-        "question": "",
+        "question": "Which TWO of the following were wives of Henry VIII?",
         "options": {
-            "A": "",
-            "B": "",
-            "C": "",
-            "D": ""
+            "A": "Elizabeth of York",
+            "B": "Catherine Parr",
+            "C": "Catherine Raleigh",
+            "D": "Jane Seymour"
         },
         "answer": {
-            "options": "", 
-            "text": ""
+            "options": "B, D", 
+            "text": "The six wives of Henry VIII were Catherine of Aragon, Anne Boleyn, Jane Seymour, Anne of Cleves, Catherine Howard and Catherine Parr."
         }
     }, 
     {
-        "question": "",
+        "question": "Which of the following statements is correct?",
         "options": {
-            "A": "",
-            "B": "",
-            "C": "",
-            "D": ""
+            "A": "Elizabeth I was a popular monarch, particularly after the English defeat of the Spanish Armada.",
+            "B": "Elizabeth I was an unpopular monarch because she caused religious instability."
         },
         "answer": {
-            "options": "", 
-            "text": ""
+            "options": "A", 
+            "text": "Elizabeth I became one of the most popular monarchs in English history, particularly after 1588, when the English defeated the Spanish Armada (a large fleet of ships), which had been sent by Spain to conquer England and restore Catholicism."
         }
     }, 
     {
-        "question": "",
+        "question": "Following the death of her father, how old was Mary Stuart when she became queen of Scotland?",
         "options": {
-            "A": "",
-            "B": "",
-            "C": "",
-            "D": ""
+            "A": "When she was eleven",
+            "B": "When she was a week old",
+            "C": "When she was three weeks old",
+            "D": "When she was a year old"
         },
         "answer": {
-            "options": "", 
-            "text": ""
+            "options": "B", 
+            "text": "The queen of Scotland, Mary Stuart (often now called 'Mary, Queen of Scots') was a Catholic. She was only a week old when her father died and she became queen."
         }
     }
 ]

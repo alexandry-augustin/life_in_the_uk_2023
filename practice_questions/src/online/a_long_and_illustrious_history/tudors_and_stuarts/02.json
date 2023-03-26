@@ -1,314 +1,304 @@
 [
     {
-        "question": "",
+        "question": "During the reign of Henry VII what happened to the power of the nobles in England?",
         "options": {
-            "A": "",
-            "B": "",
-            "C": "",
-            "D": ""
+            "A": "It was reduced",
+            "B": "It increased",
+            "C": "It was abolished",
+            "D": "It was absolute"
         },
         "answer": {
-            "options": "", 
-            "text": ""
+            "options": "A", 
+            "text": "After his victory in the Wars of the Roses, Henry VII wanted to make sure that England remained peaceful and that his position as king was secure. He deliberately strengthened the central administration of England and reduced the power of the nobles."
         }
     }, 
     {
-        "question": "",
+        "question": "Who defeated James II at the Battle of the Boyne in 1690?",
         "options": {
-            "A": "",
-            "B": "",
-            "C": "",
-            "D": ""
+            "A": "William III",
+            "B": "William the Conqueror",
+            "C": "Elizabeth I",
+            "D": "Winston Churchill"
         },
         "answer": {
-            "options": "", 
-            "text": ""
+            "options": "A", 
+            "text": "James II wanted to regain the throne and invaded Ireland with the help of a French army. William defeated James II at the Battle of the Boyne in Ireland in 1690, an event which is still celebrated by some in Northern Ireland today."
         }
     }, 
     {
-        "question": "",
+        "question": "Who won the English Civil War in 1646?",
         "options": {
-            "A": "",
-            "B": "",
-            "C": "",
-            "D": ""
+            "A": "Parliament",
+            "B": "The Cavaliers",
+            "C": "The Jacobites",
+            "D": "The House of York"
         },
         "answer": {
-            "options": "", 
-            "text": ""
+            "options": "A", 
+            "text": "In the English Civil War, Charles I's army was defeated at the Battles of Marston Moor and Naseby. By 1646, it was clear that Parliament had won the war. Charles was held prisoner by the parliamentary army. He was still unwilling to reach any agreement with Parliament and in 1649 he was executed."
         }
     }, 
     {
-        "question": "",
+        "question": "Who succeeded Charles II as monarch when he died in 1685?",
         "options": {
-            "A": "",
-            "B": "",
-            "C": "",
-            "D": ""
+            "A": "James II",
+            "B": "Henry VIII",
+            "C": "William III",
+            "D": "Anne"
         },
         "answer": {
-            "options": "", 
-            "text": ""
+            "options": "A", 
+            "text": "Charles II had no legitimate children. He died in 1685 and his brother, James, who was a Roman Catholic, became King James II in England, Wales and Ireland and King James VII of Scotland."
         }
     }, 
     {
-        "question": "",
+        "question": "Which king is known for his translation of the Bible, which is still used in Protestant churches today?",
         "options": {
-            "A": "",
-            "B": "",
-            "C": "",
-            "D": ""
+            "A": "James I",
+            "B": "Charles I",
+            "C": "William III",
+            "D": "Henry VII"
         },
         "answer": {
-            "options": "", 
-            "text": ""
+            "options": "A", 
+            "text": "One achievement of King James I's reign was a new translation of the Bible into English. It was not the first English Bible but is a version which continues to be used in many Protestant churches today."
         }
     }, 
     {
-        "question": "",
+        "question": "Mary Stuart, the queen of Scotland, was often known by which other name?",
         "options": {
-            "A": "",
-            "B": "",
-            "C": "",
-            "D": ""
+            "A": "Mary Tudor",
+            "B": "Bloody Mary",
+            "C": "Mary, Queen of the Highlands",
+            "D": "Mary, Queen of Scots"
         },
         "answer": {
-            "options": "", 
-            "text": ""
+            "options": "D", 
+            "text": "The queen of Scotland, Mary Stuart (often now called 'Mary, Queen of Scots') was a Catholic. She was only a week old when her father died and she became queen."
         }
     }, 
     {
-        "question": "",
+        "question": "What were supporters of Parliament known as during the English Civil War?",
         "options": {
-            "A": "",
-            "B": "",
-            "C": "",
-            "D": ""
+            "A": "Knights",
+            "B": "Tories",
+            "C": "Roundheads",
+            "D": "Boers"
         },
         "answer": {
-            "options": "", 
-            "text": ""
+            "options": "C", 
+            "text": "The English Civil War began in 1642. The country split into those who supported the king (the Cavaliers) and those who supported Parliament (the Roundheads)."
         }
     }, 
     {
-        "question": "",
+        "question": "Some people, particularly in Scotland, continued to support James II after his exile. What were these supporters called?",
         "options": {
-            "A": "",
-            "B": "",
-            "C": "",
-            "D": ""
+            "A": "Luddites",
+            "B": "Jacobites",
+            "C": "Monarchists",
+            "D": "Clans"
         },
         "answer": {
-            "options": "", 
-            "text": ""
+            "options": "B", 
+            "text": "Some continued to believe that James was the rightful king, particularly in Scotland. Some joined him in exile in France; others were secret supporters. James' supporters became known as Jacobites."
         }
     }, 
     {
-        "question": "",
+        "question": "In 1649, England was declared a republic. What was it called?",
         "options": {
-            "A": "",
-            "B": "",
-            "C": "",
-            "D": ""
+            "A": "The Commonwealth",
+            "B": "The People's Republic",
+            "C": "Cromwell's Republic",
+            "D": "Great Britain"
         },
         "answer": {
-            "options": "", 
-            "text": ""
+            "options": "A", 
+            "text": "By 1646, it was clear that Parliament had won the war. Charles was held prisoner by the parliamentary army. He was still unwilling to reach any agreement with Parliament and in 1649 he was executed. England declared itself a republic, called the Commonwealth. It no longer had a monarch."
         }
     }, 
     {
-        "question": "",
+        "question": "Charles II was crowned King of England, Wales, Scotland and Ireland in the Restoration.",
         "options": {
-            "A": "",
-            "B": "",
-            "C": "",
-            "D": ""
+            "A": "True",
+            "B": "False"
         },
         "answer": {
-            "options": "", 
-            "text": ""
+            "options": "A", 
+            "text": "In May 1660, Parliament invited Charles II to come back from exile in the Netherlands. He was crowned King Charles II of England, Wales, Scotland and Ireland. Charles II made it clear that he had 'no wish to go on his travels again'."
         }
     }, 
     {
-        "question": "",
+        "question": "Who succeeded Oliver Cromwell following his death in 1658?",
         "options": {
-            "A": "",
-            "B": "",
-            "C": "",
-            "D": ""
+            "A": "Charles I",
+            "B": "Richard Cromwell",
+            "C": "James II",
+            "D": "Charles II"
         },
         "answer": {
-            "options": "", 
-            "text": ""
+            "options": "B", 
+            "text": "Cromwell was recognised as the leader of the new English republic. He was given the title of Lord Protector and ruled until his death in 1658. When Cromwell died, his son, Richard, became Lord Protector in his place but was not able to control the army or the government."
         }
     }, 
     {
-        "question": "",
+        "question": "Which scientist, born in 1643, discovered that white light is made up of the colours of the rainbow?",
         "options": {
-            "A": "",
-            "B": "",
-            "C": "",
-            "D": ""
+            "A": "Isaac Newton",
+            "B": "Ernest Rutherford",
+            "C": "Howard Florey",
+            "D": "Sir Peter Mansfield"
         },
         "answer": {
-            "options": "", 
-            "text": ""
+            "options": "A", 
+            "text": "Isaac Newton was born in 1643 and is remembered as a famous scientist. Amongst other things, he discovered that white light is made up of the colours of the rainbow. His most famous published work was Philosophiae Naturalis Principia Mathematica ('Mathematical Principles of Natural Philosophy'), which showed how gravity applied to the whole universe."
         }
     }, 
     {
-        "question": "",
+        "question": "Which king famously hid in an oak tree after escaping from the Battle of Worcester?",
         "options": {
-            "A": "",
-            "B": "",
-            "C": "",
-            "D": ""
+            "A": "Edward I",
+            "B": "Charles II",
+            "C": "John",
+            "D": "George II"
         },
         "answer": {
-            "options": "", 
-            "text": ""
+            "options": "B", 
+            "text": "The Scots had not agreed to the execution of Charles I and declared his son Charles II to be king. He was crowned king of Scotland and led a Scottish army into England. Cromwell defeated this army in the Battles of Dunbar and Worcester. Charles II escaped from Worcester, famously hiding in an oak tree on one occasion, and eventually fled to Europe"
         }
     }, 
     {
-        "question": "",
+        "question": "Sir Francis Drake's ship was called the Golden Hind.",
         "options": {
-            "A": "",
-            "B": "",
-            "C": "",
-            "D": ""
+            "A": "True",
+            "B": "False"
         },
         "answer": {
-            "options": "", 
-            "text": ""
+            "options": "A", 
+            "text": "Sir Francis Drake, one of the commanders in the defeat of the Spanish Armada, was one of the founders of England's naval tradition. His ship, the Golden Hind, was one of the first to sail right around ('circumnavigate') the world."
         }
     }, 
     {
-        "question": "",
+        "question": "Who was Henry VIII's first wife?",
         "options": {
-            "A": "",
-            "B": "",
-            "C": "",
-            "D": ""
+            "A": "Elizabeth of York",
+            "B": "Catherine Howard",
+            "C": "Catherine of Aragon",
+            "D": "Mary, Queen of Scots"
         },
         "answer": {
-            "options": "", 
-            "text": ""
+            "options": "C", 
+            "text": "Henry VIII's first wife was Catherine of Aragon."
         }
     }, 
     {
-        "question": "",
+        "question": "Who redesigned St Paul's Cathedral after it was destroyed by fire in 1666?",
         "options": {
-            "A": "",
-            "B": "",
-            "C": "",
-            "D": ""
+            "A": "Sir Christopher Robin",
+            "B": "Sir Christopher Wren",
+            "C": "Charles II",
+            "D": "Samuel Pepys"
         },
         "answer": {
-            "options": "", 
-            "text": ""
+            "options": "B", 
+            "text": "During Charles II's reign, in 1666, a great fire destroyed much of the city, including many churches and St Paul's Cathedral. London was rebuilt with a new St Paul's, which was designed by a famous architect, Sir Christopher Wren."
         }
     }, 
     {
-        "question": "",
+        "question": "Which TWO of the following are famous plays by William Shakespeare?",
         "options": {
-            "A": "",
-            "B": "",
-            "C": "",
-            "D": ""
+            "A": "The Duchess of Malfi",
+            "B": "Romeo and Juliet",
+            "C": "A Midsummer Night's Dream",
+            "D": "Dr Faustus"
         },
         "answer": {
-            "options": "", 
-            "text": ""
+            "options": "B, C", 
+            "text": "Shakespeare was born in Stratford-upon-Avon, England. He was a playwright and actor and wrote many poems and plays. His most famous plays include A Midsummer Night's Dream, Hamlet, Macbeth and Romeo and Juliet."
         }
     }, 
     {
-        "question": "",
+        "question": "In the 17th century, Oliver Cromwell violently suppressed rebellion in Ireland and established the authority of the English Parliament.",
         "options": {
-            "A": "",
-            "B": "",
-            "C": "",
-            "D": ""
+            "A": "True",
+            "B": "False"
         },
         "answer": {
-            "options": "", 
-            "text": ""
+            "options": "A", 
+            "text": "Oliver Cromwell was sent to Ireland, where the revolt which had begun in 1641 still continued and where there was still a Royalist army. Cromwell was successful in establishing the authority of the English Parliament but did this with such violence that even today Cromwell remains a controversial figure in Ireland."
         }
     }, 
     {
-        "question": "",
+        "question": "The Royal Society was formed to promote what?",
         "options": {
-            "A": "",
-            "B": "",
-            "C": "",
-            "D": ""
+            "A": "Astrology",
+            "B": "Natural knowledge",
+            "C": "Art",
+            "D": "Music"
         },
         "answer": {
-            "options": "", 
-            "text": ""
+            "options": "B", 
+            "text": "Charles II was interested in science. During his reign, the Royal Society was formed to promote 'natural knowledge'."
         }
     }, 
     {
-        "question": "",
+        "question": "Why is William III's accession to the throne known as the Glorious Revolution?",
         "options": {
-            "A": "",
-            "B": "",
-            "C": "",
-            "D": ""
+            "A": "It signalled the start of the Hundred Years War",
+            "B": "William of Orange defeated a much larger army",
+            "C": "It led to the Reformation and the formation of the Protestant Church",
+            "D": "There was no fighting in England"
         },
         "answer": {
-            "options": "", 
-            "text": ""
+            "options": "D", 
+            "text": "In 1688, important Protestants in England asked William of Orange to invade England and proclaim himself king. When William reached England, there was no resistance. This event was later called the Glorious Revolution because there was no fighting in England and because it guaranteed the power of Parliament, ending the threat of a monarch ruling on his or her own as he or she wished."
         }
     }, 
     {
-        "question": "",
+        "question": "In 1688, Protestant leaders in England asked William of Orange to invade England and proclaim himself king.",
         "options": {
-            "A": "",
-            "B": "",
-            "C": "",
-            "D": ""
+            "A": "True",
+            "B": "False"
         },
         "answer": {
-            "options": "", 
-            "text": ""
+            "options": "A", 
+            "text": "In 1688, important Protestants in England asked William of Orange to invade England and proclaim himself king."
         }
     }, 
     {
-        "question": "",
+        "question": "Shakespeare wrote the line 'The darling buds of May'.",
         "options": {
-            "A": "",
-            "B": "",
-            "C": "",
-            "D": ""
+            "A": "True",
+            "B": "False"
         },
         "answer": {
-            "options": "", 
-            "text": ""
+            "options": "A", 
+            "text": "Shakespeare had a great influence on the English language and invented many words that are still common today. Lines from his plays and poems which are often still quoted including 'The darling buds of May' (Sonnet 18 -- Shall I Compare Thee To A Summer's Day)."
         }
     }, 
     {
-        "question": "",
+        "question": "What religion was Elizabeth I?",
         "options": {
-            "A": "",
-            "B": "",
-            "C": "",
-            "D": ""
+            "A": "Catholic",
+            "B": "Presbyterian",
+            "C": "Protestant",
+            "D": "Puritan"
         },
         "answer": {
-            "options": "", 
-            "text": ""
+            "options": "C", 
+            "text": "Queen Elizabeth I was a Protestant. She re-established the Church of England as the official Church in England."
         }
     }, 
     {
-        "question": "",
+        "question": "In 1666, during Charles II's reign, what destroyed much of London?",
         "options": {
-            "A": "",
-            "B": "",
-            "C": "",
-            "D": ""
+            "A": "Flood",
+            "B": "Fire",
+            "C": "War",
+            "D": "An earthquake"
         },
         "answer": {
-            "options": "", 
-            "text": ""
+            "options": "B", 
+            "text": "During Charles II's reign, in 1665, there was a major outbreak of plague in London. Thousands of people died, especially in poorer areas. The following year, a great fire destroyed much of the city, including many churches and St Paul's Cathedral."
         }
     }
 ]

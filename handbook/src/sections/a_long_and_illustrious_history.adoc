@@ -190,13 +190,20 @@ Religious Conflicts
 .This Six Wives of Henry VIII
 [sidebar]
 ****
-Henry VIII married 6 times:
+// Henry VIII married 6 times:
 
-. Catheryn of Aragon (Spanish Princess)
-. Anne Boelyn (English, executed for adultery at the Tower of London)
-. Jane Seymour (gave Henry VIII a son, Edward)
-. Anne of Cleves (German Princess)
-. Catherine Howard (cousin of Anne Boley, executed for adultery)
+. Catheryn of Aragon
+* Spanish Princess
+. Anne Boelyn
+* English
+* Executed for adultery at the Tower of London
+. Jane Seymour
+* Gave Henry VIII a son, Edward
+. Anne of Cleves
+* German Princess
+. Catherine Howard
+* Cousin of Anne Boley
+* Executed for adultery
 . Catherine Parr
 ****
 
@@ -265,8 +272,10 @@ Exploration, Poetry and Drama
 
 * Elizabethan period in England was a time of growing patriotism
 ** English explorers sought new trade routes and tried to expand British trade into Spanish colonies in the Americas
-** Sir Francis Drake (a commander in the defeat of the Spanish Armada) was one of the founders of England's naval tradition
-*** His ship `Golden Hind` was one of the first to circumnavigate the world
+** Sir Francis Drake 
+*** A commander in the defeat of the Spanish Armada
+*** One of the founders of England's naval tradition
+*** His ship 'Golden Hind' was one of the first to circumnavigate the world
 ** Poetry and drama rose
 
 .Shakespeare

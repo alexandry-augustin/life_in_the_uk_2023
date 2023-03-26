@@ -3,10 +3,14 @@
 |===
 |Period|Mornarch|Year|What?
 
-.5+|The Reformation
+.7+|The Reformation
 .3+|Henry VIII
 |21 Apr 1509
-|Henry VIII becomes king
+a|
+* [red]#Son of Henry VII#
+* Henry VIII becomes king
+* [red]#United England and Wales with the 'Act for the Government of Wales'#
+* [red]#Became 'King of Ireland'#
 
 // |
 // |
@@ -19,20 +23,43 @@
 |Henry VIII dies and Edward VI, a Protestant, becomes king
 
 // |
-|Edward VI / Bloody Mary
+|[red]#Mary Stuart (Mary Queen of Scots)#
+|
+a|
+* [red]#1542 Became Queen of Scotland at only a few weeks old when her father died#
+* [red]#Childhood mostly spent in France#
+* [red]#Suspected of killing husband James VII of Scotland#
+* [red]#Fled to England, gave the throne to James VI of Scotland (her Protestant son)#
+* [red]#Suspected by Elizabeth I (her cousin) to take over the English throne#
+* [red]#Jailed for 20 years and executed for conspiring against Elizabeth I#
+
+// |
+|Edward VI
 |1553
 a|
 * Edward VI dies at age 15, having ruled for 6 years. 
+* [red]#Son of Henry VIII#
+* [red]#Introduced the 'Book of Common Prayer'#
+
+// |
+|Queen Mary 'Bloody Mary'
+|1553
+a|
 * 'Bloody' Mary, a Catholic, becomes Queen
+* [red]#Succeeded Edward VI#
+* [red]#Half-sister of Edward VI#
 
 // |
 .3+|Elizabeth I
 |1560
 a|
+* [red]#Half-sister of Mary#
+* [red]#Succeeded Queen Mary#
+* [red]#Young daughter of Henry VIII and Anne Boleyn#
 * The Reformation in Scotland. 
 * The predominantly Protestant Scottish Parliament abolishes the authority of the Pope and Roman Catholic services becomes illegal
 
-.2+|Elizabethan
+.3+|Elizabethan
 // |
 |1588
 |Elizabeth I defeats the Spanish Armada, which had been sent to restore Catholicism to England
@@ -41,13 +68,23 @@ a|
 // |
 |1603
 a|
-* Elizabeth I dies. 
-* James I of England, Wales and Ireland and VI of Scotland, Elizabeth's cousin, becomes king
+* Elizabeth I dies.
+
+// |
+|James I
+|1603
+a|
+* Elizabeth's cousin
+* Becomes king of England, Wales and Ireland and VI of Scotland
+* [red]#1567 Became King James VI of Scotland#
+* [red]#Translated the bible into English (King James Version or Authorised Version)#
 
 .7+|English Civil War
 .5+|Charles I
 |1640
 a|
+* [red]#Son of James I#
+* [red]#Invaded parliament and tried to arrest 5 parliamentary leaders#
 * Charles I tries to introduce a revised Prayer Book in Scotland, causing rebellion. 
 * He recalls Parliament to try and raise money for an army to repel the Scots. 
 * The Protestant and Puritan Parliament refuse to give Charles the money, even after the Scottish invade
@@ -77,19 +114,24 @@ a|
 * [red]#England declared itself a republic called Commonwealth#
 
 // |
-.2+|Cromwell
+|Oliver Cromwell
 .2+|1658
 |Lord Proctector Oliver Cromwell dies
 
 // |
+|Richard Cromwell
 // |
-// |
-|His son, Richard Cromwell, becomes Lord Protector
+a|
+* Son of Oliver Cromwell
+* Richard Cromwell becomes Lord Protector
 
-.3+|The Restoration
+.4+|The Restoration
 .3+|Charles II
 |1 May 1660
-|Charles II is invited back from exile in the Netherlands
+a|
+* [red]#Son of Charles I#
+* [red]#King of Scotland#
+* Charles II is invited back from exile in the Netherlands
 
 // |
 // |
@@ -99,9 +141,16 @@ a|
 // |
 // |
 |1685
+|Charles II dies with no legitimate heir. 
+
+// |
+|James II
+|1685
 a|
-* Charles II dies with no legitimate heir. 
-* His Catholic brother, James II of England, Wales and Ireland and James VII of Scotland, becomes king
+* Catholic brother of Charles II
+* Becomes king of England, Wales and Ireland and James VII of Scotland
+* [red]#Invaded Ireland with the help of France#
+* [red]#1690 Defeated by William in the Battle of Boyne#
 
 .3+|The Glorious Revolution
 .3+|William III

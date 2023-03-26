@@ -20,4 +20,4 @@ include::./sections/a_modern_thriving_society.adoc[leveloffset=+1]
 
 include::./sections/uk_government_the_law_and_your_role.adoc[leveloffset=+1]
 
-include::./sections/appendices.adoc[leveloffset=+1]
+include::./sections/appendices/index.adoc[leveloffset=+1]

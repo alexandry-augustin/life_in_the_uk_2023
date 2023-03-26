@@ -6,7 +6,9 @@
 .5+|The enlightenment
 .2+|Anne
 |1707
-|The Act of Union 1707, known as the Treaty of the Union in Scotland, creates Great Britain, the union of England, Wales and Scotland
+a|
+* [red]#William and Mary's successor#
+* The Act of Union 1707, known as the Treaty of the Union in Scotland, creates Great Britain, the union of England, Wales and Scotland
 
 // |
 // |
@@ -21,7 +23,9 @@
 // |
 .2+|George II
 |1745
-|Charles Edwards Stuart (Bonnie Prince Charlie), grandson of James II, lands in Scotland to try and usurp Goerge II
+a|
+* [red]#George I's son#
+* Charles Edwards Stuart (Bonnie Prince Charlie), grandson of James II, lands in Scotland to try and usurp Goerge II
 
 // |
 // |
