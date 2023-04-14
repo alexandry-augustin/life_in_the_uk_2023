@@ -21,7 +21,7 @@ To compile you first need to navigate into the `src/` directory:
 cd src
 ----
 
-The note are written in {url-asciidoctor}[asciidoctor].
+The notes are written in {url-asciidoctor}[asciidoctor].
 To generate the HTML version, run the following command:
 
 [source,bash]

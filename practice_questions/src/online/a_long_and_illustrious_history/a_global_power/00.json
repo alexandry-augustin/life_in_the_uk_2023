@@ -1,314 +1,312 @@
 [
     {
-        "question": "",
+        "question": "With which country is Bonnie Prince Charlie associated?",
         "options": {
-            "A": "",
-            "B": "",
-            "C": "",
-            "D": ""
+            "A": "Ireland",
+            "B": "Scotland",
+            "C": "France",
+            "D": "Wales"
         },
         "answer": {
-            "options": "", 
-            "text": ""
+            "options": "B", 
+            "text": "Charles Edward Stuart (Bonnie Prince Charlie), the grandson of James II, landed in Scotland. He was supported by clansmen from the Scottish highlands and raised an army."
         }
     }, 
     {
-        "question": "",
+        "question": "Who won the Nobel Prize for Literature in 1907?",
         "options": {
-            "A": "",
-            "B": "",
-            "C": "",
-            "D": ""
+            "A": "William Shakespeare",
+            "B": "Alexander Fleming",
+            "C": "Evelyn Waugh",
+            "D": "Rudyard Kipling"
         },
         "answer": {
-            "options": "", 
-            "text": ""
+            "options": "D", 
+            "text": "Rudyard Kipling was born in India in 1865 and later lived in India, the UK and the USA. He wrote books and poems set in both India and the UK. Kipling was awarded the Nobel Prize in Literature in 1907."
         }
     }, 
     {
-        "question": "",
+        "question": "What improvement was made to working conditions for women and children in 1847?",
         "options": {
-            "A": "",
-            "B": "",
-            "C": "",
-            "D": ""
+            "A": "Women and children were banned from the workplace",
+            "B": "The number of hours that women and children could work was limited to 10 hours per day",
+            "C": "The number of hours that women and children could work was limited to 20 hours per day",
+            "D": "Women and children could only work indoors"
         },
         "answer": {
-            "options": "", 
-            "text": ""
+            "options": "B", 
+            "text": "In 1847, the number of hours that women and children could work was limited by law to 10 hours per day."
         }
     }, 
     {
-        "question": "",
+        "question": "During the 18th century, new ideas about politics, philosophy and science were developed. What are these developments known as?",
         "options": {
-            "A": "",
-            "B": "",
-            "C": "",
-            "D": ""
+            "A": "The Movement",
+            "B": "The Advancement",
+            "C": "The Enlightenment",
+            "D": "The Regression"
         },
         "answer": {
-            "options": "", 
-            "text": ""
+            "options": "C", 
+            "text": "During the 18th century, new ideas about politics, philosophy and science were developed. This is often called 'the Enlightenment'."
         }
     }, 
     {
-        "question": "",
+        "question": "What was the main source of employment in the UK before the 18th century?",
         "options": {
-            "A": "",
-            "B": "",
-            "C": "",
-            "D": ""
+            "A": "Agriculture",
+            "B": "The wool trade",
+            "C": "Financial services",
+            "D": "Canal building"
         },
         "answer": {
-            "options": "", 
-            "text": ""
+            "options": "A", 
+            "text": "Before the 18th century, agriculture was the biggest source of employment in Britain. There were many cottage industries, where people worked from home to produce goods such as cloth and lace."
         }
     }, 
     {
-        "question": "",
+        "question": "In which year were women given the right to vote at the age of 21, the same as men?",
         "options": {
-            "A": "",
-            "B": "",
-            "C": "",
-            "D": ""
+            "A": "1918",
+            "B": "1928",
+            "C": "1946",
+            "D": "1952"
         },
         "answer": {
-            "options": "", 
-            "text": ""
+            "options": "B", 
+            "text": "In 1918, women over the age of 30 were given voting rights and the right to stand for Parliament. This was equalised in 1928, when women were given the right to vote at the age of 21, the same as men."
         }
     }, 
     {
-        "question": "",
+        "question": "Who was the first man to be called Prime Minister?",
         "options": {
-            "A": "",
-            "B": "",
-            "C": "",
-            "D": ""
+            "A": "Sir Robert Walpole",
+            "B": "William Pitt the Younger",
+            "C": "Sir Herbert Walpole",
+            "D": "William Pitt the Elder"
         },
         "answer": {
-            "options": "", 
-            "text": ""
+            "options": "A", 
+            "text": "George I did not speak very good English and this increased his need to rely on his ministers. The most important minister in Parliament became known as the Prime Minister. The first man to be called this was Sir Robert Walpole, who was Prime Minister from 1721 to 1742."
         }
     }, 
     {
-        "question": "",
+        "question": "At which battle was Admiral Nelson killed?",
         "options": {
-            "A": "",
-            "B": "",
-            "C": "",
-            "D": ""
+            "A": "Battle of Agincourt",
+            "B": "Battle of Waterloo",
+            "C": "Battle of Hastings",
+            "D": "Battle of Trafalgar"
         },
         "answer": {
-            "options": "", 
-            "text": ""
+            "options": "D", 
+            "text": "Britain's navy fought against combined French and Spanish fleets, winning the Battle of Trafalgar in 1805. Admiral Nelson was in charge of the British fleet at Trafalgar and was killed in the battle."
         }
     }, 
     {
-        "question": "",
+        "question": "Which British Admiral was killed at the Battle of Trafalgar?",
         "options": {
-            "A": "",
-            "B": "",
-            "C": "",
-            "D": ""
+            "A": "Napoleon",
+            "B": "Nelson",
+            "C": "Sir Francis Drake",
+            "D": "Duke of Wellington"
         },
         "answer": {
-            "options": "", 
-            "text": ""
+            "options": "B", 
+            "text": "Britain's navy fought against combined French and Spanish fleets, winning the Battle of Trafalgar in 1805. Admiral Nelson was in charge of the British fleet at Trafalgar and was killed in the battle."
         }
     }, 
     {
-        "question": "",
+        "question": "Which country's coastline did James Cook map, leading to the establishment of colonies there?",
         "options": {
-            "A": "",
-            "B": "",
-            "C": "",
-            "D": ""
+            "A": "Indonesia",
+            "B": "Portugal",
+            "C": "South Africa",
+            "D": "Australia"
         },
         "answer": {
-            "options": "", 
-            "text": ""
+            "options": "D", 
+            "text": "The Industrial Revolution was a time of increased colonisation overseas. Captain James Cook mapped the coast of Australia and a few colonies were established there. Britain gained control over Canada, and the East India Company, originally set up to trade, gained control of large parts of India. Colonies began to be established in southern Africa."
         }
     }, 
     {
-        "question": "",
+        "question": "By which other name was Charles Edward Stuart known?",
         "options": {
-            "A": "",
-            "B": "",
-            "C": "",
-            "D": ""
+            "A": "Robert Burns",
+            "B": "Charles II",
+            "C": "Bonnie Prince Charlie",
+            "D": "Robert the Bruce"
         },
         "answer": {
-            "options": "", 
-            "text": ""
+            "options": "C", 
+            "text": "Charles Edward Stuart (Bonnie Prince Charlie) was the grandson of James II."
         }
     }, 
     {
-        "question": "",
+        "question": "Which crop failed in Ireland in the mid-19th century, leading to a devastating famine? ",
         "options": {
-            "A": "",
-            "B": "",
-            "C": "",
-            "D": ""
+            "A": "Cabbages",
+            "B": "Wheat",
+            "C": "Potatoes",
+            "D": "Sweetcorn"
         },
         "answer": {
-            "options": "", 
-            "text": ""
+            "options": "C", 
+            "text": "Conditions in Ireland in the 19th century were not as good as in the rest of the UK. Two-thirds of the population still depended on farming to make their living, often on very small plots of land. Many depended on potatoes as a large part of their diet. In the middle of the century the potato crop failed, and Ireland suffered a famine."
         }
     }, 
     {
-        "question": "",
+        "question": "What was Florence Nightingale's profession?",
         "options": {
-            "A": "",
-            "B": "",
-            "C": "",
-            "D": ""
+            "A": "Doctor",
+            "B": "Poet",
+            "C": "Lawyer",
+            "D": "Nurse"
         },
         "answer": {
-            "options": "", 
-            "text": ""
+            "options": "D", 
+            "text": "Florence Nightingale was born in Italy to English parents. At the age of 31, she trained as a nurse in Germany. In 1860 she established the Nightingale Training School for nurses at St Thomas' Hospital in London. She is often regarded as the founder of modern nursing."
         }
     }, 
     {
-        "question": "",
+        "question": "In 1918, women over the age of 30 were given the right to vote. This was partly in recognition of the contribution women made to the war effort during which war?",
         "options": {
-            "A": "",
-            "B": "",
-            "C": "",
-            "D": ""
+            "A": "First World War",
+            "B": "Crimean War",
+            "C": "Second World War",
+            "D": "Cold War"
         },
         "answer": {
-            "options": "", 
-            "text": ""
+            "options": "A", 
+            "text": "In 1918, women over the age of 30 were given voting rights and the right to stand for Parliament, partly in recognition of the contribution women made to the war effort during the First World War."
         }
     }, 
     {
-        "question": "",
+        "question": "Which monarch had the longest reign of the 19th century?",
         "options": {
-            "A": "",
-            "B": "",
-            "C": "",
-            "D": ""
+            "A": "Victoria",
+            "B": "Henry VIII",
+            "C": "Edward VI",
+            "D": "Anne"
         },
         "answer": {
-            "options": "", 
-            "text": ""
+            "options": "A", 
+            "text": "In 1837, Queen Victoria became queen of the UK at the age of 18. She reigned until 1901, almost 64 years."
         }
     }, 
     {
-        "question": "",
+        "question": "Where did the Boer War take place?",
         "options": {
-            "A": "",
-            "B": "",
-            "C": "",
-            "D": ""
+            "A": "South Africa",
+            "B": "France",
+            "C": "England",
+            "D": "Turkey"
         },
         "answer": {
-            "options": "", 
-            "text": ""
+            "options": "A", 
+            "text": "The Boer War took place between 1899 and 1902 in South Africa."
         }
     }, 
     {
-        "question": "",
+        "question": "Who of the following was involved in the suffragette movement?",
         "options": {
-            "A": "",
-            "B": "",
-            "C": "",
-            "D": ""
+            "A": "Jane Austen",
+            "B": "Emmeline Pankhurst",
+            "C": "Florence Nightingale",
+            "D": "Margaret Thatcher"
         },
         "answer": {
-            "options": "", 
-            "text": ""
+            "options": "B", 
+            "text": "Emmeline Pankhurst set up the Women's Franchise League in 1889 as well as founding the Women's Social and Political Union (WSPU) in 1903. The WSPU was the first group whose members were called 'suffragettes' and used civil disobedience and hunger strikes in their protest to gain votes for women. In 1918, women over the age of 30 were given voting rights and the right to stand for Parliament. In 1928, shortly before Pankhurst's death, women were given the right to vote at the age of 21, the same as men."
         }
     }, 
     {
-        "question": "",
+        "question": "What practice did Sake Dean Mahomet introduce to Britain?",
         "options": {
-            "A": "",
-            "B": "",
-            "C": "",
-            "D": ""
+            "A": "Cycling",
+            "B": "Drinking coffee",
+            "C": "The Indian art of head massage",
+            "D": "Drinking tea"
         },
         "answer": {
-            "options": "", 
-            "text": ""
+            "options": "C", 
+            "text": "Sake Dean Mahomet and his wife introduced 'shampooing', the Indian art of head massage, to Britain."
         }
     }, 
     {
-        "question": "",
+        "question": "After the Glorious Revolution what kind of monarchy did Britain become?",
         "options": {
-            "A": "",
-            "B": "",
-            "C": "",
-            "D": ""
+            "A": "Absolute monarchy",
+            "B": "Constitutional monarchy",
+            "C": "Limited monarchy",
+            "D": "Democratic monarchy"
         },
         "answer": {
-            "options": "", 
-            "text": ""
+            "options": "B", 
+            "text": "The laws passed after the Glorious Revolution are the beginning of what is called 'constitutional monarchy'. The monarch remained very important but was no longer able to insist on particular policies or actions if Parliament did not agree."
         }
     }, 
     {
-        "question": "",
+        "question": "Who was William Wilberforce?",
         "options": {
-            "A": "",
-            "B": "",
-            "C": "",
-            "D": ""
+            "A": "The first Prime Minister of the United Kingdom",
+            "B": "An advocate for the abolition of the slave trade",
+            "C": "A poet",
+            "D": "The inventor of the television"
         },
         "answer": {
-            "options": "", 
-            "text": ""
+            "options": "B", 
+            "text": "The first formal anti-slavery groups were set up by the Quakers in the late 1700s, and they petitioned Parliament to ban the practice. William Wilberforce, an evangelical Christian and a member of Parliament, also played an important part in changing the law. Along with other abolitionists (people who supported the abolition of slavery), he succeeded in turning public opinion against the slave trade."
         }
     }, 
     {
-        "question": "",
+        "question": "The British fought a war in South Africa against settlers from the Netherlands. What were these settlers called?",
         "options": {
-            "A": "",
-            "B": "",
-            "C": "",
-            "D": ""
+            "A": "South Africans",
+            "B": "Boers",
+            "C": "Dutch",
+            "D": "Namibians"
         },
         "answer": {
-            "options": "", 
-            "text": ""
+            "options": "B", 
+            "text": "in 1899 The British went to war in South Africa with settlers from the Netherlands called the Boers."
         }
     }, 
     {
-        "question": "",
+        "question": "Which of the following statements is correct?",
         "options": {
-            "A": "",
-            "B": "",
-            "C": "",
-            "D": ""
+            "A": "In 1745 an attempt to put a Stuart king back on the throne was supported by clansmen from the Scottish highlands.",
+            "B": "In 1745 an attempt to put a Stuart king back on the throne was supported by clansmen from the Scottish borders."
         },
         "answer": {
-            "options": "", 
-            "text": ""
+            "options": "A", 
+            "text": "In 1745 there was another attempt to put a Stuart king back on the throne in place of George I's son, George II. Charles Edward Stuart (Bonnie Prince Charlie), the grandson of James II, landed in Scotland. He was supported by clansmen from the Scottish highlands and raised an army."
         }
     }, 
     {
-        "question": "",
+        "question": "An 1847 law limited the number of hours women and children could work in a day to what?",
         "options": {
-            "A": "",
-            "B": "",
-            "C": "",
-            "D": ""
+            "A": "5",
+            "B": "10",
+            "C": "18",
+            "D": "2"
         },
         "answer": {
-            "options": "", 
-            "text": ""
+            "options": "B", 
+            "text": "In 1847, the number of hours that women and children could work was limited by law to 10 hours per day."
         }
     }, 
     {
-        "question": "",
+        "question": "What is David Hume famous for?",
         "options": {
-            "A": "",
-            "B": "",
-            "C": "",
-            "D": ""
+            "A": "Sailing around the world single-handed",
+            "B": "His ideas about human nature",
+            "C": "Developing the jet engine",
+            "D": "Captaining the English football team"
         },
         "answer": {
-            "options": "", 
-            "text": ""
+            "options": "B", 
+            "text": "David Hume's is famous for ideas about human nature. They continue to influence philosophers today."
         }
     }
 ]

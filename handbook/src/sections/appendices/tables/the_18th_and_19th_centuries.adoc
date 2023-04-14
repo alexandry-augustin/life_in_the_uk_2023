@@ -3,7 +3,7 @@
 |===
 |Period|Mornarch|Year|What?
 
-.5+|The enlightenment
+.6+|The enlightenment
 .2+|Anne
 |1707
 a|
@@ -16,9 +16,14 @@ a|
 |Queen Anne dies
 
 // |
-|George I
+.2+|George I
 |1714
 |George I (a German Protestant) becomes king
+
+// |
+// |
+|[red]#1721-1742#
+|[red]#Sir Robert Walpole was the first Prime Minister#
 
 // |
 .2+|George II

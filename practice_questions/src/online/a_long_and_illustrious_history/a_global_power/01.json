@@ -1,314 +1,296 @@
 [
     {
-        "question": "",
+        "question": "What are small Scottish farms also known as?",
         "options": {
-            "A": "",
-            "B": "",
-            "C": "",
-            "D": ""
+            "A": "Crofts",
+            "B": "Bothies",
+            "C": "Hamlets",
+            "D": "Homesteads"
         },
         "answer": {
-            "options": "", 
-            "text": ""
+            "options": "A", 
+            "text": "A process began which became known as the Highland Clearances. Many Scottish landlords destroyed individual small farms (known as crofts) to make space for large flocks of sheep and cattle."
         }
     }, 
     {
-        "question": "",
+        "question": "Born in 1732, Richard Arkwright originally worked in which profession?",
         "options": {
-            "A": "",
-            "B": "",
-            "C": "",
-            "D": ""
+            "A": "MP",
+            "B": "Lawyer",
+            "C": "Barber",
+            "D": "Weaver"
         },
         "answer": {
-            "options": "", 
-            "text": ""
+            "options": "C", 
+            "text": "Born in 1732, Arkwright originally trained and worked as a barber."
         }
     }, 
     {
-        "question": "",
+        "question": "Richard Arkwright increased the efficiency of production and profitability of factories.",
         "options": {
-            "A": "",
-            "B": "",
-            "C": "",
-            "D": ""
+            "A": "True",
+            "B": "False"
         },
         "answer": {
-            "options": "", 
-            "text": ""
+            "options": "A", 
+            "text": "Richard Arkwright developed more efficient textile factory production. During the 18th century he improved the original carding machine, increasing the efficiency of production. Arkwright is particularly remembered for the efficient and profitable way that he ran his factories."
         }
     }, 
     {
-        "question": "",
+        "question": "Which of the following statements is correct?",
         "options": {
-            "A": "",
-            "B": "",
-            "C": "",
-            "D": ""
+            "A": "When Sake Dean Mahomet moved to Ireland he eloped with an Irish girl called Jane Daly.",
+            "B": "When Sake Dean Mahomet moved to England he eloped with an English girl called Jane Daly."
         },
         "answer": {
-            "options": "", 
-            "text": ""
+            "options": "A", 
+            "text": "Mahomet was born in 1759 and grew up in the Bengal region of India. He moved to Ireland and eloped with an Irish girl called Jane Daly in 1786, returning to England at the turn of the century."
         }
     }, 
     {
-        "question": "",
+        "question": "Who succeeded Queen Anne after her death in 1714?",
         "options": {
-            "A": "",
-            "B": "",
-            "C": "",
-            "D": ""
+            "A": "George II",
+            "B": "George I",
+            "C": "William of Orange",
+            "D": "Charles II"
         },
         "answer": {
-            "options": "", 
-            "text": ""
+            "options": "B", 
+            "text": "When Queen Anne died in 1714, Parliament chose a German, George I, to be the next king, because he was Anne’s nearest Protestant relative."
         }
     }, 
     {
-        "question": "",
+        "question": "Which of these countries was part of the British Empire during Queen Victoria’s reign?",
         "options": {
-            "A": "",
-            "B": "",
-            "C": "",
-            "D": ""
+            "A": "France",
+            "B": "Switzerland",
+            "C": "The USA",
+            "D": "India"
         },
         "answer": {
-            "options": "", 
-            "text": ""
+            "options": "D", 
+            "text": "During the Victorian period, the British Empire grew to cover all of India, Australia and large parts of Africa."
         }
     }, 
     {
-        "question": "",
+        "question": "The Boers were settlers who originally came from which country?",
         "options": {
-            "A": "",
-            "B": "",
-            "C": "",
-            "D": ""
+            "A": "The Congo",
+            "B": "The United States",
+            "C": "New Zealand",
+            "D": "The Netherlands"
         },
         "answer": {
-            "options": "", 
-            "text": ""
+            "options": "D", 
+            "text": "The Boer War of 1899 to 1902 made the discussions about the future of the Empire more urgent. The British went to war in South Africa with settlers from the Netherlands called the Boers."
         }
     }, 
     {
-        "question": "",
+        "question": "Which of the following statements is correct?",
         "options": {
-            "A": "",
-            "B": "",
-            "C": "",
-            "D": ""
+            "A": "The Chartists' campaign demanding the vote for the working classes and others without property was unsuccessful.",
+            "B": "The second Reform Act created many more urban seats in Parliament and reduced the amount of property that people needed to have before they could vote."
         },
         "answer": {
-            "options": "", 
-            "text": ""
+            "options": "B", 
+            "text": "Campaigners, called the Chartists, presented petitions to Parliament. At first they seemed to be unsuccessful, but in 1867 there was another Reform Act which created many more urban seats in Parliament and reduced the amount of property that people needed to have before they could vote."
         }
     }, 
     {
-        "question": "",
+        "question": "During the 18th century, Britain fought a number of wars with which country?",
         "options": {
-            "A": "",
-            "B": "",
-            "C": "",
-            "D": ""
+            "A": "India",
+            "B": "South Africa",
+            "C": "Scotland",
+            "D": "France"
         },
         "answer": {
-            "options": "", 
-            "text": ""
+            "options": "D", 
+            "text": "During the 18th century, Britain fought a number of wars with France."
         }
     }, 
     {
-        "question": "",
+        "question": "Which of the following statements is correct?",
         "options": {
-            "A": "",
-            "B": "",
-            "C": "",
-            "D": ""
+            "A": "Colonists in North America were well educated and interested in ideas of liberty.",
+            "B": "Colonists in North America were poorly educated and uninterested in politics."
         },
         "answer": {
-            "options": "", 
-            "text": ""
+            "options": "A", 
+            "text": "By the 1760s, there were substantial British colonies in North America. The colonies were wealthy and largely in control of their own affairs. Many of the colonist families had originally gone to North America in order to have religious freedom. They were well educated and interested in ideas of liberty."
         }
     }, 
     {
-        "question": "",
+        "question": "Which of the following statements is correct?",
         "options": {
-            "A": "",
-            "B": "",
-            "C": "",
-            "D": ""
+            "A": "After the Bill of Rights the monarch could administer justice without agreement from Parliament, but not raise taxes.",
+            "B": "After the Bill of Rights the monarch needed agreement from Parliament to raise taxes and administer justice."
         },
         "answer": {
-            "options": "", 
-            "text": ""
+            "options": "B", 
+            "text": "The Bill of Rights, passed in 1689, confirmed the rights of Parliament and the limits of the king’s power. Amongst other things, the Bill confirmed that the king would no longer be able to raise taxes or administer justice without agreement from Parliament."
         }
     }, 
     {
-        "question": "",
+        "question": "19th century campaigners called the Chartists fought for what?",
         "options": {
-            "A": "",
-            "B": "",
-            "C": "",
-            "D": ""
+            "A": "The right for people without property to vote in elections",
+            "B": "The right for Catholics to vote in elections",
+            "C": "The right for children to vote in elections",
+            "D": "The right for Irish people to vote in elections"
         },
         "answer": {
-            "options": "", 
-            "text": ""
+            "options": "A", 
+            "text": "A movement began to demand the vote for the working classes and other people without property. Campaigners, called the Chartists, presented petitions to Parliament."
         }
     }, 
     {
-        "question": "",
+        "question": "Why were slaves from West Africa taken to America and the Caribbean?",
         "options": {
-            "A": "",
-            "B": "",
-            "C": "",
-            "D": ""
+            "A": "To join the colonial armies",
+            "B": "To work on tobacco and sugar plantations",
+            "C": "To work building roads",
+            "D": "To help Britain rebuild after the Second World War"
         },
         "answer": {
-            "options": "", 
-            "text": ""
+            "options": "B", 
+            "text": "Slaves came primarily from West Africa. Travelling on British ships in horrible conditions, they were taken to America and the Caribbean, where they were made to work on tobacco and sugar plantations."
         }
     }, 
     {
-        "question": "",
+        "question": "What is the reign of Queen Victoria commonly referred to as?",
         "options": {
-            "A": "",
-            "B": "",
-            "C": "",
-            "D": ""
+            "A": "The Age of Victoria",
+            "B": "The Victoria Years",
+            "C": "The Victorian Age",
+            "D": "The Victorian Epoch"
         },
         "answer": {
-            "options": "", 
-            "text": ""
+            "options": "C", 
+            "text": "In 1837, Queen Victoria became queen of the UK at the age of 18. Her reign is known as the Victorian Age."
         }
     }, 
     {
-        "question": "",
+        "question": "Emmeline Pankhurst had a role in establishing which organisation for women’s rights in 1889?",
         "options": {
-            "A": "",
-            "B": "",
-            "C": "",
-            "D": ""
+            "A": "The Women’s Voting Council",
+            "B": "The Women’s Franchise League",
+            "C": "The Female Democratic Organisation",
+            "D": "The Women’s Equality Society"
         },
         "answer": {
-            "options": "", 
-            "text": ""
+            "options": "B", 
+            "text": "Emmeline Pankhurst was born in Manchester in 1858. She set up the Women’s Franchise League in 1889, which fought to get the vote in local elections for married women. In 1903 she helped found the Women’s Social and Political Union (WSPU)."
         }
     }, 
     {
-        "question": "",
+        "question": "Which of the following statements is correct?",
         "options": {
-            "A": "",
-            "B": "",
-            "C": "",
-            "D": ""
+            "A": "By the 18th century slavery in Britain was commonplace.",
+            "B": "By the 18th century the slave trade was an established overseas industry but illegal within Britain."
         },
         "answer": {
-            "options": "", 
-            "text": ""
+            "options": "B", 
+            "text": "While slavery was illegal within Britain itself, by the 18th century it was a fully established overseas industry, dominated by Britain and the American colonies."
         }
     }, 
     {
-        "question": "",
+        "question": "Why was Parliament still some way from being a modern democracy after the Glorious Revolution?",
         "options": {
-            "A": "",
-            "B": "",
-            "C": "",
-            "D": ""
+            "A": "Only bishops were able to vote",
+            "B": "Only men who owned property of a certain value could vote",
+            "C": "Only women were allowed to vote",
+            "D": "Parliament took control of who could be monarch"
         },
         "answer": {
-            "options": "", 
-            "text": ""
+            "options": "B", 
+            "text": "After William III, the ministers gradually became more important than the monarch but this was not a democracy in the modern sense. The number of people who had the right to vote for members of Parliament was still very small. Only men who owned property of a certain value were able to vote. No women at all had the vote. Some constituencies were controlled by a single wealthy family. These were called ‘pocket boroughs’. Other constituencies had hardly any voters and were called ‘rotten boroughs’."
         }
     }, 
     {
-        "question": "",
+        "question": "During Queen Victoria’s reign the French Empire became the largest empire the world has ever seen.",
         "options": {
-            "A": "",
-            "B": "",
-            "C": "",
-            "D": ""
+            "A": "True",
+            "B": "False"
         },
         "answer": {
-            "options": "", 
-            "text": ""
+            "options": "B", 
+            "text": "During the Victorian period, the British Empire grew to cover all of India, Australia and large parts of Africa. It became the largest empire the world has ever seen, with an estimated population of more than 400 million people."
         }
     }, 
     {
-        "question": "",
+        "question": "Which of the following statements is correct?",
         "options": {
-            "A": "",
-            "B": "",
-            "C": "",
-            "D": ""
+            "A": "The Industrial Revolution is what we call the rapid development of industry across the 18th and 19th centuries.",
+            "B": "The Industrial Revolution was a famous slave revolt, which ultimately led to the end of the slave trade."
         },
         "answer": {
-            "options": "", 
-            "text": ""
+            "options": "A", 
+            "text": "The Industrial Revolution was the rapid development of industry in Britain in the 18th and 19th centuries."
         }
     }, 
     {
-        "question": "",
+        "question": "What event in 1851 took place at the Crystal Palace in Hyde Park and showed goods and exhibits from Britain and across the world?",
         "options": {
-            "A": "",
-            "B": "",
-            "C": "",
-            "D": ""
+            "A": "The Great Exhibition",
+            "B": "The Great Show",
+            "C": "The Great Event",
+            "D": "The Great Occasion"
         },
         "answer": {
-            "options": "", 
-            "text": ""
+            "options": "A", 
+            "text": "In 1851, the Great Exhibition opened in Hyde Park in the Crystal Palace, a huge building made of iron and glass."
         }
     }, 
     {
-        "question": "",
+        "question": "What was needed during the Industrial Revolution to power the new factories?",
         "options": {
-            "A": "",
-            "B": "",
-            "C": "",
-            "D": ""
+            "A": "Coal",
+            "B": "Slaves",
+            "C": "Oil",
+            "D": "Looms"
         },
         "answer": {
-            "options": "", 
-            "text": ""
+            "options": "A", 
+            "text": "The Industrial Revolution was the rapid development of industry in Britain in the 18th and 19th centuries. Coal and other raw materials were needed to power the new factories."
         }
     }, 
     {
-        "question": "",
+        "question": "Sir Robert Walpole was Prime Minister from 1872 to 1899.",
         "options": {
-            "A": "",
-            "B": "",
-            "C": "",
-            "D": ""
+            "A": "True",
+            "B": "False"
         },
         "answer": {
-            "options": "", 
-            "text": ""
+            "options": "B", 
+            "text": "George I did not speak very good English and this increased his need to rely on his ministers. The most important minister in Parliament became known as the Prime Minister. The first man to be called this was Sir Robert Walpole, who was Prime Minister from 1721 to 1742."
         }
     }, 
     {
-        "question": "",
+        "question": "What significant problem arose for Britain from trading and settlements overseas in the 19th century?",
         "options": {
-            "A": "",
-            "B": "",
-            "C": "",
-            "D": ""
+            "A": "Conflict with other countries, particularly France",
+            "B": "The Industrial Revolution made shipbuilding expensive",
+            "C": "There was no plan or structure to the expansion",
+            "D": "The Great Depression caused mass unemployment"
         },
         "answer": {
-            "options": "", 
-            "text": ""
+            "options": "A", 
+            "text": "Trading and settlements overseas sometimes brought Britain into conflict with other countries, particularly France, which was expanding and trading in a similar way in many of the same areas of the world."
         }
     }, 
     {
-        "question": "",
+        "question": "Which modern political party is still referred to sometimes as the Tories?",
         "options": {
-            "A": "",
-            "B": "",
-            "C": "",
-            "D": ""
+            "A": "Liberal Democrats",
+            "B": "Labour Party",
+            "C": "Conservative Party",
+            "D": "Whigs"
         },
         "answer": {
-            "options": "", 
-            "text": ""
+            "options": "C", 
+            "text": "The Bill of Rights meant that, to be able to govern effectively, the monarch needed to have advisers, or ministers, who would be able to ensure a majority of votes in the House of Commons and the House of Lords. There were two main groups in Parliament, known as the Whigs and the Tories. The modern Conservative Party is still sometimes referred to as the Tories. This was the beginning of party politics."
         }
     }
 ]

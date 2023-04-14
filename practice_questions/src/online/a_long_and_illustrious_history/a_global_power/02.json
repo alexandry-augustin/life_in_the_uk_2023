@@ -1,314 +1,302 @@
 [
     {
-        "question": "",
+        "question": "The repeal of the Corn Laws in 1846 was designed to do what?",
         "options": {
-            "A": "",
-            "B": "",
-            "C": "",
-            "D": ""
+            "A": "Allow the import of cheap grain",
+            "B": "Encourage British farmers to grow more grain",
+            "C": "Increase the quality of bread",
+            "D": "Introduce more efficient working practices on British farms"
         },
         "answer": {
-            "options": "", 
-            "text": ""
+            "options": "A", 
+            "text": "The repealing of the Corn Laws in 1846 allowed the import of cheap grain. The reforms helped the development of British industry, because raw materials could now be imported more cheaply."
         }
     }, 
     {
-        "question": "",
+        "question": "What happened in 1918 to make it an important date in the history of women's rights?",
         "options": {
-            "A": "",
-            "B": "",
-            "C": "",
-            "D": ""
+            "A": "Women were made legally responsible for their children's crimes",
+            "B": "Wives were given the right to keep their own earnings and property",
+            "C": "Laws guaranteeing equal pay were passed",
+            "D": "Women were given the right to vote"
         },
         "answer": {
-            "options": "", 
-            "text": ""
+            "options": "D", 
+            "text": "In 1918, women over the age of 30 were given the right to vote. In 1928 the age lowered to 21, the same age as men."
         }
     }, 
     {
-        "question": "",
+        "question": "Why did a large number of Russian and Polish Jews come to Britain between 1870 and 1914?",
         "options": {
-            "A": "",
-            "B": "",
-            "C": "",
-            "D": ""
+            "A": "To look for work",
+            "B": "To escape persecution",
+            "C": "To buy cotton from British merchants",
+            "D": "To learn English"
         },
         "answer": {
-            "options": "", 
-            "text": ""
+            "options": "B", 
+            "text": "Between 1870 and 1914, around 120,000 Russian and Polish Jews came to Britain to escape persecution. Many settled in London's East End and in Manchester and Leeds."
         }
     }, 
     {
-        "question": "",
+        "question": "Which of the following factors contributed to the Industrial Revolution in Britain?",
         "options": {
-            "A": "",
-            "B": "",
-            "C": "",
-            "D": ""
+            "A": "The foundation of the modern welfare state",
+            "B": "The development of steam power and machinery",
+            "C": "The outbreak of plague",
+            "D": "The end of the Second World War"
         },
         "answer": {
-            "options": "", 
-            "text": ""
+            "options": "B", 
+            "text": "The Industrial Revolution was the rapid development of industry in Britain in the 18th and 19th centuries. Britain was the first country to industrialise on a large scale. It happened because of the development of machinery and the use of steam power."
         }
     }, 
     {
-        "question": "",
+        "question": "The 1853 to 1856 Crimean War saw Britain fight against Russia. Which TWO countries were Britain's allies?",
         "options": {
-            "A": "",
-            "B": "",
-            "C": "",
-            "D": ""
+            "A": "Japan",
+            "B": "Canada",
+            "C": "Turkey",
+            "D": "France"
         },
         "answer": {
-            "options": "", 
-            "text": ""
+            "options": "C, D", 
+            "text": "From 1853 to 1856, Britain fought with Turkey and France against Russia in the Crimean War."
         }
     }, 
     {
-        "question": "",
+        "question": "Where did Florence Nightingale establish the Nightingale School for Nurses in 1860?",
         "options": {
-            "A": "",
-            "B": "",
-            "C": "",
-            "D": ""
+            "A": "St Thomas' Hospital, London",
+            "B": "Addenbrooke's Hospital, Cambridge",
+            "C": "St James's University Hospital, Leeds",
+            "D": "Prince Philip Hospital, Llanelli"
         },
         "answer": {
-            "options": "", 
-            "text": ""
+            "options": "A", 
+            "text": "In 1860 Florence Nightingale established the Nightingale Training School for nurses at St Thomas' Hospital in London. The school was the first of its kind and still exists today, as do many of the practices that Nightingale used."
         }
     }, 
     {
-        "question": "",
+        "question": "Which of the following statements is correct?",
         "options": {
-            "A": "",
-            "B": "",
-            "C": "",
-            "D": ""
+            "A": "Large numbers of Irish people emigrated to the United States after a potato famine in the 19th century.",
+            "B": "Nearly all of the Irish people stayed in Ireland to rebuild after the potato famine in the 19th century."
         },
         "answer": {
-            "options": "", 
-            "text": ""
+            "options": "A", 
+            "text": "In Ireland in the 19th century many depended on potatoes as a large part of their diet. In the middle of the century the potato crop failed, and Ireland suffered a famine. A million people died from disease and starvation. Another 1.5 million left Ireland. Some emigrated to the United States and others came to England."
         }
     }, 
     {
-        "question": "",
+        "question": "The Highland Clearances occurred in Wales.",
         "options": {
-            "A": "",
-            "B": "",
-            "C": "",
-            "D": ""
+            "A": "True",
+            "B": "False"
         },
         "answer": {
-            "options": "", 
-            "text": ""
+            "options": "B", 
+            "text": "The Highland Clearances occurred in Scotland. Many Scottish landlords destroyed individual small farms (known as ‘crofts') to make space for large flocks of sheep and cattle. Evictions became very common in the early 19th century."
         }
     }, 
     {
-        "question": "",
+        "question": "In 1918 women over the age of 30 were given the right to vote and stand for Parliament.",
         "options": {
-            "A": "",
-            "B": "",
-            "C": "",
-            "D": ""
+            "A": "True",
+            "B": "False"
         },
         "answer": {
-            "options": "", 
-            "text": ""
+            "options": "A", 
+            "text": "In 1918, women over the age of 30 were given voting rights and the right to stand for Parliament, partly in recognition of the contribution women made to the war effort during the First World War."
         }
     }, 
     {
-        "question": "",
+        "question": "David Hume was considered to be one of the great thinkers of the Enlightenment. What was his field of knowledge?",
         "options": {
-            "A": "",
-            "B": "",
-            "C": "",
-            "D": ""
+            "A": "Medicine",
+            "B": "Economics",
+            "C": "Philosophy",
+            "D": "Biology"
         },
         "answer": {
-            "options": "", 
-            "text": ""
+            "options": "C", 
+            "text": "During the 18th century, new ideas about politics, philosophy and science were developed. This is often called ‘the Enlightenment'. David Hume's ideas about human nature continue to influence philosophers."
         }
     }, 
     {
-        "question": "",
+        "question": "What does the Victoria Cross, first awarded during the Crimean War, honour?",
         "options": {
-            "A": "",
-            "B": "",
-            "C": "",
-            "D": ""
+            "A": "Exceptional journalism by war reporters",
+            "B": "Life-saving care administered by doctors and nurses",
+            "C": "Acts of valour by soldiers",
+            "D": "Outstanding painting skills by war artists"
         },
         "answer": {
-            "options": "", 
-            "text": ""
+            "options": "C", 
+            "text": "Queen Victoria introduced the Victoria Cross medal during the Crimean War. It honours acts of valour by soldiers."
         }
     }, 
     {
-        "question": "",
+        "question": "George and Robert Stephenson are famous for pioneering what?",
         "options": {
-            "A": "",
-            "B": "",
-            "C": "",
-            "D": ""
+            "A": "The railway engine",
+            "B": "The aeroplane",
+            "C": "The telephone",
+            "D": "The electric lightbulb"
         },
         "answer": {
-            "options": "", 
-            "text": ""
+            "options": "A", 
+            "text": "Father and son George and Robert Stephenson pioneered the railway engine, and a major expansion of the railways took place in the Victorian period."
         }
     }, 
     {
-        "question": "",
+        "question": "Who was the first Prime Minister?",
         "options": {
-            "A": "",
-            "B": "",
-            "C": "",
-            "D": ""
+            "A": "William Wilberforce",
+            "B": "Sir Robert Walpole",
+            "C": "Benjamin Disraeli",
+            "D": "William Gladstone"
         },
         "answer": {
-            "options": "", 
-            "text": ""
+            "options": "B", 
+            "text": "The first man to hold the office of Prime Minister was Sir Robert Walpole, who was Prime Minister for 20 years until 1742."
         }
     }, 
     {
-        "question": "",
+        "question": "Which Nobel Prize winning author of The Jungle Book lived in India and the USA, as well as the UK?",
         "options": {
-            "A": "",
-            "B": "",
-            "C": "",
-            "D": ""
+            "A": "JG Ballard",
+            "B": "Jane Austen",
+            "C": "Evelyn Waugh",
+            "D": "Rudyard Kipling"
         },
         "answer": {
-            "options": "", 
-            "text": ""
+            "options": "D", 
+            "text": "Rudyard Kipling was born in India in 1865 and later lived in India, the UK and the USA. He wrote books and poems set in both India and the UK including The Jungle Book."
         }
     }, 
     {
-        "question": "",
+        "question": "What landmark in women's rights was achieved shortly before Emmeline Pankhurst's death in 1928?",
         "options": {
-            "A": "",
-            "B": "",
-            "C": "",
-            "D": ""
+            "A": "Women were allowed to become bishops",
+            "B": "Women were allowed to become soldiers",
+            "C": "Women were allowed to become teachers",
+            "D": "Women were given the right to vote at the same age as men"
         },
         "answer": {
-            "options": "", 
-            "text": ""
+            "options": "D", 
+            "text": "Shortly before Emmeline's death in 1928, women were given the right to vote at the age of 21, the same as men."
         }
     }, 
     {
-        "question": "",
+        "question": "Acts of Parliament in 1870 and 1882 awarded which right to women?",
         "options": {
-            "A": "",
-            "B": "",
-            "C": "",
-            "D": ""
+            "A": "The right to join the armed forces",
+            "B": "The right to work",
+            "C": "The right to attend university",
+            "D": "The right to keep their own earnings and property after marriage"
         },
         "answer": {
-            "options": "", 
-            "text": ""
+            "options": "D", 
+            "text": "Acts of Parliament in 1870 and 1882 gave wives the right to keep their own earnings and property."
         }
     }, 
     {
-        "question": "",
+        "question": "Which of the following statements is correct?",
         "options": {
-            "A": "",
-            "B": "",
-            "C": "",
-            "D": ""
+            "A": "During Queen Victoria's reign the middle classes became increasingly significant.",
+            "B": "During Queen Victoria's reign the size and influence of the British middle class shrank."
         },
         "answer": {
-            "options": "", 
-            "text": ""
+            "options": "A", 
+            "text": "During Queen Victoria's reign Britain increased in power and influence abroad. Within the UK, the middle classes became increasingly significant and a number of reformers led moves to improve conditions of life for the poor."
         }
     }, 
     {
-        "question": "",
+        "question": "What nationality was George I?",
         "options": {
-            "A": "",
-            "B": "",
-            "C": "",
-            "D": ""
+            "A": "German",
+            "B": "Scottish",
+            "C": "English",
+            "D": "French"
         },
         "answer": {
-            "options": "", 
-            "text": ""
+            "options": "A", 
+            "text": "When Queen Anne died in 1714, Parliament chose a German, George I, to be the next king, because he was Anne's nearest Protestant relative."
         }
     }, 
     {
-        "question": "",
+        "question": "Which TWO of these books were written by Rudyard Kipling?",
         "options": {
-            "A": "",
-            "B": "",
-            "C": "",
-            "D": ""
+            "A": "Just So Stories",
+            "B": "The Jungle Book",
+            "C": "Charlie and the Chocolate Factory",
+            "D": "George's Marvellous Medicine"
         },
         "answer": {
-            "options": "", 
-            "text": ""
+            "options": "A, B", 
+            "text": "Kipling was awarded the Nobel Prize in Literature in 1907. His books include the Just So Stories and The Jungle Book, which continue to be popular today."
         }
     }, 
     {
-        "question": "",
+        "question": "The Bill of Rights confirmed the rights of Parliament and the limits of the king's power.",
         "options": {
-            "A": "",
-            "B": "",
-            "C": "",
-            "D": ""
+            "A": "True",
+            "B": "False"
         },
         "answer": {
-            "options": "", 
-            "text": ""
+            "options": "A", 
+            "text": "The Bill of Rights, passed in 1689, confirmed the rights of Parliament and the limits of the king's power."
         }
     }, 
     {
-        "question": "",
+        "question": "Why were the Reform Acts 1832 and 1867 important?",
         "options": {
-            "A": "",
-            "B": "",
-            "C": "",
-            "D": ""
+            "A": "They unified Ireland with England, Scotland and Wales, creating the UK",
+            "B": "They gave women the right to vote",
+            "C": "They made slavery illegal in the UK",
+            "D": "They abolished pocket and rotten boroughs and created more urban seats in Parliament"
         },
         "answer": {
-            "options": "", 
-            "text": ""
+            "options": "D", 
+            "text": "The Reform Act of 1832 abolished the old pocket and rotten boroughs and more parliamentary seats were given to the towns and cities. At first they seemed to be unsuccessful, but in 1867 there was another Reform Act. This created many more urban seats in Parliament."
         }
     }, 
     {
-        "question": "",
+        "question": "Bonnie Prince Charlie won the Battle of Culloden and claimed the throne back from George II.",
         "options": {
-            "A": "",
-            "B": "",
-            "C": "",
-            "D": ""
+            "A": "True",
+            "B": "False"
         },
         "answer": {
-            "options": "", 
-            "text": ""
+            "options": "B", 
+            "text": "In 1745 there was an attempt to put a Stuart king back on the throne in place of George I's son, George II. Charles Edward Stuart (Bonnie Prince Charlie), the grandson of James II, landed in Scotland. Charles initially had some successes but was defeated by George II's army at the Battle of Culloden in 1746. Charles escaped back to Europe."
         }
     }, 
     {
-        "question": "",
+        "question": "During the 17th century, many people left Britain and Ireland to settle in which of the following places?",
         "options": {
-            "A": "",
-            "B": "",
-            "C": "",
-            "D": ""
+            "A": "France",
+            "B": "Africa",
+            "C": "America",
+            "D": "Germany"
         },
         "answer": {
-            "options": "", 
-            "text": ""
+            "options": "C", 
+            "text": "The late 17th century was a time when many people left Britain and Ireland to settle in new colonies in America and elsewhere."
         }
     }, 
     {
-        "question": "",
+        "question": "Fighting broke out between British forces and which of the following in the late 18th century?",
         "options": {
-            "A": "",
-            "B": "",
-            "C": "",
-            "D": ""
+            "A": "Dutch settlers in South Africa",
+            "B": "The Middle Powers",
+            "C": "North American colonists",
+            "D": "The Spanish Armada"
         },
         "answer": {
-            "options": "", 
-            "text": ""
+            "options": "C", 
+            "text": "Fighting broke out between North American colonists and British forces in the late 18th century. In 1776, 13 American colonies declared their independence, stating that people had a right to establish their own governments."
         }
     }
 ]
