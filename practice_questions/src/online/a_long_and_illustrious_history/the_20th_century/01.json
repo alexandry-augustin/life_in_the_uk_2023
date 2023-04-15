@@ -1,314 +1,152 @@
 [
     {
-        "question": "",
+        "question": "The Second World War was fought between the Allies and the Axis powers. Which of these countries was one of the Axis powers?",
         "options": {
-            "A": "",
-            "B": "",
-            "C": "",
-            "D": ""
+            "A": "Belgium",
+            "B": "France",
+            "C": "The Empire of Japan",
+            "D": "New Zealand"
         },
         "answer": {
-            "options": "", 
-            "text": ""
+            "options": "C", 
+            "text": "The Second World War was initially fought between the Axis powers (fascist Germany and Italy and the Empire of Japan) and the Allies."
         }
     }, 
     {
-        "question": "",
+        "question": "After his death in 1965 Winston Churchill was afforded which honour?",
         "options": {
-            "A": "",
-            "B": "",
-            "C": "",
-            "D": ""
+            "A": "A state funeral",
+            "B": "A tomb in Westminster Abbey",
+            "C": "An annual national holiday was named after him",
+            "D": "A burial at sea"
         },
         "answer": {
-            "options": "", 
-            "text": ""
+            "options": "A", 
+            "text": "Following his death in 1965, Winston Churchill was given a state funeral."
         }
     }, 
     {
-        "question": "",
+        "question": "In 1913, the British government promised ‘Home Rule’ for Ireland. What did this propose?",
         "options": {
-            "A": "",
-            "B": "",
-            "C": "",
-            "D": ""
+            "A": "To make Ireland independent of the UK",
+            "B": "To have a self-governing Ireland with its own parliament but still part of the UK",
+            "C": "To give Ireland its own monarchy",
+            "D": "To govern Ireland entirely from the UK Parliament"
         },
         "answer": {
-            "options": "", 
-            "text": ""
+            "options": "B", 
+            "text": "In 1913, the British government promised ‘Home Rule’ for Ireland. The proposal was to have a self-governing Ireland with its own parliament but still part of the UK."
         }
     }, 
     {
-        "question": "",
+        "question": "What is the 20th century conflict in Ireland between those wanting independence for the whole country and those wanting to remain loyal to the British government known as?",
         "options": {
-            "A": "",
-            "B": "",
-            "C": "",
-            "D": ""
+            "A": "The Difficulties",
+            "B": "The Troubles",
+            "C": "The Chaos",
+            "D": "The Crisis"
         },
         "answer": {
-            "options": "", 
-            "text": ""
+            "options": "B", 
+            "text": "The conflict between those wishing for full Irish independence and those wishing to remain loyal to the British government is often referred to as ‘the Troubles’."
         }
     }, 
     {
-        "question": "",
+        "question": "The Battle of Britain was waged because Hitler needed to gain control of the skies before a planned invasion of the UK. Which TWO of the following were the most important aeroplanes used by the RAF in the battle?",
         "options": {
-            "A": "",
-            "B": "",
-            "C": "",
-            "D": ""
+            "A": "Spitfire",
+            "B": "Hurricane",
+            "C": "Tornado",
+            "D": "Mustang"
         },
         "answer": {
-            "options": "", 
-            "text": ""
+            "options": "A, B", 
+            "text": "‘The Battle of Britain’ was fought in the summer of 1940. The most important planes used by the Royal Air Force in the Battle of Britain were the Spitfire and the Hurricane – which were designed and built in Britain."
         }
     }, 
     {
-        "question": "",
+        "question": "Which TWO of these careers did Winston Churchill follow before becoming a Conservative MP in 1900?",
         "options": {
-            "A": "",
-            "B": "",
-            "C": "",
-            "D": ""
+            "A": "Teacher",
+            "B": "Vicar",
+            "C": "Journalist",
+            "D": "Soldier"
         },
         "answer": {
-            "options": "", 
-            "text": ""
+            "options": "C, D", 
+            "text": "Churchill was the son of a politician and, before becoming a Conservative MP in 1900, was a soldier and journalist."
         }
     }, 
     {
-        "question": "",
+        "question": "When did Winston Churchill become Britain’s Prime Minister?",
         "options": {
-            "A": "",
-            "B": "",
-            "C": "",
-            "D": ""
+            "A": "1939",
+            "B": "1940",
+            "C": "1943",
+            "D": "1944"
         },
         "answer": {
-            "options": "", 
-            "text": ""
+            "options": "B", 
+            "text": "In May 1940 Winston Churchill became Prime Minister."
         }
     }, 
     {
-        "question": "",
+        "question": "During the Second World War, there was a famous evacuation of 300,000 men from the beaches around the Crimea.",
         "options": {
-            "A": "",
-            "B": "",
-            "C": "",
-            "D": ""
+            "A": "True",
+            "B": "False"
         },
         "answer": {
-            "options": "", 
-            "text": ""
+            "options": "B", 
+            "text": "During the Second World War, Britain helped the Navy to rescue more than 300,000 men from the beaches around Dunkirk in France. The evacuation gave rise to the phrase ‘the Dunkirk spirit’."
         }
     }, 
     {
-        "question": "",
+        "question": "During Hitler’s bombing campaign against the UK, known as the Blitz, which of these TWO areas suffered a great deal of damage?",
         "options": {
-            "A": "",
-            "B": "",
-            "C": "",
-            "D": ""
+            "A": "Coventry",
+            "B": "Inverness",
+            "C": "Falmouth",
+            "D": "The East End of London"
         },
         "answer": {
-            "options": "", 
-            "text": ""
+            "options": "A, D", 
+            "text": "The German air force bombed London and other British cities at night-time in the Second World War. This was called the Blitz. Coventry was almost totally destroyed and a great deal of damage was done in other cities, especially in the East End of London."
         }
     }, 
     {
-        "question": "",
+        "question": "The BBC began the world’s first regular television service in 1936.",
         "options": {
-            "A": "",
-            "B": "",
-            "C": "",
-            "D": ""
+            "A": "True",
+            "B": "False"
         },
         "answer": {
-            "options": "", 
-            "text": ""
+            "options": "A", 
+            "text": "The BBC started radio broadcasts in 1922 and began the world’s first regular television service in 1936."
         }
     }, 
     {
-        "question": "",
+        "question": "Which of the following statements is correct?",
         "options": {
-            "A": "",
-            "B": "",
-            "C": "",
-            "D": ""
+            "A": "In 1941, Hitler attempted what was the largest invasion in human history by attacking the Soviet Union. A long and bloody struggle led to huge losses on both sides and the eventual Soviet victory was a pivotal point in the war.",
+            "B": "The invasion of the Soviet Union in 1941 was costly in terms of lives but had no real bearing on the wider war."
         },
         "answer": {
-            "options": "", 
-            "text": ""
+            "options": "A", 
+            "text": "In 1941 Hitler attempted the largest invasion in history by attacking the Soviet Union. It was a fierce conflict, with huge losses on both sides. German forces were ultimately repelled by the Soviets, and the damage they sustained proved to be a pivotal point in the war."
         }
     }, 
     {
-        "question": "",
+        "question": "Which battle was Churchill referring to when he said, ‘Never in the field of human conflict was so much owed by so many to so few’?",
         "options": {
-            "A": "",
-            "B": "",
-            "C": "",
-            "D": ""
+            "A": "The Battle of Naseby",
+            "B": "The Battle of Hastings",
+            "C": "The Battle of Britain",
+            "D": "The Battle of the Boyne"
         },
         "answer": {
-            "options": "", 
-            "text": ""
-        }
-    }, 
-    {
-        "question": "",
-        "options": {
-            "A": "",
-            "B": "",
-            "C": "",
-            "D": ""
-        },
-        "answer": {
-            "options": "", 
-            "text": ""
-        }
-    }, 
-    {
-        "question": "",
-        "options": {
-            "A": "",
-            "B": "",
-            "C": "",
-            "D": ""
-        },
-        "answer": {
-            "options": "", 
-            "text": ""
-        }
-    }, 
-    {
-        "question": "",
-        "options": {
-            "A": "",
-            "B": "",
-            "C": "",
-            "D": ""
-        },
-        "answer": {
-            "options": "", 
-            "text": ""
-        }
-    }, 
-    {
-        "question": "",
-        "options": {
-            "A": "",
-            "B": "",
-            "C": "",
-            "D": ""
-        },
-        "answer": {
-            "options": "", 
-            "text": ""
-        }
-    }, 
-    {
-        "question": "",
-        "options": {
-            "A": "",
-            "B": "",
-            "C": "",
-            "D": ""
-        },
-        "answer": {
-            "options": "", 
-            "text": ""
-        }
-    }, 
-    {
-        "question": "",
-        "options": {
-            "A": "",
-            "B": "",
-            "C": "",
-            "D": ""
-        },
-        "answer": {
-            "options": "", 
-            "text": ""
-        }
-    }, 
-    {
-        "question": "",
-        "options": {
-            "A": "",
-            "B": "",
-            "C": "",
-            "D": ""
-        },
-        "answer": {
-            "options": "", 
-            "text": ""
-        }
-    }, 
-    {
-        "question": "",
-        "options": {
-            "A": "",
-            "B": "",
-            "C": "",
-            "D": ""
-        },
-        "answer": {
-            "options": "", 
-            "text": ""
-        }
-    }, 
-    {
-        "question": "",
-        "options": {
-            "A": "",
-            "B": "",
-            "C": "",
-            "D": ""
-        },
-        "answer": {
-            "options": "", 
-            "text": ""
-        }
-    }, 
-    {
-        "question": "",
-        "options": {
-            "A": "",
-            "B": "",
-            "C": "",
-            "D": ""
-        },
-        "answer": {
-            "options": "", 
-            "text": ""
-        }
-    }, 
-    {
-        "question": "",
-        "options": {
-            "A": "",
-            "B": "",
-            "C": "",
-            "D": ""
-        },
-        "answer": {
-            "options": "", 
-            "text": ""
-        }
-    }, 
-    {
-        "question": "",
-        "options": {
-            "A": "",
-            "B": "",
-            "C": "",
-            "D": ""
-        },
-        "answer": {
-            "options": "", 
-            "text": ""
+            "options": "C", 
+            "text": "‘Never in the field of human conflict was so much owed by so many to so few.’ Churchill's speech to the House of Commons during the Battle of Britain, 1940."
         }
     }
 ]

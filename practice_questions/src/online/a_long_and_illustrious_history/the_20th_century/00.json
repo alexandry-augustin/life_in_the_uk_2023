@@ -1,314 +1,308 @@
 [
     {
-        "question": "",
+        "question": "Which of these countries did NOT fight on the side of the allies during the Second World War?",
         "options": {
-            "A": "",
-            "B": "",
-            "C": "",
-            "D": ""
+            "A": "Italy",
+            "B": "The Union of South Africa",
+            "C": "Australia",
+            "D": "France"
         },
         "answer": {
-            "options": "", 
-            "text": ""
+            "options": "A", 
+            "text": "The Second World War was initially fought between the Axis powers (fascist Germany and Italy and the Empire of Japan) and the Allies. The main countries on the allied side were the UK, France, Poland, Australia, New Zealand, Canada, and the Union of South Africa."
         }
     }, 
     {
-        "question": "",
+        "question": "Which incident is considered to be the main trigger for the outbreak of the First World War?",
         "options": {
-            "A": "",
-            "B": "",
-            "C": "",
-            "D": ""
+            "A": "The Russian Revolution",
+            "B": "The Agadir Crisis",
+            "C": "The assassination of Archduke Franz Ferdinand of Austria",
+            "D": "The sinking of USS Maine"
         },
         "answer": {
-            "options": "", 
-            "text": ""
+            "options": "C", 
+            "text": " On 28 June 1914, Archduke Franz Ferdinand of Austria was assassinated. This set off a chain of events leading to the First World War (1914-18). "
         }
     }, 
     {
-        "question": "",
+        "question": "Where was the Battle of Britain fought?",
         "options": {
-            "A": "",
-            "B": "",
-            "C": "",
-            "D": ""
+            "A": "In the air",
+            "B": "At sea",
+            "C": "On the borders of Scotland",
+            "D": "Underground"
         },
         "answer": {
-            "options": "", 
-            "text": ""
+            "options": "A", 
+            "text": "The Battle of Britain was an aerial battle fought above Britain in 1940. Hitler wanted to invade Britain, but before sending in troops Germany needed to control the air. The British resisted with their fighter planes and eventually won."
         }
     }, 
     {
-        "question": "",
+        "question": "When was the Battle of Britain?",
         "options": {
-            "A": "",
-            "B": "",
-            "C": "",
-            "D": ""
+            "A": "The summer of 1899",
+            "B": "The summer of 1918",
+            "C": "The summer of 1945",
+            "D": "The summer of 1940"
         },
         "answer": {
-            "options": "", 
-            "text": ""
+            "options": "D", 
+            "text": "During the Second World War the Germans waged an air campaign against Britain, but the British resisted with their fighter planes and eventually won the crucial aerial battle, called 'the Battle of Britain', in the summer of 1940."
         }
     }, 
     {
-        "question": "",
+        "question": "In 1913, the British government promised 'Home Rule' for Ireland. Why was this postponed?",
         "options": {
-            "A": "",
-            "B": "",
-            "C": "",
-            "D": ""
+            "A": "Brexit",
+            "B": "The outbreak of the First World War",
+            "C": "The outbreak of the Second World War",
+            "D": "The Great Depression"
         },
         "answer": {
-            "options": "", 
-            "text": ""
+            "options": "B", 
+            "text": "In 1913, the British government promised 'Home Rule' for Ireland. The proposal was to have a self-governing Ireland with its own parliament but still part of the UK. The outbreak of the First World War led the British government to postpone any changes in Ireland."
         }
     }, 
     {
-        "question": "",
+        "question": "What is the name given to the aerial battle, fought in the summer of 1940, between Germany and Britain?",
         "options": {
-            "A": "",
-            "B": "",
-            "C": "",
-            "D": ""
+            "A": "The Battle of Trafalgar",
+            "B": "D-Day",
+            "C": "The Battle of Britain",
+            "D": "The Boer War"
         },
         "answer": {
-            "options": "", 
-            "text": ""
+            "options": "C", 
+            "text": "Germany waged an air campaign against Britain, but the British resisted with their fighter planes and eventually won the crucial aerial battle against the Germans, called 'the Battle of Britain', in the summer of 1940."
         }
     }, 
     {
-        "question": "",
+        "question": "The phrase 'the Dunkirk spirit' refers to which key episode of the Second World War?",
         "options": {
-            "A": "",
-            "B": "",
-            "C": "",
-            "D": ""
+            "A": "The successful evacuation of around 300,000 men from France",
+            "B": "The invasion of Italy by Allied forces",
+            "C": "The British attack on the Somme",
+            "D": "The bravery of the Poles throughout the war"
         },
         "answer": {
-            "options": "", 
-            "text": ""
+            "options": "A", 
+            "text": "As France fell, the British evacuated British and French soldiers from France in a huge naval operation. Although many lives and a lot of equipment were lost, the evacuation was a success and meant that Britain was better able to continue the fight against the Germans. The evacuation gave rise to the phrase 'the Dunkirk spirit'."
         }
     }, 
     {
-        "question": "",
+        "question": "Which of these reasons best explains why town planning laws were tightened in the early 20th century?",
         "options": {
-            "A": "",
-            "B": "",
-            "C": "",
-            "D": ""
+            "A": "To protect the countryside",
+            "B": "To stop skyscrapers being built",
+            "C": "To allow for the building of new churches",
+            "D": "To prevent the further development of slums"
         },
         "answer": {
-            "options": "", 
-            "text": ""
+            "options": "D", 
+            "text": "The early 20th century was a time of optimism in Britain. Various laws were passed to improve safety in the workplace, and town planning rules were tightened to prevent the further development of slums."
         }
     }, 
     {
-        "question": "",
+        "question": "Which German act of aggression in 1939 caused Britain and France to declare war on Germany?",
         "options": {
-            "A": "",
-            "B": "",
-            "C": "",
-            "D": ""
+            "A": "The invasion of Spain",
+            "B": "The invasion of Russia",
+            "C": "The invasion of Italy",
+            "D": "The invasion of Poland"
         },
         "answer": {
-            "options": "", 
-            "text": ""
+            "options": "D", 
+            "text": "The British government tried to avoid another war. However, when Hitler invaded Poland in 1939, Britain and France declared war in order to stop Germany's aggression."
         }
     }, 
     {
-        "question": "",
+        "question": "Which war began after Germany invaded Poland?",
         "options": {
-            "A": "",
-            "B": "",
-            "C": "",
-            "D": ""
+            "A": "First World War",
+            "B": "English Civil War",
+            "C": "Second World War",
+            "D": "Boer War"
         },
         "answer": {
-            "options": "", 
-            "text": ""
+            "options": "C", 
+            "text": "When Hitler invaded Poland in 1939, Britain and France declared war in order to stop his aggression."
         }
     }, 
     {
-        "question": "",
+        "question": "A 1921 peace treaty ended a guerrilla war against British troops in Ireland. What then happened in 1922?",
         "options": {
-            "A": "",
-            "B": "",
-            "C": "",
-            "D": ""
+            "A": "The six Irish counties in the north remained part of the UK under the name Northern Ireland and the rest of Ireland became the Irish Free State",
+            "B": "County Galway remained part of the UK and the rest of Ireland became the Irish Free State",
+            "C": "Belfast and Dublin remained under British control and the rest of Ireland became known as the Irish Free State",
+            "D": "Germany invaded France."
         },
         "answer": {
-            "options": "", 
-            "text": ""
+            "options": "A", 
+            "text": "In 1916 there was an uprising (the Easter Rising) against the British in Dublin. The leaders of the uprising were executed under military law. A guerrilla war against the British army and the police in Ireland followed. In 1921 a peace treaty was signed and in 1922 Ireland became two countries. The six counties in the north which were mainly Protestant remained part of the UK under the name Northern Ireland. The rest of Ireland became the Irish Free State."
         }
     }, 
     {
-        "question": "",
+        "question": "What was the Blitz?",
         "options": {
-            "A": "",
-            "B": "",
-            "C": "",
-            "D": ""
+            "A": "Britain's departure from the EU",
+            "B": "A supersonic airliner",
+            "C": "Nightly bombings of British cities during World War II",
+            "D": "A nickname for the first jet engine"
         },
         "answer": {
-            "options": "", 
-            "text": ""
+            "options": "C", 
+            "text": "During World War II, the German air force bombed London and other British cities at night-time. This was called the Blitz. Coventry was almost totally destroyed and a great deal of damage was done in other cities, especially in the East End of London."
         }
     }, 
     {
-        "question": "",
+        "question": "Winston Churchill was the British Prime Minister during the First World War.",
         "options": {
-            "A": "",
-            "B": "",
-            "C": "",
-            "D": ""
+            "A": "True",
+            "B": "False"
         },
         "answer": {
-            "options": "", 
-            "text": ""
+            "options": "B", 
+            "text": "Winston Churchill was the British Prime Minister from 1940-1945, during the Second World War."
         }
     }, 
     {
-        "question": "",
+        "question": "Which of the following statements is correct?",
         "options": {
-            "A": "",
-            "B": "",
-            "C": "",
-            "D": ""
+            "A": "During the 1930s traditional heavy industries such as shipbuilding were badly affected but new industries -- including the automobile and aviation industries -- developed.",
+            "B": "During the 1930s new industries such as the aviation and automobile industries were badly affected but traditional heavy industries such as shipbuilding thrived."
         },
         "answer": {
-            "options": "", 
-            "text": ""
+            "options": "A", 
+            "text": "The effects of the depression of the 1930s were felt differently in different parts of the UK. The traditional heavy industries such as shipbuilding were badly affected but new industries -- including the automobile and aviation industries -- developed."
         }
     }, 
     {
-        "question": "",
+        "question": "Churchill lost the post-war election but returned as Prime Minister in which year?",
         "options": {
-            "A": "",
-            "B": "",
-            "C": "",
-            "D": ""
+            "A": "1951",
+            "B": "1947",
+            "C": "1946",
+            "D": "1955"
         },
         "answer": {
-            "options": "", 
-            "text": ""
+            "options": "A", 
+            "text": "Churchill lost the General Election in 1945 but returned as Prime Minister in 1951."
         }
     }, 
     {
-        "question": "",
+        "question": "At what exact time and date in 1918 did the First World War officially end?",
         "options": {
-            "A": "",
-            "B": "",
-            "C": "",
-            "D": ""
+            "A": "11.00 am on 11 November",
+            "B": "10.00 am on 10 October",
+            "C": "6.00 am on 6 June",
+            "D": "8.00 am on 8 August"
         },
         "answer": {
-            "options": "", 
-            "text": ""
+            "options": "A", 
+            "text": "The First World War ended at 11.00 am on 11 November 1918 with victory for Britain and its allies."
         }
     }, 
     {
-        "question": "",
+        "question": "Which war started in 1914?",
         "options": {
-            "A": "",
-            "B": "",
-            "C": "",
-            "D": ""
+            "A": "The Boer War",
+            "B": "The Second World War",
+            "C": "The First World War",
+            "D": "The Crimean War"
         },
         "answer": {
-            "options": "", 
-            "text": ""
+            "options": "C", 
+            "text": "On 28 June 1914, Archduke Franz Ferdinand of Austria was assassinated. This set off a chain of events leading to the First World War (1914-18)."
         }
     }, 
     {
-        "question": "",
+        "question": "Which of the following statements is correct?",
         "options": {
-            "A": "",
-            "B": "",
-            "C": "",
-            "D": ""
+            "A": "Many civilian volunteers helped the British Navy to rescue more than 300,000 men from the beaches around Dunkirk.",
+            "B": "300,000 men were rescued from the beaches around Dunkirk solely by British Navy ships."
         },
         "answer": {
-            "options": "", 
-            "text": ""
+            "options": "A", 
+            "text": "As France fell during the Second World War, the British decided to evacuate British and French soldiers in a huge naval operation. Many civilian volunteers in small pleasure and fishing boats from Britain helped the Navy to rescue more than 300,000 men from the beaches around Dunkirk. The evacuation gave rise to the phrase 'the Dunkirk spirit'."
         }
     }, 
     {
-        "question": "",
+        "question": "In which part of the UK was pioneering doctor Alexander Fleming born in 1881?",
         "options": {
-            "A": "",
-            "B": "",
-            "C": "",
-            "D": ""
+            "A": "Wales",
+            "B": "Scotland",
+            "C": "East Anglia",
+            "D": "Cornwall"
         },
         "answer": {
-            "options": "", 
-            "text": ""
+            "options": "B", 
+            "text": "Born in Scotland, Alexander Fleming moved to London as a teenager and later qualified as a doctor."
         }
     }, 
     {
-        "question": "",
+        "question": "In 2002, Winston Churchill was voted what?",
         "options": {
-            "A": "",
-            "B": "",
-            "C": "",
-            "D": ""
+            "A": "The century's greatest ever Prime Minister",
+            "B": "The country's greatest ever orator",
+            "C": "The greatest Briton of all time",
+            "D": "Britain's greatest ever MP"
         },
         "answer": {
-            "options": "", 
-            "text": ""
+            "options": "C", 
+            "text": "Churchill remains a much-admired figure to this day, and in 2002 was voted the greatest Briton of all time by the public."
         }
     }, 
     {
-        "question": "",
+        "question": "Which of the following is a type of plane famously used in the Battle of Britain?",
         "options": {
-            "A": "",
-            "B": "",
-            "C": "",
-            "D": ""
+            "A": "Armada",
+            "B": "Blitz",
+            "C": "Spitfire",
+            "D": "Concorde"
         },
         "answer": {
-            "options": "", 
-            "text": ""
+            "options": "C", 
+            "text": "During the Second World War, the British won the crucial aerial battle against the Germans, called 'the Battle of Britain', in the summer of 1940. The most important planes used by the Royal Air Force in the Battle of Britain were the Spitfire and the Hurricane -- which were designed and built in Britain."
         }
     }, 
     {
-        "question": "",
+        "question": "Which famous leader said the following: 'We shall fight on the beaches, we shall fight on the landing grounds, we shall fight in the fields and in the streets, we shall fight in the hills; we shall never surrender.'",
         "options": {
-            "A": "",
-            "B": "",
-            "C": "",
-            "D": ""
+            "A": "Admiral Nelson",
+            "B": "Winston Churchill",
+            "C": "Clement Attlee",
+            "D": "Oliver Cromwell"
         },
         "answer": {
-            "options": "", 
-            "text": ""
+            "options": "B", 
+            "text": "'We shall fight on the beaches, we shall fight on the landing grounds, we shall fight in the fields and in the streets, we shall fight in the hills; we shall never surrender' Churchill's speech to the House of Commons after Dunkirk, 1940."
         }
     }, 
     {
-        "question": "",
+        "question": "Britain was also at war with the Japanese, who defeated the British Army in Singapore before occupying Burma, threatening which country?",
         "options": {
-            "A": "",
-            "B": "",
-            "C": "",
-            "D": ""
+            "A": "The Channel Islands",
+            "B": "Canada",
+            "C": "India",
+            "D": "Australia"
         },
         "answer": {
-            "options": "", 
-            "text": ""
+            "options": "C", 
+            "text": "At the same time as defending Britain, the British military was fighting the Axis powers on many other fronts. In Singapore, the Japanese defeated the British and then occupied Burma, threatening India."
         }
     }, 
     {
-        "question": "",
+        "question": "Allied forces gradually gained the upper hand in the Second World War, after significant victories in Italy and which region?",
         "options": {
-            "A": "",
-            "B": "",
-            "C": "",
-            "D": ""
+            "A": "South Africa",
+            "B": "East Africa",
+            "C": "West Africa",
+            "D": "North Africa"
         },
         "answer": {
-            "options": "", 
-            "text": ""
+            "options": "D", 
+            "text": "The allied forces gradually gained the upper hand in the Second World War after 1941, winning significant victories in North Africa and Italy."
         }
     }
 ]
