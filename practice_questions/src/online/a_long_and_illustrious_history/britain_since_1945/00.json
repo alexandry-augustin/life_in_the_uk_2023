@@ -1,314 +1,298 @@
 [
     {
-        "question": "",
+        "question": "Which political party was able to build on the Northern Ireland peace process, resulting in the Good Friday Agreement signed in 1998?",
         "options": {
-            "A": "",
-            "B": "",
-            "C": "",
-            "D": ""
+            "A": "Green Party",
+            "B": "Conservative Party",
+            "C": "Labour Party",
+            "D": "Liberal Democrats"
         },
         "answer": {
-            "options": "", 
-            "text": ""
+            "options": "C", 
+            "text": "In 1997 the Labour Party led by Tony Blair was elected. In Northern Ireland the Blair government was able to build on the peace process, resulting in the Good Friday Agreement signed in 1998."
         }
     }, 
     {
-        "question": "",
+        "question": "What is Francis Crick known for?",
         "options": {
-            "A": "",
-            "B": "",
-            "C": "",
-            "D": ""
+            "A": "The discovery of Australia",
+            "B": "Inventing the jet engine",
+            "C": "Inventing the hovercraft",
+            "D": "The discovery of the structure of the DNA molecule"
         },
         "answer": {
-            "options": "", 
-            "text": ""
+            "options": "D", 
+            "text": "The structure of the DNA molecule was discovered in 1953 through work at British universities in London and Cambridge. Francis Crick (1916–2004), one of those awarded the Nobel Prize for this discovery, was British."
         }
     }, 
     {
-        "question": "",
+        "question": "What invention is Sir Tim Berners-Lee known for?",
         "options": {
-            "A": "",
-            "B": "",
-            "C": "",
-            "D": ""
+            "A": "Radar",
+            "B": "The hovercraft",
+            "C": "World Wide Web",
+            "D": "The light bulb"
         },
         "answer": {
-            "options": "", 
-            "text": ""
+            "options": "C", 
+            "text": "The inventor of the World Wide Web, Sir Tim Berners-Lee (1955–), is British. Information was successfully transferred via the web for the first time on 25 December 1990."
         }
     }, 
     {
-        "question": "",
+        "question": "The world’s first ‘test-tube baby’ was born in the UK in 1978.",
         "options": {
-            "A": "",
-            "B": "",
-            "C": "",
-            "D": ""
+            "A": "True",
+            "B": "False"
         },
         "answer": {
-            "options": "", 
-            "text": ""
+            "options": "A", 
+            "text": "The world’s first ‘test-tube baby’ was born in Oldham, Lancashire in 1978."
         }
     }, 
     {
-        "question": "",
+        "question": "Which of the following statements is correct?",
         "options": {
-            "A": "",
-            "B": "",
-            "C": "",
-            "D": ""
+            "A": "In 1979 Margaret Thatcher became the third woman to be Prime Minister of the UK.",
+            "B": "In 1979 Margaret Thatcher became the first woman to be Prime Minister of the UK."
         },
         "answer": {
-            "options": "", 
-            "text": ""
+            "options": "B", 
+            "text": "Following the Conservative victory in the General Election in 1979, Margaret Thatcher became the first woman to be Prime Minister of the UK."
         }
     }, 
     {
-        "question": "",
+        "question": "Which Conservative Prime Minister succeeded Margaret Thatcher, and started the Northern Ireland peace process?",
         "options": {
-            "A": "",
-            "B": "",
-            "C": "",
-            "D": ""
+            "A": "John Major",
+            "B": "Douglas Hurd",
+            "C": "Kenneth Baker",
+            "D": "Norman Tebbit"
         },
         "answer": {
-            "options": "", 
-            "text": ""
+            "options": "A", 
+            "text": "John Major was Prime Minister after Margaret Thatcher, and helped establish the Northern Ireland peace process."
         }
     }, 
     {
-        "question": "",
+        "question": "Which TWO of these were very popular sixties British pop groups?",
         "options": {
-            "A": "",
-            "B": "",
-            "C": "",
-            "D": ""
+            "A": "ABBA",
+            "B": "The Beatles",
+            "C": "The Rolling Stones",
+            "D": "The Beach Boys"
         },
         "answer": {
-            "options": "", 
-            "text": ""
+            "options": "B, C", 
+            "text": "Two well-known pop music groups in the 1960s were The Beatles and The Rolling Stones."
         }
     }, 
     {
-        "question": "",
+        "question": "Which of these scientists was awarded the Nobel Prize for his work with DNA?",
         "options": {
-            "A": "",
-            "B": "",
-            "C": "",
-            "D": ""
+            "A": "Albert Einstein",
+            "B": "Francis Crick",
+            "C": "James Dyson",
+            "D": "Brian Cox"
         },
         "answer": {
-            "options": "", 
-            "text": ""
+            "options": "B", 
+            "text": "Francis Crick (1916–2004), one of those awarded the Nobel Prize for the discovery of the structure of DNA, was British."
         }
     }, 
     {
-        "question": "",
+        "question": "Who invented the World Wide Web?",
         "options": {
-            "A": "",
-            "B": "",
-            "C": "",
-            "D": ""
+            "A": "Bill Gates",
+            "B": "Mark Zuckerberg",
+            "C": "Sir Peter Mansfield",
+            "D": "Sir Tim Berners-Lee"
         },
         "answer": {
-            "options": "", 
-            "text": ""
+            "options": "D", 
+            "text": "The inventor of the World Wide Web, Sir Tim Berners-Lee (1955–), is British. Information was successfully transferred via the web for the first time on 25 December 1990."
         }
     }, 
     {
-        "question": "",
+        "question": "Who of the following was a co-discoverer of insulin?",
         "options": {
-            "A": "",
-            "B": "",
-            "C": "",
-            "D": ""
+            "A": "John Logie Baird",
+            "B": "Sir Frank Whittle",
+            "C": "John MacLeod",
+            "D": "Sir Robert Watson-Watt"
         },
         "answer": {
-            "options": "", 
-            "text": ""
+            "options": "C", 
+            "text": "The Scottish physician and researcher John MacLeod (1876–1935) was the co-discoverer of insulin, used to treat diabetes."
         }
     }, 
     {
-        "question": "",
+        "question": "Which of the following statements is correct?",
         "options": {
-            "A": "",
-            "B": "",
-            "C": "",
-            "D": ""
+            "A": "Margaret Thatcher was the UK’s first female Prime Minister.",
+            "B": "Margaret Thatcher was the UK’s second female Prime Minister."
         },
         "answer": {
-            "options": "", 
-            "text": ""
+            "options": "A", 
+            "text": "Margaret Thatcher, Britain’s first woman Prime Minister, led the Conservative government from 1979 to 1990."
         }
     }, 
     {
-        "question": "",
+        "question": "Which of the following statements is correct?",
         "options": {
-            "A": "",
-            "B": "",
-            "C": "",
-            "D": ""
+            "A": "IVF (in-vitro fertilisation) therapy was pioneered in Britain by Sir Robert Edwards and Patrick Steptoe.",
+            "B": "The MRI machine was pioneered in Britain by Sir Robert Edwards and Patrick Steptoe."
         },
         "answer": {
-            "options": "", 
-            "text": ""
+            "options": "A", 
+            "text": "IVF (in-vitro fertilisation) therapy for the treatment of infertility was pioneered in Britain by physiologist Sir Robert Edwards (1925–) and gynaecologist Patrick Steptoe (1913–88). The world’s first ‘test-tube baby’ was born in Oldham, Lancashire in 1978."
         }
     }, 
     {
-        "question": "",
+        "question": "What invention did Sir Frank Whittle develop in the 1930s?",
         "options": {
-            "A": "",
-            "B": "",
-            "C": "",
-            "D": ""
+            "A": "The radio",
+            "B": "IVF therapy",
+            "C": "The jet engine",
+            "D": "The hovercraft"
         },
         "answer": {
-            "options": "", 
-            "text": ""
+            "options": "C", 
+            "text": "Sir Frank Whittle (1907–96) was a British Royal Air Force engineer officer and invented the jet engine in the 1930s."
         }
     }, 
     {
-        "question": "",
+        "question": "Who took over from Tony Blair as Prime Minister in 2007?",
         "options": {
-            "A": "",
-            "B": "",
-            "C": "",
-            "D": ""
+            "A": "Ed Miliband",
+            "B": "David Cameron",
+            "C": "Gordon Brown",
+            "D": "Alistair Darling"
         },
         "answer": {
-            "options": "", 
-            "text": ""
+            "options": "C", 
+            "text": "Gordon Brown took over as Prime Minister in 2007."
         }
     }, 
     {
-        "question": "",
+        "question": "What is John Logie Baird famous for creating?",
         "options": {
-            "A": "",
-            "B": "",
-            "C": "",
-            "D": ""
+            "A": "The modern motor vehicle",
+            "B": "The television",
+            "C": "The radio",
+            "D": "The internet"
         },
         "answer": {
-            "options": "", 
-            "text": ""
+            "options": "B", 
+            "text": "The television was developed by Scotsman John Logie Baird (1888–1946) in the 1920s. In 1932 he made the first television broadcast between London and Glasgow."
         }
     }, 
     {
-        "question": "",
+        "question": "Which decade is associated with the Beatles and significant social change?",
         "options": {
-            "A": "",
-            "B": "",
-            "C": "",
-            "D": ""
+            "A": "1920s",
+            "B": "1940s",
+            "C": "1960s",
+            "D": "1980s"
         },
         "answer": {
-            "options": "", 
-            "text": ""
+            "options": "C", 
+            "text": "The decade of the 1960s was a period of significant social change. It was known as ‘the Swinging Sixties’. There was growth in British fashion, cinema and popular music. Two well-known pop music groups at the time were The Beatles and The Rolling Stones."
         }
     }, 
     {
-        "question": "",
+        "question": "Which of the following statements is correct?",
         "options": {
-            "A": "",
-            "B": "",
-            "C": "",
-            "D": ""
+            "A": "Tony Blair was Prime Minister at the time of the Good Friday Agreement in 1998.",
+            "B": "Gordon Brown was Prime Minister at the time of the Good Friday Agreement in 1998."
         },
         "answer": {
-            "options": "", 
-            "text": ""
+            "options": "A", 
+            "text": "In Northern Ireland, the Blair government was able to build on the peace process, resulting in the Good Friday Agreement signed in 1998."
         }
     }, 
     {
-        "question": "",
+        "question": "Which Briton developed radar?",
         "options": {
-            "A": "",
-            "B": "",
-            "C": "",
-            "D": ""
+            "A": "Robert Winston",
+            "B": "Sir Robert Watson-Watt",
+            "C": "Robert Peel",
+            "D": "Robert Edwards"
         },
         "answer": {
-            "options": "", 
-            "text": ""
+            "options": "B", 
+            "text": "Radar was developed by Scotsman Sir Robert Watson-Watt (1892–1973), who proposed that enemy aircraft could be detected by radio waves. The first successful radar test took place in 1935."
         }
     }, 
     {
-        "question": "",
+        "question": "Who developed the jet engine during the 1930s?",
         "options": {
-            "A": "",
-            "B": "",
-            "C": "",
-            "D": ""
+            "A": "Bobby Moore",
+            "B": "Sir Tim Berners-Lee",
+            "C": "Alan Turing",
+            "D": "Sir Frank Whittle"
         },
         "answer": {
-            "options": "", 
-            "text": ""
+            "options": "D", 
+            "text": "The jet engine was developed in Britain in the 1930s by Sir Frank Whittle, a British Royal Air Force engineer officer."
         }
     }, 
     {
-        "question": "",
+        "question": "Mary Peters was a talented athlete who won an Olympic gold medal in the pentathlon in 1972.",
         "options": {
-            "A": "",
-            "B": "",
-            "C": "",
-            "D": ""
+            "A": "True",
+            "B": "False"
         },
         "answer": {
-            "options": "", 
-            "text": ""
+            "options": "A", 
+            "text": "Mary Peters was a talented athlete who won an Olympic gold medal in the pentathlon in 1972. She continues to promote sport and tourism in Northern Ireland and was made a Dame of the British Empire in 2000 in recognition of her work."
         }
     }, 
     {
-        "question": "",
+        "question": "What type of education became free under the Butler Act of 1944?",
         "options": {
-            "A": "",
-            "B": "",
-            "C": "",
-            "D": ""
+            "A": "Nursery",
+            "B": "Primary",
+            "C": "Secondary",
+            "D": "University"
         },
         "answer": {
-            "options": "", 
-            "text": ""
+            "options": "C", 
+            "text": "Richard Austen Butler became responsible for education in 1941. In this role, he oversaw the introduction of the Education Act 1944 (often called ‘The Butler Act’), which introduced free secondary education in England and Wales."
         }
     }, 
     {
-        "question": "",
+        "question": "Which of the following statements is correct?",
         "options": {
-            "A": "",
-            "B": "",
-            "C": "",
-            "D": ""
+            "A": "Margaret Thatcher was the longest-serving Prime Minister of the UK in the 20th century.",
+            "B": "Margaret Thatcher was the second longest-serving Prime Minister of the UK in the 20th century."
         },
         "answer": {
-            "options": "", 
-            "text": ""
+            "options": "A", 
+            "text": "Margaret Thatcher won her first General Election in 1979, becoming the first woman Prime Minister of the UK. She was re-elected in 1983 and 1987. She was the longest-serving Prime Minister of the 20th century, remaining in office until 1990."
         }
     }, 
     {
-        "question": "",
+        "question": "John Logie Baird was responsible for developing the television in the 1920s.",
         "options": {
-            "A": "",
-            "B": "",
-            "C": "",
-            "D": ""
+            "A": "True",
+            "B": "False"
         },
         "answer": {
-            "options": "", 
-            "text": ""
+            "options": "A", 
+            "text": "The television was developed by Scotsman John Logie Baird (1888–1946) in the 1920s."
         }
     }, 
     {
-        "question": "",
+        "question": "Who was Prime Minister when the Welsh Assembly was established?",
         "options": {
-            "A": "",
-            "B": "",
-            "C": "",
-            "D": ""
+            "A": "John Major",
+            "B": "Tony Blair",
+            "C": "David Cameron",
+            "D": "Theresa May"
         },
         "answer": {
-            "options": "", 
-            "text": ""
+            "options": "B", 
+            "text": "In 1997 the Labour Party led by Tony Blair was elected. The Blair government introduced a Scottish Parliament and a Welsh Assembly."
         }
     }
 ]
