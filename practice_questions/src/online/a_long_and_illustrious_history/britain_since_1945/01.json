@@ -1,314 +1,281 @@
 [
     {
-        "question": "",
+        "question": "Which of the following statements is correct?",
         "options": {
-            "A": "",
-            "B": "",
-            "C": "",
-            "D": ""
+            "A": "Roald Dahl served in the Royal Air Force during the Second World War.",
+            "B": "Roald Dahl served in the Royal Navy during the Second World War."
         },
         "answer": {
-            "options": "", 
-            "text": ""
+            "options": "A", 
+            "text": "Roald Dahl was born in Wales to Norwegian parents. It was during the 1940s that he began to publish books and short stories. He is most well known for his children's books, although he also wrote for adults. Several of his books have been made into films."
         }
     }, 
     {
-        "question": "",
+        "question": "Which of the following statements is correct?",
         "options": {
-            "A": "",
-            "B": "",
-            "C": "",
-            "D": ""
+            "A": "The 1950s was a period of economic recovery and increasing prosperity for working people.",
+            "B": "The 1950s was a period of economic decline that saw millions lose their jobs."
         },
         "answer": {
-            "options": "", 
-            "text": ""
+            "options": "A", 
+            "text": "The 1950s was a period of economic recovery after the war and increasing prosperity for working people."
         }
     }, 
     {
-        "question": "",
+        "question": "During the 1970s, people began to argue that which groups had too much influence and that their activities were causing difficulties for the government and harming the UK?",
         "options": {
-            "A": "",
-            "B": "",
-            "C": "",
-            "D": ""
+            "A": "Charitable organisations",
+            "B": "Football clubs",
+            "C": "Women's rights organisations",
+            "D": "Trade unions"
         },
         "answer": {
-            "options": "", 
-            "text": ""
+            "options": "D", 
+            "text": "During the 1970s, people began to argue that the unions were too powerful and that their activities were harming the UK."
         }
     }, 
     {
-        "question": "",
+        "question": "The Labour Party won a majority at the general election of 7 May 2015.",
         "options": {
-            "A": "",
-            "B": "",
-            "C": "",
-            "D": ""
+            "A": "True",
+            "B": "False"
         },
         "answer": {
-            "options": "", 
-            "text": ""
+            "options": "B", 
+            "text": "The Conservative Party won a majority at the general election of 7 May 2015 and David Cameron remained Prime Minister."
         }
     }, 
     {
-        "question": "",
+        "question": "During the 1960s, Parliament passed new laws that gave women which right?",
         "options": {
-            "A": "",
-            "B": "",
-            "C": "",
-            "D": ""
+            "A": "Free lunches",
+            "B": "Equal pay",
+            "C": "Childcare at work",
+            "D": "Two years' paid maternity leave"
         },
         "answer": {
-            "options": "", 
-            "text": ""
+            "options": "B", 
+            "text": "The position of women in the workplace improved during the 1960s. It was quite common at the time for employers to ask women to leave their jobs when they got married, but Parliament passed new laws giving women the right to equal pay and made it illegal for employers to discriminate against women because of their gender."
         }
     }, 
     {
-        "question": "",
+        "question": "Rebuilding Britain after the Second World War was a huge task.",
         "options": {
-            "A": "",
-            "B": "",
-            "C": "",
-            "D": ""
+            "A": "True",
+            "B": "False"
         },
         "answer": {
-            "options": "", 
-            "text": ""
+            "options": "A", 
+            "text": "Labour shortages meant that rebuilding Britain after the Second World War was a huge task."
         }
     }, 
     {
-        "question": "",
+        "question": "Who succeeded David Cameron to become Prime Minister on 13 July 2016?",
         "options": {
-            "A": "",
-            "B": "",
-            "C": "",
-            "D": ""
+            "A": "Margaret Thatcher",
+            "B": "Boris Johnson",
+            "C": "Theresa May",
+            "D": "Winston Churchill"
         },
         "answer": {
-            "options": "", 
-            "text": ""
+            "options": "C", 
+            "text": "The Conservative Party won a majority at the general election of 7 May 2015 and David Cameron remained Prime Minister. He was succeeded by Theresa May on 13 July 2016."
         }
     }, 
     {
-        "question": "",
+        "question": "Which of the following is a British invention or innovation?",
         "options": {
-            "A": "",
-            "B": "",
-            "C": "",
-            "D": ""
+            "A": "A Turing machine",
+            "B": "The Karaoke machine",
+            "C": "Super Glue",
+            "D": "The photocopier"
         },
         "answer": {
-            "options": "", 
-            "text": ""
+            "options": "A", 
+            "text": "A Turing machine is a theoretical mathematical device invented by Alan Turing (1912-54), a British mathematician, in the 1930s. The theory was influential in the development of computer science and the modern-day computer."
         }
     }, 
     {
-        "question": "",
+        "question": "Margaret Thatcher was famous for her close working relationship with which American President?",
         "options": {
-            "A": "",
-            "B": "",
-            "C": "",
-            "D": ""
+            "A": "Woodrow Wilson",
+            "B": "Gerald Ford",
+            "C": "Bill Clinton",
+            "D": "Ronald Reagan"
         },
         "answer": {
-            "options": "", 
-            "text": ""
+            "options": "D", 
+            "text": "Margaret Thatcher worked closely with the United States President, Ronald Reagan."
         }
     }, 
     {
-        "question": "",
+        "question": "In 1948 Aneurin (Nye) Bevan led the establishment of which of the following?",
         "options": {
-            "A": "",
-            "B": "",
-            "C": "",
-            "D": ""
+            "A": "The Northern Ireland peace process",
+            "B": "The Paralympics",
+            "C": "The EEC",
+            "D": "The National Health Service"
         },
         "answer": {
-            "options": "", 
-            "text": ""
+            "options": "D", 
+            "text": "In 1948, Aneurin (Nye) Bevan, the Minister for Health, led the establishment of the National Health Service (NHS), which guaranteed a minimum standard of healthcare for all, free at the point of use."
         }
     }, 
     {
-        "question": "",
+        "question": "The Beveridge report of 1942 provided the basis of the modern welfare state?",
         "options": {
-            "A": "",
-            "B": "",
-            "C": "",
-            "D": ""
+            "A": "True",
+            "B": "False"
         },
         "answer": {
-            "options": "", 
-            "text": ""
+            "options": "A", 
+            "text": "The 1942 report Social Insurance and Allied Services (known as the Beveridge Report) was commissioned by the wartime government in 1941. It provided the basis of the modern welfare state."
         }
     }, 
     {
-        "question": "",
+        "question": "Due to labour shortages in the UK during the 1950s, centres were set up in the West Indies to recruit people to do what job?",
         "options": {
-            "A": "",
-            "B": "",
-            "C": "",
-            "D": ""
+            "A": "Drive trains",
+            "B": "Drive taxis",
+            "C": "Drive buses",
+            "D": "Drive trams"
         },
         "answer": {
-            "options": "", 
-            "text": ""
+            "options": "C", 
+            "text": "During the 1950s, there was still a shortage of labour in the UK. Further immigration was therefore encouraged for economic reasons, and many industries advertised for workers from overseas. For example, centres were set up in the West Indies to recruit people to drive buses."
         }
     }, 
     {
-        "question": "",
+        "question": "Which of the following statements is correct?",
         "options": {
-            "A": "",
-            "B": "",
-            "C": "",
-            "D": ""
+            "A": "The Beveridge Report of 1942 outlined a plan to end the war in Europe.",
+            "B": "The Beveridge Report of 1942 provided the basis of the modern welfare state."
         },
         "answer": {
-            "options": "", 
-            "text": ""
+            "options": "B", 
+            "text": "The Social Insurance and Allied Services (known as the Beveridge Report) was commissioned by the wartime government in 1941. It recommended that the government should find ways of fighting the five 'Giant Evils' of Want, Disease, Ignorance, Squalor and Idleness and provided the basis of the modern welfare state."
         }
     }, 
     {
-        "question": "",
+        "question": "After the 2010 General Election saw no political party win an overall majority for the first time since 1974, the Conservative Party formed a coalition government with which party?",
         "options": {
-            "A": "",
-            "B": "",
-            "C": "",
-            "D": ""
+            "A": "Green Party",
+            "B": "Labour Party",
+            "C": "Liberal Democrats",
+            "D": "UKIP"
         },
         "answer": {
-            "options": "", 
-            "text": ""
+            "options": "C", 
+            "text": "In May 2010, and for the first time in the UK since February 1974, no political party won an overall majority in the General Election. The Conservative and Liberal Democrat parties formed a coalition and the leader of the Conservative Party, David Cameron, became Prime Minister."
         }
     }, 
     {
-        "question": "",
+        "question": "Which TWO of these were books written by Roald Dahl?",
         "options": {
-            "A": "",
-            "B": "",
-            "C": "",
-            "D": ""
+            "A": "Prince Caspian",
+            "B": "The Lord of the Rings",
+            "C": "George's Marvellous Medicine",
+            "D": "Charlie and the Chocolate Factory"
         },
         "answer": {
-            "options": "", 
-            "text": ""
+            "options": "C, D", 
+            "text": "Roald Dahl's best-known works include Charlie and the Chocolate Factory and George's Marvellous Medicine."
         }
     }, 
     {
-        "question": "",
+        "question": "Which of the following people is NOT an important 20th century inventor?",
         "options": {
-            "A": "",
-            "B": "",
-            "C": "",
-            "D": ""
+            "A": "John MacLeod",
+            "B": "Sir Frank Whittle",
+            "C": "Sir Peter Mansfield",
+            "D": "David Allan"
         },
         "answer": {
-            "options": "", 
-            "text": ""
+            "options": "D", 
+            "text": "John MacLeod (1876-1935) was the co-discoverer of insulin, used to treat diabetes. Sir Frank Whittle (1907-96), a British Royal Air Force engineer officer, developed the jet engine in Britain in the 1930s. Sir Peter Mansfield (1933-), a British scientist, is the co-inventor of the MRI (magnetic resonance imaging) scanner."
         }
     }, 
     {
-        "question": "",
+        "question": "British combat troops left which country in 2009?",
         "options": {
-            "A": "",
-            "B": "",
-            "C": "",
-            "D": ""
+            "A": "Syria",
+            "B": "Afghanistan",
+            "C": "Bosnia",
+            "D": "Iraq"
         },
         "answer": {
-            "options": "", 
-            "text": ""
+            "options": "D", 
+            "text": "British combat troops left Iraq in 2009."
         }
     }, 
     {
-        "question": "",
+        "question": "Which of the following statements is correct?",
         "options": {
-            "A": "",
-            "B": "",
-            "C": "",
-            "D": ""
+            "A": "Problems with the 'balance of payments' in the late 1970s were caused by the end of the post-war economic boom.",
+            "B": "Problems with the 'balance of payments' in the late 1970s were caused by many industries and services being affected by strikes."
         },
         "answer": {
-            "options": "", 
-            "text": ""
+            "options": "A", 
+            "text": "The post-war economic boom came to an end in the late 1970s, resulting in problems with the 'balance of payments': imports of goods were valued at more than the price paid for exports."
         }
     }, 
     {
-        "question": "",
+        "question": "The first team to succeed in cloning a mammal was led by the British scientists Sir Ian Wilmut and Keith Campbell.",
         "options": {
-            "A": "",
-            "B": "",
-            "C": "",
-            "D": ""
+            "A": "True",
+            "B": "False"
         },
         "answer": {
-            "options": "", 
-            "text": ""
+            "options": "A", 
+            "text": "In 1996, two British scientists, Sir Ian Wilmut (1944-) and Keith Campbell (1954-2012), led a team which was the first to succeed in cloning a mammal, Dolly the sheep."
         }
     }, 
     {
-        "question": "",
+        "question": "Which of the following statements is correct?",
         "options": {
-            "A": "",
-            "B": "",
-            "C": "",
-            "D": ""
+            "A": "Deregulation, under Margaret Thatcher's government, saw a great increase in the role of the City of London as an international centre for investments, insurance and other financial services.",
+            "B": "Deregulation, under Margaret Thatcher's government, saw a great increase in the role of Manchester as an international centre for investments, insurance and other financial services."
         },
         "answer": {
-            "options": "", 
-            "text": ""
+            "options": "A", 
+            "text": "Margaret Thatcher's government made structural changes to the economy through the privatisation of nationalised industries and imposed legal controls on trade union powers. Deregulation saw a great increase in the role of the City of London as an international centre for investments, insurance and other financial services. Traditional industries, such as shipbuilding and coal mining, declined."
         }
     }, 
     {
-        "question": "",
+        "question": "Although Clement Attlee lost the 1951 election, he led the Labour party for how long?",
         "options": {
-            "A": "",
-            "B": "",
-            "C": "",
-            "D": ""
+            "A": "30 years",
+            "B": "20 years",
+            "C": "10 years",
+            "D": "40 years"
         },
         "answer": {
-            "options": "", 
-            "text": ""
+            "options": "B", 
+            "text": "Clement Attlee was Prime Minister from 1945 to 1951 and led the Labour Party for 20 years."
         }
     }, 
     {
-        "question": "",
+        "question": "Which of the following saw significant changes during the Second World War?",
         "options": {
-            "A": "",
-            "B": "",
-            "C": "",
-            "D": ""
+            "A": "The health service",
+            "B": "The education system",
+            "C": "Voting rights",
+            "D": "Transport networks"
         },
         "answer": {
-            "options": "", 
-            "text": ""
+            "options": "B", 
+            "text": "During the Second World War, there had been significant reforms to the education system and people now looked for wider social reforms."
         }
     }, 
     {
-        "question": "",
+        "question": "Immigration continued throughout the 1950s and workers from the West Indies, Pakistan and Bangladesh arrived in Britain over the course of twenty-five years. Bus companies targeted West Indian drivers for jobs and textile companies advertised for Indian and Pakistani workers.",
         "options": {
-            "A": "",
-            "B": "",
-            "C": "",
-            "D": ""
+            "A": "True",
+            "B": "False"
         },
         "answer": {
-            "options": "", 
-            "text": ""
-        }
-    }, 
-    {
-        "question": "",
-        "options": {
-            "A": "",
-            "B": "",
-            "C": "",
-            "D": ""
-        },
-        "answer": {
-            "options": "", 
-            "text": ""
+            "options": "A", 
+            "text": "During the 1950s, there was still a shortage of labour in the UK. Further immigration was therefore encouraged for economic reasons, and many industries advertised for workers from overseas. For example, centres were set up in the West Indies to recruit people to drive buses. Textile and engineering firms from the north of England and the Midlands sent agents to India and Pakistan to find workers."
         }
     }
 ]

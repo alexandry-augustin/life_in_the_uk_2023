@@ -1,314 +1,288 @@
 [
     {
-        "question": "",
+        "question": "Who is credited with the invention of the hovercraft?",
         "options": {
-            "A": "",
-            "B": "",
-            "C": "",
-            "D": ""
+            "A": "Francis Crick",
+            "B": "Sir Francis Drake",
+            "C": "Sir Christopher Cockerell",
+            "D": "Sir Chris Hoy"
         },
         "answer": {
-            "options": "", 
-            "text": ""
+            "options": "C", 
+            "text": "Sir Christopher Cockerell (1910-99), a British inventor, invented the hovercraft in the 1950s."
         }
     }, 
     {
-        "question": "",
+        "question": "What nationality is Sir Robert Watson-Watt, who developed radar in the 1930s?",
         "options": {
-            "A": "",
-            "B": "",
-            "C": "",
-            "D": ""
+            "A": "Welsh",
+            "B": "Scottish",
+            "C": "Northern Irish",
+            "D": "English"
         },
         "answer": {
-            "options": "", 
-            "text": ""
+            "options": "B", 
+            "text": "Radar was developed by Scotsman Sir Robert Watson-Watt (1892-1973), who proposed that enemy aircraft could be detected by radio waves. The first successful radar test took place in 1935."
         }
     }, 
     {
-        "question": "",
+        "question": "Many social laws were liberalised during the 1960s, for example in relation to divorce and abortion.",
         "options": {
-            "A": "",
-            "B": "",
-            "C": "",
-            "D": ""
+            "A": "True",
+            "B": "False"
         },
         "answer": {
-            "options": "", 
-            "text": ""
+            "options": "A", 
+            "text": "The 1960s were a time when social laws were liberalised, for example in relation to divorce and to abortion in England, Wales and Scotland."
         }
     }, 
     {
-        "question": "",
+        "question": "The radio telescope was developed by Sir Bernard Lovell.",
         "options": {
-            "A": "",
-            "B": "",
-            "C": "",
-            "D": ""
+            "A": "True",
+            "B": "False"
         },
         "answer": {
-            "options": "", 
-            "text": ""
+            "options": "A", 
+            "text": "Sir Bernard Lovell (1913-2012) built a radio telescope at Jodrell Bank in Cheshire, which was for many years the biggest in the world and continues to operate today."
         }
     }, 
     {
-        "question": "",
+        "question": "Roughly how many people died in the years after 1969 as a result of unrest in Northern Ireland?",
         "options": {
-            "A": "",
-            "B": "",
-            "C": "",
-            "D": ""
+            "A": "250,000",
+            "B": "50,000",
+            "C": "300",
+            "D": "3,000"
         },
         "answer": {
-            "options": "", 
-            "text": ""
+            "options": "D", 
+            "text": "Some 3,000 people lost their lives in the decades after 1969 in the violence in Northern Ireland."
         }
     }, 
     {
-        "question": "",
+        "question": "What was the main reason immigration fell during the 1960s?",
         "options": {
-            "A": "",
-            "B": "",
-            "C": "",
-            "D": ""
+            "A": "Immigration fell during the 1960s because the government passed new laws to restrict immigration",
+            "B": "Immigration fell during the 1960s because of problems with the balance of payments and unstable exchange rates"
         },
         "answer": {
-            "options": "", 
-            "text": ""
+            "options": "A", 
+            "text": "The number of people migrating from the West Indies, India, Pakistan and what is now Bangladesh fell in the late 1960s because the government passed new laws to restrict immigration to Britain. Immigrants were required to have a strong connection to Britain through birth or ancestry."
         }
     }, 
     {
-        "question": "",
+        "question": "Which of the following statements is correct?",
         "options": {
-            "A": "",
-            "B": "",
-            "C": "",
-            "D": ""
+            "A": "Concorde began carrying passengers in the 1970s.",
+            "B": "Concorde began carrying passengers in 1990s."
         },
         "answer": {
-            "options": "", 
-            "text": ""
+            "options": "A", 
+            "text": "Concorde began carrying passengers in 1976 after flying for the first time in 1969. Concorde was retired from service in 2003."
         }
     }, 
     {
-        "question": "",
+        "question": "The Northern Ireland Assembly was elected in 1999, suspended in 2002 and reinstated again in 2007.",
         "options": {
-            "A": "",
-            "B": "",
-            "C": "",
-            "D": ""
+            "A": "True",
+            "B": "False"
         },
         "answer": {
-            "options": "", 
-            "text": ""
+            "options": "A", 
+            "text": "The Northern Ireland Assembly was elected in 1999 but suspended in 2002. It was not reinstated until 2007."
         }
     }, 
     {
-        "question": "",
+        "question": "Which of the following statements is correct?",
         "options": {
-            "A": "",
-            "B": "",
-            "C": "",
-            "D": ""
+            "A": "Richard Austen Butler became a Labour MP in 1923.",
+            "B": "Richard Austen Butler became a Conservative MP in 1923."
         },
         "answer": {
-            "options": "", 
-            "text": ""
+            "options": "B", 
+            "text": "Richard Austen Butler (later Lord Butler) was born in 1902. He became a Conservative MP in 1923 and held several positions before becoming responsible for education in 1941."
         }
     }, 
     {
-        "question": "",
+        "question": "What position did Clement Attlee hold in the wartime coalition government?",
         "options": {
-            "A": "",
-            "B": "",
-            "C": "",
-            "D": ""
+            "A": "Foreign Secretary",
+            "B": "Chancellor of the Exchequer",
+            "C": "Chief Whip",
+            "D": "Deputy Prime Minister"
         },
         "answer": {
-            "options": "", 
-            "text": ""
+            "options": "D", 
+            "text": "Clement Attlee was Winston Churchill's Deputy Prime Minister in the wartime coalition government and became Prime Minister after the Labour Party won the 1945 election."
         }
     }, 
     {
-        "question": "",
+        "question": "Which of the followings statements is correct?",
         "options": {
-            "A": "",
-            "B": "",
-            "C": "",
-            "D": ""
+            "A": "Labour shortages were no longer a problem in the UK by the 1950s.",
+            "B": "During the 1950s, there was still a shortage of labour in the UK."
         },
         "answer": {
-            "options": "", 
-            "text": ""
+            "options": "B", 
+            "text": "There were labour shortages in post-war Britain. During the 1950s, there was still a shortage of labour in the UK."
         }
     }, 
     {
-        "question": "",
+        "question": "Which of the following statements is correct?",
         "options": {
-            "A": "",
-            "B": "",
-            "C": "",
-            "D": ""
+            "A": "The education system has changed significantly since the 1944 Education Act, but the division between primary and secondary education that it enforced is still largely in place.",
+            "B": "The Education Act of 1944 had no lasting effect, with none of its initiatives existing past the 1950s."
         },
         "answer": {
-            "options": "", 
-            "text": ""
+            "options": "A", 
+            "text": "The Education Act 1944 (often called 'The Butler Act') introduced free secondary education in England and Wales. The education system has changed significantly since the Act was introduced, but the division between primary and secondary schools that it enforced still remains in most areas of Britain."
         }
     }, 
     {
-        "question": "",
+        "question": "Margaret Thatcher was the daughter of which of the following?",
         "options": {
-            "A": "",
-            "B": "",
-            "C": "",
-            "D": ""
+            "A": "Baker from Barnstaple",
+            "B": "Optician from Oxford",
+            "C": "Professor from Preston",
+            "D": "Grocer from Grantham"
         },
         "answer": {
-            "options": "", 
-            "text": ""
+            "options": "D", 
+            "text": "Margaret Thatcher was the daughter of a grocer from Grantham in Lincolnshire."
         }
     }, 
     {
-        "question": "",
+        "question": "Born in 1883, Clement Attlee studied at Oxford University and became a barrister before giving it up to do social work, eventually becoming a Labour MP. Where was he a social worker?",
         "options": {
-            "A": "",
-            "B": "",
-            "C": "",
-            "D": ""
+            "A": "East London",
+            "B": "The Channel Islands",
+            "C": "Liverpool",
+            "D": "The Somerset Levels"
         },
         "answer": {
-            "options": "", 
-            "text": ""
+            "options": "A", 
+            "text": "Clement Attlee was born in London in 1883. His father was a solicitor and, after studying at Oxford University, Attlee became a barrister. He gave this up to do social work in East London and eventually became a Labour MP."
         }
     }, 
     {
-        "question": "",
+        "question": "Which were the first colonies granted independence by the Labour Party in 1947?",
         "options": {
-            "A": "",
-            "B": "",
-            "C": "",
-            "D": ""
+            "A": "The United States of America",
+            "B": "India, Pakistan and Ceylon (now Sri Lanka)",
+            "C": "Australia, New Zealand and Singapore",
+            "D": "India, Pakistan and Assam (now Sri Lanka)"
         },
         "answer": {
-            "options": "", 
-            "text": ""
+            "options": "B", 
+            "text": "In 1947, independence was granted to nine countries, including India, Pakistan and Ceylon (now Sri Lanka). Other colonies in Africa, the Caribbean and the Pacific achieved independence over the next 20 years. This independence was granted by the Labour Party, which had been elected to the government in 1945."
         }
     }, 
     {
-        "question": "",
+        "question": "Which TWO of these professions did Margaret Thatcher train as before becoming an MP?",
         "options": {
-            "A": "",
-            "B": "",
-            "C": "",
-            "D": ""
+            "A": "Engineer",
+            "B": "Lawyer",
+            "C": "Chemist",
+            "D": "Teacher"
         },
         "answer": {
-            "options": "", 
-            "text": ""
+            "options": "B, C", 
+            "text": "Margaret Thatcher was the daughter of a grocer from Grantham in Lincolnshire. She trained as a chemist and lawyer. She was elected as a Conservative MP in 1959."
         }
     }, 
     {
-        "question": "",
+        "question": "Which of the following statements is correct?",
         "options": {
-            "A": "",
-            "B": "",
-            "C": "",
-            "D": ""
+            "A": "The NHS allows patients to make partial payments for their care, with the rest being funded by the state.",
+            "B": "The NHS guarantees a minimum standard of healthcare for all, free at the point of use."
         },
         "answer": {
-            "options": "", 
-            "text": ""
+            "options": "B", 
+            "text": "In 1948, Aneurin (Nye) Bevan, the Minister for Health, led the establishment of the National Health Service (NHS), which guaranteed a minimum standard of healthcare for all, free at the point of use."
         }
     }, 
     {
-        "question": "",
+        "question": "Which of the following statements is correct?",
         "options": {
-            "A": "",
-            "B": "",
-            "C": "",
-            "D": ""
+            "A": "The UK was one of the founding members of the European Economic Community.",
+            "B": "The UK was not a founding member of the European Economic Community."
         },
         "answer": {
-            "options": "", 
-            "text": ""
+            "options": "B", 
+            "text": "West Germany, France, Belgium, Italy, Luxembourg and the Netherlands formed the European Economic Community (EEC) in 1957."
         }
     }, 
     {
-        "question": "",
+        "question": "Which of the following statements is correct?",
         "options": {
-            "A": "",
-            "B": "",
-            "C": "",
-            "D": ""
+            "A": "Francis Crick was a British scientist who was awarded the Nobel Prize for his work on the structure of the DNA molecule.",
+            "B": "Richard Arkwright was a British scientist who was awarded the Nobel Prize for his work on the structure of the DNA molecule."
         },
         "answer": {
-            "options": "", 
-            "text": ""
+            "options": "A", 
+            "text": "The structure of the DNA molecule was discovered in 1953 through work at British universities. Francis Crick (1916-2004), one of those awarded the Nobel Prize for this discovery, was British."
         }
     }, 
     {
-        "question": "",
+        "question": "How many countries were granted independence in 1947?",
         "options": {
-            "A": "",
-            "B": "",
-            "C": "",
-            "D": ""
+            "A": "1",
+            "B": "4",
+            "C": "18",
+            "D": "9"
         },
         "answer": {
-            "options": "", 
-            "text": ""
+            "options": "D", 
+            "text": "In 1947, independence was granted to nine countries, including India, Pakistan and Ceylon (now Sri Lanka)."
         }
     }, 
     {
-        "question": "",
+        "question": "After the General Election of 2010, what type of government was formed?",
         "options": {
-            "A": "",
-            "B": "",
-            "C": "",
-            "D": ""
+            "A": "National",
+            "B": "Whole-party",
+            "C": "Coalition",
+            "D": "Interim"
         },
         "answer": {
-            "options": "", 
-            "text": ""
+            "options": "C", 
+            "text": "In the General Election of 2010 no political party won an overall majority in the General Election. A coalition was formed between the Conservative and Liberal Democrat parties."
         }
     }, 
     {
-        "question": "",
+        "question": "Before new laws were passed in the 1960s it was quite common for employers to ask women to leave their jobs when they married.",
         "options": {
-            "A": "",
-            "B": "",
-            "C": "",
-            "D": ""
+            "A": "True",
+            "B": "False"
         },
         "answer": {
-            "options": "", 
-            "text": ""
+            "options": "A", 
+            "text": "The position of women in the workplace improved during the 1960s. It was quite common at the time for employers to ask women to leave their jobs when they got married, but Parliament passed new laws giving women the right to equal pay and made it illegal for employers to discriminate against women because of their gender."
         }
     }, 
     {
-        "question": "",
+        "question": "ISAF is working to ensure that Afghan territory cannot be used to plan attacks on the international community by groups such as which of the following?",
         "options": {
-            "A": "",
-            "B": "",
-            "C": "",
-            "D": ""
+            "A": "Mossad",
+            "B": "The Northern League",
+            "C": "Al Qa'ida",
+            "D": "The CIA"
         },
         "answer": {
-            "options": "", 
-            "text": ""
+            "options": "C", 
+            "text": "The International Security Assistance Force (ISAF) is working to ensure that Afghan territory can never again be used as a safe haven for international terrorism, where groups such as Al Qa'ida could plan attacks on the international community."
         }
     }, 
     {
-        "question": "",
+        "question": "Which of the following statements is correct?",
         "options": {
-            "A": "",
-            "B": "",
-            "C": "",
-            "D": ""
+            "A": "After the election of a Labour government in 1945, the NHS and a social security system was established.",
+            "B": "After the election of a Conservative government in 1945, the NHS and a social security system was established."
         },
         "answer": {
-            "options": "", 
-            "text": ""
+            "options": "A", 
+            "text": "The Labour government that was elected in 1945, led by Clement Attlee, established the NHS and a national system of benefits known as 'social security', so that the population would be protected from the 'cradle to the grave'."
         }
     }
 ]
