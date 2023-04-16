@@ -1,314 +1,304 @@
 [
     {
-        "question": "",
+        "question": "Who or what is Clarice Cliff?",
         "options": {
-            "A": "",
-            "B": "",
-            "C": "",
-            "D": ""
+            "A": "A famous operatic soprano",
+            "B": "A famous landmark in Sussex",
+            "C": "The highest point in Cornwall",
+            "D": "A famous designer of ceramics"
         },
         "answer": {
-            "options": "", 
-            "text": ""
+            "options": "D", 
+            "text": "Britain has produced many great designers, including Clarice Cliff who designed Art Deco ceramics."
         }
     }, 
     {
-        "question": "",
+        "question": "Which TWO of the following are reasons why Britain has had an impact on popular music around the world?",
         "options": {
-            "A": "",
-            "B": "",
-            "C": "",
-            "D": ""
+            "A": "The wide use of the English language",
+            "B": "The British capacity for invention and innovation",
+            "C": "The large budget of the British music industry",
+            "D": "British people are superior singers"
         },
         "answer": {
-            "options": "", 
-            "text": ""
+            "options": "A, B", 
+            "text": "Britain has had an impact on popular music around the world, due to the wide use of the English language, the UK's cultural links with many countries, and British capacity for invention and innovation."
         }
     }, 
     {
-        "question": "",
+        "question": "Who designed the Cenotaph in Whitehall?",
         "options": {
-            "A": "",
-            "B": "",
-            "C": "",
-            "D": ""
+            "A": "Sir Terence Conran",
+            "B": "Sir Edwin Lutyens",
+            "C": "Sir William Golding",
+            "D": "Inigo Jones"
         },
         "answer": {
-            "options": "", 
-            "text": ""
+            "options": "B", 
+            "text": "In the 20th century, Sir Edwin Lutyens had an influence throughout the British Empire. After the First World War, he was responsible for designing many war memorials throughout the world, including the Cenotaph in Whitehall."
         }
     }, 
     {
-        "question": "",
+        "question": "Tate Modern is based in the former Bankside Power Station in central London.",
         "options": {
-            "A": "",
-            "B": "",
-            "C": "",
-            "D": ""
+            "A": "True",
+            "B": "False"
         },
         "answer": {
-            "options": "", 
-            "text": ""
+            "options": "A", 
+            "text": "Tate Modern is based in the former Bankside Power Station in central London."
         }
     }, 
     {
-        "question": "",
+        "question": "Which artist, born in 1937, is famous for his contribution to the 'pop art' movement of the 1960s?",
         "options": {
-            "A": "",
-            "B": "",
-            "C": "",
-            "D": ""
+            "A": "Lucian Freud",
+            "B": "John Petts",
+            "C": "David Hockney",
+            "D": "Robert Lenkiewicz"
         },
         "answer": {
-            "options": "", 
-            "text": ""
+            "options": "C", 
+            "text": "David Hockney (1937-) was an important contributor to the 'pop art' movement of the 1960s and continues to be influential today."
         }
     }, 
     {
-        "question": "",
+        "question": "The Man Booker prize is awarded for which art form?",
         "options": {
-            "A": "",
-            "B": "",
-            "C": "",
-            "D": ""
+            "A": "Painting",
+            "B": "Music",
+            "C": "Film",
+            "D": "Literature"
         },
         "answer": {
-            "options": "", 
-            "text": ""
+            "options": "D", 
+            "text": "The Man Booker Prize for Fiction is awarded annually for the best fiction novel written by an author from the Commonwealth, Ireland or Zimbabwe."
         }
     }, 
     {
-        "question": "",
+        "question": "The famous books Treasure Island and Dr Jekyll and Mr Hyde were written by Kingsley Amis.",
         "options": {
-            "A": "",
-            "B": "",
-            "C": "",
-            "D": ""
+            "A": "True",
+            "B": "False"
         },
         "answer": {
-            "options": "", 
-            "text": ""
+            "options": "B", 
+            "text": "Robert Louis Stevenson (1850-94) wrote Treasure Island and Dr Jekyll and Mr Hyde. He wrote many books which are still read by adults and children today."
         }
     }, 
     {
-        "question": "",
+        "question": "Which of the following was the composer Ralph Vaughan Williams strongly influenced by?",
         "options": {
-            "A": "",
-            "B": "",
-            "C": "",
-            "D": ""
+            "A": "German folk music",
+            "B": "Scottish folk music",
+            "C": "English folk music",
+            "D": "Irish folk music"
         },
         "answer": {
-            "options": "", 
-            "text": ""
+            "options": "C", 
+            "text": "The composer Ralph Vaughan Williams was strongly influenced by traditional English folk music."
         }
     }, 
     {
-        "question": "",
+        "question": "Which of the following statements is correct?",
         "options": {
-            "A": "",
-            "B": "",
-            "C": "",
-            "D": ""
+            "A": "Graham Greene wrote The Honorary Consul.",
+            "B": "Graham Greene wrote George's Marvellous Medicine."
         },
         "answer": {
-            "options": "", 
-            "text": ""
+            "options": "A", 
+            "text": "Graham Greene (1904-91) wrote novels often influenced by his religious beliefs, including The Heart of the Matter, The Honorary Consul, Brighton Rock and Our Man in Havana."
         }
     }, 
     {
-        "question": "",
+        "question": "Which of the following is a famous composer who wrote operas such as Peter Grimes and Billy Budd?",
         "options": {
-            "A": "",
-            "B": "",
-            "C": "",
-            "D": ""
+            "A": "Dame Zaha Hadid",
+            "B": "Tony Blair",
+            "C": "Benjamin Britten",
+            "D": "David Hockney"
         },
         "answer": {
-            "options": "", 
-            "text": ""
+            "options": "C", 
+            "text": "Benjamin Britten (1913-76) is best known for his operas, which include Peter Grimes and Billy Budd. He also wrote A Young Person's Guide to the Orchestra, which is based on a piece of music by Purcell and introduces the listener to the various different sections of an orchestra."
         }
     }, 
     {
-        "question": "",
+        "question": "Although he painted landscapes, the 18th century painter Thomas Gainsborough is best known for which of the following?",
         "options": {
-            "A": "",
-            "B": "",
-            "C": "",
-            "D": ""
+            "A": "Still life",
+            "B": "Portraits",
+            "C": "Battle scenes",
+            "D": "Seascapes"
         },
         "answer": {
-            "options": "", 
-            "text": ""
+            "options": "B", 
+            "text": "Thomas Gainsborough (1727-88) was a portrait painter who often painted people in country or garden scenery."
         }
     }, 
     {
-        "question": "",
+        "question": "Where is the Tate Modern?",
         "options": {
-            "A": "",
-            "B": "",
-            "C": "",
-            "D": ""
+            "A": "Cardiff",
+            "B": "Bath",
+            "C": "London",
+            "D": "Edinburgh"
         },
         "answer": {
-            "options": "", 
-            "text": ""
+            "options": "C", 
+            "text": "The Tate Modern is based in the former Bankside Power Station in central London."
         }
     }, 
     {
-        "question": "",
+        "question": "Which composer, born in 1874, wrote The Planets?",
         "options": {
-            "A": "",
-            "B": "",
-            "C": "",
-            "D": ""
+            "A": "Gustav Holst",
+            "B": "Ralph Vaughan Williams",
+            "C": "Sir Edward Elgar",
+            "D": "Benjamin Britten"
         },
         "answer": {
-            "options": "", 
-            "text": ""
+            "options": "A", 
+            "text": "Gustav Holst (1874-1934) wrote The Planets, a suite of pieces themed around the planets of the solar system."
         }
     }, 
     {
-        "question": "",
+        "question": "Who was William Wordsworth?",
         "options": {
-            "A": "",
-            "B": "",
-            "C": "",
-            "D": ""
+            "A": "A politician",
+            "B": "An engineer",
+            "C": "A sculptor",
+            "D": "A poet"
         },
         "answer": {
-            "options": "", 
-            "text": ""
+            "options": "D", 
+            "text": "William Wordsworth was a poet who was inspired by nature."
         }
     }, 
     {
-        "question": "",
+        "question": "Which 17th century architect took inspiration from classical architecture?",
         "options": {
-            "A": "",
-            "B": "",
-            "C": "",
-            "D": ""
+            "A": "Christopher Wren",
+            "B": "Terence Conran",
+            "C": "Benjamin Britten",
+            "D": "Inigo Jones"
         },
         "answer": {
-            "options": "", 
-            "text": ""
+            "options": "D", 
+            "text": "In the 17th century, Inigo Jones took inspiration from classical architecture to design the Queen's House at Greenwich and the Banqueting House in Whitehall in London."
         }
     }, 
     {
-        "question": "",
+        "question": "Which of the following plays, opening in 1952 in London, has achieved the longest initial run of any show in history?",
         "options": {
-            "A": "",
-            "B": "",
-            "C": "",
-            "D": ""
+            "A": "Cats",
+            "B": "The Mousetrap",
+            "C": "HMS Pinafore",
+            "D": "Romeo and Juliet"
         },
         "answer": {
-            "options": "", 
-            "text": ""
+            "options": "B", 
+            "text": "The Mousetrap, a murder-mystery play by Dame Agatha Christie, has been running in the West End since 1952 and has had the longest initial run of any show in history."
         }
     }, 
     {
-        "question": "",
+        "question": "Which flowers feature in a poem by William Wordsworth?",
         "options": {
-            "A": "",
-            "B": "",
-            "C": "",
-            "D": ""
+            "A": "Lilies",
+            "B": "Roses",
+            "C": "Pansies",
+            "D": "Daffodils"
         },
         "answer": {
-            "options": "", 
-            "text": ""
+            "options": "D", 
+            "text": "The poet William Wordsworth wrote The Daffodils"
         }
     }, 
     {
-        "question": "",
+        "question": "The Proms is a season of orchestral music that takes place every summer.",
         "options": {
-            "A": "",
-            "B": "",
-            "C": "",
-            "D": ""
+            "A": "True",
+            "B": "False"
         },
         "answer": {
-            "options": "", 
-            "text": ""
+            "options": "A", 
+            "text": "The Proms is an eight-week summer season of orchestral classical music that takes place in various venues, including the Royal Albert Hall in London. It has been organised by the British Broadcasting Corporation (BBC) since 1927."
         }
     }, 
     {
-        "question": "",
+        "question": "What does the Turner Prize celebrate?",
         "options": {
-            "A": "",
-            "B": "",
-            "C": "",
-            "D": ""
+            "A": "Public service",
+            "B": "Contemporary art",
+            "C": "Contemporary music",
+            "D": "Sporting achievement"
         },
         "answer": {
-            "options": "", 
-            "text": ""
+            "options": "B", 
+            "text": "The Turner Prize was established in 1984 and celebrates contemporary art. The Turner Prize is recognised as one of the most prestigious visual art awards. Previous winners include Damien Hirst and Richard Wright."
         }
     }, 
     {
-        "question": "",
+        "question": "Which British designer was famous for Art Deco ceramics?",
         "options": {
-            "A": "",
-            "B": "",
-            "C": "",
-            "D": ""
+            "A": "Thomas Chippendale",
+            "B": "Clarice Cliff",
+            "C": "Thomas Gainsborough",
+            "D": "Vivienne Westwood"
         },
         "answer": {
-            "options": "", 
-            "text": ""
+            "options": "B", 
+            "text": "Britain has produced many great designers, including Clarice Cliff who designed Art Deco ceramics."
         }
     }, 
     {
-        "question": "",
+        "question": "Who wrote The Daffodils?",
         "options": {
-            "A": "",
-            "B": "",
-            "C": "",
-            "D": ""
+            "A": "William Blake",
+            "B": "Henry Purcell",
+            "C": "William Wordsworth",
+            "D": "Winston Churchill"
         },
         "answer": {
-            "options": "", 
-            "text": ""
+            "options": "C", 
+            "text": "'I wander'd lonely as a cloud That floats on high o'er vales and hills, When all at once I saw a crowd, A host of golden daffodils' (William Wordsworth, 1770-1850 -- The Daffodils)"
         }
     }, 
     {
-        "question": "",
+        "question": "Who was Sir Edward Elgar?",
         "options": {
-            "A": "",
-            "B": "",
-            "C": "",
-            "D": ""
+            "A": "A scientist",
+            "B": "A footballer",
+            "C": "A composer",
+            "D": "A poet"
         },
         "answer": {
-            "options": "", 
-            "text": ""
+            "options": "C", 
+            "text": "Sir Edward Elgar (1857-1934) was a composer, born in Worcester, England. His best-known work is probably the Pomp and Circumstance Marches."
         }
     }, 
     {
-        "question": "",
+        "question": "Which of these is NOT a famous architect?",
         "options": {
-            "A": "",
-            "B": "",
-            "C": "",
-            "D": ""
+            "A": "Sir John Mills",
+            "B": "Inigo Jones",
+            "C": "Robert Adam",
+            "D": "Sir Christopher Wren"
         },
         "answer": {
-            "options": "", 
-            "text": ""
+            "options": "A", 
+            "text": "In the 17th century, Inigo Jones took inspiration from classical architecture to design the Queen's House at Greenwich and the Banqueting House in Whitehall, London. Later in the century, Sir Christopher Wren helped develop a British version of the ornate styles popular in Europe in buildings such as the new St Paul's Cathedral. The Scottish architect Robert Adam influenced the development of architecture in the UK, Europe and America."
         }
     }, 
     {
-        "question": "",
+        "question": "Which of the following statements is correct?",
         "options": {
-            "A": "",
-            "B": "",
-            "C": "",
-            "D": ""
+            "A": "Sir Terence Conran was a 20th century fashion designer.",
+            "B": "Sir Terence Conran was a 20th century interior designer."
         },
         "answer": {
-            "options": "", 
-            "text": ""
+            "options": "Britain has produced many great designers. Sir Terence Conran is a 20th century interior designer.", 
+            "text": "B"
         }
     }
 ]

@@ -1,314 +1,304 @@
 [
     {
-        "question": "",
+        "question": "The Brit Awards is an annual event that gives awards in which industry?",
         "options": {
-            "A": "",
-            "B": "",
-            "C": "",
-            "D": ""
+            "A": "Television",
+            "B": "Sport",
+            "C": "Music",
+            "D": "Film"
         },
         "answer": {
-            "options": "", 
-            "text": ""
+            "options": "C", 
+            "text": "The Brit Awards is an annual event that gives awards to musicians in a range of categories, such as best British group and best British solo artist."
         }
     }, 
     {
-        "question": "",
+        "question": "Gertrude Jekyll is famous for her designs in which field?",
         "options": {
-            "A": "",
-            "B": "",
-            "C": "",
-            "D": ""
+            "A": "Fashion",
+            "B": "Gardening",
+            "C": "Silverware",
+            "D": "Pottery"
         },
         "answer": {
-            "options": "", 
-            "text": ""
+            "options": "B", 
+            "text": "Gertrude Jekyll often worked with Edwin Lutyens to design colourful gardens around the houses he designed."
         }
     }, 
     {
-        "question": "",
+        "question": "Which famous artist is known for their landscape paintings, particularly of the Dedham Vale on the Suffolk-Essex border?",
         "options": {
-            "A": "",
-            "B": "",
-            "C": "",
-            "D": ""
+            "A": "Joseph Turner",
+            "B": "John Constable",
+            "C": "Richard Wilson",
+            "D": "Joshua Reynolds"
         },
         "answer": {
-            "options": "", 
-            "text": ""
+            "options": "B", 
+            "text": "John Constable (1776-1837) was a landscape painter most famous for his works of Dedham Vale on the Suffolk-Essex border in the east of England."
         }
     }, 
     {
-        "question": "",
+        "question": "The BBC has organised which series of famous concerts since 1927?",
         "options": {
-            "A": "",
-            "B": "",
-            "C": "",
-            "D": ""
+            "A": "The Proms",
+            "B": "Aldeburgh Festival",
+            "C": "The Edinburgh Festival",
+            "D": "Summer season at Glyndebourne"
         },
         "answer": {
-            "options": "", 
-            "text": ""
+            "options": "A", 
+            "text": "The Proms has been organised by the British Broadcasting Corporation (BBC) since 1927. It is an eight-week summer season of orchestral classical music that takes place in various venues, including the Royal Albert Hall in London."
         }
     }, 
     {
-        "question": "",
+        "question": "Which of the following statements is correct?",
         "options": {
-            "A": "",
-            "B": "",
-            "C": "",
-            "D": ""
+            "A": "Thomas Chippendale was an 18th century designer of furniture.",
+            "B": "Sir Terence Conran was an 18th century designer of furniture."
         },
         "answer": {
-            "options": "", 
-            "text": ""
+            "options": "A", 
+            "text": "Britain has produced many great designers, from Thomas Chippendale (who designed furniture in the 18th century) to Clarice Cliff (who designed Art Deco ceramics) to Sir Terence Conran (a 20th-century interior designer)."
         }
     }, 
     {
-        "question": "",
+        "question": "Which of these is a major music festival?",
         "options": {
-            "A": "",
-            "B": "",
-            "C": "",
-            "D": ""
+            "A": "Monty Python's Flying Circus",
+            "B": "Isle of Wight Festival",
+            "C": "The Great Exhibition",
+            "D": "The Grand National"
         },
         "answer": {
-            "options": "", 
-            "text": ""
+            "options": "B", 
+            "text": "Festival season takes place across the UK every summer, with major events in various locations. Famous festivals include Glastonbury, the Isle of Wight Festival and Creamfields. Many bands and solo artists, both well-known and up-and-coming, perform at these events."
         }
     }, 
     {
-        "question": "",
+        "question": "The eight-week Proms programme organised by the BBC is centred around which London venue?",
         "options": {
-            "A": "",
-            "B": "",
-            "C": "",
-            "D": ""
+            "A": "Royal Albert Hall",
+            "B": "Royal Festival Hall",
+            "C": "Wembley Arena",
+            "D": "Wembley Stadium"
         },
         "answer": {
-            "options": "", 
-            "text": ""
+            "options": "A", 
+            "text": "The Proms is an eight-week summer season of orchestral classical music that takes place in various venues, including the Royal Albert Hall in London."
         }
     }, 
     {
-        "question": "",
+        "question": "Sir Norman Foster and Lord Richard Rogers are known for their contributions to which profession?",
         "options": {
-            "A": "",
-            "B": "",
-            "C": "",
-            "D": ""
+            "A": "Doctors",
+            "B": "Engineers",
+            "C": "Architects",
+            "D": "Dentists"
         },
         "answer": {
-            "options": "", 
-            "text": ""
+            "options": "C", 
+            "text": "The firms of modern British architects continue to work on major projects throughout the world as well as within the UK. These include those of Sir Norman Foster and Lord (Richard) Rogers."
         }
     }, 
     {
-        "question": "",
+        "question": "Who wrote musicals such as Cats, The Phantom of the Opera and Evita?",
         "options": {
-            "A": "",
-            "B": "",
-            "C": "",
-            "D": ""
+            "A": "Sir Edward Elgar",
+            "B": "Gilbert and Sullivan",
+            "C": "Andrew Lloyd Webber",
+            "D": "Julian Lloyd Webber"
         },
         "answer": {
-            "options": "", 
-            "text": ""
+            "options": "C", 
+            "text": "Andrew Lloyd Webber has written the music for shows which have been popular throughout the world, including, in collaboration with Tim Rice, Jesus Christ Superstar and Evita, and also Cats and The Phantom of the Opera."
         }
     }, 
     {
-        "question": "",
+        "question": "What is Charles Dickens famous for?",
         "options": {
-            "A": "",
-            "B": "",
-            "C": "",
-            "D": ""
+            "A": "Film directing",
+            "B": "Designing furniture",
+            "C": "Writing novels",
+            "D": "Painting"
         },
         "answer": {
-            "options": "", 
-            "text": ""
+            "options": "C", 
+            "text": "Charles Dickens (1812-70) wrote a number of very famous novels, including Oliver Twist and Great Expectations."
         }
     }, 
     {
-        "question": "",
+        "question": "Who wrote The Planets?",
         "options": {
-            "A": "",
-            "B": "",
-            "C": "",
-            "D": ""
+            "A": "Handel",
+            "B": "Sir Edward Elgar",
+            "C": "Gustav Holst",
+            "D": "Benjamin Britten"
         },
         "answer": {
-            "options": "", 
-            "text": ""
+            "options": "C", 
+            "text": "Important composers include Gustav Holst (1874-1934), whose work includes The Planets, a suite of pieces themed around the planets of the solar system."
         }
     }, 
     {
-        "question": "",
+        "question": "Which of the following statements is correct?",
         "options": {
-            "A": "",
-            "B": "",
-            "C": "",
-            "D": ""
+            "A": "The Cenotaph is an office building in Whitehall.",
+            "B": "The Cenotaph is a war memorial in Whitehall."
         },
         "answer": {
-            "options": "", 
-            "text": ""
+            "options": "B", 
+            "text": "The Cenotaph in Whitehall is a war memorial. The Cenotaph is the site of the annual Remembrance Day service attended by the King, politicians and foreign ambassadors."
         }
     }, 
     {
-        "question": "",
+        "question": "Lord Olivier gave his name to which auspicious theatre awards?",
         "options": {
-            "A": "",
-            "B": "",
-            "C": "",
-            "D": ""
+            "A": "The Lord Olivier Oscars",
+            "B": "The Olivier Globes",
+            "C": "The Laurence Olivier Awards",
+            "D": "The Olivier Theatrical Medals"
         },
         "answer": {
-            "options": "", 
-            "text": ""
+            "options": "C", 
+            "text": "The Laurence Olivier Awards take place annually at different venues in London. There are a variety of categories, including best director, best actor and best actress. The awards are named after the British actor Sir Laurence Olivier, later Lord Olivier, who was best known for his roles in various Shakespeare plays."
         }
     }, 
     {
-        "question": "",
+        "question": "During which decade of the 20th century did the Punk movement happen in Britain?",
         "options": {
-            "A": "",
-            "B": "",
-            "C": "",
-            "D": ""
+            "A": "1950s",
+            "B": "1960s",
+            "C": "1970s",
+            "D": "1980s"
         },
         "answer": {
-            "options": "", 
-            "text": ""
+            "options": "B", 
+            "text": "British pop music has continued to innovate -- for example, the Punk movement of the late 1970s."
         }
     }, 
     {
-        "question": "",
+        "question": "St Paul's Cathedral was designed by which architect?",
         "options": {
-            "A": "",
-            "B": "",
-            "C": "",
-            "D": ""
+            "A": "Sir Christopher Wren",
+            "B": "Sir Norman Foster",
+            "C": "Sir Edward Lovett Pearce",
+            "D": "Sir William Bruce"
         },
         "answer": {
-            "options": "", 
-            "text": ""
+            "options": "A", 
+            "text": "Sir Christopher Wren helped develop a British version of the ornate styles popular in Europe in buildings such as the new St Paul’s Cathedral."
         }
     }, 
     {
-        "question": "",
+        "question": "The Houses of Parliament were built in the 19th century when the medieval 'gothic' style of architecture was popular.",
         "options": {
-            "A": "",
-            "B": "",
-            "C": "",
-            "D": ""
+            "A": "True",
+            "B": "False"
         },
         "answer": {
-            "options": "", 
-            "text": ""
+            "options": "A", 
+            "text": "In the 19th century, the medieval ‘gothic’ style became popular again. As cities expanded, many great public buildings were built in this style. The Houses of Parliament and St Pancras Station were built at this time."
         }
     }, 
     {
-        "question": "",
+        "question": "Which part of London would you most associate with theatres?",
         "options": {
-            "A": "",
-            "B": "",
-            "C": "",
-            "D": ""
+            "A": "The East End",
+            "B": "The City",
+            "C": "Canary Wharf",
+            "D": "The West End"
         },
         "answer": {
-            "options": "", 
-            "text": ""
+            "options": "D", 
+            "text": "There are theatres in most towns and cities throughout the UK, ranging from the large to the small. London’s West End, also known as ‘Theatreland’, is particularly well known."
         }
     }, 
     {
-        "question": "",
+        "question": "The National Eisteddfod of Wales is an annual sporting festival.",
         "options": {
-            "A": "",
-            "B": "",
-            "C": "",
-            "D": ""
+            "A": "True",
+            "B": "False"
         },
         "answer": {
-            "options": "", 
-            "text": ""
+            "options": "B", 
+            "text": "The National Eisteddfod of Wales is an annual cultural festival which includes music, dance, art and original performances largely in Welsh."
         }
     }, 
     {
-        "question": "",
+        "question": "Which 19th century author created famous characters such as Mr Micawber and Scrooge?",
         "options": {
-            "A": "",
-            "B": "",
-            "C": "",
-            "D": ""
+            "A": "William Wordsworth",
+            "B": "Jane Austen",
+            "C": "John Milton",
+            "D": "Charles Dickens"
         },
         "answer": {
-            "options": "", 
-            "text": ""
+            "options": "D", 
+            "text": "Charles Dickens (1812-70) wrote a number of very famous novels, including Oliver Twist and Great Expectations. You will hear references in everyday talk to some of the characters in his books, such as Scrooge (a mean person) or Mr Micawber (always hopeful)."
         }
     }, 
     {
-        "question": "",
+        "question": "About which 20th century conflict did poets Wilfred Owen and Siegfried Sassoon write?",
         "options": {
-            "A": "",
-            "B": "",
-            "C": "",
-            "D": ""
+            "A": "Crimean War",
+            "B": "English Civil War",
+            "C": "First World War",
+            "D": "Second World War"
         },
         "answer": {
-            "options": "", 
-            "text": ""
+            "options": "C", 
+            "text": "Wilfred Owen and Siegfried Sassoon were inspired to write about their experiences in the First World War."
         }
     }, 
     {
-        "question": "",
+        "question": "Where in London is the White Tower?",
         "options": {
-            "A": "",
-            "B": "",
-            "C": "",
-            "D": ""
+            "A": "Tower of London",
+            "B": "Buckingham Palace",
+            "C": "Palace of Westminster",
+            "D": "St Paul's Cathedral"
         },
         "answer": {
-            "options": "", 
-            "text": ""
+            "options": "A", 
+            "text": "The White Tower in the Tower of London is an example of a Norman castle keep, built on the orders of William the Conqueror."
         }
     }, 
     {
-        "question": "",
+        "question": "Which TWO of these are fashion designers?",
         "options": {
-            "A": "",
-            "B": "",
-            "C": "",
-            "D": ""
+            "A": "Alexander McQueen",
+            "B": "Vivienne Westwood",
+            "C": "Anthony Armstrong-Jones",
+            "D": "Darcey Bussell"
         },
         "answer": {
-            "options": "", 
-            "text": ""
+            "options": "A, B", 
+            "text": "Leading fashion designers of recent years include Mary Quant, Alexander McQueen and Vivienne Westwood."
         }
     }, 
     {
-        "question": "",
+        "question": "Jane Austen and Charles Dickens were both famous sculptors.",
         "options": {
-            "A": "",
-            "B": "",
-            "C": "",
-            "D": ""
+            "A": "True",
+            "B": "False"
         },
         "answer": {
-            "options": "", 
-            "text": ""
+            "options": "B", 
+            "text": "Jane Austen and Charles Dickens were both famous novelists. Jane Austen's books include Pride and Prejudice and Sense and Sensibility, and Charles Dickens wrote books such as Oliver Twist and Great Expectations."
         }
     }, 
     {
-        "question": "",
+        "question": "Which TWO of the following are notable British writers?",
         "options": {
-            "A": "",
-            "B": "",
-            "C": "",
-            "D": ""
+            "A": "John Steinbeck",
+            "B": "Ernest Hemingway",
+            "C": "Graham Greene",
+            "D": "Evelyn Waugh"
         },
         "answer": {
-            "options": "", 
-            "text": ""
+            "options": "C, D", 
+            "text": "Evelyn Waugh (1903-66) wrote satirical novels. Graham Greene (1904-91) wrote novels often influenced by his religious beliefs."
         }
     }
 ]
