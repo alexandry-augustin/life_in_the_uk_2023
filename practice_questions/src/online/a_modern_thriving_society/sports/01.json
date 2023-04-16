@@ -1,313 +1,213 @@
 [
     {
+        "question": "Sir Andy Murray is the first British man to win a singles title in a Grand Slam tournament since 1936.",
         "options": {
-            "A": "",
-            "B": "",
-            "C": "",
-            "D": ""
+            "A": "True",
+            "B": "False"
         },
         "answer": {
-            "options": "", 
-            "text": ""
+            "options": "A", 
+            "text": "Sir Andy Murray (1987–) is a Scottish tennis player who in 2012 won the men’s singles in the US Open. He is the first British man to win a singles title in a Grand Slam tournament since 1936. In the same year, he won Olympic gold and silver medals. In 2013 and 2016 he won the men's singles at Wimbledon. He also went on to win Gold at the 2016 Olympics."
         }
     }, 
     {
-        "question": "",
+        "question": "The first four-minute mile was achieved by Sir Roger Bannister in which decade of the twentieth century?",
         "options": {
-            "A": "",
-            "B": "",
-            "C": "",
-            "D": ""
+            "A": "The forties",
+            "B": "The fifties",
+            "C": "The sixties",
+            "D": "The seventies"
         },
         "answer": {
-            "options": "", 
-            "text": ""
+            "options": "B", 
+            "text": "Sir Roger Bannister (1929–2018) was the first man in the world to run a mile in under four minutes, in 1954."
         }
     }, 
     {
-        "question": "",
+        "question": "What is the Christian name of the famous wheelchair athlete Baroness Grey-Thompson?",
         "options": {
-            "A": "",
-            "B": "",
-            "C": "",
-            "D": ""
+            "A": "Theresa",
+            "B": "Tracey",
+            "C": "Tanni",
+            "D": "Tamara"
         },
         "answer": {
-            "options": "", 
-            "text": ""
+            "options": "C", 
+            "text": "Tanni Grey-Thompson (1969–) is an athlete who uses a wheelchair."
         }
     }, 
     {
-        "question": "",
+        "question": "Which TWO of the following are famous Paralympians?",
         "options": {
-            "A": "",
-            "B": "",
-            "C": "",
-            "D": ""
+            "A": "Baroness Tanni Grey-Thompson",
+            "B": "Dame Kelly Holmes",
+            "C": "Jayne Torvill",
+            "D": "Ellie Simmonds"
         },
         "answer": {
-            "options": "", 
-            "text": ""
+            "options": "A, D", 
+            "text": "Baroness Tanni-Grey Thompson (1969–) is an athlete who uses a wheelchair and won 16 Paralympic medals, including 11 gold medals, in races over five Paralympic Games. Ellie Simmonds is a swimmer who won gold medals in 2008 and 2012 Paralympic Games."
         }
     }, 
     {
-        "question": "",
+        "question": "Rugby originated in England in the early 19th century.",
         "options": {
-            "A": "",
-            "B": "",
-            "C": "",
-            "D": ""
+            "A": "True",
+            "B": "False"
         },
         "answer": {
-            "options": "", 
-            "text": ""
+            "options": "A", 
+            "text": "Rugby originated in England in the early 19th century and is very popular in the UK today."
         }
     }, 
     {
-        "question": "",
+        "question": "Ellie Simmonds is a Paralympian and was the youngest member of the British team at the 2008 games.",
         "options": {
-            "A": "",
-            "B": "",
-            "C": "",
-            "D": ""
+            "A": "True",
+            "B": "False"
         },
         "answer": {
-            "options": "", 
-            "text": ""
+            "options": "A", 
+            "text": "Ellie Simmonds (1994–) is a Paralympian who won gold medals for swimming at the 2008, 2012 and 2016 Paralympic Games and holds a number of world records. She was the youngest member of the British team at the 2008 Games."
         }
     }, 
     {
-        "question": "",
+        "question": "Only one of the four major golf tournaments worldwide is played in the UK.",
         "options": {
-            "A": "",
-            "B": "",
-            "C": "",
-            "D": ""
+            "A": "True",
+            "B": "False"
         },
         "answer": {
-            "options": "", 
-            "text": ""
+            "options": "A", 
+            "text": "The Open Championship is the only ‘Major’ tournament held outside the United States. It is hosted by a different golf course every year."
         }
     }, 
     {
-        "question": "",
+        "question": "The UEFA Champions League pits British soccer teams against other teams from where?",
         "options": {
-            "A": "",
-            "B": "",
-            "C": "",
-            "D": ""
+            "A": "Europe",
+            "B": "USA",
+            "C": "South America",
+            "D": "Asia"
         },
         "answer": {
-            "options": "", 
-            "text": ""
+            "options": "A", 
+            "text": "Many UK teams compete in competitions such as the UEFA (Union of European Football Associations) Champions League, against other teams from Europe."
         }
     }, 
     {
-        "question": "",
+        "question": "When were the first professional football clubs formed?",
         "options": {
-            "A": "",
-            "B": "",
-            "C": "",
-            "D": ""
+            "A": "The Middle Ages",
+            "B": "17th Century",
+            "C": "19th Century",
+            "D": "20th Century"
         },
         "answer": {
-            "options": "", 
-            "text": ""
+            "options": "C", 
+            "text": "Football has a long history in the UK and the first professional football clubs were formed in the 19th century."
         }
     }, 
     {
-        "question": "",
+        "question": "How many Olympic gold medals did Sir Steve Redgrave win?",
         "options": {
-            "A": "",
-            "B": "",
-            "C": "",
-            "D": ""
+            "A": "Five",
+            "B": "Eight",
+            "C": "Three",
+            "D": "Six"
         },
         "answer": {
-            "options": "", 
-            "text": ""
+            "options": "A", 
+            "text": "Sir Steve Redgrave (1962–) won gold medals in rowing in five consecutive Olympic Games."
         }
     }, 
     {
-        "question": "",
+        "question": "What is the name of the famous horse-race held near Liverpool?",
         "options": {
-            "A": "",
-            "B": "",
-            "C": "",
-            "D": ""
+            "A": "Grand Chase",
+            "B": "Grand Derby",
+            "C": "Steeplechase",
+            "D": "Grand National"
         },
         "answer": {
-            "options": "", 
-            "text": ""
+            "options": "D", 
+            "text": "A famous horse-racing event in the UK is the Grand National at Aintree near Liverpool."
         }
     }, 
     {
-        "question": "",
+        "question": "In what position in the medal table did Great Britain finish in the London Olympic Games of 2012?",
         "options": {
-            "A": "",
-            "B": "",
-            "C": "",
-            "D": ""
+            "A": "1st",
+            "B": "2nd",
+            "C": "3rd",
+            "D": "Lower than 3rd"
         },
         "answer": {
-            "options": "", 
-            "text": ""
+            "options": "C", 
+            "text": "The UK has hosted the Olympic Games on three occasions: 1908, 1948 and 2012. The main Olympic site for the 2012 Games was in Stratford, East London. The British team was very successful, across a wide range of Olympic sports, finishing third in the medal table."
         }
     }, 
     {
-        "question": "",
+        "question": "Sir Chris Hoy is a famous sportsman in which event or sport?",
         "options": {
-            "A": "",
-            "B": "",
-            "C": "",
-            "D": ""
+            "A": "Athletics",
+            "B": "Ice skating",
+            "C": "Swimming",
+            "D": "Cycling"
         },
         "answer": {
-            "options": "", 
-            "text": ""
+            "options": "D", 
+            "text": "Sir Chris Hoy (1976–) is a Scottish cyclist who has won six gold and one silver Olympic medals."
         }
     }, 
     {
-        "question": "",
+        "question": "Which of the following statements is correct?",
         "options": {
-            "A": "",
-            "B": "",
-            "C": "",
-            "D": ""
+            "A": "The UK has only hosted the Olympic Games once, in 2012.",
+            "B": "The UK hosted the Olympic Games in 1908, 1948 and 2012."
         },
         "answer": {
-            "options": "", 
-            "text": ""
+            "options": "B", 
+            "text": "The UK has hosted the Olympic Games on three occasions: 1908, 1948 and 2012."
         }
     }, 
     {
-        "question": "",
+        "question": "What sport is played in the UEFA Champions League?",
         "options": {
-            "A": "",
-            "B": "",
-            "C": "",
-            "D": ""
+            "A": "Tennis",
+            "B": "Rugby",
+            "C": "Football",
+            "D": "Cricket"
         },
         "answer": {
-            "options": "", 
-            "text": ""
+            "options": "C", 
+            "text": "Many UK football teams compete in competitions such as the UEFA (Union of European Football Associations) Champions League, against other teams from Europe."
         }
     }, 
     {
-        "question": "",
+        "question": "Andy Murray is a tennis Grand Slam singles title winner. Before he won, when was the last time a British male tennis player won a Grand Slam event?",
         "options": {
-            "A": "",
-            "B": "",
-            "C": "",
-            "D": ""
+            "A": "1906",
+            "B": "1936",
+            "C": "1956",
+            "D": "1976"
         },
         "answer": {
-            "options": "", 
-            "text": ""
+            "options": "B", 
+            "text": "Andy Murray is the first British man to win a singles title in a Grand Slam tournament since 1936."
         }
     }, 
     {
-        "question": "",
+        "question": "Dr Sir Ludwig Guttman is generally regarded as the originator of which sporting event?",
         "options": {
-            "A": "",
-            "B": "",
-            "C": "",
-            "D": ""
+            "A": "The Football World Cup",
+            "B": "The Paralympics",
+            "C": "The Olympic Games",
+            "D": "The Cricket World Cup"
         },
         "answer": {
-            "options": "", 
-            "text": ""
-        }
-    }, 
-    {
-        "question": "",
-        "options": {
-            "A": "",
-            "B": "",
-            "C": "",
-            "D": ""
-        },
-        "answer": {
-            "options": "", 
-            "text": ""
-        }
-    }, 
-    {
-        "question": "",
-        "options": {
-            "A": "",
-            "B": "",
-            "C": "",
-            "D": ""
-        },
-        "answer": {
-            "options": "", 
-            "text": ""
-        }
-    }, 
-    {
-        "question": "",
-        "options": {
-            "A": "",
-            "B": "",
-            "C": "",
-            "D": ""
-        },
-        "answer": {
-            "options": "", 
-            "text": ""
-        }
-    }, 
-    {
-        "question": "",
-        "options": {
-            "A": "",
-            "B": "",
-            "C": "",
-            "D": ""
-        },
-        "answer": {
-            "options": "", 
-            "text": ""
-        }
-    }, 
-    {
-        "question": "",
-        "options": {
-            "A": "",
-            "B": "",
-            "C": "",
-            "D": ""
-        },
-        "answer": {
-            "options": "", 
-            "text": ""
-        }
-    }, 
-    {
-        "question": "",
-        "options": {
-            "A": "",
-            "B": "",
-            "C": "",
-            "D": ""
-        },
-        "answer": {
-            "options": "", 
-            "text": ""
-        }
-    }, 
-    {
-        "question": "",
-        "options": {
-            "A": "",
-            "B": "",
-            "C": "",
-            "D": ""
-        },
-        "answer": {
-            "options": "", 
-            "text": ""
+            "options": "B", 
+            "text": "The Paralympics have their origin in the work of Dr Sir Ludwig Guttman, a German refugee, at the Stoke Mandeville Hospital in Buckinghamshire."
         }
     }
 ]
