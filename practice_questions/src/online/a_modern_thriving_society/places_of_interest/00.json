@@ -1,314 +1,304 @@
 [
     {
-        "question": "",
+        "question": "At which of the following famous UK landmarks would you find biomes?",
         "options": {
-            "A": "",
-            "B": "",
-            "C": "",
-            "D": ""
+            "A": "The Giant's Causeway",
+            "B": "The Eden Project",
+            "C": "Snowdonia",
+            "D": "Edinburgh Castle"
         },
         "answer": {
-            "options": "", 
-            "text": ""
+            "options": "B", 
+            "text": "The Eden Project is located in Cornwall, in the south-west of England. Its biomes, which are like giant greenhouses, house plants from all over the world."
         }
     }, 
     {
-        "question": "",
+        "question": "Which TWO of the following are famous British landmarks?",
         "options": {
-            "A": "",
-            "B": "",
-            "C": "",
-            "D": ""
+            "A": "The London Eye",
+            "B": "Mont Blanc",
+            "C": "The Eden Project",
+            "D": "The Smithsonian"
         },
         "answer": {
-            "options": "", 
-            "text": ""
+            "options": "A, C", 
+            "text": "The London Eye is situated on the southern bank of the River Thames and is a Ferris wheel that is 443 feet (135 metres) tall. The Eden Project is located in Cornwall, in the south west of England. Its biomes, which are like giant greenhouses, house plants from all over the world."
         }
     }, 
     {
-        "question": "",
+        "question": "Which famous UK landmark is home to the Elizabeth Tower and Big Ben?",
         "options": {
-            "A": "",
-            "B": "",
-            "C": "",
-            "D": ""
+            "A": "St Paul's Cathedral",
+            "B": "Houses of Parliament",
+            "C": "The Tower of London",
+            "D": "Buckingham Palace"
         },
         "answer": {
-            "options": "", 
-            "text": ""
+            "options": "B", 
+            "text": "The clock tower of the Houses of Parliament is named 'Elizabeth Tower' in honour of Queen Elizabeth II's Diamond Jubilee in 2012."
         }
     }, 
     {
-        "question": "",
+        "question": "Who was responsible for building the Tower of London?",
         "options": {
-            "A": "",
-            "B": "",
-            "C": "",
-            "D": ""
+            "A": "William the Conqueror",
+            "B": "Edward I",
+            "C": "Henry VIII",
+            "D": "Elizabeth I"
         },
         "answer": {
-            "options": "", 
-            "text": ""
+            "options": "A", 
+            "text": "The Tower of London was first built by William the Conqueror after he became king in 1066."
         }
     }, 
     {
-        "question": "",
+        "question": "In which country is Loch Lomond and the Trossachs National Park found?",
         "options": {
-            "A": "",
-            "B": "",
-            "C": "",
-            "D": ""
+            "A": "Wales",
+            "B": "England",
+            "C": "Scotland",
+            "D": "Northern Ireland"
         },
         "answer": {
-            "options": "", 
-            "text": ""
+            "options": "C", 
+            "text": "Loch Lomond and The Trossachs National Park covers 720 square miles (1,865 square kilometres) in the west of Scotland."
         }
     }, 
     {
-        "question": "",
+        "question": "In the UK, who provides vaccinations and medical treatment for animals?",
         "options": {
-            "A": "",
-            "B": "",
-            "C": "",
-            "D": ""
+            "A": "The National Health Service",
+            "B": "HMRC",
+            "C": "Veterinary surgeons",
+            "D": "Local authorities"
         },
         "answer": {
-            "options": "", 
-            "text": ""
+            "options": "C", 
+            "text": "Vaccinations and medical treatment for animals are available from veterinary surgeons (vets). There are charities which may help people who cannot afford to pay a vet."
         }
     }, 
     {
-        "question": "",
+        "question": "Areas of protected countryside that everyone can visit and where people live, work and look after the landscape are called which of the following?",
         "options": {
-            "A": "",
-            "B": "",
-            "C": "",
-            "D": ""
+            "A": "Greenfield sites",
+            "B": "Country estates",
+            "C": "National parks",
+            "D": "Moorland"
         },
         "answer": {
-            "options": "", 
-            "text": ""
+            "options": "C", 
+            "text": "There are 15 national parks in England, Wales and Scotland. They are areas of protected countryside that everyone can visit, and where people live, work and look after the landscape."
         }
     }, 
     {
-        "question": "",
+        "question": "Which of these is a famous UK landmark?",
         "options": {
-            "A": "",
-            "B": "",
-            "C": "",
-            "D": ""
+            "A": "Loch Lomond and the Trossachs National Park",
+            "B": "Yellowstone Park",
+            "C": "The Brandenburg Gate",
+            "D": "The Black Forest"
         },
         "answer": {
-            "options": "", 
-            "text": ""
+            "options": "A", 
+            "text": "Loch Lomond and the Trossachs National Park is a national park which covers 720 square miles (1,865 square kilometres) in the west of Scotland. Loch Lomond is the largest expanse of fresh water in mainland Britain and probably the best-known part of the park."
         }
     }, 
     {
-        "question": "",
+        "question": "Which of the following statements is correct?",
         "options": {
-            "A": "",
-            "B": "",
-            "C": "",
-            "D": ""
+            "A": "The UK has a large network of private footpaths in the countryside.",
+            "B": "The UK has a large network of public footpaths in the countryside."
         },
         "answer": {
-            "options": "", 
-            "text": ""
+            "options": "B", 
+            "text": "The UK has a large network of public footpaths in the countryside. There are also many opportunities for mountain biking, mountaineering and hill walking."
         }
     }, 
     {
-        "question": "",
+        "question": "Which of these is an environmental charity?",
         "options": {
-            "A": "",
-            "B": "",
-            "C": "",
-            "D": ""
+            "A": "Local government",
+            "B": "The Council of Europe",
+            "C": "The London Eye",
+            "D": "The Eden Project"
         },
         "answer": {
-            "options": "", 
-            "text": ""
+            "options": "D", 
+            "text": "The Eden Project is located in Cornwall, in the south west of England. Its biomes, which are like giant greenhouses, house plants from all over the world. The Eden Project is also a charity which runs environmental and social projects internationally."
         }
     }, 
     {
-        "question": "",
+        "question": "Which is the largest expanse of fresh water in mainland Britain?",
         "options": {
-            "A": "",
-            "B": "",
-            "C": "",
-            "D": ""
+            "A": "Lake Windermere",
+            "B": "Loch Lomond",
+            "C": "Derwentwater",
+            "D": "Loch Ness"
         },
         "answer": {
-            "options": "", 
-            "text": ""
+            "options": "B", 
+            "text": "Loch Lomond is the largest expanse of fresh water in mainland Britain."
         }
     }, 
     {
-        "question": "",
+        "question": "What is the common name for the Yeoman Warders at the Tower of London?",
         "options": {
-            "A": "",
-            "B": "",
-            "C": "",
-            "D": ""
+            "A": "Pikestaff",
+            "B": "King's Men",
+            "C": "Crown Guards",
+            "D": "Beefeaters"
         },
         "answer": {
-            "options": "", 
-            "text": ""
+            "options": "D", 
+            "text": "The Tower of London was first built by William the Conqueror after he became king in 1066. Tours are given by the Yeoman Warders, also known as Beefeaters, who tell visitors about the building's history."
         }
     }, 
     {
-        "question": "",
+        "question": "Which of the following is a famous UK landmark?",
         "options": {
-            "A": "",
-            "B": "",
-            "C": "",
-            "D": ""
+            "A": "The London Eye",
+            "B": "Albert Square",
+            "C": "The Eiffel Tower",
+            "D": "The Eisteddfod"
         },
         "answer": {
-            "options": "", 
-            "text": ""
+            "options": "A", 
+            "text": "The London Eye is a famous UK landmark situated on the southern bank of the River Thames and is a Ferris wheel that is 443 feet (135 metres) tall. It was originally built as part of the UK's celebration of the new millennium and continues to be an important part of New Year celebrations."
         }
     }, 
     {
-        "question": "",
+        "question": "The London Eye was built as part of the UK's new millennium celebrations.",
         "options": {
-            "A": "",
-            "B": "",
-            "C": "",
-            "D": ""
+            "A": "True",
+            "B": "False"
         },
         "answer": {
-            "options": "", 
-            "text": ""
+            "options": "A", 
+            "text": "The London Eye was built as part of the UK's new millennium celebrations."
         }
     }, 
     {
-        "question": "",
+        "question": "Which of the following statements is correct?",
         "options": {
-            "A": "",
-            "B": "",
-            "C": "",
-            "D": ""
+            "A": "Big Ben refers to the great bell of the clock at the Houses of Parliament.",
+            "B": "Big Ben is a novel written by Sir Kingsley Amis."
         },
         "answer": {
-            "options": "", 
-            "text": ""
+            "options": "A", 
+            "text": "Big Ben is the nickname for the great bell of the clock at the Houses of Parliament in London. Many people call the clock Big Ben as well."
         }
     }, 
     {
-        "question": "",
+        "question": "The Tower of London was built by William the Conqueror after he became king in 1066. ",
         "options": {
-            "A": "",
-            "B": "",
-            "C": "",
-            "D": ""
+            "A": "True",
+            "B": "False"
         },
         "answer": {
-            "options": "", 
-            "text": ""
+            "options": "A", 
+            "text": "The Tower of London was first built by William the Conqueror after he became king in 1066."
         }
     }, 
     {
-        "question": "",
+        "question": "What must a dog wear when it is in a public place?",
         "options": {
-            "A": "",
-            "B": "",
-            "C": "",
-            "D": ""
+            "A": "A muzzle",
+            "B": "A collar showing the dog's name",
+            "C": "A coat to keep it warm",
+            "D": "A collar showing the name and address of the owner"
         },
         "answer": {
-            "options": "", 
-            "text": ""
+            "options": "D", 
+            "text": "All dogs in public places must wear a collar showing the name and address of the owner."
         }
     }, 
     {
-        "question": "",
+        "question": "How many national parks are there in England, Wales and Scotland?",
         "options": {
-            "A": "",
-            "B": "",
-            "C": "",
-            "D": ""
+            "A": "10",
+            "B": "15",
+            "C": "20",
+            "D": "25"
         },
         "answer": {
-            "options": "", 
-            "text": ""
+            "options": "B", 
+            "text": "There are 15 national parks in England, Wales and Scotland."
         }
     }, 
     {
-        "question": "",
+        "question": "In which English county is the Eden Project?",
         "options": {
-            "A": "",
-            "B": "",
-            "C": "",
-            "D": ""
+            "A": "Cornwall",
+            "B": "Devon",
+            "C": "Suffolk",
+            "D": "Somerset"
         },
         "answer": {
-            "options": "", 
-            "text": ""
+            "options": "A", 
+            "text": "The Eden Project is located in Cornwall, in the south west of England."
         }
     }, 
     {
-        "question": "",
+        "question": "Where is the land formation of the Giant's Causeway?",
         "options": {
-            "A": "",
-            "B": "",
-            "C": "",
-            "D": ""
+            "A": "Northern Ireland",
+            "B": "Scotland",
+            "C": "England",
+            "D": "Wales"
         },
         "answer": {
-            "options": "", 
-            "text": ""
+            "options": "A", 
+            "text": "Located on the north east coast of Northern Ireland, the Giant's Causeway is a land formation of columns made from volcanic lava."
         }
     }, 
     {
-        "question": "",
+        "question": "Which of the following statements is correct?",
         "options": {
-            "A": "",
-            "B": "",
-            "C": "",
-            "D": ""
+            "A": "A dog's owner is responsible for cleaning up after it in public places.",
+            "B": "Local authorities employ people to clean up after dogs in public places."
         },
         "answer": {
-            "options": "", 
-            "text": ""
+            "options": "A", 
+            "text": "A lot of people in the UK have pets such as cats or dogs. All dogs in public places must wear a collar showing the name and address of the owner. The owner is responsible for keeping the dog under control and for cleaning up after the animal in a public place."
         }
     }, 
     {
-        "question": "",
+        "question": "In 2007, television viewers voted which of these as 'Britain's Favourite View'?",
         "options": {
-            "A": "",
-            "B": "",
-            "C": "",
-            "D": ""
+            "A": "Wastwater",
+            "B": "Buttermere",
+            "C": "Grasmere",
+            "D": "Bassenthwaite Lake"
         },
         "answer": {
-            "options": "", 
-            "text": ""
+            "options": "A", 
+            "text": "In 2007, television viewers voted Wastwater as Britain's favourite view."
         }
     }, 
     {
-        "question": "",
+        "question": "Which organisation was founded in 1895 and now has over 61,000 volunteers helping to preserve important buildings, the countryside and the coastline?",
         "options": {
-            "A": "",
-            "B": "",
-            "C": "",
-            "D": ""
+            "A": "The National Trust",
+            "B": "The Countryside Alliance",
+            "C": "Country Land and Business Association",
+            "D": "The National Gardens Scheme"
         },
         "answer": {
-            "options": "", 
-            "text": ""
+            "options": "A", 
+            "text": "The National Trust was founded in 1895 by three volunteers. There are now more than 61,000 volunteers helping to keep the organisation running."
         }
     }, 
     {
-        "question": "",
+        "question": "Where would you find Yeoman Warders working?",
         "options": {
-            "A": "",
-            "B": "",
-            "C": "",
-            "D": ""
+            "A": "The London Eye",
+            "B": "The Tower of London",
+            "C": "The Eden Project",
+            "D": "Edinburgh Castle"
         },
         "answer": {
-            "options": "", 
-            "text": ""
+            "options": "B", 
+            "text": "Tours are given of the Tower of London by the Yeoman Warders, also known as Beefeaters, who tell visitors about the building's history."
         }
     }
 ]
