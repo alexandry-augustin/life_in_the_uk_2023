@@ -1,0 +1,296 @@
+[
+    {
+        "question": "St George is the patron saint of which country?",
+        "options": {
+            "A": "England",
+            "B": "Scotland",
+            "C": "Wales",
+            "D": "Northern Ireland"
+        },
+        "answer": {
+            "options": "A", 
+            "text": "England, Scotland, Wales and Northern Ireland each have a national saint, called a patron saint. St George is the patron saint of England."
+        }
+    }, 
+    {
+        "question": "St Patrick is the patron saint of Northern Ireland.",
+        "options": {
+            "A": "True",
+            "B": "False"
+        },
+        "answer": {
+            "options": "A", 
+            "text": "England, Scotland, Wales and Northern Ireland each have a national saint, called a patron saint. St Patrick is the patron saint of Northern Ireland."
+        }
+    }, 
+    {
+        "question": "On which date each year is St David's day celebrated?",
+        "options": {
+            "A": "1 January",
+            "B": "1 March",
+            "C": "1 May",
+            "D": "1 July"
+        },
+        "answer": {
+            "options": "B", 
+            "text": "England, Scotland, Wales and Northern Ireland each have a national saint, called a patron saint. Each saint has a special day: - 1 March: St David’s Day, Wales"
+        }
+    }, 
+    {
+        "question": "What type of church is the national Church in Scotland?",
+        "options": {
+            "A": "Baptist",
+            "B": "Anglican",
+            "C": "Presbyterian",
+            "D": "Roman Catholic"
+        },
+        "answer": {
+            "options": "C", 
+            "text": "In Scotland, the national Church is the Church of Scotland, which is a Presbyterian Church."
+        }
+    }, 
+    {
+        "question": "Several Church of England bishops sit in the House of Commons.",
+        "options": {
+            "A": "True",
+            "B": "False"
+        },
+        "answer": {
+            "options": "B", 
+            "text": "Several Church of England bishops sit in the House of Lords, not the House of Commons. Members of the House of Lords, known as peers, are not elected by the people and do not represent a constituency."
+        }
+    }, 
+    {
+        "question": "There is no established church in Northern Ireland. ",
+        "options": {
+            "A": "True",
+            "B": "False"
+        },
+        "answer": {
+            "options": "A", 
+            "text": "Unlike Scotland and England, there is no established Church in Northern Ireland."
+        }
+    }, 
+    {
+        "question": "In Wales the established Church is the Church of Wales.",
+        "options": {
+            "A": "True",
+            "B": "False"
+        },
+        "answer": {
+            "options": "B", 
+            "text": "There is no established Church in Wales or Northern Ireland."
+        }
+    }, 
+    {
+        "question": "Westminster Abbey is famously the final resting place for which of the following?",
+        "options": {
+            "A": "Many poets",
+            "B": "Many Prime Ministers",
+            "C": "Many monarchs",
+            "D": "Many soldiers"
+        },
+        "answer": {
+            "options": "C", 
+            "text": "Westminster Abbey has been the coronation church since 1066 and is the final resting place of many monarchs."
+        }
+    }, 
+    {
+        "question": "After Protestants, which is the biggest denomination of Christianity in the UK?",
+        "options": {
+            "A": "Jehovah’s Witnesses",
+            "B": "Roman Catholic",
+            "C": "Ethiopian Orthodox",
+            "D": "Christian Science"
+        },
+        "answer": {
+            "options": "B", 
+            "text": "Other Protestant Christian groups in the UK are Baptists, Methodists, Presbyterians and Quakers. There are also other denominations of Christianity, the biggest of which is Roman Catholic."
+        }
+    }, 
+    {
+        "question": "What kind of Church is the Church of Scotland?",
+        "options": {
+            "A": "Mormon",
+            "B": "Scientologist",
+            "C": "Presbyterian",
+            "D": "Amish"
+        },
+        "answer": {
+            "options": "C", 
+            "text": "In Scotland, the national Church is the Church of Scotland, which is a Presbyterian Church."
+        }
+    }, 
+    {
+        "question": "What date each year is St George's Day?",
+        "options": {
+            "A": "23 April",
+            "B": "23 May",
+            "C": "23 June",
+            "D": "23 July"
+        },
+        "answer": {
+            "options": "A", 
+            "text": "St George's Day falls on 23 April each year. St George is the patron saint of England."
+        }
+    }, 
+    {
+        "question": "In England which TWO of the following describes the Church of England?",
+        "options": {
+            "A": "Established Church",
+            "B": "Anglican Church",
+            "C": "Catholic Church",
+            "D": "Methodist Church"
+        },
+        "answer": {
+            "options": "A, B", 
+            "text": "The official 'established' Church of the state is the Church of England (called the Anglican Church in other countries and the Episcopal Church in Scotland and the United States)."
+        }
+    }, 
+    {
+        "question": "Which of these national saints' days is incorrect?",
+        "options": {
+            "A": "1 March: St David’s Day, Wales",
+            "B": "17 March: St Patrick’s Day, Northern Ireland",
+            "C": "23 April: St George’s Day, England",
+            "D": "1 November: St Matthew’s Day, Scotland"
+        },
+        "answer": {
+            "options": "D", 
+            "text": "Each saint has a special day: • 1 March: St David’s Day, Wales • 17 March: St Patrick’s Day, Northern Ireland • 23 April: St George’s Day, England • 30 November: St Andrew’s Day, Scotland."
+        }
+    }, 
+    {
+        "question": "Which of the following statements is correct?",
+        "options": {
+            "A": "All the national saints' days are celebrated but only in Scotland and Northern Ireland are they official holidays.",
+            "B": "All the national saints' days are celebrated but only in England and Wales are they official holidays."
+        },
+        "answer": {
+            "options": "A", 
+            "text": "Only Scotland and Northern Ireland have their patron saint’s day as an official holiday (although in Scotland not all businesses and offices will close)."
+        }
+    }, 
+    {
+        "question": "What is the official Church of the state in the UK?",
+        "options": {
+            "A": "Church of Rome",
+            "B": "Catholic Church",
+            "C": "Church of England",
+            "D": "Methodist Church"
+        },
+        "answer": {
+            "options": "C", 
+            "text": "The official Church of the state is the Church of England (called the Anglican Church in other countries and the Episcopal Church in Scotland and the United States). It is a Protestant Church and has existed since the Reformation in the 1530s."
+        }
+    }, 
+    {
+        "question": "The Church of England is a Protestant church and has existed since which event?",
+        "options": {
+            "A": "The Realisation",
+            "B": "The Reformation",
+            "C": "The Reorganisation",
+            "D": "The Renaissance"
+        },
+        "answer": {
+            "options": "B", 
+            "text": "The official church of the state is the Church of England (called the Anglican Church in other countries and the Episcopal Church in Scotland and the United States). It is a Protestant Church and has existed since the Reformation in the 1530s."
+        }
+    }, 
+    {
+        "question": "Which of the following statements is correct?",
+        "options": {
+            "A": "Several Church of England bishops sit in the House of Lords.",
+            "B": "Several Church of England bishops sit in the House of Commons."
+        },
+        "answer": {
+            "options": "A", 
+            "text": "Several Church of England bishops sit in the House of Lords."
+        }
+    }, 
+    {
+        "question": "Which date each year is St Andrew's Day?",
+        "options": {
+            "A": "30 January",
+            "B": "30 February",
+            "C": "30 November",
+            "D": "30 December"
+        },
+        "answer": {
+            "options": "C", 
+            "text": "England, Scotland, Wales and Northern Ireland each have a national saint, called a patron saint. Each saint has a special day: - 30 November: St Andrew’s Day, Scotland."
+        }
+    }, 
+    {
+        "question": "Which famous religious building has been the coronation church since 1066 and is the final resting place for many monarchs?",
+        "options": {
+            "A": "Westminster Abbey",
+            "B": "York Minster",
+            "C": "St Paul’s Cathedral",
+            "D": "Westminster Cathedral"
+        },
+        "answer": {
+            "options": "A", 
+            "text": "Westminster Abbey has been the coronation church since 1066 and is the final resting place of many monarchs"
+        }
+    }, 
+    {
+        "question": "Which of the following statements is correct?",
+        "options": {
+            "A": "In Northern Ireland the Church of Ulster is the established Church.",
+            "B": "There is no established church in Northern Ireland."
+        },
+        "answer": {
+            "options": "B", 
+            "text": "There is no established Church in Wales or Northern Ireland."
+        }
+    }, 
+    {
+        "question": "In the UK, everybody has the right to choose their religion or choose not to practise a religion.",
+        "options": {
+            "A": "True",
+            "B": "False"
+        },
+        "answer": {
+            "options": "A", 
+            "text": "Everyone has the legal right to choose their religion, or to choose not to practise a religion. In the 2011 Census, 25% of people said that they had no religion."
+        }
+    }, 
+    {
+        "question": "What is the name of Scotland's patron saint?",
+        "options": {
+            "A": "St Andrew",
+            "B": "St David",
+            "C": "St George",
+            "D": "St Patrick"
+        },
+        "answer": {
+            "options": "A", 
+            "text": "England, Scotland, Wales and Northern Ireland each have a national saint, called a patron saint. Each saint has a special day. The patron saint of Scotland is St Andrew, with St Andrew's day being celebrated on the 30 November."
+        }
+    }, 
+    {
+        "question": "Which of the following statements is correct?",
+        "options": {
+            "A": "St Paul is the patron saint of Ireland.",
+            "B": "St David is the patron saint of Wales."
+        },
+        "answer": {
+            "options": "B", 
+            "text": "England, Scotland, Wales and Northern Ireland each have a national saint, called a patron saint: St David of Wales, St Patrick of Northern Ireland, St George of England and St Andrew of Scotland."
+        }
+    }, 
+    {
+        "question": "The Archbishop of Canterbury can most accurately be described as what?",
+        "options": {
+            "A": "The spiritual leader of the Church of England",
+            "B": "The political leader of the Church of England",
+            "C": "The administrative leader of the Church of England",
+            "D": "The financial leader of the Church of England"
+        },
+        "answer": {
+            "options": "A", 
+            "text": "The spiritual leader of the Church of England is the Archbishop of Canterbury."
+        }
+    }
+]

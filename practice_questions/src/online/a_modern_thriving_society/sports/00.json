@@ -1,0 +1,306 @@
+[
+    {
+        "question": "Why is Dame Jessica Ennis-Hill famous?",
+        "options": {
+            "A": "She is a successful comedienne",
+            "B": "She writes poetry",
+            "C": "She invented the cash-dispensing ATM",
+            "D": "She is an Olympic gold medallist"
+        },
+        "answer": {
+            "options": "D", 
+            "text": "Dame Jessica Ennis-Hill (1986-) is an athlete. She won the 2012 Olympic gold medal in the heptathlon and the silver medal in the 2016 Olympic Games, which includes seven different track and field events. She also holds a number of British athletics records."
+        }
+    }, 
+    {
+        "question": "Which sport can be traced back to 15th century Scotland?",
+        "options": {
+            "A": "Motor racing",
+            "B": "Tennis",
+            "C": "Rugby Union",
+            "D": "Golf"
+        },
+        "answer": {
+            "options": "D", 
+            "text": "The modern game of golf can be traced back to 15th century Scotland."
+        }
+    }, 
+    {
+        "question": "In 1954, who was the first person to run a mile in under four minutes?",
+        "options": {
+            "A": "Sir Mo Farah",
+            "B": "Sir Chris Hoy",
+            "C": "Sir Roger Bannister",
+            "D": "Sir Francis Chichester"
+        },
+        "answer": {
+            "options": "C", 
+            "text": "Sir Roger Bannister was the first man in the world to run a mile in under four minutes, in 1954."
+        }
+    }, 
+    {
+        "question": "The game of golf is traditionally thought to have originated in which country?",
+        "options": {
+            "A": "England",
+            "B": "Spain",
+            "C": "USA",
+            "D": "Scotland"
+        },
+        "answer": {
+            "options": "D", 
+            "text": "The modern game of golf can be traced back to 15th century Scotland."
+        }
+    }, 
+    {
+        "question": "Ellie Simmonds is a Paralympic gold medallist in which sport?",
+        "options": {
+            "A": "Archery",
+            "B": "Athletics",
+            "C": "Swimming",
+            "D": "Table tennis"
+        },
+        "answer": {
+            "options": "C", 
+            "text": "Ellie Simmonds (1994-) is a Paralympian who won gold medals for swimming at the 2008, 2012 and 2016 Paralympic Games and holds a number of world records."
+        }
+    }, 
+    {
+        "question": "A famous boat race for rowers is contested on the River Thames each year between which university teams?",
+        "options": {
+            "A": "Cambridge and London",
+            "B": "Edinburgh and Oxford",
+            "C": "Edinburgh and London",
+            "D": "Cambridge and Oxford"
+        },
+        "answer": {
+            "options": "D", 
+            "text": "Rowing is popular, both as a leisure activity and as a competitive sport. There is a famous yearly race on the Thames between Oxford and Cambridge Universities."
+        }
+    }, 
+    {
+        "question": "What is the name of the swimmer who won gold medals at the 2008, 2012 and 2016 Paralympic Games?",
+        "options": {
+            "A": "Jayne Torvill",
+            "B": "Dame Kelly Holmes",
+            "C": "Ellie Simmonds",
+            "D": "Baroness Tanni Grey-Thompson"
+        },
+        "answer": {
+            "options": "C", 
+            "text": "Ellie Simmonds (1994-) is a Paralympian who won gold medals for swimming at the 2008, 2012 and 2016 Paralympic Games."
+        }
+    }, 
+    {
+        "question": "What UK patron saint's name is shared with the home of golf?",
+        "options": {
+            "A": "St Andrew",
+            "B": "St David",
+            "C": "St Columba",
+            "D": "St Patrick"
+        },
+        "answer": {
+            "options": "A", 
+            "text": "The modern game of golf can be traced back to 15th century Scotland. St Andrews in Scotland is known as the home of golf."
+        }
+    }, 
+    {
+        "question": "With which sport was Bobby Moore associated?",
+        "options": {
+            "A": "Sailing",
+            "B": "Tennis",
+            "C": "Cricket",
+            "D": "Football"
+        },
+        "answer": {
+            "options": "D", 
+            "text": "Bobby Moore (1941-93) captained the English football team that won the World Cup in 1966."
+        }
+    }, 
+    {
+        "question": "Who was the first Briton to win the Tour de France?",
+        "options": {
+            "A": "Sir Chris Hoy",
+            "B": "Sir Bradley Wiggins",
+            "C": "Mark Cavendish",
+            "D": "Reg Harris"
+        },
+        "answer": {
+            "options": "B", 
+            "text": "Sir Bradley Wiggins (1980-) is a cyclist. In 2012, he became the first Briton to win the Tour de France."
+        }
+    }, 
+    {
+        "question": "What was the highest honour that Kelly Holmes, who won two gold Olympic medals, received?",
+        "options": {
+            "A": "She was made an OBE (Order of the British Empire)",
+            "B": "She was made a CBE (Commander of the Order of the British Empire)",
+            "C": "She was made a Dame (Dame Commander of the Order of the British Empire)",
+            "D": "She was made a Companion of Honour (CH)"
+        },
+        "answer": {
+            "options": "C", 
+            "text": "Dame Kelly Holmes (1970-) won two gold medals for running in the 2004 Olympic Games."
+        }
+    }, 
+    {
+        "question": "What is the name of the cricket Test series played between England and Australia?",
+        "options": {
+            "A": "The Urn",
+            "B": "The Oval",
+            "C": "The Ashes",
+            "D": "Royal Ascot"
+        },
+        "answer": {
+            "options": "C", 
+            "text": "Cricket originated in England and is now played in many countries. The most famous competition is called the Ashes, which is a series of Test matches played between England and Australia."
+        }
+    }, 
+    {
+        "question": "Bobby Moore was the captain of which sports team in 1966?",
+        "options": {
+            "A": "Welsh rugby team",
+            "B": "English football team",
+            "C": "Scottish rugby team",
+            "D": "English cricket team"
+        },
+        "answer": {
+            "options": "B", 
+            "text": "Bobby Moore captained the English football team that won the World Cup in 1966."
+        }
+    }, 
+    {
+        "question": "What is the name of the British athlete who has won 16 Paralympic medals, including 11 gold medals?",
+        "options": {
+            "A": "Lewis Hamilton",
+            "B": "Baroness Tanni Grey-Thompson",
+            "C": "Dame Kelly Holmes",
+            "D": "Dame Ellen MacArthur"
+        },
+        "answer": {
+            "options": "B", 
+            "text": "Baroness Tanni Grey-Thompson (1969-) is an athlete who uses a wheelchair and won 16 Paralympic medals, including 11 gold medals, in races over five Paralympic Games."
+        }
+    }, 
+    {
+        "question": "Damon Hill, Jenson Button and Lewis Hamilton are champions in which sport?",
+        "options": {
+            "A": "Motor sport",
+            "B": "Horse racing",
+            "C": "Tennis",
+            "D": "Squash"
+        },
+        "answer": {
+            "options": "A", 
+            "text": "There is a long history of motor sport in the UK, for both cars and motor cycles. A number of British Grand Prix drivers have won the Formula 1 World Championship. Recent British winners include Damon Hill, Lewis Hamilton and Jenson Button."
+        }
+    }, 
+    {
+        "question": "Which of the following is a famous tennis tournament played in the UK every year?",
+        "options": {
+            "A": "Wimbledon",
+            "B": "The Grand National",
+            "C": "The Open",
+            "D": "Six Nations"
+        },
+        "answer": {
+            "options": "A", 
+            "text": "The most famous tennis tournament hosted in Britain is The Wimbledon Championships, which takes place each year at the All England Lawn Tennis and Croquet Club. It is the oldest tennis tournament in the world and the only 'Grand Slam' event played on grass."
+        }
+    }, 
+    {
+        "question": "Sir Steve Redgrave was the first man in the world to run a mile in under four minutes.",
+        "options": {
+            "A": "True",
+            "B": "False"
+        },
+        "answer": {
+            "options": "B", 
+            "text": "Sir Roger Bannister (1929-2018) was the first man in the world to run a mile in under four minutes, in 1954."
+        }
+    }, 
+    {
+        "question": "Sir Andy Murray is the first British man to win a singles title in a Grand Slam tournament since 1936.",
+        "options": {
+            "A": "True",
+            "B": "False"
+        },
+        "answer": {
+            "options": "A", 
+            "text": "Sir Andy Murray (1987-) is a Scottish tennis player who in 2012 won the men's singles in the US Open. He is the first British man to win a singles title in a Grand Slam tournament since 1936. In the same year, he won Olympic gold and silver medals. In 2013 and 2016 he won the men's singles at Wimbledon. He also went on to win Gold at the 2016 Olympics."
+        }
+    }, 
+    {
+        "question": "Who captained England's winning football World Cup team in 1966?",
+        "options": {
+            "A": "David Beckham",
+            "B": "Lewis Hamilton",
+            "C": "Bobby Moore",
+            "D": "Dylan Thomas"
+        },
+        "answer": {
+            "options": "C", 
+            "text": "Bobby Moore (1941-93) captained the English football team that won the World Cup in 1966."
+        }
+    }, 
+    {
+        "question": "Ellie Simmonds is a Paralympian and was the youngest member of the British team at the 2008 games.",
+        "options": {
+            "A": "True",
+            "B": "False"
+        },
+        "answer": {
+            "options": "A", 
+            "text": "Ellie Simmonds (1994-) is a Paralympian who won gold medals for swimming at the 2008, 2012 and 2016 Paralympic Games and holds a number of world records. She was the youngest member of the British team at the 2008 Games."
+        }
+    }, 
+    {
+        "question": "FIFA stands for 'Fédération Internationale de Football Association'.",
+        "options": {
+            "A": "True",
+            "B": "False"
+        },
+        "answer": {
+            "options": "A", 
+            "text": "FIFA stands for 'Fédération Internationale de Football Association'."
+        }
+    }, 
+    {
+        "question": "Which TWO of the following countries play rugby union in the Six Nations Championship?",
+        "options": {
+            "A": "Scotland",
+            "B": "France",
+            "C": "New Zealand",
+            "D": "Argentina"
+        },
+        "answer": {
+            "options": "A, B", 
+            "text": "A famous rugby union competition is the Six Nations Championship between England, Ireland, Scotland, Wales, France and Italy."
+        }
+    }, 
+    {
+        "question": "The 'Ashes' are played for between England and Australia in which sport?",
+        "options": {
+            "A": "Rugby union",
+            "B": "Tennis",
+            "C": "Darts",
+            "D": "Cricket"
+        },
+        "answer": {
+            "options": "D", 
+            "text": "The most famous cricket competition is the Ashes, which is a series of test matches played between England and Australia."
+        }
+    }, 
+    {
+        "question": "What is Sir Roger Bannister famous for?",
+        "options": {
+            "A": "Won the London Marathon six times",
+            "B": "First man in the world to run a mile in under four minutes",
+            "C": "Won the Formula 1 world championship three times",
+            "D": "Fastest person to sail around the world single-handed"
+        },
+        "answer": {
+            "options": "B", 
+            "text": "Sir Roger Bannister (1929-2018) was the first man in the world to run a mile in under four minutes, in 1954."
+        }
+    }
+]

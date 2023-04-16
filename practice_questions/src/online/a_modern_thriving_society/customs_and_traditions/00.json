@@ -1,0 +1,304 @@
+[
+    {
+        "question": "At what time is the two-minute silence observed on Remembrance Sunday?",
+        "options": {
+            "A": "11am",
+            "B": "Noon",
+            "C": "3pm",
+            "D": "5pm"
+        },
+        "answer": {
+            "options": "A", 
+            "text": "At 11am on Remembrance Day there is a two-minute silence and wreaths are laid at the Cenotaph in Whitehall, London."
+        }
+    }, 
+    {
+        "question": "Which of the following statements is correct?",
+        "options": {
+            "A": "Eid ul Adha is a Muslim festival celebrating the prophet Ibrahim's willingness to sacrifice his son.",
+            "B": "Vaisakhi is a Muslim festival celebrating the prophet Ibrahim's willingness to sacrifice his son."
+        },
+        "answer": {
+            "options": "A", 
+            "text": "Eid ul Adha is a Muslim festival celebrating the prophet Ibrahim's willingness to sacrifice his son when God ordered him to."
+        }
+    }, 
+    {
+        "question": "Which TWO names are usually given by children at Christmas to their imagined provider of the gifts?",
+        "options": {
+            "A": "Saint Francis",
+            "B": "Father Christmas",
+            "C": "Santa Claus",
+            "D": "Prince Charming"
+        },
+        "answer": {
+            "options": "B, C", 
+            "text": "Very young children believe that Father Christmas (also known as Santa Claus) brings them presents during the night before Christmas Day."
+        }
+    }, 
+    {
+        "question": "Which festival is celebrated on 14 April each year?",
+        "options": {
+            "A": "Easter",
+            "B": "Hannukah",
+            "C": "Vaisakhi",
+            "D": "Harvest"
+        },
+        "answer": {
+            "options": "C", 
+            "text": "Vaisakhi (also spelled Baisakhi) is a Sikh festival which celebrates the founding of the Sikh community known as the Khalsa. It is celebrated on 14 April each year with parades, dancing and singing."
+        }
+    }, 
+    {
+        "question": "Which of the following statements is correct?",
+        "options": {
+            "A": "Good Friday is the day Christians commemorate the death of Jesus Christ.",
+            "B": "Easter Sunday is the day Christians commemorate the death of Jesus Christ."
+        },
+        "answer": {
+            "options": "A", 
+            "text": "Easter takes place in March or April. It marks the death of Jesus Christ on Good Friday and his rising from the dead on Easter Sunday. Both Good Friday and the following Monday, called Easter Monday, are public holidays."
+        }
+    }, 
+    {
+        "question": "Which day marks the death of Jesus Christ?",
+        "options": {
+            "A": "Christmas Day",
+            "B": "Ash Wednesday",
+            "C": "All Saints' Day",
+            "D": "Good Friday"
+        },
+        "answer": {
+            "options": "D", 
+            "text": "Easter marks the death of Jesus Christ on Good Friday. Christians call it 'Good' because of Jesus' example of sacrificial love by giving his life for the healing of the world."
+        }
+    }, 
+    {
+        "question": "Decorating a tree is part of which festival celebrated in the UK?",
+        "options": {
+            "A": "Halloween",
+            "B": "Harvest",
+            "C": "Easter",
+            "D": "Christmas"
+        },
+        "answer": {
+            "options": "D", 
+            "text": "Many people decorate a tree in their home as part of their Christmas celebrations."
+        }
+    }, 
+    {
+        "question": "Which event celebrates the end of Ramadan?",
+        "options": {
+            "A": "Vaisakhi",
+            "B": "Hannukah",
+            "C": "Eid al-Fitr",
+            "D": "Eid ul Adha"
+        },
+        "answer": {
+            "options": "C", 
+            "text": "Eid al-Fitr celebrates the end of Ramadan, when Muslims have fasted for a month."
+        }
+    }, 
+    {
+        "question": "The Battle of the Boyne is celebrated with a bank holiday in which country?",
+        "options": {
+            "A": "England",
+            "B": "Wales",
+            "C": "Northern Ireland",
+            "D": "Scotland"
+        },
+        "answer": {
+            "options": "C", 
+            "text": "In Northern Ireland, the anniversary of the Battle of the Boyne in July is a public holiday."
+        }
+    }, 
+    {
+        "question": "Which Jewish religious festival happens in November or December every year?",
+        "options": {
+            "A": "Eid al-Fitr",
+            "B": "Eid ul Adha",
+            "C": "Hannukah",
+            "D": "Vaisakhi"
+        },
+        "answer": {
+            "options": "C", 
+            "text": "The Jewish festival of Hannukah is in November or December and is celebrated for eight days. It is to remember the Jews' struggle for religious freedom."
+        }
+    }, 
+    {
+        "question": "On what date each year do Christians celebrate the birth of Jesus Christ?",
+        "options": {
+            "A": "31 December",
+            "B": "1 April",
+            "C": "25 December",
+            "D": "14 February"
+        },
+        "answer": {
+            "options": "C", 
+            "text": "Christmas Day, 25 December, celebrates the birth of Jesus Christ. It is a public holiday."
+        }
+    }, 
+    {
+        "question": "Which of the following statements is correct?",
+        "options": {
+            "A": "Eid ul Adha celebrates the end of Ramadan.",
+            "B": "Eid al-Fitr celebrates the end of Ramadan."
+        },
+        "answer": {
+            "options": "B", 
+            "text": "Eid al-Fitr celebrates the end of Ramadan, when Muslims have fasted for a month. They thank Allah for giving them the strength to complete the fast."
+        }
+    }, 
+    {
+        "question": "Which of the following are usually associated with Easter?",
+        "options": {
+            "A": "Holly",
+            "B": "Trick or treat",
+            "C": "Fireworks",
+            "D": "Chocolate eggs"
+        },
+        "answer": {
+            "options": "D", 
+            "text": "'Easter eggs' are chocolate eggs often given as presents at Easter as a symbol of new life."
+        }
+    }, 
+    {
+        "question": "What is it traditional to do on 1 April in the UK?",
+        "options": {
+            "A": "Play musical instruments in the street",
+            "B": "Play jokes on each other",
+            "C": "Hunt for eggs",
+            "D": "Make pancakes"
+        },
+        "answer": {
+            "options": "B", 
+            "text": "1 April is known as April Fool's day, when people play jokes on each other until midday."
+        }
+    }, 
+    {
+        "question": "Which of the following statements is correct?",
+        "options": {
+            "A": "Eid al-Fitr takes place on 20 November.",
+            "B": "The date when Eid al-Fitr takes place changes every year."
+        },
+        "answer": {
+            "options": "B", 
+            "text": "The date when Eid al-Fitr takes place changes every year."
+        }
+    }, 
+    {
+        "question": "The Muslim prophet Ibrahim was willing to sacrifice which of his family to God?",
+        "options": {
+            "A": "His wife",
+            "B": "His daughter",
+            "C": "His mother",
+            "D": "His son"
+        },
+        "answer": {
+            "options": "D", 
+            "text": "Eid ul Adha remembers that the prophet Ibrahim was willing to sacrifice his son when God ordered him to."
+        }
+    }, 
+    {
+        "question": "Which Hindu and Sikh festival is normally celebrated in October or November every year?",
+        "options": {
+            "A": "Diwali",
+            "B": "Vaisakhi",
+            "C": "Eid ul Adha",
+            "D": "Hannukah"
+        },
+        "answer": {
+            "options": "A", 
+            "text": "Diwali normally falls in October or November and lasts for five days. It is often called the Festival of Lights."
+        }
+    }, 
+    {
+        "question": "Which of the following is a Jewish festival celebrating the Jews' struggle for religious freedom?",
+        "options": {
+            "A": "Vaisakhi",
+            "B": "Eid al-Fitr",
+            "C": "Hannukah",
+            "D": "Diwali"
+        },
+        "answer": {
+            "options": "C", 
+            "text": "Hannukah is in November or December and is celebrated for eight days. It is to remember the Jews' struggle for religious freedom."
+        }
+    }, 
+    {
+        "question": "Eid ul Adha and Eid al-Fitr are religious festivals celebrated by Muslims in the UK.",
+        "options": {
+            "A": "True",
+            "B": "False"
+        },
+        "answer": {
+            "options": "A", 
+            "text": "Eid al-Fitr is celebrated by Muslims to mark the end of the month's fast during Ramadan. Eid ul Adha remembers that the prophet Ibrahim was willing to sacrifice his son when God ordered him to. It reminds Muslims of their own commitment to God."
+        }
+    }, 
+    {
+        "question": "Which of these is associated with Halloween?",
+        "options": {
+            "A": "Trick or treat",
+            "B": "Fireworks",
+            "C": "Mistletoe",
+            "D": "Hot cross buns"
+        },
+        "answer": {
+            "options": "A", 
+            "text": "On Halloween young people will often dress up in frightening costumes to play 'trick or treat'. People give them treats to stop them playing tricks on them. A lot of people carve lanterns out of pumpkins and put a candle inside."
+        }
+    }, 
+    {
+        "question": "When does Easter take place each year?",
+        "options": {
+            "A": "January or February",
+            "B": "July or August",
+            "C": "March or April",
+            "D": "November or December"
+        },
+        "answer": {
+            "options": "C", 
+            "text": "Easter takes place in March or April. It marks the death of Jesus Christ on Good Friday and his rising from the dead on Easter Sunday."
+        }
+    }, 
+    {
+        "question": "What is New Year's Eve called in Scotland?",
+        "options": {
+            "A": "Boxing Day",
+            "B": "Hogmanay",
+            "C": "Auld Lang Syne",
+            "D": "St Andrew's Day"
+        },
+        "answer": {
+            "options": "B", 
+            "text": "Robert Burns' best-known work is probably the song Auld Lang Syne, which is sung by people in the UK and other countries when they are celebrating the New Year (or Hogmanay as it is called in Scotland)."
+        }
+    }, 
+    {
+        "question": "What event is commemorated on 5 November every year?",
+        "options": {
+            "A": "England's World Cup victory of 1966",
+            "B": "The end of the First World War",
+            "C": "A plot to blow up the Houses of Parliament",
+            "D": "The King's birthday"
+        },
+        "answer": {
+            "options": "C", 
+            "text": "On 5 November 1605 a group of Catholics led by Guy Fawkes failed in their plan to kill the Protestant king with a bomb in the Houses of Parliament. The event is remembered in Britain with a celebration known as Bonfire Night."
+        }
+    }, 
+    {
+        "question": "What celebration is known as Hogmanay in Scotland?",
+        "options": {
+            "A": "Halloween",
+            "B": "Christmas",
+            "C": "New Year's Eve",
+            "D": "Easter"
+        },
+        "answer": {
+            "options": "C", 
+            "text": "People usually celebrate on the night of 31 December (called New Year's Eve). In Scotland, 31 December is called Hogmanay. For some Scottish people, Hogmanay is a bigger holiday than Christmas."
+        }
+    }
+]

@@ -1,0 +1,284 @@
+[
+    {
+        "question": "Cardiff, Swansea and Newport are cities in which country of the UK?",
+        "options": {
+            "A": "England",
+            "B": "Scotland",
+            "C": "Wales",
+            "D": "Northern Ireland"
+        },
+        "answer": {
+            "options": "D", 
+            "text": "Cardiff, Swansea and Newport are all cities in Wales"
+        }
+    }, 
+    {
+        "question": "The UK has a growing ageing population.",
+        "options": {
+            "A": "True",
+            "B": "False"
+        },
+        "answer": {
+            "options": "A", 
+            "text": "The UK has an ageing population. People in the UK are living longer than ever before. This is due to improved living standards and better health care. There are now a record number of people aged 85 and over."
+        }
+    }, 
+    {
+        "question": "Norwich and Bristol are cities in Wales.",
+        "options": {
+            "A": "True",
+            "B": "False"
+        },
+        "answer": {
+            "options": "B", 
+            "text": "Norwich is a city in the east of England, and Bristol is in the west near the Welsh border."
+        }
+    }, 
+    {
+        "question": "What is the capital city of Northern Ireland?",
+        "options": {
+            "A": "Belfast",
+            "B": "Dublin",
+            "C": "The Pale",
+            "D": "Edinburgh"
+        },
+        "answer": {
+            "options": "A", 
+            "text": "The capital city of Northern Ireland is Belfast."
+        }
+    }, 
+    {
+        "question": "Which of the following statements is correct?",
+        "options": {
+            "A": "Most people live in towns and cities but much of Britain is still countryside.",
+            "B": "Most people live in the countryside but much of Britain is covered by towns and cities."
+        },
+        "answer": {
+            "options": "A", 
+            "text": "Most people live in towns and cities but much of Britain is still countryside."
+        }
+    }, 
+    {
+        "question": "Which of the following statements is correct?",
+        "options": {
+            "A": "Employment opportunities for women are much greater now than they were in the past.",
+            "B": "Men now work in less varied jobs than they did in the past."
+        },
+        "answer": {
+            "options": "A", 
+            "text": "Employment opportunities for women are much greater than they were in the past. Alongside this, men now work in more varied jobs than they did in the past."
+        }
+    }, 
+    {
+        "question": "Which of the following statements is correct?",
+        "options": {
+            "A": "If they are married, both parents are equally responsible for their children.",
+            "B": "If they are married, the woman has sole legal responsibility for a couple’s children."
+        },
+        "answer": {
+            "options": "A", 
+            "text": "If they are married, both parents are equally responsible for their children."
+        }
+    }, 
+    {
+        "question": "Northern Ireland and Scotland have their own banknotes, which are valid in other parts of the UK?",
+        "options": {
+            "A": "True",
+            "B": "False"
+        },
+        "answer": {
+            "options": "A", 
+            "text": " Northern Ireland and Scotland have their own banknotes, which are valid everywhere in the UK."
+        }
+    }, 
+    {
+        "question": "Which of the following is a UK city?",
+        "options": {
+            "A": "Gothenburg",
+            "B": "Madrid",
+            "C": "Moscow",
+            "D": "Southampton"
+        },
+        "answer": {
+            "options": "D", 
+            "text": "Southampton is a city in England."
+        }
+    }, 
+    {
+        "question": "Population growth in the UK has been faster in recent years, thanks in part to migration and longer life expectancy.",
+        "options": {
+            "A": "True",
+            "B": "False"
+        },
+        "answer": {
+            "options": "A", 
+            "text": "Population growth has been faster in more recent years. Migration into the UK and longer life expectancy have played a part in population growth."
+        }
+    }, 
+    {
+        "question": "Which of the following statements is correct?",
+        "options": {
+            "A": "There are many variations in language and dialect across the UK.",
+            "B": "Language and dialect remains the same throughout the UK."
+        },
+        "answer": {
+            "options": "A", 
+            "text": "The English language has many accents and dialects. In Wales, many people speak Welsh – a completely different language from English. In Scotland, Gaelic is spoken in some parts of the Highlands and Islands, and in Northern Ireland some people speak Irish Gaelic."
+        }
+    }, 
+    {
+        "question": "Which of these is NOT a leisure activity readily associated with the British countryside?",
+        "options": {
+            "A": "Walking",
+            "B": "Camping",
+            "C": "Fishing",
+            "D": "Going to the cinema"
+        },
+        "answer": {
+            "options": "D", 
+            "text": "Many people continue to visit the countryside for holidays and for leisure activities such as walking, camping and fishing."
+        }
+    }, 
+    {
+        "question": "Which of the following statements is correct?",
+        "options": {
+            "A": "People in the UK are living longer than ever before.",
+            "B": "The average lifespan for UK residents is steadily decreasing."
+        },
+        "answer": {
+            "options": "A", 
+            "text": "People in the UK are living longer than ever before. This is due to improved living standards and better healthcare. There are now a record number of people aged 85 and over. This has an impact on the cost of pensions and healthcare."
+        }
+    }, 
+    {
+        "question": "The longest distance in mainland Britain, at 870 miles (1,400 kilometres), is between John O’Groats and where?",
+        "options": {
+            "A": "Land’s End",
+            "B": "Dover",
+            "C": "Bournemouth",
+            "D": "Bideford"
+        },
+        "answer": {
+            "options": "A", 
+            "text": "The longest distance on the mainland is from John O’Groats on the north coast of Scotland to Land’s End in the south west corner of England. It is about 870 miles (approximately 1,400 kilometres)."
+        }
+    }, 
+    {
+        "question": "What is the capital city of the UK?",
+        "options": {
+            "A": "Birmingham",
+            "B": "Liverpool",
+            "C": "London",
+            "D": "Sheffield"
+        },
+        "answer": {
+            "options": "C", 
+            "text": "The capital city of the UK is London."
+        }
+    }, 
+    {
+        "question": "Northern Irish and Scottish bank notes are legal tender throughout the UK and shops and businesses are required by law to accept them.",
+        "options": {
+            "A": "True",
+            "B": "False"
+        },
+        "answer": {
+            "options": "B", 
+            "text": "Northern Ireland and Scotland have their own banknotes, which are valid everywhere in the UK. However, shops and businesses do not have to accept them."
+        }
+    }, 
+    {
+        "question": "There are now more women in high-level positions than ever before.",
+        "options": {
+            "A": "True",
+            "B": "False"
+        },
+        "answer": {
+            "options": "A", 
+            "text": "There are now more women in high-level positions than ever before, including senior managers in traditionally male-dominated occupations."
+        }
+    }, 
+    {
+        "question": "Which of the following statements is correct?",
+        "options": {
+            "A": "The UK population in 1801 was smaller than the UK population in 1700.",
+            "B": "The UK population in 1951 was greater than the UK population in 1901."
+        },
+        "answer": {
+            "options": "B", 
+            "text": "The UK population in 1801 was 8 million, therefore bigger than that of 1700 which was 5 million. The UK population in 1951 was 50 million, compared to 40 million in 1901."
+        }
+    }, 
+    {
+        "question": "Women in Britain make up approximately what proportion of the workforce?",
+        "options": {
+            "A": "One-half",
+            "B": "One-quarter",
+            "C": "One-eighth",
+            "D": "One-third"
+        },
+        "answer": {
+            "options": "A", 
+            "text": "Women in Britain today make up about half of the workforce."
+        }
+    }, 
+    {
+        "question": "In the UK, women are expected to stay at home and not work.",
+        "options": {
+            "A": "True",
+            "B": "False"
+        },
+        "answer": {
+            "options": "B", 
+            "text": "In the UK, it is no longer expected that women should stay at home and not work."
+        }
+    }, 
+    {
+        "question": "Britain today is a diverse society. What percentage of the population has a parent or grandparent born outside the UK?",
+        "options": {
+            "A": "25%",
+            "B": "2%",
+            "C": "10%",
+            "D": "50%"
+        },
+        "answer": {
+            "options": "C", 
+            "text": "The UK today is a more diverse society than it was 100 years ago, in both ethnic and religious terms. Post-war immigration means that nearly 10% of the population has a parent or grandparent born outside the UK."
+        }
+    }, 
+    {
+        "question": "Swansea is the capital of Wales.",
+        "options": {
+            "A": "True",
+            "B": "False"
+        },
+        "answer": {
+            "options": "B", 
+            "text": "Cardiff is the capital city of Wales."
+        }
+    }, 
+    {
+        "question": "Which of the following statements is correct?",
+        "options": {
+            "A": "Women are encouraged to stop working after having children.",
+            "B": "Women often continue to work after having children."
+        },
+        "answer": {
+            "options": "B", 
+            "text": "It is no longer expected that women should stay at home and not work. Women often continue to work after having children. In many families today, both partners work and both share responsibility for childcare and household chores."
+        }
+    }, 
+    {
+        "question": "Geographically, where is the UK located in Europe?",
+        "options": {
+            "A": "North-west",
+            "B": "South-east",
+            "C": "North-east",
+            "D": "South-west"
+        },
+        "answer": {
+            "options": "A", 
+            "text": "The UK is located in the north-west of Europe."
+        }
+    }
+]
