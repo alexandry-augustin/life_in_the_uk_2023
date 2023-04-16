@@ -1,314 +1,308 @@
 [
     {
-        "question": "",
+        "question": "Which of the following is a famous British film?",
         "options": {
-            "A": "",
-            "B": "",
-            "C": "",
-            "D": ""
+            "A": "Touching the Void",
+            "B": "Anthem for Doomed Youth",
+            "C": "She Walks in Beauty",
+            "D": "The Mikado"
         },
         "answer": {
-            "options": "", 
-            "text": ""
+            "options": "A", 
+            "text": "Famous British films include Touching the Void (2003), directed by Kevin MacDonald."
         }
     }, 
     {
-        "question": "",
+        "question": "How is the British Broadcasting Corporation (BBC) funded?",
         "options": {
-            "A": "",
-            "B": "",
-            "C": "",
-            "D": ""
+            "A": "With money raised from television licences",
+            "B": "Through sponsorship by large national and multinational companies",
+            "C": "Through advertising revenue",
+            "D": "Through charitable donations"
         },
         "answer": {
-            "options": "", 
-            "text": ""
+            "options": "A", 
+            "text": "The money from TV licences is used to pay for the British Broadcasting Corporation (BBC). This is a British public service broadcaster providing television and radio programmes."
         }
     }, 
     {
-        "question": "",
+        "question": "What is the minimum legal age to buy alcohol in a pub or night club?",
         "options": {
-            "A": "",
-            "B": "",
-            "C": "",
-            "D": ""
+            "A": "21",
+            "B": "25",
+            "C": "18",
+            "D": "16"
         },
         "answer": {
-            "options": "", 
-            "text": ""
+            "options": "C", 
+            "text": "To buy alcohol in a pub or night club you must be 18 or over."
         }
     }, 
     {
-        "question": "",
+        "question": "What is the national flower of Wales?",
         "options": {
-            "A": "",
-            "B": "",
-            "C": "",
-            "D": ""
+            "A": "Daisy",
+            "B": "Shamrock",
+            "C": "Thistle",
+            "D": "Daffodil"
         },
         "answer": {
-            "options": "", 
-            "text": ""
+            "options": "D", 
+            "text": "The countries that make up the UK all have flowers which are particularly associated with them and which are sometimes worn on national saints' days: Wales - the daffodil"
         }
     }, 
     {
-        "question": "",
+        "question": "Charlie Chaplin (or Sir Charles Chaplin) became famous in which type of film?",
         "options": {
-            "A": "",
-            "B": "",
-            "C": "",
-            "D": ""
+            "A": "Western",
+            "B": "Cartoon",
+            "C": "Romance",
+            "D": "Silent"
         },
         "answer": {
-            "options": "", 
-            "text": ""
+            "options": "D", 
+            "text": "Sir Charles (Charlie) Chaplin became famous in silent movies for his tramp character and was one of many British actors to make a career in Hollywood."
         }
     }, 
     {
-        "question": "",
+        "question": "Some people over what age may apply for a free television licence in the UK?",
         "options": {
-            "A": "",
-            "B": "",
-            "C": "",
-            "D": ""
+            "A": "60",
+            "B": "65",
+            "C": "70",
+            "D": "75"
         },
         "answer": {
-            "options": "", 
-            "text": ""
+            "options": "D", 
+            "text": "Some people over 75 can apply for a free TV licence, and blind people can get a 50% discount."
         }
     }, 
     {
-        "question": "",
+        "question": "Which of these are traditional or frequent public house (pub) activities?",
         "options": {
-            "A": "",
-            "B": "",
-            "C": "",
-            "D": ""
+            "A": "Table tennis",
+            "B": "Lectures",
+            "C": "Book sales",
+            "D": "Darts"
         },
         "answer": {
-            "options": "", 
-            "text": ""
+            "options": "D", 
+            "text": "Most communities will have a ‘local' pub that is a natural focal point for social activities. Pub quizzes are popular. Pool and darts are traditional pub games."
         }
     }, 
     {
-        "question": "",
+        "question": "Which of the following was a famous satirical television programme?",
         "options": {
-            "A": "",
-            "B": "",
-            "C": "",
-            "D": ""
+            "A": "That Was The Week That Was",
+            "B": "This Was The Way To Work",
+            "C": "This Week's Top Window To Watch",
+            "D": "The Window That Watches The World"
         },
         "answer": {
-            "options": "", 
-            "text": ""
+            "options": "A", 
+            "text": "Satire has continued to be important, with shows like That Was The Week That Was in the 1960s and Spitting Image in the 1980s and 1990s."
         }
     }, 
     {
-        "question": "",
+        "question": "Which high grossing film franchise was produced in the UK? ",
         "options": {
-            "A": "",
-            "B": "",
-            "C": "",
-            "D": ""
+            "A": "Lord of the Rings",
+            "B": "James Bond",
+            "C": "Fast and the Furious",
+            "D": "Marvel Universe"
         },
         "answer": {
-            "options": "", 
-            "text": ""
+            "options": "B", 
+            "text": "Some of the most commercially successful films of all time, including two of the highest-grossing film franchises (Harry Potter and James Bond), have been produced in the UK."
         }
     }, 
     {
-        "question": "",
+        "question": "What do Carol Reed, Nicholas Roeg and Ken Russell have in common?",
         "options": {
-            "A": "",
-            "B": "",
-            "C": "",
-            "D": ""
+            "A": "They have all won the Wimbledon Championships",
+            "B": "They were the first people to successfully clone an animal",
+            "C": "They are all famous British film directors",
+            "D": "They have all been Prime Minister"
         },
         "answer": {
-            "options": "", 
-            "text": ""
+            "options": "C", 
+            "text": "Carol Reed, Nicholas Roeg and Ken Russell are all famous British film directors."
         }
     }, 
     {
-        "question": "",
+        "question": "What are Kew, Sissinghurst, Bodnant and Mount Stewart famous for?",
         "options": {
-            "A": "",
-            "B": "",
-            "C": "",
-            "D": ""
+            "A": "Castles",
+            "B": "Gardens",
+            "C": "Safari parks",
+            "D": "Manor houses"
         },
         "answer": {
-            "options": "", 
-            "text": ""
+            "options": "B", 
+            "text": "There are famous gardens to visit throughout the UK, including Kew Gardens, Sissinghurst and Hidcote in England, Crathes Castle and Inveraray Castle in Scotland, Bodnant Garden in Wales, and Mount Stewart in Northern Ireland."
         }
     }, 
     {
-        "question": "",
+        "question": "Some UK radio stations broadcast in regional languages such as Welsh or Gaelic.",
         "options": {
-            "A": "",
-            "B": "",
-            "C": "",
-            "D": ""
+            "A": "True",
+            "B": "False"
         },
         "answer": {
-            "options": "", 
-            "text": ""
+            "options": "A", 
+            "text": "In the UK there are radio stations that play certain types of music and some broadcast in regional languages such as Welsh or Gaelic."
         }
     }, 
     {
-        "question": "",
+        "question": "What type of film is Nick Park known for making?",
         "options": {
-            "A": "",
-            "B": "",
-            "C": "",
-            "D": ""
+            "A": "Horror",
+            "B": "Animated",
+            "C": "Action",
+            "D": "Romance"
         },
         "answer": {
-            "options": "", 
-            "text": ""
+            "options": "B", 
+            "text": "Nick Park has won four Oscars for his animated films, including three for films featuring Wallace and Gromit."
         }
     }, 
     {
-        "question": "",
+        "question": "Richard Burton, Sir Rex Harrison and David Niven are all famous in which profession?",
         "options": {
-            "A": "",
-            "B": "",
-            "C": "",
-            "D": ""
+            "A": "Painters",
+            "B": "Poets",
+            "C": "Architects",
+            "D": "Actors"
         },
         "answer": {
-            "options": "", 
-            "text": ""
+            "options": "D", 
+            "text": "Actors such as Sir Lawrence Olivier, David Niven, Sir Rex Harrison and Richard Burton starred in a wide variety of popular films."
         }
     }, 
     {
-        "question": "",
+        "question": "The shamrock is associated with which country of the UK?",
         "options": {
-            "A": "",
-            "B": "",
-            "C": "",
-            "D": ""
+            "A": "England",
+            "B": "Scotland",
+            "C": "Wales",
+            "D": "Northern Ireland"
         },
         "answer": {
-            "options": "", 
-            "text": ""
+            "options": "D", 
+            "text": "The countries that make up the UK all have flowers which are particularly associated with them and which are sometimes worn on national saints' days. In Northern Ireland this is the shamrock."
         }
     }, 
     {
-        "question": "",
+        "question": "Which flower is particularly associated with Northern Ireland?",
         "options": {
-            "A": "",
-            "B": "",
-            "C": "",
-            "D": ""
+            "A": "Shamrock",
+            "B": "Lily",
+            "C": "Daisy",
+            "D": "Rose"
         },
         "answer": {
-            "options": "", 
-            "text": ""
+            "options": "A", 
+            "text": "The national flower of Northern Ireland is the shamrock."
         }
     }, 
     {
-        "question": "",
+        "question": "Which of the following statements is correct?",
         "options": {
-            "A": "",
-            "B": "",
-            "C": "",
-            "D": ""
+            "A": "In the UK, betting and gambling were illegal until 2005.",
+            "B": "In the UK, betting and gambling are legal."
         },
         "answer": {
-            "options": "", 
-            "text": ""
+            "options": "B", 
+            "text": "In the UK, people often enjoy a gamble on sports or other events. There are also casinos in many places. You have to be 18 to go into betting shops or gambling clubs."
         }
     }, 
     {
-        "question": "",
+        "question": "What is the national flower of Scotland?",
         "options": {
-            "A": "",
-            "B": "",
-            "C": "",
-            "D": ""
+            "A": "Rose",
+            "B": "Daffodil",
+            "C": "Thistle",
+            "D": "Shamrock"
         },
         "answer": {
-            "options": "", 
-            "text": ""
+            "options": "C", 
+            "text": "The national flower of Scotland is the thistle."
         }
     }, 
     {
-        "question": "",
+        "question": "Blind people can get a 50% discount on their TV licence.",
         "options": {
-            "A": "",
-            "B": "",
-            "C": "",
-            "D": ""
+            "A": "True",
+            "B": "False"
         },
         "answer": {
-            "options": "", 
-            "text": ""
+            "options": "A", 
+            "text": "Everyone in the UK with a TV, computer or other medium which can be used for watching TV must have a television licence. Some people over 75 can apply for a free TV licence and blind people can get a 50% discount."
         }
     }, 
     {
-        "question": "",
+        "question": "To go into a betting shop or casino, you have to be what age?",
         "options": {
-            "A": "",
-            "B": "",
-            "C": "",
-            "D": ""
+            "A": "15",
+            "B": "16",
+            "C": "17",
+            "D": "18"
         },
         "answer": {
-            "options": "", 
-            "text": ""
+            "options": "D", 
+            "text": "You have to be 18 to go into betting shops or gambling clubs."
         }
     }, 
     {
-        "question": "",
+        "question": "Which of the following is a famous British television series?",
         "options": {
-            "A": "",
-            "B": "",
-            "C": "",
-            "D": ""
+            "A": "Touching the Void",
+            "B": "Lord of the Rings",
+            "C": "In Which We Serve",
+            "D": "Monty Python's Flying Circus"
         },
         "answer": {
-            "options": "", 
-            "text": ""
+            "options": "D", 
+            "text": "In 1969, Monty Python's Flying Circus introduced a new type of progressive comedy to British television."
         }
     }, 
     {
-        "question": "",
+        "question": "Which flower is associated with England?",
         "options": {
-            "A": "",
-            "B": "",
-            "C": "",
-            "D": ""
+            "A": "Lily",
+            "B": "Daisy",
+            "C": "Daffodil",
+            "D": "Rose"
         },
         "answer": {
-            "options": "", 
-            "text": ""
+            "options": "D", 
+            "text": "The countries that make up the UK all have flowers which are particularly associated with them and which are sometimes worn on national saints' days: England - the rose."
         }
     }, 
     {
-        "question": "",
+        "question": "Nick Park has won three Oscars for animated films featuring which of the following?",
         "options": {
-            "A": "",
-            "B": "",
-            "C": "",
-            "D": ""
+            "A": "Tom and Jerry",
+            "B": "Paddington Bear",
+            "C": "Shrek",
+            "D": "Wallace and Gromit"
         },
         "answer": {
-            "options": "", 
-            "text": ""
+            "options": "D", 
+            "text": "Nick Park has won four Oscars for his animated films, including three for films featuring Wallace and Gromit."
         }
     }, 
     {
-        "question": "",
+        "question": "What is the minimum age you have to be to buy a National Lottery ticket?",
         "options": {
-            "A": "",
-            "B": "",
-            "C": "",
-            "D": ""
+            "A": "14",
+            "B": "17",
+            "C": "18",
+            "D": "21"
         },
         "answer": {
-            "options": "", 
-            "text": ""
+            "options": "C", 
+            "text": "There is a National Lottery for which draws are made every week. You can enter by buying a ticket or a scratch card. People under 18 are not allowed to participate in the National Lottery."
         }
     }
 ]
