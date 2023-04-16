@@ -1,314 +1,292 @@
 [
     {
-        "question": "",
+        "question": "Which TWO of the following are reasons to hold a by-election?",
         "options": {
-            "A": "",
-            "B": "",
-            "C": "",
-            "D": ""
+            "A": "A coalition government is formed",
+            "B": "An MP dies",
+            "C": "An MP resigns",
+            "D": "A new Speaker is chosen"
         },
         "answer": {
-            "options": "", 
-            "text": ""
+            "options": "B, C", 
+            "text": "If an MP dies or resigns, there will be a fresh election, called a by-election, in his or her constituency."
         }
     }, 
     {
-        "question": "",
+        "question": "Which of the following does a new citizen swear in an oath to the King?",
         "options": {
-            "A": "",
-            "B": "",
-            "C": "",
-            "D": ""
+            "A": "To be faithful to the King and his heirs",
+            "B": "To vote the way the King instructs",
+            "C": "To place a portrait of the King in his or her house",
+            "D": "To worship the King"
         },
         "answer": {
-            "options": "", 
-            "text": ""
+            "options": "A", 
+            "text": "Oath of allegiance: I (name) swear by Almighty God that on becoming a British citizen, I will be faithful and bear true allegiance to His Majesty King Charles the Third, his Heirs and Successors, according to law."
         }
     }, 
     {
-        "question": "",
+        "question": "Prince William is the heir to the British throne.",
         "options": {
-            "A": "",
-            "B": "",
-            "C": "",
-            "D": ""
+            "A": "True",
+            "B": "False"
         },
         "answer": {
-            "options": "", 
-            "text": ""
+            "options": "A", 
+            "text": "King Charles III's eldest son, Prince William (the Prince of Wales), is the heir to the throne."
         }
     }, 
     {
-        "question": "",
+        "question": "Which of the following statements is correct?",
         "options": {
-            "A": "",
-            "B": "",
-            "C": "",
-            "D": ""
+            "A": "The Speaker is neutral and does not, therefore, represent a constituency.",
+            "B": "The Speaker is neutral, but continues to represent a constituency."
         },
         "answer": {
-            "options": "", 
-            "text": ""
+            "options": "B", 
+            "text": "The Speaker is neutral and does not represent a political party, even though he or she is an MP, represents a constituency and deals with constituents' problems like any other MP. The Speaker is chosen by other MPs in a secret ballot."
         }
     }, 
     {
-        "question": "",
+        "question": "The British constitution is contained in a single document.",
         "options": {
-            "A": "",
-            "B": "",
-            "C": "",
-            "D": ""
+            "A": "True",
+            "B": "False"
         },
         "answer": {
-            "options": "", 
-            "text": ""
+            "options": "B", 
+            "text": "The British Constitution is not written down in any single document, therefore it is described as unwritten."
         }
     }, 
     {
-        "question": "",
+        "question": "Which of the following statements is correct?",
         "options": {
-            "A": "",
-            "B": "",
-            "C": "",
-            "D": ""
+            "A": "The House of Commons may overrule the House of Lords.",
+            "B": "The House of Commons may never overrule the House of Lords."
         },
         "answer": {
-            "options": "", 
-            "text": ""
+            "options": "A", 
+            "text": "The House of Commons has powers to overrule the House of Lords, but these are not used often."
         }
     }, 
     {
-        "question": "",
+        "question": "Which TWO of the following lines are NOT found in the first verse of 'God Save the King'?",
         "options": {
-            "A": "",
-            "B": "",
-            "C": "",
-            "D": ""
+            "A": "Long to reign over us",
+            "B": "Glad for our noble King",
+            "C": "Happy and glorious",
+            "D": "Always victorious"
         },
         "answer": {
-            "options": "", 
-            "text": ""
+            "options": "B, D", 
+            "text": "'God save our gracious King! Long live our noble King! God save the King! Send him victorious, Happy and glorious, Long to reign over us, God save the King!'"
         }
     }, 
     {
-        "question": "",
+        "question": "Which TWO of the following are responsibilities for members of Parliament (MPs)?",
         "options": {
-            "A": "",
-            "B": "",
-            "C": "",
-            "D": ""
+            "A": "To represent everyone in their constituency",
+            "B": "To support all government decisions and laws",
+            "C": "To scrutinise and comment on the government's activities",
+            "D": "To only represent constituents who voted for them"
         },
         "answer": {
-            "options": "", 
-            "text": ""
+            "options": "A, C", 
+            "text": "MPs have a number of responsibilities, including representing everyone in their constituency, and scrutinising and commenting on what the government is doing."
         }
     }, 
     {
-        "question": "",
+        "question": "The civil service is part of government.",
         "options": {
-            "A": "",
-            "B": "",
-            "C": "",
-            "D": ""
+            "A": "True",
+            "B": "False"
         },
         "answer": {
-            "options": "", 
-            "text": ""
+            "options": "A", 
+            "text": "In the UK, there are several different parts of government, including the civil service."
         }
     }, 
     {
-        "question": "",
+        "question": "The candidate who wins the most votes in a constituency is elected as an MP.",
         "options": {
-            "A": "",
-            "B": "",
-            "C": "",
-            "D": ""
+            "A": "True",
+            "B": "False"
         },
         "answer": {
-            "options": "", 
-            "text": ""
+            "options": "A", 
+            "text": "MPs are elected through a system called first past the post. In each constituency, the candidate who gets the most votes is elected."
         }
     }, 
     {
-        "question": "",
+        "question": "Life peers are appointed by the monarch.",
         "options": {
-            "A": "",
-            "B": "",
-            "C": "",
-            "D": ""
+            "A": "True",
+            "B": "False"
         },
         "answer": {
-            "options": "", 
-            "text": ""
+            "options": "A", 
+            "text": "Life peers are appointed by the monarch on the advice of the Prime Minister."
         }
     }, 
     {
-        "question": "",
+        "question": "The House of Lords has which of the following functions?",
         "options": {
-            "A": "",
-            "B": "",
-            "C": "",
-            "D": ""
+            "A": "To appoint the Prime Minister",
+            "B": "To hold the monarchy to account",
+            "C": "To hire senior civil servants",
+            "D": "To hold the government to account"
         },
         "answer": {
-            "options": "", 
-            "text": ""
+            "options": "D", 
+            "text": "The House of Lords can suggest amendments or propose new laws, which are then discussed by MPs. The House of Lords checks laws that have been passed by the House of Commons to ensure they are fit for purpose. It also holds the government to account to make sure that it is working in the best interests of the people."
         }
     }, 
     {
-        "question": "",
+        "question": "All Acts of Parliament are made in the name of the Prime Minister.",
         "options": {
-            "A": "",
-            "B": "",
-            "C": "",
-            "D": ""
+            "A": "True",
+            "B": "False"
         },
         "answer": {
-            "options": "", 
-            "text": ""
+            "options": "B", 
+            "text": "The King has important ceremonial roles, such as the opening of the new parliamentary session each year. All Acts of Parliament are made in his name."
         }
     }, 
     {
-        "question": "",
+        "question": "What is the name of the National Anthem of the UK?",
         "options": {
-            "A": "",
-            "B": "",
-            "C": "",
-            "D": ""
+            "A": "Land of Hope and Glory",
+            "B": "I Vow to Thee, My Country",
+            "C": "The Star Spangled Banner",
+            "D": "God Save the King"
         },
         "answer": {
-            "options": "", 
-            "text": ""
+            "options": "D", 
+            "text": "The National Anthem of the UK is 'God Save the King'. It is played at important national occasions and at events attended by the King or the Royal Family."
         }
     }, 
     {
-        "question": "",
+        "question": "MPs have a duty to serve and represent which of the following groups?",
         "options": {
-            "A": "",
-            "B": "",
-            "C": "",
-            "D": ""
+            "A": "Their fellow MPs",
+            "B": "Everyone in their constituency",
+            "C": "Everyone in their constituency who voted for them",
+            "D": "The House of Lords"
         },
         "answer": {
-            "options": "", 
-            "text": ""
+            "options": "B", 
+            "text": "All elected members of Parliament have a duty to serve and represent all of their constituents."
         }
     }, 
     {
-        "question": "",
+        "question": "Which of the following statements is correct?",
         "options": {
-            "A": "",
-            "B": "",
-            "C": "",
-            "D": ""
+            "A": "Members of Parliament sit in the House of Commons.",
+            "B": "Members of Parliament sit in the House of Lords."
         },
         "answer": {
-            "options": "", 
-            "text": ""
+            "options": "A", 
+            "text": "All of the elected MPs form the House of Commons."
         }
     }, 
     {
-        "question": "",
+        "question": "What TWO of the following are roles of the head of state of the UK?",
         "options": {
-            "A": "",
-            "B": "",
-            "C": "",
-            "D": ""
+            "A": "To appoint the democratically elected government",
+            "B": "To open the new parliamentary session each year",
+            "C": "To raise new taxes",
+            "D": "To lead the armed forces into battle"
         },
         "answer": {
-            "options": "", 
-            "text": ""
+            "options": "A, B", 
+            "text": "The UK has a constitutional monarchy. This means that the king or queen does not rule the country but appoints the government, which the people have chosen in a democratic election. The King also has important ceremonial roles, such as the opening of the new parliamentary session each year."
         }
     }, 
     {
-        "question": "",
+        "question": "How often are members of Parliament (MPs) elected?",
         "options": {
-            "A": "",
-            "B": "",
-            "C": "",
-            "D": ""
+            "A": "Every 6 months",
+            "B": "Every 4 years",
+            "C": "At least every 5 years",
+            "D": "At least every 7 years"
         },
         "answer": {
-            "options": "", 
-            "text": ""
+            "options": "C", 
+            "text": "MPs are elected at a General Election, which is held at least every five years."
         }
     }, 
     {
-        "question": "",
+        "question": "You may write to or telephone your MP, or visit him or her where?",
         "options": {
-            "A": "",
-            "B": "",
-            "C": "",
-            "D": ""
+            "A": "In the House of Lords",
+            "B": "At a regular local surgery",
+            "C": "At Buckingham Palace",
+            "D": "At his or her London home"
         },
         "answer": {
-            "options": "", 
-            "text": ""
+            "options": "B", 
+            "text": "You can contact MPs by letter or telephone at their constituency office, or at their office in the House of Commons. In addition, many MPs, MSs and MSPs hold regular local 'surgeries', where constituents can go in person to talk about issues that are of concern to them."
         }
     }, 
     {
-        "question": "",
+        "question": "King Charles III is the head of state for which TWO of the following?",
         "options": {
-            "A": "",
-            "B": "",
-            "C": "",
-            "D": ""
+            "A": "The United Kingdom",
+            "B": "The European Union",
+            "C": "NATO",
+            "D": "Many Commonwealth countries"
         },
         "answer": {
-            "options": "", 
-            "text": ""
+            "options": "A, D", 
+            "text": "King Charles III is the head of state of the UK. He is also the monarch or head of state for many countries in the Commonwealth."
         }
     }, 
     {
-        "question": "",
+        "question": "Where can you find contact details for your elected representatives?",
         "options": {
-            "A": "",
-            "B": "",
-            "C": "",
-            "D": ""
+            "A": "At your doctor's surgery",
+            "B": "On the electoral register",
+            "C": "In the Phone Book",
+            "D": "From the Department of Work and Pensions"
         },
         "answer": {
-            "options": "", 
-            "text": ""
+            "options": "C", 
+            "text": "You can get contact details for all your representatives and their parties from your local library and from www.parliament.uk. MPs, Senedd members (SMs) and members of the Scottish Parliament (MSPs) are also listed in The Phone Book."
         }
     }, 
     {
-        "question": "",
+        "question": "The Prime Minister is also an MP.",
         "options": {
-            "A": "",
-            "B": "",
-            "C": "",
-            "D": ""
+            "A": "True",
+            "B": "False"
         },
         "answer": {
-            "options": "", 
-            "text": ""
+            "options": "A", 
+            "text": "The Prime Minister and almost all the members of the cabinet are members of the House of Commons (MPs)."
         }
     }, 
     {
-        "question": "",
+        "question": "Which of the following statements is correct?",
         "options": {
-            "A": "",
-            "B": "",
-            "C": "",
-            "D": ""
+            "A": "The House of Lords always acts as the government wishes.",
+            "B": "The House of Lords is normally more independent of the government and can suggest amendments or propose new laws."
         },
         "answer": {
-            "options": "", 
-            "text": ""
+            "options": "B", 
+            "text": "The House of Lords is normally more independent of the government than the House of Commons. It can suggest amendments or propose new laws, which are then discussed by MPs."
         }
     }, 
     {
-        "question": "",
+        "question": "Who is the head of state?",
         "options": {
-            "A": "",
-            "B": "",
-            "C": "",
-            "D": ""
+            "A": "The President",
+            "B": "The Prime Minister",
+            "C": "The Prince of Wales",
+            "D": "The King"
         },
         "answer": {
-            "options": "", 
-            "text": ""
+            "options": "D", 
+            "text": "Whilst governments and Prime Ministers change regularly, the King continues as head of state."
         }
     }
 ]

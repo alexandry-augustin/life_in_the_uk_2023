@@ -1,314 +1,304 @@
 [
     {
-        "question": "",
+        "question": "In 1969 the voting age was reduced to which of the following for men and women?",
         "options": {
-            "A": "",
-            "B": "",
-            "C": "",
-            "D": ""
+            "A": "16",
+            "B": "21",
+            "C": "20",
+            "D": "18"
         },
         "answer": {
-            "options": "", 
-            "text": ""
+            "options": "D", 
+            "text": "In 1969, the voting age was reduced to 18 for men and women."
         }
     }, 
     {
-        "question": "",
+        "question": "Which Jubilee did Queen Elizabeth II celebrate in 2012?",
         "options": {
-            "A": "",
-            "B": "",
-            "C": "",
-            "D": ""
+            "A": "Silver",
+            "B": "Sapphire",
+            "C": "Diamond",
+            "D": "Gold"
         },
         "answer": {
-            "options": "", 
-            "text": ""
+            "options": "C", 
+            "text": "In 2012 Queen Elizabeth II celebrated her Diamond Jubilee (60 years as queen)."
         }
     }, 
     {
-        "question": "",
+        "question": "King Charles III's eldest son, Prince William, is the heir to the throne. What is his title?",
         "options": {
-            "A": "",
-            "B": "",
-            "C": "",
-            "D": ""
+            "A": "Prince of Scotland",
+            "B": "Prince of Britain",
+            "C": "Prince of England",
+            "D": "Prince of Wales"
         },
         "answer": {
-            "options": "", 
-            "text": ""
+            "options": "D", 
+            "text": "King Charles III's eldest son, Prince William (the Prince of Wales), is the heir to the throne."
         }
     }, 
     {
-        "question": "",
+        "question": "In which TWO of the following ways does democracy give adults a say? ",
         "options": {
-            "A": "",
-            "B": "",
-            "C": "",
-            "D": ""
+            "A": "By preventing people they don't like from standing for election",
+            "B": "By direct voting",
+            "C": "By proposing their own laws to Parliament",
+            "D": "By choosing representatives to make decisions on their behalf"
         },
         "answer": {
-            "options": "", 
-            "text": ""
+            "options": "B, D", 
+            "text": "Democracy is a system of government where the whole adult population gets a say. This might be by direct voting or by choosing representatives to make decisions on their behalf."
         }
     }, 
     {
-        "question": "",
+        "question": "What is a by-election?",
         "options": {
-            "A": "",
-            "B": "",
-            "C": "",
-            "D": ""
+            "A": "A national election",
+            "B": "The process for choosing the Speaker",
+            "C": "An election for mayor",
+            "D": "An election held in a constituency when an MP dies or resigns"
         },
         "answer": {
-            "options": "", 
-            "text": ""
+            "options": "D", 
+            "text": "If an MP dies or resigns, there will be a fresh election, called a by-election, in his or her constituency."
         }
     }, 
     {
-        "question": "",
+        "question": "Which two words come before 'King' in the first two lines of the National Anthem?",
         "options": {
-            "A": "",
-            "B": "",
-            "C": "",
-            "D": ""
+            "A": "Royal and celebrated",
+            "B": "Illustrious and eminent",
+            "C": "Gracious and noble",
+            "D": "Glorious and victorious"
         },
         "answer": {
-            "options": "", 
-            "text": ""
+            "options": "C", 
+            "text": "'God save our gracious King! Long live our noble King! God save the King! Send him victorious, Happy and glorious, Long to reign over us, God save the King!'"
         }
     }, 
     {
-        "question": "",
+        "question": "Which of the following is NOT a constitutional institution? ",
         "options": {
-            "A": "",
-            "B": "",
-            "C": "",
-            "D": ""
+            "A": "The police",
+            "B": "Parliament",
+            "C": "Army",
+            "D": "The cabinet"
         },
         "answer": {
-            "options": "", 
-            "text": ""
+            "options": "C", 
+            "text": "In the UK, there are several different consitutional institutions, which are parts of government. The main ones are: - the monarchy - Parliament (the House of Commons and the House of Lords) - the Prime Minister - the cabinet - the judiciary (courts) - the police - the civil service - local government."
         }
     }, 
     {
-        "question": "",
+        "question": "What is the role of the Speaker in the House of Commons?",
         "options": {
-            "A": "",
-            "B": "",
-            "C": "",
-            "D": ""
+            "A": "To lead prayers",
+            "B": "To represent the government",
+            "C": "To chair debates",
+            "D": "To count votes"
         },
         "answer": {
-            "options": "", 
-            "text": ""
+            "options": "C", 
+            "text": "Debates in the House of Commons are chaired by the Speaker."
         }
     }, 
     {
-        "question": "",
+        "question": "The UK has what kind of monarchy?",
         "options": {
-            "A": "",
-            "B": "",
-            "C": "",
-            "D": ""
+            "A": "Democratic",
+            "B": "Constitutional",
+            "C": "Parliamentary",
+            "D": "Absolute"
         },
         "answer": {
-            "options": "", 
-            "text": ""
+            "options": "B", 
+            "text": "The UK has a constitutional monarchy. This means that the king or queen does not rule the country but appoints the government, which the people have chosen in a democratic election."
         }
     }, 
     {
-        "question": "",
+        "question": "How is the Speaker chosen?",
         "options": {
-            "A": "",
-            "B": "",
-            "C": "",
-            "D": ""
+            "A": "The King appoints the Speaker",
+            "B": "The Prime Minister appoints the Speaker",
+            "C": "The House of Lords elects the Speaker",
+            "D": "MPs elect the Speaker"
         },
         "answer": {
-            "options": "", 
-            "text": ""
+            "options": "D", 
+            "text": "The Speaker is chosen by other MPs in a secret ballot."
         }
     }, 
     {
-        "question": "",
+        "question": "Who chairs debates in the House of Commons?",
         "options": {
-            "A": "",
-            "B": "",
-            "C": "",
-            "D": ""
+            "A": "The Leader of the Opposition",
+            "B": "The Prime Minister",
+            "C": "The Speaker",
+            "D": "The Foreign Secretary"
         },
         "answer": {
-            "options": "", 
-            "text": ""
+            "options": "C", 
+            "text": "Debates in the House of Commons are chaired by the Speaker."
         }
     }, 
     {
-        "question": "",
+        "question": "Which of the following statements is correct?",
         "options": {
-            "A": "",
-            "B": "",
-            "C": "",
-            "D": ""
+            "A": "The physical area that an MP represents is called a district.",
+            "B": "The physical area that an MP represents is called a constituency."
         },
         "answer": {
-            "options": "", 
-            "text": ""
+            "options": "B", 
+            "text": "The UK is divided into parliamentary constituencies. Voters in each constituency elect their member of Parliament (MP) in a General Election."
         }
     }, 
     {
-        "question": "",
+        "question": "Which of the following statements is correct?",
         "options": {
-            "A": "",
-            "B": "",
-            "C": "",
-            "D": ""
+            "A": "'God Save the King' is played at important national occasions and at events attended by the King or the Royal Family.",
+            "B": "'God Save the King' is only played at events attended by the King."
         },
         "answer": {
-            "options": "", 
-            "text": ""
+            "options": "A", 
+            "text": "The National Anthem of the UK is 'God Save the King'. It is played at important national occasions and at events attended by the King or the Royal Family."
         }
     }, 
     {
-        "question": "",
+        "question": "The Speaker is an MP.",
         "options": {
-            "A": "",
-            "B": "",
-            "C": "",
-            "D": ""
+            "A": "True",
+            "B": "False"
         },
         "answer": {
-            "options": "", 
-            "text": ""
+            "options": "A", 
+            "text": "Debates in the House of Commons are chaired by the Speaker. This person is the chief officer of the House of Commons. The Speaker is neutral and does not represent a political party, even though he or she is an MP."
         }
     }, 
     {
-        "question": "",
+        "question": "How often is a General Election held?",
         "options": {
-            "A": "",
-            "B": "",
-            "C": "",
-            "D": ""
+            "A": "Every year",
+            "B": "At least every two years",
+            "C": "At least every four years",
+            "D": "At least every five years"
         },
         "answer": {
-            "options": "", 
-            "text": ""
+            "options": "D", 
+            "text": "MPs are elected at a General Election, which is held at least every five years."
         }
     }, 
     {
-        "question": "",
+        "question": "The Archbishop of Canterbury opens the new parliamentary session each year.",
         "options": {
-            "A": "",
-            "B": "",
-            "C": "",
-            "D": ""
+            "A": "True",
+            "B": "False"
         },
         "answer": {
-            "options": "", 
-            "text": ""
+            "options": "B", 
+            "text": "The King has important ceremonial roles, such as the opening of the new parliamentary session each year. On this occasion the King makes a speech which summarises the government's policies for the year ahead."
         }
     }, 
     {
-        "question": "",
+        "question": "Who is the current heir to the throne?",
         "options": {
-            "A": "",
-            "B": "",
-            "C": "",
-            "D": ""
+            "A": "Prince William",
+            "B": "The Queen Consort",
+            "C": "The Prime Minister",
+            "D": "Prince Harry"
         },
         "answer": {
-            "options": "", 
-            "text": ""
+            "options": "A", 
+            "text": "The King's eldest son, Prince William (the Prince of Wales), is the heir to the throne."
         }
     }, 
     {
-        "question": "",
+        "question": "What are the first two lines of the national anthem?",
         "options": {
-            "A": "",
-            "B": "",
-            "C": "",
-            "D": ""
+            "A": "Rule, Britannia! Britannia, rule the waves!",
+            "B": "God save the King! Send him victorious!",
+            "C": "Long to reign over us, God save the King!",
+            "D": "God save our gracious King! Long live our noble King!"
         },
         "answer": {
-            "options": "", 
-            "text": ""
+            "options": "D", 
+            "text": "The first two lines of the anthem are 'God save our gracious King! Long live our noble King!'"
         }
     }, 
     {
-        "question": "",
+        "question": "What does the King talk about in his speech at the opening of the new parliamentary session?",
         "options": {
-            "A": "",
-            "B": "",
-            "C": "",
-            "D": ""
+            "A": "The government's policies for the year ahead",
+            "B": "His own personal ambitions",
+            "C": "Major events from the previous parliamentary session",
+            "D": "His plans for overseas state visits"
         },
         "answer": {
-            "options": "", 
-            "text": ""
+            "options": "A", 
+            "text": "The King has important ceremonial roles, such as the opening of the new parliamentary session each year. On this occasion the King makes a speech which summarises the government's policies for the year ahead."
         }
     }, 
     {
-        "question": "",
+        "question": "Which of the following statements about the Speaker is correct?",
         "options": {
-            "A": "",
-            "B": "",
-            "C": "",
-            "D": ""
+            "A": "Is appointed by the Prime Minister",
+            "B": "Is chosen in a vote by the general population",
+            "C": "Is not an MP",
+            "D": "Is neutral and does not represent a political party"
         },
         "answer": {
-            "options": "", 
-            "text": ""
+            "options": "D", 
+            "text": "Debates in the House of Commons are chaired by the Speaker. This person is the chief officer of the House of Commons. The Speaker is neutral and does not represent a political party, even though he or she is an MP."
         }
     }, 
     {
-        "question": "",
+        "question": "After a general election, who does the monarch invite to become Prime Minister?",
         "options": {
-            "A": "",
-            "B": "",
-            "C": "",
-            "D": ""
+            "A": "The Speaker of the House",
+            "B": "The leader of the opposition",
+            "C": "The leader of the party with the largest number of MPs",
+            "D": "His or her favourite politician"
         },
         "answer": {
-            "options": "", 
-            "text": ""
+            "options": "C", 
+            "text": "The monarch invites the leader of the party with the largest number of MPs after a general election, or the leader of a coalition between more than one party, to become the Prime Minister."
         }
     }, 
     {
-        "question": "",
+        "question": "What is the right to vote also known as?",
         "options": {
-            "A": "",
-            "B": "",
-            "C": "",
-            "D": ""
+            "A": "A democrat",
+            "B": "A ballot",
+            "C": "The franchise",
+            "D": "The republic"
         },
         "answer": {
-            "options": "", 
-            "text": ""
+            "options": "C", 
+            "text": "The franchise (that is, the number of people who had the right to vote) grew over the course of the 19th century, and political parties began to involve ordinary men and women as members."
         }
     }, 
     {
-        "question": "",
+        "question": "Which of the following statements is correct?",
         "options": {
-            "A": "",
-            "B": "",
-            "C": "",
-            "D": ""
+            "A": "The Chartist campaign was generally seen as a failure at the time, though by 1918 most of these reforms had been adopted.",
+            "B": "The Chartist campaign was generally seen as a success at the time."
         },
         "answer": {
-            "options": "", 
-            "text": ""
+            "options": "A", 
+            "text": "At the time, the Chartist campaign was generally seen as a failure. However, by 1918 most of these reforms had been adopted."
         }
     }, 
     {
-        "question": "",
+        "question": "Every MP represents which of the following?",
         "options": {
-            "A": "",
-            "B": "",
-            "C": "",
-            "D": ""
+            "A": "A constituency",
+            "B": "A county",
+            "C": "A city",
+            "D": "Just the people who voted for them"
         },
         "answer": {
-            "options": "", 
-            "text": ""
+            "options": "A", 
+            "text": "The UK is divided into parliamentary constituencies. Voters in each constituency elect their member of Parliament (MP) in a General Election."
         }
     }
 ]
