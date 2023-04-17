@@ -1,314 +1,300 @@
 [
     {
-        "question": "",
+        "question": "Which of the following is located at Holyrood?",
         "options": {
-            "A": "",
-            "B": "",
-            "C": "",
-            "D": ""
+            "A": "The Houses of Parliament",
+            "B": "The Senedd",
+            "C": "The Northern Ireland Assembly",
+            "D": "The Scottish Parliament"
         },
         "answer": {
-            "options": "", 
-            "text": ""
+            "options": "D", 
+            "text": "In Scotland the elected members, called MSPs, meet in the Scottish Parliament building at Holyrood in Edinburgh."
         }
     }, 
     {
-        "question": "",
+        "question": "Which of the following statements is correct?",
         "options": {
-            "A": "",
-            "B": "",
-            "C": "",
-            "D": ""
+            "A": "Members of the Northern Ireland Assembly are elected with a form of proportional representation.",
+            "B": "Members of the Northern Ireland Assembly are elected using 'first past the post'."
         },
         "answer": {
-            "options": "", 
-            "text": ""
+            "options": "A", 
+            "text": "The Northern Ireland Assembly was established in 1998. The Assembly has 90 elected members, known as MLAs (members of the Legislative Assembly). They are elected with a form of proportional representation."
         }
     }, 
     {
-        "question": "",
+        "question": "Towns, cities and rural areas are governed by civil servants appointed by the government. ",
         "options": {
-            "A": "",
-            "B": "",
-            "C": "",
-            "D": ""
+            "A": "True",
+            "B": "False"
         },
         "answer": {
-            "options": "", 
-            "text": ""
+            "options": "B", 
+            "text": "Towns, cities and rural areas in the UK are governed by democratically elected councils, often called 'local authorities'."
         }
     }, 
     {
-        "question": "",
+        "question": "Where is the Senedd?",
         "options": {
-            "A": "",
-            "B": "",
-            "C": "",
-            "D": ""
+            "A": "Belfast",
+            "B": "Cardiff",
+            "C": "Swansea",
+            "D": "Glasgow"
         },
         "answer": {
-            "options": "", 
-            "text": ""
+            "options": "B", 
+            "text": "The Welsh government and the Senedd are based in Cardiff, the capital city of Wales."
         }
     }, 
     {
-        "question": "",
+        "question": "In Northern Ireland a system called 'individual registration' operates and all those entitled to vote must complete their own registration form. ",
         "options": {
-            "A": "",
-            "B": "",
-            "C": "",
-            "D": ""
+            "A": "True",
+            "B": "False"
         },
         "answer": {
-            "options": "", 
-            "text": ""
+            "options": "A", 
+            "text": "Northern Ireland operates a system called 'individual registration' meaning all those entitled to vote must complete their own registration form."
         }
     }, 
     {
-        "question": "",
+        "question": "In which city is the Scottish Parliament based?",
         "options": {
-            "A": "",
-            "B": "",
-            "C": "",
-            "D": ""
+            "A": "Sheffield",
+            "B": "Edinburgh",
+            "C": "Glasgow",
+            "D": "Cardiff"
         },
         "answer": {
-            "options": "", 
-            "text": ""
+            "options": "B", 
+            "text": "The Scottish Parliament was formed in 1999. It sits in Edinburgh, the capital city of Scotland."
         }
     }, 
     {
-        "question": "",
+        "question": "What is the name of the card that is sent to registered voters to tell them where their polling station is and when the election will take place?",
         "options": {
-            "A": "",
-            "B": "",
-            "C": "",
-            "D": ""
+            "A": "Poll card",
+            "B": "Elector card",
+            "C": "Voter card",
+            "D": "Registry card"
         },
         "answer": {
-            "options": "", 
-            "text": ""
+            "options": "A", 
+            "text": "Before the election you will be sent a poll card. This tells you where your polling station or polling place is and when the election will take place."
         }
     }, 
     {
-        "question": "",
+        "question": "Elections to the Senedd are held every four years. Which of the following statements is correct?",
         "options": {
-            "A": "",
-            "B": "",
-            "C": "",
-            "D": ""
+            "A": "All MSs are elected by a first past the post system.",
+            "B": "MSs are elected by a system of proportional representation."
         },
         "answer": {
-            "options": "", 
-            "text": ""
+            "options": "B", 
+            "text": "There are 60 members of the Senedd (MSs) and elections are held every four years using a form of proportional representation."
         }
     }, 
     {
-        "question": "",
+        "question": "What is the Home Secretary responsible for?",
         "options": {
-            "A": "",
-            "B": "",
-            "C": "",
-            "D": ""
+            "A": "Crime, policing and immigration",
+            "B": "Education",
+            "C": "Defence",
+            "D": "The economy"
         },
         "answer": {
-            "options": "", 
-            "text": ""
+            "options": "A", 
+            "text": "The Prime Minister appoints about 20 senior MPs to become ministers in charge of departments. These include the Home Secretary, who is responsible for crime, policing and immigration."
         }
     }, 
     {
-        "question": "",
+        "question": "In Scotland, MSPs are elected using the 'first past the post' system.",
         "options": {
-            "A": "",
-            "B": "",
-            "C": "",
-            "D": ""
+            "A": "True",
+            "B": "False"
         },
         "answer": {
-            "options": "", 
-            "text": ""
+            "options": "B", 
+            "text": "There are 129 members of the Scottish Parliament (MSPs), elected using a form of proportional representation."
         }
     }, 
     {
-        "question": "",
+        "question": "How often is Prime Minister's Questions held?",
         "options": {
-            "A": "",
-            "B": "",
-            "C": "",
-            "D": ""
+            "A": "Every day",
+            "B": "Every day whilst Parliament is in session",
+            "C": "Every week",
+            "D": "Every week whilst Parliament is in session"
         },
         "answer": {
-            "options": "", 
-            "text": ""
+            "options": "D", 
+            "text": "Prime Minister's Questions takes place every week whilst Parliament is sitting."
         }
     }, 
     {
-        "question": "",
+        "question": "The Senedd can make laws in which of the following areas?",
         "options": {
-            "A": "",
-            "B": "",
-            "C": "",
-            "D": ""
+            "A": "Immigration",
+            "B": "Defence",
+            "C": "Health and social services",
+            "D": "International trade"
         },
         "answer": {
-            "options": "", 
-            "text": ""
+            "options": "C", 
+            "text": "The Senedd has the power to make laws for Wales in 21 areas, including: - education and training - health and social services - economic development - housing."
         }
     }, 
     {
-        "question": "",
+        "question": "The Scottish Parliament can make laws in which of the following areas?",
         "options": {
-            "A": "",
-            "B": "",
-            "C": "",
-            "D": ""
+            "A": "Health",
+            "B": "All taxes",
+            "C": "Social security",
+            "D": "Immigration"
         },
         "answer": {
-            "options": "", 
-            "text": ""
+            "options": "A", 
+            "text": "The Scottish Parliament can pass laws for Scotland on all matters which are not specifically reserved to the UK Parliament such as key taxes. The matters on which the Scottish Parliament can legislate include: • civil and criminal law • health • education • planning • additional tax-rising powers."
         }
     }, 
     {
-        "question": "",
+        "question": "Which one of the following statements is correct?",
         "options": {
-            "A": "",
-            "B": "",
-            "C": "",
-            "D": ""
+            "A": "The law requires radio and television to give equal time to opposing political viewpoints.",
+            "B": "The Prime Minister encourages radio and television to give equal time to opposing political viewpoints."
         },
         "answer": {
-            "options": "", 
-            "text": ""
+            "options": "A", 
+            "text": "By law, radio and television coverage of the political parties must be balanced and so equal time has to be given to rival viewpoints."
         }
     }, 
     {
-        "question": "",
+        "question": "Which two of the following are required by law to give balanced coverage of rival political parties?",
         "options": {
-            "A": "",
-            "B": "",
-            "C": "",
-            "D": ""
+            "A": "Newspapers",
+            "B": "Radio",
+            "C": "Television",
+            "D": "The internet"
         },
         "answer": {
-            "options": "", 
-            "text": ""
+            "options": "B, C", 
+            "text": "By law, radio and television coverage of the political parties must be balanced and so equal time has to be given to rival viewpoints."
         }
     }, 
     {
-        "question": "",
+        "question": "What are MPs who don't represent a political party called?",
         "options": {
-            "A": "",
-            "B": "",
-            "C": "",
-            "D": ""
+            "A": "Shadow Cabinet",
+            "B": "Ministers",
+            "C": "Civil servants",
+            "D": "Independents"
         },
         "answer": {
-            "options": "", 
-            "text": ""
+            "options": "D", 
+            "text": "There are a few MPs who do not represent any of the main political parties. They are called 'independents' and usually represent an issue important to their constituency."
         }
     }, 
     {
-        "question": "",
+        "question": "England, Scotland and Wales have individual voting registration systems.",
         "options": {
-            "A": "",
-            "B": "",
-            "C": "",
-            "D": ""
+            "A": "True",
+            "B": "False"
         },
         "answer": {
-            "options": "", 
-            "text": ""
+            "options": "B", 
+            "text": "In Northern Ireland a different electoral registration system operates. This is called 'individual registration' and all those entitled to vote must complete their own registration form. Once registered, people stay on the register provided their personal details do not change."
         }
     }, 
     {
-        "question": "",
+        "question": "The leader of the opposition appoints which of the following?",
         "options": {
-            "A": "",
-            "B": "",
-            "C": "",
-            "D": ""
+            "A": "An alternative cabinet",
+            "B": "A shadow cabinet",
+            "C": "A judiciary cabinet",
+            "D": "A Whig cabinet"
         },
         "answer": {
-            "options": "", 
-            "text": ""
+            "options": "B", 
+            "text": "The leader of the opposition appoints senior opposition MPs to be shadow ministers. They form the shadow cabinet and their role is to challenge the government and put forward alternative policies."
         }
     }, 
     {
-        "question": "",
+        "question": "Which part of the UK operates an individual voter registration system?",
         "options": {
-            "A": "",
-            "B": "",
-            "C": "",
-            "D": ""
+            "A": "England",
+            "B": "Wales",
+            "C": "Northern Ireland",
+            "D": "Scotland"
         },
         "answer": {
-            "options": "", 
-            "text": ""
+            "options": "C", 
+            "text": "In Northern Ireland a different system operates. This is called individual registration and all those entitled to vote must complete their own registration form."
         }
     }, 
     {
-        "question": "",
+        "question": "How often are elections held for the Senedd?",
         "options": {
-            "A": "",
-            "B": "",
-            "C": "",
-            "D": ""
+            "A": "Every year",
+            "B": "Every two years",
+            "C": "Every five years",
+            "D": "Every four years"
         },
         "answer": {
-            "options": "", 
-            "text": ""
+            "options": "D", 
+            "text": "Elections for the Senedd are held every four years using a form of proportional representation."
         }
     }, 
     {
-        "question": "",
+        "question": "Which cabinet minister is responsible for crime, policing and immigration?",
         "options": {
-            "A": "",
-            "B": "",
-            "C": "",
-            "D": ""
+            "A": "Foreign Secretary",
+            "B": "Home Secretary",
+            "C": "Defence Secretary",
+            "D": "Chancellor of the Exchequer"
         },
         "answer": {
-            "options": "", 
-            "text": ""
+            "options": "B", 
+            "text": "The Home Secretary is responsible for crime, policing and immigration."
         }
     }, 
     {
-        "question": "",
+        "question": "What will you be sent before an election?",
         "options": {
-            "A": "",
-            "B": "",
-            "C": "",
-            "D": ""
+            "A": "An application to vote",
+            "B": "A poll card",
+            "C": "A survey of your political opinions",
+            "D": "A ballot box"
         },
         "answer": {
-            "options": "", 
-            "text": ""
+            "options": "B", 
+            "text": "Before an election you will be sent a poll card. Your poll card will tell you where your polling station or polling place is and when the election will take place."
         }
     }, 
     {
-        "question": "",
+        "question": "The Northern Ireland Assembly can make decisions in which TWO of the following areas?",
         "options": {
-            "A": "",
-            "B": "",
-            "C": "",
-            "D": ""
+            "A": "Agriculture",
+            "B": "Nuclear energy",
+            "C": "Foreign policy",
+            "D": "The environment"
         },
         "answer": {
-            "options": "", 
-            "text": ""
+            "options": "A, D", 
+            "text": "The Northern Ireland Assembly can make decisions on issues such as: • education • agriculture • the environment • health • social services."
         }
     }, 
     {
-        "question": "",
+        "question": "How old must you be to stand for election as an MP?",
         "options": {
-            "A": "",
-            "B": "",
-            "C": "",
-            "D": ""
+            "A": "16",
+            "B": "18",
+            "C": "21",
+            "D": "There is no minimum age limit"
         },
         "answer": {
-            "options": "", 
-            "text": ""
+            "options": "B", 
+            "text": "Anyone aged 18 or over can stand for election as an MP."
         }
     }
 ]

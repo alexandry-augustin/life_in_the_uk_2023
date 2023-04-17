@@ -1,314 +1,294 @@
 [
     {
-        "question": "",
+        "question": "Is costs £20 for a ticket to watch debates in the Houses of Parliament.",
         "options": {
-            "A": "",
-            "B": "",
-            "C": "",
-            "D": ""
+            "A": "True",
+            "B": "False"
         },
         "answer": {
-            "options": "", 
-            "text": ""
+            "options": "B", 
+            "text": "The public can listen to debates in the Palace of Westminster from public galleries in both the House of Commons and the House of Lords. Entrance is free - you can get a ticket from your local MP or queue on the day."
         }
     }, 
     {
-        "question": "",
+        "question": "Which TWO languages are spoken in the Senedd?",
         "options": {
-            "A": "",
-            "B": "",
-            "C": "",
-            "D": ""
+            "A": "Walloon",
+            "B": "English",
+            "C": "Welsh",
+            "D": "Ulster Scots"
         },
         "answer": {
-            "options": "", 
-            "text": ""
+            "options": "B, C", 
+            "text": "Members of the Senedd can speak in either Welsh or English, and all of the Senedd's publications are in both languages."
         }
     }, 
     {
-        "question": "",
+        "question": "Did Northern Ireland have a Parliament prior to the creation of the Northern Ireland Assembly?",
         "options": {
-            "A": "",
-            "B": "",
-            "C": "",
-            "D": ""
+            "A": "Yes, it was renamed the Northern Ireland Assembly after the Troubles",
+            "B": "Yes, but it was abolished during the Troubles"
         },
         "answer": {
-            "options": "", 
-            "text": ""
+            "options": "B", 
+            "text": "A Northern Ireland Parliament was established in 1922, when Ireland was divided, but it was abolished in 1972, shortly after the Troubles broke out in 1969. The Northern Ireland Assembly was established soon after the Belfast Agreement (or Good Friday Agreement) in 1998."
         }
     }, 
     {
-        "question": "",
+        "question": "Which of the following statements is correct?",
         "options": {
-            "A": "",
-            "B": "",
-            "C": "",
-            "D": ""
+            "A": "Pressure and lobby groups are set up by MPs to help them get elected.",
+            "B": "Pressure and lobby groups try and influence government policy."
         },
         "answer": {
-            "options": "", 
-            "text": ""
+            "options": "B", 
+            "text": "Pressure and lobby groups are organisations which try to influence government policy."
         }
     }, 
     {
-        "question": "",
+        "question": "The Prime Minister appoints ministers called Secretaries of State who are responsible for subjects such as education, health and defence.",
         "options": {
-            "A": "",
-            "B": "",
-            "C": "",
-            "D": ""
+            "A": "True",
+            "B": "False"
         },
         "answer": {
-            "options": "", 
-            "text": ""
+            "options": "A", 
+            "text": "The Prime Minister appoints about 20 senior MPs to become ministers in charge of departments. These include: - Chancellor of the Exchequer -- responsible for the economy - Home Secretary -- responsible for crime, policing and immigration - Foreign Secretary -- responsible for managing relationships with foreign countries - other ministers (called 'Secretaries of State') responsible for subjects such as education, health and defence."
         }
     }, 
     {
-        "question": "",
+        "question": "Pressure and lobby groups focus on which TWO of the following?",
         "options": {
-            "A": "",
-            "B": "",
-            "C": "",
-            "D": ""
+            "A": "Running violent protests",
+            "B": "Representing the views of British businesses",
+            "C": "Dealing with complaints from constituents",
+            "D": "Influencing government policy"
         },
         "answer": {
-            "options": "", 
-            "text": ""
+            "options": "B, D", 
+            "text": "Presssure groups and lobby groups play an important part in the political processes of the UK. Some are representative organisations such as the CBI (Confederation of British Industry), which represents the views of British business. Others campaign on particular topics, such as the environment (for example, Greenpeace) or human rights (for example, Liberty). They lobby politicians to get their views across."
         }
     }, 
     {
-        "question": "",
+        "question": "What is the role of the opposition?",
         "options": {
-            "A": "",
-            "B": "",
-            "C": "",
-            "D": ""
+            "A": "To make policy as government",
+            "B": "To propose alternative policies to government",
+            "C": "To appoint the Speaker",
+            "D": "To always vote against government policy at all times"
         },
         "answer": {
-            "options": "", 
-            "text": ""
+            "options": "B", 
+            "text": "The leader of the opposition leads his or her party in pointing out what they see as the government's failures and weaknesses. The leader of the opposition also appoints senior opposition MPs to be shadow ministers. They form the shadow cabinet and their role is to challenge the government and put forward alternative policies."
         }
     }, 
     {
-        "question": "",
+        "question": "Which of the following statements is correct?",
         "options": {
-            "A": "",
-            "B": "",
-            "C": "",
-            "D": ""
+            "A": "In the Northern Ireland Assembly, all ministerial offices are held by the majority party.",
+            "B": "In the Northern Ireland Assembly, ministerial offices are shared amongst the main parties."
         },
         "answer": {
-            "options": "", 
-            "text": ""
+            "options": "B", 
+            "text": "The Northern Ireland Assembly was established soon after the Belfast Agreement (or Good Friday Agreement) in 1998. There is a power-sharing agreement that distributes ministerial offices amongst the main parties."
         }
     }, 
     {
-        "question": "",
+        "question": "Devolved adminstrations in Scotland, Wales and Northern Ireland do not have their own civil servants.",
         "options": {
-            "A": "",
-            "B": "",
-            "C": "",
-            "D": ""
+            "A": "True",
+            "B": "False"
         },
         "answer": {
-            "options": "", 
-            "text": ""
+            "options": "B", 
+            "text": "Scotland, Wales and Northern Ireland are devolved administrations and each have their own civil servants."
         }
     }, 
     {
-        "question": "",
+        "question": "Which of the following can stand for public office?",
         "options": {
-            "A": "",
-            "B": "",
-            "C": "",
-            "D": ""
+            "A": "Civil servants",
+            "B": "Members of the armed forces",
+            "C": "People found guilty of certain criminal offences",
+            "D": "British citizens born outside the UK"
         },
         "answer": {
-            "options": "", 
-            "text": ""
+            "options": "D", 
+            "text": "Most citizens of the UK, Ireland or the Commonwealth aged 18 or over can stand for public office. There are some exceptions, including: • members of the armed forces • civil servants • people found guilty of certain criminal offences."
         }
     }, 
     {
-        "question": "",
+        "question": "Which part of the UK has a different voter registration system from the rest?",
         "options": {
-            "A": "",
-            "B": "",
-            "C": "",
-            "D": ""
+            "A": "Scotland",
+            "B": "Northern Ireland",
+            "C": "Wales",
+            "D": "England"
         },
         "answer": {
-            "options": "", 
-            "text": ""
+            "options": "B", 
+            "text": "In Northern Ireland a different voter registration system operates. This is called individual registration and all those entitled to vote must complete their own registration form."
         }
     }, 
     {
-        "question": "",
+        "question": "Which of the statements below is correct?",
         "options": {
-            "A": "",
-            "B": "",
-            "C": "",
-            "D": ""
+            "A": "The electoral register is updated every year in the autumn.",
+            "B": "The electoral register is updated every few years in the autumn."
         },
         "answer": {
-            "options": "", 
-            "text": ""
+            "options": "A", 
+            "text": "The electoral register is updated every year in September or October."
         }
     }, 
     {
-        "question": "",
+        "question": "Pressure and lobby groups represent the interests of which TWO of the following?",
         "options": {
-            "A": "",
-            "B": "",
-            "C": "",
-            "D": ""
+            "A": "Minor political parties",
+            "B": "Foreign ambassadors",
+            "C": "Business organisations",
+            "D": "Campaigning organisations"
         },
         "answer": {
-            "options": "", 
-            "text": ""
+            "options": "C, D", 
+            "text": "Pressure and lobby groups are organisations which try to influence government policy. They play an important role in politics. Some are representative organisations such as the CBI (Confederation of British Industry), which represents the views of British business. Others campaign on particular topics, such as the environment (for example, Greenpeace) or human rights (for example, Liberty)."
         }
     }, 
     {
-        "question": "",
+        "question": "Which of the following statements is correct?",
         "options": {
-            "A": "",
-            "B": "",
-            "C": "",
-            "D": ""
+            "A": "Having a free press means that newspaper owners may not hold political views.",
+            "B": "Having a free press means that newspapers are not controlled by government."
         },
         "answer": {
-            "options": "", 
-            "text": ""
+            "options": "B", 
+            "text": "The UK has a free press. This means that what is written in newspapers is free from government control."
         }
     }, 
     {
-        "question": "",
+        "question": "What is another name for a district or county council?",
         "options": {
-            "A": "",
-            "B": "",
-            "C": "",
-            "D": ""
+            "A": "A local parliament",
+            "B": "A governing body",
+            "C": "A senate",
+            "D": "A local authority"
         },
         "answer": {
-            "options": "", 
-            "text": ""
+            "options": "D", 
+            "text": "Towns, cities and rural areas in the UK are governed by democratically elected councils, often called local authorities. Some areas have both district and county councils, which have different functions."
         }
     }, 
     {
-        "question": "",
+        "question": "Civil servants are appointed by the Prime Minister.",
         "options": {
-            "A": "",
-            "B": "",
-            "C": "",
-            "D": ""
+            "A": "True",
+            "B": "False"
         },
         "answer": {
-            "options": "", 
-            "text": ""
+            "options": "B", 
+            "text": "People can apply to join the civil service through an application process, like other jobs in the UK."
         }
     }, 
     {
-        "question": "",
+        "question": "How are local authorities funded?",
         "options": {
-            "A": "",
-            "B": "",
-            "C": "",
-            "D": ""
+            "A": "By funding from central government only",
+            "B": "By local taxes only",
+            "C": "By central government funding and by local taxes",
+            "D": "Local authorities are unfunded"
         },
         "answer": {
-            "options": "", 
-            "text": ""
+            "options": "C", 
+            "text": "Local authorities provide a range of services in their areas. They are funded by money from central government and by local taxes."
         }
     }, 
     {
-        "question": "",
+        "question": "The Assembly Booking Service assists people who wish to book a guided tour of the Senedd or which of the following?",
         "options": {
-            "A": "",
-            "B": "",
-            "C": "",
-            "D": ""
+            "A": "Book seats in the public galleries of the Senedd",
+            "B": "Buy tickets to see the Welsh National Opera",
+            "C": "Buy tickets to view a public debate",
+            "D": "Buy tickets to Prime Minister's Questions"
         },
         "answer": {
-            "options": "", 
-            "text": ""
+            "options": "A", 
+            "text": "You can book guided tours or seats in the public galleries for the Senedd. To make a booking, contact the Assembly Booking Service."
         }
     }, 
     {
-        "question": "",
+        "question": "The Senedd has how many members?",
         "options": {
-            "A": "",
-            "B": "",
-            "C": "",
-            "D": ""
+            "A": "60",
+            "B": "90",
+            "C": "129",
+            "D": "360"
         },
         "answer": {
-            "options": "", 
-            "text": ""
+            "options": "A", 
+            "text": "The Welsh government and the Senedd are based in Cardiff, the capital city of Wales. There are 60 members of the Senedd."
         }
     }, 
     {
-        "question": "",
+        "question": "If you can't make it to a polling station to vote you can register for which of the following?",
         "options": {
-            "A": "",
-            "B": "",
-            "C": "",
-            "D": ""
+            "A": "A postal ballot",
+            "B": "An absentee ballot",
+            "C": "A public ballot",
+            "D": "A virtual ballot"
         },
         "answer": {
-            "options": "", 
-            "text": ""
+            "options": "A", 
+            "text": "If it is difficult for you to get to a polling station or polling place, you can register for a postal ballot."
         }
     }, 
     {
-        "question": "",
+        "question": "The Senedd and Scottish Parliament have existed since 1999.",
         "options": {
-            "A": "",
-            "B": "",
-            "C": "",
-            "D": ""
+            "A": "True",
+            "B": "False"
         },
         "answer": {
-            "options": "", 
-            "text": ""
+            "options": "A", 
+            "text": "The Senedd and Scottish Parliament have operated since 1999."
         }
     }, 
     {
-        "question": "",
+        "question": "The Scottish Parliament has how many members?",
         "options": {
-            "A": "",
-            "B": "",
-            "C": "",
-            "D": ""
+            "A": "60",
+            "B": "108",
+            "C": "129",
+            "D": "360"
         },
         "answer": {
-            "options": "", 
-            "text": ""
+            "options": "C", 
+            "text": "There are 129 members of the Scottish Parliament (MSPs), elected by a form of proportional representation."
         }
     }, 
     {
-        "question": "",
+        "question": "Where must your name be recorded in order for you to vote in an election?",
         "options": {
-            "A": "",
-            "B": "",
-            "C": "",
-            "D": ""
+            "A": "Citizens' list",
+            "B": "Civil list",
+            "C": "Election list",
+            "D": "Electoral register"
         },
         "answer": {
-            "options": "", 
-            "text": ""
+            "options": "D", 
+            "text": "To be able to vote in a parliamentary, or local election, you must have your name on the electoral register."
         }
     }, 
     {
-        "question": "",
+        "question": "What is the opposition?",
         "options": {
-            "A": "",
-            "B": "",
-            "C": "",
-            "D": ""
+            "A": "The smallest party in the House of Commons",
+            "B": "The smallest party in the House of Lords",
+            "C": "The second-largest party in the House of Commons",
+            "D": "The second-largest party in the House of Lords"
         },
         "answer": {
-            "options": "", 
-            "text": ""
+            "options": "C", 
+            "text": "The second-largest party in the House of Commons is called the opposition."
         }
     }
 ]

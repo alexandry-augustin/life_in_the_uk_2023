@@ -26,7 +26,7 @@
         }
     }, 
     {
-        "question": "In 1913, the British government promised ‘Home Rule’ for Ireland. What did this propose?",
+        "question": "In 1913, the British government promised 'Home Rule' for Ireland. What did this propose?",
         "options": {
             "A": "To make Ireland independent of the UK",
             "B": "To have a self-governing Ireland with its own parliament but still part of the UK",
@@ -35,7 +35,7 @@
         },
         "answer": {
             "options": "B", 
-            "text": "In 1913, the British government promised ‘Home Rule’ for Ireland. The proposal was to have a self-governing Ireland with its own parliament but still part of the UK."
+            "text": "In 1913, the British government promised 'Home Rule' for Ireland. The proposal was to have a self-governing Ireland with its own parliament but still part of the UK."
         }
     }, 
     {
@@ -48,7 +48,7 @@
         },
         "answer": {
             "options": "B", 
-            "text": "The conflict between those wishing for full Irish independence and those wishing to remain loyal to the British government is often referred to as ‘the Troubles’."
+            "text": "The conflict between those wishing for full Irish independence and those wishing to remain loyal to the British government is often referred to as 'the Troubles'."
         }
     }, 
     {
@@ -61,7 +61,7 @@
         },
         "answer": {
             "options": "A, B", 
-            "text": "‘The Battle of Britain’ was fought in the summer of 1940. The most important planes used by the Royal Air Force in the Battle of Britain were the Spitfire and the Hurricane – which were designed and built in Britain."
+            "text": "'The Battle of Britain' was fought in the summer of 1940. The most important planes used by the Royal Air Force in the Battle of Britain were the Spitfire and the Hurricane -- which were designed and built in Britain."
         }
     }, 
     {
@@ -78,7 +78,7 @@
         }
     }, 
     {
-        "question": "When did Winston Churchill become Britain’s Prime Minister?",
+        "question": "When did Winston Churchill become Britain's Prime Minister?",
         "options": {
             "A": "1939",
             "B": "1940",
@@ -98,11 +98,11 @@
         },
         "answer": {
             "options": "B", 
-            "text": "During the Second World War, Britain helped the Navy to rescue more than 300,000 men from the beaches around Dunkirk in France. The evacuation gave rise to the phrase ‘the Dunkirk spirit’."
+            "text": "During the Second World War, Britain helped the Navy to rescue more than 300,000 men from the beaches around Dunkirk in France. The evacuation gave rise to the phrase 'the Dunkirk spirit'."
         }
     }, 
     {
-        "question": "During Hitler’s bombing campaign against the UK, known as the Blitz, which of these TWO areas suffered a great deal of damage?",
+        "question": "During Hitler's bombing campaign against the UK, known as the Blitz, which of these TWO areas suffered a great deal of damage?",
         "options": {
             "A": "Coventry",
             "B": "Inverness",
@@ -115,14 +115,14 @@
         }
     }, 
     {
-        "question": "The BBC began the world’s first regular television service in 1936.",
+        "question": "The BBC began the world's first regular television service in 1936.",
         "options": {
             "A": "True",
             "B": "False"
         },
         "answer": {
             "options": "A", 
-            "text": "The BBC started radio broadcasts in 1922 and began the world’s first regular television service in 1936."
+            "text": "The BBC started radio broadcasts in 1922 and began the world's first regular television service in 1936."
         }
     }, 
     {
@@ -137,7 +137,7 @@
         }
     }, 
     {
-        "question": "Which battle was Churchill referring to when he said, ‘Never in the field of human conflict was so much owed by so many to so few’?",
+        "question": "Which battle was Churchill referring to when he said, 'Never in the field of human conflict was so much owed by so many to so few'?",
         "options": {
             "A": "The Battle of Naseby",
             "B": "The Battle of Hastings",
@@ -146,7 +146,7 @@
         },
         "answer": {
             "options": "C", 
-            "text": "‘Never in the field of human conflict was so much owed by so many to so few.’ Churchill's speech to the House of Commons during the Battle of Britain, 1940."
+            "text": "'Never in the field of human conflict was so much owed by so many to so few.' Churchill's speech to the House of Commons during the Battle of Britain, 1940."
         }
     }
 ]

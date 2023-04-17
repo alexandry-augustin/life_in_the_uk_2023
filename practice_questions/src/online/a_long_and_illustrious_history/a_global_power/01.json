@@ -57,11 +57,11 @@
         },
         "answer": {
             "options": "B", 
-            "text": "When Queen Anne died in 1714, Parliament chose a German, George I, to be the next king, because he was Anne’s nearest Protestant relative."
+            "text": "When Queen Anne died in 1714, Parliament chose a German, George I, to be the next king, because he was Anne's nearest Protestant relative."
         }
     }, 
     {
-        "question": "Which of these countries was part of the British Empire during Queen Victoria’s reign?",
+        "question": "Which of these countries was part of the British Empire during Queen Victoria's reign?",
         "options": {
             "A": "France",
             "B": "Switzerland",
@@ -129,7 +129,7 @@
         },
         "answer": {
             "options": "B", 
-            "text": "The Bill of Rights, passed in 1689, confirmed the rights of Parliament and the limits of the king’s power. Amongst other things, the Bill confirmed that the king would no longer be able to raise taxes or administer justice without agreement from Parliament."
+            "text": "The Bill of Rights, passed in 1689, confirmed the rights of Parliament and the limits of the king's power. Amongst other things, the Bill confirmed that the king would no longer be able to raise taxes or administer justice without agreement from Parliament."
         }
     }, 
     {
@@ -172,16 +172,16 @@
         }
     }, 
     {
-        "question": "Emmeline Pankhurst had a role in establishing which organisation for women’s rights in 1889?",
+        "question": "Emmeline Pankhurst had a role in establishing which organisation for women's rights in 1889?",
         "options": {
-            "A": "The Women’s Voting Council",
-            "B": "The Women’s Franchise League",
+            "A": "The Women's Voting Council",
+            "B": "The Women's Franchise League",
             "C": "The Female Democratic Organisation",
-            "D": "The Women’s Equality Society"
+            "D": "The Women's Equality Society"
         },
         "answer": {
             "options": "B", 
-            "text": "Emmeline Pankhurst was born in Manchester in 1858. She set up the Women’s Franchise League in 1889, which fought to get the vote in local elections for married women. In 1903 she helped found the Women’s Social and Political Union (WSPU)."
+            "text": "Emmeline Pankhurst was born in Manchester in 1858. She set up the Women's Franchise League in 1889, which fought to get the vote in local elections for married women. In 1903 she helped found the Women's Social and Political Union (WSPU)."
         }
     }, 
     {
@@ -205,11 +205,11 @@
         },
         "answer": {
             "options": "B", 
-            "text": "After William III, the ministers gradually became more important than the monarch but this was not a democracy in the modern sense. The number of people who had the right to vote for members of Parliament was still very small. Only men who owned property of a certain value were able to vote. No women at all had the vote. Some constituencies were controlled by a single wealthy family. These were called ‘pocket boroughs’. Other constituencies had hardly any voters and were called ‘rotten boroughs’."
+            "text": "After William III, the ministers gradually became more important than the monarch but this was not a democracy in the modern sense. The number of people who had the right to vote for members of Parliament was still very small. Only men who owned property of a certain value were able to vote. No women at all had the vote. Some constituencies were controlled by a single wealthy family. These were called 'pocket boroughs'. Other constituencies had hardly any voters and were called 'rotten boroughs'."
         }
     }, 
     {
-        "question": "During Queen Victoria’s reign the French Empire became the largest empire the world has ever seen.",
+        "question": "During Queen Victoria's reign the French Empire became the largest empire the world has ever seen.",
         "options": {
             "A": "True",
             "B": "False"

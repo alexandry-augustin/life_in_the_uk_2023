@@ -1,314 +1,133 @@
 [
     {
-        "question": "",
+        "question": "Which of the following statements is correct?",
         "options": {
-            "A": "",
-            "B": "",
-            "C": "",
-            "D": ""
+            "A": "It is possible to volunteer with the police and become a special constable.",
+            "B": "The police never accept volunteers."
         },
         "answer": {
-            "options": "", 
-            "text": ""
+            "options": "A", 
+            "text": "You can volunteer with the police, and become a special constable or a lay (non-police) representative. You can also apply to become a magistrate. You will often find advertisements for vacancies in your local newspaper or on local radio. You can also find out more about these sorts of roles at www.gov.uk."
         }
     }, 
     {
-        "question": "",
+        "question": "Which of the following statements is correct?",
         "options": {
-            "A": "",
-            "B": "",
-            "C": "",
-            "D": ""
+            "A": "You can support your local community and the education of children by becoming a school governor.",
+            "B": "You can support your local community and the education of children by becoming a school director."
         },
         "answer": {
-            "options": "", 
-            "text": ""
+            "options": "A", 
+            "text": "School governors are people from the local community who wish to make a positive contribution to children's education."
         }
     }, 
     {
-        "question": "",
+        "question": "Why is it good for the environment to use public transport or walk?",
         "options": {
-            "A": "",
-            "B": "",
-            "C": "",
-            "D": ""
+            "A": "It burns more calories",
+            "B": "It creates less pollution than driving a car",
+            "C": "It leaves more space on the road for heavy goods vehicles",
+            "D": "It makes the roads safer for animals and children"
         },
         "answer": {
-            "options": "", 
-            "text": ""
+            "options": "B", 
+            "text": "Walking and using public transport to get around when you can is a good way to protect the environment. It means that you create less pollution than when you use a car."
         }
     }, 
     {
-        "question": "",
+        "question": "Volunteering is a good way to earn more money.",
         "options": {
-            "A": "",
-            "B": "",
-            "C": "",
-            "D": ""
+            "A": "True",
+            "B": "False"
         },
         "answer": {
-            "options": "", 
-            "text": ""
+            "options": "B", 
+            "text": "Volunteering is working to help others without payment. There are many benefits to volunteering, such as meeting new people and helping make your community a better place. There are many activities you can do as a volunteer, such as working with the homeless and helping improve the environment."
         }
     }, 
     {
-        "question": "",
+        "question": "Which of the following statements is correct?",
         "options": {
-            "A": "",
-            "B": "",
-            "C": "",
-            "D": ""
+            "A": "There are only a few charities in Britain, most of them national.",
+            "B": "There are thousands of charities active in Britain."
         },
         "answer": {
-            "options": "", 
-            "text": ""
+            "options": "B", 
+            "text": "There are thousands of active charities and voluntary organisations in the UK."
         }
     }, 
     {
-        "question": "",
+        "question": "Volunteering and helping your community are important parts of being a good citizen.",
         "options": {
-            "A": "",
-            "B": "",
-            "C": "",
-            "D": ""
+            "A": "True",
+            "B": "False"
         },
         "answer": {
-            "options": "", 
-            "text": ""
+            "options": "A", 
+            "text": "Volunteering and helping your community are an important part of being a good citizen. They enable you to integrate and get to know other people."
         }
     }, 
     {
-        "question": "",
+        "question": "It is possible to find out information about different political parties from their party websites.",
         "options": {
-            "A": "",
-            "B": "",
-            "C": "",
-            "D": ""
+            "A": "True",
+            "B": "False"
         },
         "answer": {
-            "options": "", 
-            "text": ""
+            "options": "A", 
+            "text": "You can find out more about joining a political party from the individual party websites."
         }
     }, 
     {
-        "question": "",
+        "question": "What is the upper age limit for being on a jury in the UK?",
         "options": {
-            "A": "",
-            "B": "",
-            "C": "",
-            "D": ""
+            "A": "60",
+            "B": "75",
+            "C": "80",
+            "D": "90"
         },
         "answer": {
-            "options": "", 
-            "text": ""
+            "options": "B", 
+            "text": "As well as getting the right to vote, people on the electoral register are randomly selected to serve on a jury. Anyone who is on the electoral register and is aged 18-70 (18-75 in England and Wales) can be asked to do this."
         }
     }, 
     {
-        "question": "",
+        "question": "Which of the following is a benefit of volunteering?",
         "options": {
-            "A": "",
-            "B": "",
-            "C": "",
-            "D": ""
+            "A": "Getting more state benefits",
+            "B": "Getting paid",
+            "C": "Having a chance to practise your English",
+            "D": "A courtesy car"
         },
         "answer": {
-            "options": "", 
-            "text": ""
+            "options": "C", 
+            "text": "Volunteering is working for good causes without payment. There are many benefits to volunteering, such as meeting new people and helping make your community a better place. Some volunteer activities will give you a chance to practise your English or develop work skills that will help you find a job or improve your curriculum vitae (CV). Many people volunteer simply because they want to help other people."
         }
     }, 
     {
-        "question": "",
+        "question": "Which of the following can volunteers help in?",
         "options": {
-            "A": "",
-            "B": "",
-            "C": "",
-            "D": ""
+            "A": "Air raid shelters",
+            "B": "Homeless shelters",
+            "C": "Life in the UK test centres",
+            "D": "Juries"
         },
         "answer": {
-            "options": "", 
-            "text": ""
+            "options": "B", 
+            "text": "Activities you can do as a volunteer include: • working with animals -- for example, caring for animals at a local rescue shelter • youth work -- for example, volunteering at a youth group • helping improve the environment -- for example, participating in a litter pick-up in the local area • working with the homeless in, for example, a homelessness shelter • mentoring -- for example, supporting someone who has just come out of prison • work in health and hospitals -- for example, working on an information desk in a hospital • helping older people at, for example, a residential care home."
         }
     }, 
     {
-        "question": "",
+        "question": "Which of the following is a good way of helping your community?",
         "options": {
-            "A": "",
-            "B": "",
-            "C": "",
-            "D": ""
+            "A": "Travelling",
+            "B": "Complaining",
+            "C": "Volunteering",
+            "D": "Spending lots of time online"
         },
         "answer": {
-            "options": "", 
-            "text": ""
-        }
-    }, 
-    {
-        "question": "",
-        "options": {
-            "A": "",
-            "B": "",
-            "C": "",
-            "D": ""
-        },
-        "answer": {
-            "options": "", 
-            "text": ""
-        }
-    }, 
-    {
-        "question": "",
-        "options": {
-            "A": "",
-            "B": "",
-            "C": "",
-            "D": ""
-        },
-        "answer": {
-            "options": "", 
-            "text": ""
-        }
-    }, 
-    {
-        "question": "",
-        "options": {
-            "A": "",
-            "B": "",
-            "C": "",
-            "D": ""
-        },
-        "answer": {
-            "options": "", 
-            "text": ""
-        }
-    }, 
-    {
-        "question": "",
-        "options": {
-            "A": "",
-            "B": "",
-            "C": "",
-            "D": ""
-        },
-        "answer": {
-            "options": "", 
-            "text": ""
-        }
-    }, 
-    {
-        "question": "",
-        "options": {
-            "A": "",
-            "B": "",
-            "C": "",
-            "D": ""
-        },
-        "answer": {
-            "options": "", 
-            "text": ""
-        }
-    }, 
-    {
-        "question": "",
-        "options": {
-            "A": "",
-            "B": "",
-            "C": "",
-            "D": ""
-        },
-        "answer": {
-            "options": "", 
-            "text": ""
-        }
-    }, 
-    {
-        "question": "",
-        "options": {
-            "A": "",
-            "B": "",
-            "C": "",
-            "D": ""
-        },
-        "answer": {
-            "options": "", 
-            "text": ""
-        }
-    }, 
-    {
-        "question": "",
-        "options": {
-            "A": "",
-            "B": "",
-            "C": "",
-            "D": ""
-        },
-        "answer": {
-            "options": "", 
-            "text": ""
-        }
-    }, 
-    {
-        "question": "",
-        "options": {
-            "A": "",
-            "B": "",
-            "C": "",
-            "D": ""
-        },
-        "answer": {
-            "options": "", 
-            "text": ""
-        }
-    }, 
-    {
-        "question": "",
-        "options": {
-            "A": "",
-            "B": "",
-            "C": "",
-            "D": ""
-        },
-        "answer": {
-            "options": "", 
-            "text": ""
-        }
-    }, 
-    {
-        "question": "",
-        "options": {
-            "A": "",
-            "B": "",
-            "C": "",
-            "D": ""
-        },
-        "answer": {
-            "options": "", 
-            "text": ""
-        }
-    }, 
-    {
-        "question": "",
-        "options": {
-            "A": "",
-            "B": "",
-            "C": "",
-            "D": ""
-        },
-        "answer": {
-            "options": "", 
-            "text": ""
-        }
-    }, 
-    {
-        "question": "",
-        "options": {
-            "A": "",
-            "B": "",
-            "C": "",
-            "D": ""
-        },
-        "answer": {
-            "options": "", 
-            "text": ""
+            "options": "C", 
+            "text": "Volunteering and helping your community are an important part of being a good citizen. They enable you to integrate and get to know other people. It helps to make your community a better place if residents support each other."
         }
     }
 ]

@@ -1,314 +1,282 @@
 [
     {
-        "question": "",
+        "question": "What does every person in the UK receive, by law?",
         "options": {
-            "A": "",
-            "B": "",
-            "C": "",
-            "D": ""
+            "A": "Different treatment, depending on how wealthy he or she is",
+            "B": "Different treatment, depending on his or her job",
+            "C": "Equal treatment",
+            "D": "Different treatment, depending on whether the person is male or female"
         },
         "answer": {
-            "options": "", 
-            "text": ""
+            "options": "C", 
+            "text": "Every person in the UK receives equal treatment under the law. This means that the law applies in the same way to everyone, no matter who they are or where they are from."
         }
     }, 
     {
-        "question": "",
+        "question": "It is legal to carry a weapon if it is for self-defence.",
         "options": {
-            "A": "",
-            "B": "",
-            "C": "",
-            "D": ""
+            "A": "True",
+            "B": "False"
         },
         "answer": {
-            "options": "", 
-            "text": ""
+            "options": "B", 
+            "text": "It is a criminal offence to carry a weapon of any kind, even if it is for self-defence. This includes a gun, a knife or anything that is made or adapted to cause injury"
         }
     }, 
     {
-        "question": "",
+        "question": "Which of the following statements is correct?",
         "options": {
-            "A": "",
-            "B": "",
-            "C": "",
-            "D": ""
+            "A": "You will need the help of a lawyer to issue a small claim.",
+            "B": "You do not need the help of a lawyer to issue a small claim."
         },
         "answer": {
-            "options": "", 
-            "text": ""
+            "options": "B", 
+            "text": "The small claims procedure is an informal way of helping people to settle minor disputes without spending a lot of time and money using a lawyer."
         }
     }, 
     {
-        "question": "",
+        "question": "Anyone over the age of 14 can legally buy tobacco products in the UK.",
         "options": {
-            "A": "",
-            "B": "",
-            "C": "",
-            "D": ""
+            "A": "True",
+            "B": "False"
         },
         "answer": {
-            "options": "", 
-            "text": ""
+            "options": "B", 
+            "text": "It is illegal to sell tobacco products (for example, cigarettes, cigars, roll-up tobacco) to anyone under the age of 18."
         }
     }, 
     {
-        "question": "",
+        "question": "Discrimination in the workplace is covered by criminal law.",
         "options": {
-            "A": "",
-            "B": "",
-            "C": "",
-            "D": ""
+            "A": "True",
+            "B": "False"
         },
         "answer": {
-            "options": "", 
-            "text": ""
+            "options": "B", 
+            "text": "Civil laws covers employment law: these cases include disputes over wages and cases of unfair dismissal or discrimination in the workplace."
         }
     }, 
     {
-        "question": "",
+        "question": "Police forces are headed by whom?",
         "options": {
-            "A": "",
-            "B": "",
-            "C": "",
-            "D": ""
+            "A": "Ministers",
+            "B": "Generals",
+            "C": "Mayors",
+            "D": "Chief Constables"
         },
         "answer": {
-            "options": "", 
-            "text": ""
+            "options": "D", 
+            "text": "The police are organised into a number of separate police forces headed by Chief Constables. They are independent of the government."
         }
     }, 
     {
-        "question": "",
+        "question": "Who decides what should happen in legal disputes over contracts, property rights or employment rights?",
         "options": {
-            "A": "",
-            "B": "",
-            "C": "",
-            "D": ""
+            "A": "The media",
+            "B": "The police",
+            "C": "The judiciary",
+            "D": "The peers"
         },
         "answer": {
-            "options": "", 
-            "text": ""
+            "options": "C", 
+            "text": "Judges make decisions in disputes between members of the public or organisations. These might be about contracts, property or employment rights or after an accident."
         }
     }, 
     {
-        "question": "",
+        "question": "In Northern Ireland, a District Judge who hears a minor criminal case is legally qualified.",
         "options": {
-            "A": "",
-            "B": "",
-            "C": "",
-            "D": ""
+            "A": "True",
+            "B": "False"
         },
         "answer": {
-            "options": "", 
-            "text": ""
+            "options": "A", 
+            "text": "In Northern Ireland, minor criminal cases are heard by a District Judge or Deputy District Judge, who is legally qualified and paid."
         }
     }, 
     {
-        "question": "",
+        "question": "Chief Constables are independent of government.",
         "options": {
-            "A": "",
-            "B": "",
-            "C": "",
-            "D": ""
+            "A": "True",
+            "B": "False"
         },
         "answer": {
-            "options": "", 
-            "text": ""
+            "options": "A", 
+            "text": "The police are organised into a number of separate police forces headed by Chief Constables. They are independent of the government."
         }
     }, 
     {
-        "question": "",
+        "question": "The Home Office decides who become Police and Crime Commissioners (PCC).",
         "options": {
-            "A": "",
-            "B": "",
-            "C": "",
-            "D": ""
+            "A": "True",
+            "B": "False"
         },
         "answer": {
-            "options": "", 
-            "text": ""
+            "options": "B", 
+            "text": "In November 2012, the public first elected Police and Crime Commissioners (PCCs) in England and Wales. These are directly elected individuals who are responsible for the delivery of an efficient and effective police force that reflects the needs of their local communities."
         }
     }, 
     {
-        "question": "",
+        "question": "PCSOs support police by doing which TWO of the following?",
         "options": {
-            "A": "",
-            "B": "",
-            "C": "",
-            "D": ""
+            "A": "Independently investigating crime",
+            "B": "Patrolling the streets",
+            "C": "Helping the police at crime scenes",
+            "D": "Trying suspected criminals in court"
         },
         "answer": {
-            "options": "", 
-            "text": ""
+            "options": "B, C", 
+            "text": "Police officers are supported by police community support officers (PSCOs). PSCOs have different roles according to the area but usually patrol the streets, work with the public, and support police officers at crime scenes and major events."
         }
     }, 
     {
-        "question": "",
+        "question": "Which of the following provide legal advice, normally for a fee?",
         "options": {
-            "A": "",
-            "B": "",
-            "C": "",
-            "D": ""
+            "A": "MPs",
+            "B": "Doctors",
+            "C": "Solicitors",
+            "D": "The police"
         },
         "answer": {
-            "options": "", 
-            "text": ""
+            "options": "C", 
+            "text": "Solicitors are trained lawyers who give advice on legal matters, take action for their clients and represent their clients in court."
         }
     }, 
     {
-        "question": "",
+        "question": "Which of the following statements is correct?",
         "options": {
-            "A": "",
-            "B": "",
-            "C": "",
-            "D": ""
+            "A": "Murder, assault and theft are crimes.",
+            "B": "Murder, assault and theft are examples of civil disputes."
         },
         "answer": {
-            "options": "", 
-            "text": ""
+            "options": "A", 
+            "text": "There are many crimes in the UK that apply in most countries, such as murder, theft and assault."
         }
     }, 
     {
-        "question": "",
+        "question": "Which of the following statements is correct?",
         "options": {
-            "A": "",
-            "B": "",
-            "C": "",
-            "D": ""
+            "A": "A verdict of 'not proven' is possible in all UK courts.",
+            "B": "A verdict of 'not proven' is only possible in Scottish courts."
         },
         "answer": {
-            "options": "", 
-            "text": ""
+            "options": "B", 
+            "text": "In Scotland, a third verdict of 'not proven' is also possible. If the jury finds a defendant guilty, the judge decides on the penalty."
         }
     }, 
     {
-        "question": "",
+        "question": "Which of the following is the job of the police?",
         "options": {
-            "A": "",
-            "B": "",
-            "C": "",
-            "D": ""
+            "A": "To prosecute someone for being in debt",
+            "B": "To evict noisy tenants",
+            "C": "Representing clients in court",
+            "D": "To protect life and property"
         },
         "answer": {
-            "options": "", 
-            "text": ""
+            "options": "D", 
+            "text": "The job of the police in the UK is to: • protect life and property • prevent disturbances (also known as keeping the peace) • prevent and detect crime."
         }
     }, 
     {
-        "question": "",
+        "question": "As well as giving legal advice, solicitors are able to do which TWO of the following?",
         "options": {
-            "A": "",
-            "B": "",
-            "C": "",
-            "D": ""
+            "A": "Represent clients in court",
+            "B": "Arrest suspects",
+            "C": "Take action for a client",
+            "D": "Change the law"
         },
         "answer": {
-            "options": "", 
-            "text": ""
+            "options": "A, C", 
+            "text": "Solicitors are trained lawyers who give advice on legal matters, take action for their clients and represent their clients in court."
         }
     }, 
     {
-        "question": "",
+        "question": "The small claims procedure is an informal way for people to settle minor disputes.",
         "options": {
-            "A": "",
-            "B": "",
-            "C": "",
-            "D": ""
+            "A": "True",
+            "B": "False"
         },
         "answer": {
-            "options": "", 
-            "text": ""
+            "options": "A", 
+            "text": "The small claims procedure is an informal way of heling people to settle minor disputes without spending a lot of time and money using a lawyer."
         }
     }, 
     {
-        "question": "",
+        "question": "The police do not need to protect and help people who are not UK citizens.",
         "options": {
-            "A": "",
-            "B": "",
-            "C": "",
-            "D": ""
+            "A": "True",
+            "B": "False"
         },
         "answer": {
-            "options": "", 
-            "text": ""
+            "options": "B", 
+            "text": "The police force is a public service that helps and protects everyone, no matter what their background or where they live."
         }
     }, 
     {
-        "question": "",
+        "question": "The judiciary is responsible for which TWO of the following?",
         "options": {
-            "A": "",
-            "B": "",
-            "C": "",
-            "D": ""
+            "A": "Interpreting the law",
+            "B": "Keeping order during political debates",
+            "C": "Nominating peers",
+            "D": "Making sure that trials are fair"
         },
         "answer": {
-            "options": "", 
-            "text": ""
+            "options": "A, D", 
+            "text": "Judges (who are together called the judiciary) are responsible for interpreting the law and ensuring that trials are conducted fairly. The government cannot interfere with this."
         }
     }, 
     {
-        "question": "",
+        "question": "Which of the following statements is correct?",
         "options": {
-            "A": "",
-            "B": "",
-            "C": "",
-            "D": ""
+            "A": "Solicitors usually charge a fee based on the seriousness of a case.",
+            "B": "Solicitors usually charge a fee related to the amount of time spent on a case."
         },
         "answer": {
-            "options": "", 
-            "text": ""
+            "options": "B", 
+            "text": "Solicitors' charges are usually based on how much time they spend on a case. It is very important to find out at the start how much a case is likely to cost."
         }
     }, 
     {
-        "question": "",
+        "question": "In Crown Courts, serious offences are tried in front of a judge and jury.",
         "options": {
-            "A": "",
-            "B": "",
-            "C": "",
-            "D": ""
+            "A": "True",
+            "B": "False"
         },
         "answer": {
-            "options": "", 
-            "text": ""
+            "options": "A", 
+            "text": "In England, Wales and Northern Ireland, serious offences are tried in front of a judge and a jury in a Crown Court."
         }
     }, 
     {
-        "question": "",
+        "question": "Which of the following statements is correct?",
         "options": {
-            "A": "",
-            "B": "",
-            "C": "",
-            "D": ""
+            "A": "You complain about the police at a Magistrates' Court.",
+            "B": "You complain about the police at a police station."
         },
         "answer": {
-            "options": "", 
-            "text": ""
+            "options": "B", 
+            "text": "Anyone can make a complaint about the police by going to a police station or writing to the Chief Constable of the police force involved."
         }
     }, 
     {
-        "question": "",
+        "question": "Which of the following statements is correct?",
         "options": {
-            "A": "",
-            "B": "",
-            "C": "",
-            "D": ""
+            "A": "Members of the public are allowed to attend Youth Court hearings.",
+            "B": "Members of the public are not allowed to attend Youth Court hearings."
         },
         "answer": {
-            "options": "", 
-            "text": ""
+            "options": "B", 
+            "text": "Members of the public are not allowed in Youth Courts, and the name or photographs of the accused cannot be published in newspapers or used by the media."
         }
     }, 
     {
-        "question": "",
+        "question": "A responsibility of Police and Crime Commissioners is to set local policing budgets.",
         "options": {
-            "A": "",
-            "B": "",
-            "C": "",
-            "D": ""
+            "A": "True",
+            "B": "False"
         },
         "answer": {
-            "options": "", 
-            "text": ""
+            "options": "A", 
+            "text": "In November 2012, the public first elected Police and Crime Commissioners (PCCs) in England and Wales. These are directly elected individuals who are responsible for the delivery of an efficient and effective police force that reflects the needs of their local communities. PCCs set local police priorities and the local policing budget."
         }
     }
 ]

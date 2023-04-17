@@ -1,314 +1,286 @@
 [
     {
-        "question": "",
+        "question": "In which TWO ways is it possible to visit Parliament?",
         "options": {
-            "A": "",
-            "B": "",
-            "C": "",
-            "D": ""
+            "A": "By buying tickets online",
+            "B": "By queuing on the day at the public entrance",
+            "C": "By writing to your MP to request tickets",
+            "D": "By buying tickets in an auction"
         },
         "answer": {
-            "options": "", 
-            "text": ""
+            "options": "B, C", 
+            "text": "If you want to visit Parliament you can write to your local MP in advance to ask for tickets or you can queue on the day at the public entrance. Entrance is free."
         }
     }, 
     {
-        "question": "",
+        "question": "Do voters need to show photographic identification?",
         "options": {
-            "A": "",
-            "B": "",
-            "C": "",
-            "D": ""
+            "A": "Yes, always",
+            "B": "Yes, but only in Northern Ireland"
         },
         "answer": {
-            "options": "", 
-            "text": ""
+            "options": "B", 
+            "text": "When you arrive at the polling station, the staff will ask for your name and address. In Northern Ireland you will also have to show photographic identification."
         }
     }, 
     {
-        "question": "",
+        "question": "Which of the following statements is correct?",
         "options": {
-            "A": "",
-            "B": "",
-            "C": "",
-            "D": ""
+            "A": "Members of the House of Lords can stand for public office but not for election to the House of Commons.",
+            "B": "Members of the House of Lords can stand for election to any public office."
         },
         "answer": {
-            "options": "", 
-            "text": ""
+            "options": "A", 
+            "text": " Members of the House of Lords may not stand for election to the House of Commons but are eligible for all other public offices."
         }
     }, 
     {
-        "question": "",
+        "question": "The Foreign Secretary is responsible for policing and immigration.",
         "options": {
-            "A": "",
-            "B": "",
-            "C": "",
-            "D": ""
+            "A": "True",
+            "B": "False"
         },
         "answer": {
-            "options": "", 
-            "text": ""
+            "options": "B", 
+            "text": "The Foreign Secretary is the government minister responsible for managing relationships with foreign countries."
         }
     }, 
     {
-        "question": "",
+        "question": "Which of the following statements is correct?",
         "options": {
-            "A": "",
-            "B": "",
-            "C": "",
-            "D": ""
+            "A": "The main political parties attempt to recruit new members four times a year.",
+            "B": "The main political parties actively try and recruit new members."
         },
         "answer": {
-            "options": "", 
-            "text": ""
+            "options": "B", 
+            "text": "The main political parties actively look for members of the public to join their debates, contribute to their costs, and help at elections for Parliament or for local government."
         }
     }, 
     {
-        "question": "",
+        "question": "How is the electoral register updated?",
         "options": {
-            "A": "",
-            "B": "",
-            "C": "",
-            "D": ""
+            "A": "Eligible voters must phone their local councillor",
+            "B": "Every household receives a registration form, which must be completed and returned",
+            "C": "Every household must request a registration form",
+            "D": "Every household receives a phone call to enquire about eligible voters"
         },
         "answer": {
-            "options": "", 
-            "text": ""
+            "options": "B", 
+            "text": "The electoral register is updated every year in September or October. An electoral registration form is sent to every household and this has to be completed and returned with the names of everyone who is resident in the household and eligible to vote."
         }
     }, 
     {
-        "question": "",
+        "question": "You can find out which local authority you come under by visiting www.aboutmyvote.co.uk.",
         "options": {
-            "A": "",
-            "B": "",
-            "C": "",
-            "D": ""
+            "A": "True",
+            "B": "False"
         },
         "answer": {
-            "options": "", 
-            "text": ""
+            "options": "A", 
+            "text": "If you don't know which local authority you come under, you can find out by visiting www.aboutmyvote.co.uk and entering your postcode."
         }
     }, 
     {
-        "question": "",
+        "question": "Apart from those representing Scottish, Welsh or Northern Irish interests, there are three major political parties. Which one of the following is NOT one of these three?",
         "options": {
-            "A": "",
-            "B": "",
-            "C": "",
-            "D": ""
+            "A": "The Labour Party",
+            "B": "UKIP",
+            "C": "The Liberal Democrats",
+            "D": "The Conservative Party"
         },
         "answer": {
-            "options": "", 
-            "text": ""
+            "options": "B", 
+            "text": "The major political parties are the Conservative Party, the Labour Party, the Liberal Democrats, or one of the parties representing Scottish, Welsh or Northern Irish interests."
         }
     }, 
     {
-        "question": "",
+        "question": "It is possible to find information about visiting Parliament on the UK Parliament website.",
         "options": {
-            "A": "",
-            "B": "",
-            "C": "",
-            "D": ""
+            "A": "True",
+            "B": "False"
         },
         "answer": {
-            "options": "", 
-            "text": ""
+            "options": "A", 
+            "text": "You can find further information about visiting Parliament on the UK Parliament website at www.parliament.uk."
         }
     }, 
     {
-        "question": "",
+        "question": "Is it possible for the leader of the opposition to become Prime Minister?",
         "options": {
-            "A": "",
-            "B": "",
-            "C": "",
-            "D": ""
+            "A": "Yes, if the Prime Minister resigns",
+            "B": "Yes, if his or her party wins a General Election"
         },
         "answer": {
-            "options": "", 
-            "text": ""
+            "options": "B", 
+            "text": "The leader of the opposition usually becomes Prime Minister if his or her party wins the next General Election."
         }
     }, 
     {
-        "question": "",
+        "question": "Does the Scottish Parliament have the power to make laws affecting education?",
         "options": {
-            "A": "",
-            "B": "",
-            "C": "",
-            "D": ""
+            "A": "Yes, education is not a matter reserved to the UK Parliament",
+            "B": "Yes, but only if the law is approved by Westminster"
         },
         "answer": {
-            "options": "", 
-            "text": ""
+            "options": "A", 
+            "text": "The Scottish Parliament can pass laws for Scotland on all matters which are not specifically reserved to the UK Parliament. The matters on which the Scottish Parliament can legislate include: • civil and criminal law • health • education • planning • additional tax-rising powers."
         }
     }, 
     {
-        "question": "",
+        "question": "Those who join a political party are able to do which of the following?",
         "options": {
-            "A": "",
-            "B": "",
-            "C": "",
-            "D": ""
+            "A": "Implement government policy",
+            "B": "Help at elections",
+            "C": "Join in parliamentary debates",
+            "D": "Be appointed as an MP"
         },
         "answer": {
-            "options": "", 
-            "text": ""
+            "options": "B", 
+            "text": "The main political parties actively look for members of the public to join their debates, contribute to their costs, and help at elections for Parliament or for local government."
         }
     }, 
     {
-        "question": "",
+        "question": "London has how many local authorities?",
         "options": {
-            "A": "",
-            "B": "",
-            "C": "",
-            "D": ""
+            "A": "23",
+            "B": "28",
+            "C": "33",
+            "D": "43"
         },
         "answer": {
-            "options": "", 
-            "text": ""
+            "options": "C", 
+            "text": "London has 33 local authorities, with the Greater London Authority and the Mayor of London coordinating policies across the capital."
         }
     }, 
     {
-        "question": "",
+        "question": "All adult citizens of the UK (with a few exceptions) have the right to vote.",
         "options": {
-            "A": "",
-            "B": "",
-            "C": "",
-            "D": ""
+            "A": "True",
+            "B": "False"
         },
         "answer": {
-            "options": "", 
-            "text": ""
+            "options": "A", 
+            "text": "With a few exceptions, all UK-born and naturalised adult citizens have the right to vote."
         }
     }, 
     {
-        "question": "",
+        "question": "Are voter registrations forms only available in English?",
         "options": {
-            "A": "",
-            "B": "",
-            "C": "",
-            "D": ""
+            "A": "Yes, they are only available in English",
+            "B": "No, they are also available in Welsh and other languages"
         },
         "answer": {
-            "options": "", 
-            "text": ""
+            "options": "B", 
+            "text": "You can download voter registration forms in English, Welsh and some other languages."
         }
     }, 
     {
-        "question": "",
+        "question": "Which of the following statements is correct?",
         "options": {
-            "A": "",
-            "B": "",
-            "C": "",
-            "D": ""
+            "A": "There are usually longer queues to visit the House of Commons.",
+            "B": "There are usually longer queues to visit the House of Lords."
         },
         "answer": {
-            "options": "", 
-            "text": ""
+            "options": "A", 
+            "text": "Sometimes there are long queues for the House of Commons and people have to wait for at least one to two hours. It is usually easier to get in to the House of Lords."
         }
     }, 
     {
-        "question": "",
+        "question": "Which of the following statements is correct?",
         "options": {
-            "A": "",
-            "B": "",
-            "C": "",
-            "D": ""
+            "A": "Visitors are not allowed in the Senedd building.",
+            "B": "Visitors can book seats in the public galleries for the Senedd."
         },
         "answer": {
-            "options": "", 
-            "text": ""
+            "options": "B", 
+            "text": "You can book guided tours or seats in the public galleries for the Senedd."
         }
     }, 
     {
-        "question": "",
+        "question": "What information must always be entered on an electoral registration form?",
         "options": {
-            "A": "",
-            "B": "",
-            "C": "",
-            "D": ""
+            "A": "Details of vehicles registered at the address",
+            "B": "The names of everyone at the address",
+            "C": "The names of all eligible voters who live at the address",
+            "D": "The names of pets living at the address"
         },
         "answer": {
-            "options": "", 
-            "text": ""
+            "options": "C", 
+            "text": "When an electoral registration form is sent to every household this has to be completed and returned with the names of everyone who is resident in the household and eligible to vote."
         }
     }, 
     {
-        "question": "",
+        "question": "Which of the statements below is correct?",
         "options": {
-            "A": "",
-            "B": "",
-            "C": "",
-            "D": ""
+            "A": "Polling places or stations are open between 7am and 10pm during elections.",
+            "B": "Polling places or stations are open for two days during elections."
         },
         "answer": {
-            "options": "", 
-            "text": ""
+            "options": "A", 
+            "text": "On election day, the polling station or place will be open from 7am until 10pm."
         }
     }, 
     {
-        "question": "",
+        "question": "Which of the following statements is correct?",
         "options": {
-            "A": "",
-            "B": "",
-            "C": "",
-            "D": ""
+            "A": "The Senedd and the Welsh government are based in Edinburgh.",
+            "B": "The Senedd and the Welsh government are based in Cardiff."
         },
         "answer": {
-            "options": "", 
-            "text": ""
+            "options": "B", 
+            "text": "The Welsh government and the Senedd are based in Cardiff, the capital city of Wales."
         }
     }, 
     {
-        "question": "",
+        "question": "What are elected members of the Scottish Parliament known as?",
         "options": {
-            "A": "",
-            "B": "",
-            "C": "",
-            "D": ""
+            "A": "MPs",
+            "B": "MLAs",
+            "C": "AMs",
+            "D": "MSPs"
         },
         "answer": {
-            "options": "", 
-            "text": ""
+            "options": "D", 
+            "text": "Elected members of the Scottish Parliament are called MSPs."
         }
     }, 
     {
-        "question": "",
+        "question": "In which year was the Northern Ireland Assembly established?",
         "options": {
-            "A": "",
-            "B": "",
-            "C": "",
-            "D": ""
+            "A": "1922",
+            "B": "1969",
+            "C": "1978",
+            "D": "1998"
         },
         "answer": {
-            "options": "", 
-            "text": ""
+            "options": "D", 
+            "text": "The Northern Ireland Assembly was established soon after the Belfast Agreement (or Good Friday Agreement) in 1998."
         }
     }, 
     {
-        "question": "",
+        "question": "Which TWO facts are true of the individual voter registration system in Northern Ireland?",
         "options": {
-            "A": "",
-            "B": "",
-            "C": "",
-            "D": ""
+            "A": "Registered voters remain on the register until a change in their personal details",
+            "B": "Eligible voters complete their own voter registration forms",
+            "C": "An individual registers his or her whole family to vote",
+            "D": "The electoral register is fully updated each year"
         },
         "answer": {
-            "options": "", 
-            "text": ""
+            "options": "A, B", 
+            "text": "In Northern Ireland a different system operates. This is called individual registration and all those entitled to vote must complete their own registration form. Once registered, people stay on the register provided their personal details do not change."
         }
     }, 
     {
-        "question": "",
+        "question": "Where would the electoral register NOT be found?",
         "options": {
-            "A": "",
-            "B": "",
-            "C": "",
-            "D": ""
+            "A": "Local council offices in England and Wales",
+            "B": "The local electoral registration office",
+            "C": "Libraries",
+            "D": "Museums"
         },
         "answer": {
-            "options": "", 
-            "text": ""
+            "options": "D", 
+            "text": "The electoral register is kept at each local electoral registration office (or council office in England and Wales). It is also possible to see the register at some public buildings such as libraries."
         }
     }
 ]

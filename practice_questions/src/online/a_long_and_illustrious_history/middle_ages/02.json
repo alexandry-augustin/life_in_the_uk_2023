@@ -61,7 +61,7 @@
         },
         "answer": {
             "options": "C", 
-            "text": "Great cathedrals – for example, Lincoln Cathedral – were built, and many of these are still used for worship. Several of the cathedrals had windows of stained glass, telling stories about the Bible and Christian saints. The glass in York Minster is a famous example."
+            "text": "Great cathedrals -- for example, Lincoln Cathedral -- were built, and many of these are still used for worship. Several of the cathedrals had windows of stained glass, telling stories about the Bible and Christian saints. The glass in York Minster is a famous example."
         }
     }, 
     {
@@ -72,7 +72,7 @@
         },
         "answer": {
             "options": "A", 
-            "text": "Great cathedrals – for example, Lincoln Cathedral – were also built, and many of these are still used for worship. Several of the cathedrals had windows of stained glass, telling stories about the Bible and Christian saints. The glass in York Minster is a famous example."
+            "text": "Great cathedrals -- for example, Lincoln Cathedral -- were also built, and many of these are still used for worship. Several of the cathedrals had windows of stained glass, telling stories about the Bible and Christian saints. The glass in York Minster is a famous example."
         }
     }, 
     {
@@ -109,7 +109,7 @@
         },
         "answer": {
             "options": "B", 
-            "text": "After the Wars of the Roses ended, Henry Tudor, the leader of the House of Lancaster, became King Henry VII. Henry then married King Richard’s niece, Elizabeth of York, and united the two families."
+            "text": "After the Wars of the Roses ended, Henry Tudor, the leader of the House of Lancaster, became King Henry VII. Henry then married King Richard's niece, Elizabeth of York, and united the two families."
         }
     }, 
     {
@@ -181,7 +181,7 @@
         },
         "answer": {
             "options": "C", 
-            "text": "Great cathedrals – for example, Lincoln Cathedral – were also built, and many of these are still used for worship. Several of the cathedrals had windows of stained glass, telling stories about the Bible and Christian saints. The glass in York Minster is a famous example."
+            "text": "Great cathedrals -- for example, Lincoln Cathedral -- were also built, and many of these are still used for worship. Several of the cathedrals had windows of stained glass, telling stories about the Bible and Christian saints. The glass in York Minster is a famous example."
         }
     }, 
     {
@@ -192,7 +192,7 @@
         },
         "answer": {
             "options": "A", 
-            "text": "After the Wars of the Roses ended, Henry Tudor, the leader of the House of Lancaster, became King Henry VII. Henry then married King Richard’s niece, Elizabeth of York, and united the two families."
+            "text": "After the Wars of the Roses ended, Henry Tudor, the leader of the House of Lancaster, became King Henry VII. Henry then married King Richard's niece, Elizabeth of York, and united the two families."
         }
     }, 
     {
@@ -232,18 +232,18 @@
         },
         "answer": {
             "options": "C", 
-            "text": "Great cathedrals – for example, Lincoln Cathedral – were also built, and many of these are still used for worship. Several of the cathedrals had windows of stained glass, telling stories about the Bible and Christian saints. The glass in York Minster is a famous example."
+            "text": "Great cathedrals -- for example, Lincoln Cathedral -- were also built, and many of these are still used for worship. Several of the cathedrals had windows of stained glass, telling stories about the Bible and Christian saints. The glass in York Minster is a famous example."
         }
     }, 
     {
-        "question": "In the English language, the words ‘cow’, ‘apple’ and ‘summer’ are based on Anglo-Saxon words.",
+        "question": "In the English language, the words 'cow', 'apple' and 'summer' are based on Anglo-Saxon words.",
         "options": {
             "A": "True",
             "B": "False"
         },
         "answer": {
             "options": "A", 
-            "text": "Some words in modern English – for example, ‘apple’, ‘cow’ and ‘summer’ – are based on Anglo-Saxon words."
+            "text": "Some words in modern English -- for example, 'apple', 'cow' and 'summer' -- are based on Anglo-Saxon words."
         }
     }, 
     {

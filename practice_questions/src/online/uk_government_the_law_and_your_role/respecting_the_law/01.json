@@ -1,314 +1,242 @@
 [
     {
-        "question": "",
+        "question": "Judges are responsible for interpreting the law and ensuring that trials are conducted fairly.",
         "options": {
-            "A": "",
-            "B": "",
-            "C": "",
-            "D": ""
+            "A": "True",
+            "B": "False"
         },
         "answer": {
-            "options": "", 
-            "text": ""
+            "options": "A", 
+            "text": "The jury has to listen to the evidence presented at the trial and then decide a verdict of 'guilty' or 'not guilty' based on what they have heard. Judges are responsible for interpreting the law and ensuring that trials are conducted fairly."
         }
     }, 
     {
-        "question": "",
+        "question": "Which of the following is the role of a PCSO?",
         "options": {
-            "A": "",
-            "B": "",
-            "C": "",
-            "D": ""
+            "A": "Representing clients in court",
+            "B": "Supporting police officers at crime scenes and major events",
+            "C": "Deciding a verdict in court",
+            "D": "Treating injured people"
         },
         "answer": {
-            "options": "", 
-            "text": ""
+            "options": "B", 
+            "text": "PCSOs support police officers and have different roles according to the area. Usually PCSOs patrol the streets, work with the public, and support police officers at crime scenes and major events."
         }
     }, 
     {
-        "question": "",
+        "question": "All terrorist groups try to get people to join them. What is this activity called?",
         "options": {
-            "A": "",
-            "B": "",
-            "C": "",
-            "D": ""
+            "A": "Education",
+            "B": "Recruitment",
+            "C": "Conversation",
+            "D": "Kidnapping"
         },
         "answer": {
-            "options": "", 
-            "text": ""
+            "options": "B", 
+            "text": "All terrorist groups try to radicalise and recruit people to their cause."
         }
     }, 
     {
-        "question": "",
+        "question": "Which of the following is covered by criminal law?",
         "options": {
-            "A": "",
-            "B": "",
-            "C": "",
-            "D": ""
+            "A": "Drunk and disorderly behaviour",
+            "B": "Disputes with your landlord",
+            "C": "Employment issues such as unfair dismissal",
+            "D": "Debt"
         },
         "answer": {
-            "options": "", 
-            "text": ""
+            "options": "A", 
+            "text": "Being drunk and disorderly is a criminal offense. Some places have alcohol-free zones where you cannot drink in public. The police can also confiscate alcohol or move young people on from public places. You can be fined or arrested."
         }
     }, 
     {
-        "question": "",
+        "question": "Which of the following statements is correct?",
         "options": {
-            "A": "",
-            "B": "",
-            "C": "",
-            "D": ""
+            "A": "The police must always obey the law, unless Parliament grants an exemption.",
+            "B": "The police must always obey the law."
         },
         "answer": {
-            "options": "", 
-            "text": ""
+            "options": "B", 
+            "text": "Police officers must themselves obey the law. If police officers are corrupt or misuse their authority they are severely punished."
         }
     }, 
     {
-        "question": "",
+        "question": "Housing, debt, employment and consumer rights are covered by which law?",
         "options": {
-            "A": "",
-            "B": "",
-            "C": "",
-            "D": ""
+            "A": "Civil law",
+            "B": "Criminal law",
+            "C": "Military law",
+            "D": "No laws"
         },
         "answer": {
-            "options": "", 
-            "text": ""
+            "options": "A", 
+            "text": "Examples of areas covered by civil laws are: • housing law • consumer rights • employment law • debt."
         }
     }, 
     {
-        "question": "",
+        "question": "You should notify your local police station if anyone is trying to do which TWO of the following?",
         "options": {
-            "A": "",
-            "B": "",
-            "C": "",
-            "D": ""
+            "A": "Persuade you to join a terrorist group",
+            "B": "Persuade you to change your beliefs",
+            "C": "Disagree with your beliefs",
+            "D": "Persuade you to join an extremist group"
         },
         "answer": {
-            "options": "", 
-            "text": ""
+            "options": "A, D", 
+            "text": "If you think someone is trying to persuade you to join an extremist or terrorist cause, you should notify your local police force."
         }
     }, 
     {
-        "question": "",
+        "question": "Who makes the decision on verdicts and sentences in a Magistrates' Court?",
         "options": {
-            "A": "",
-            "B": "",
-            "C": "",
-            "D": ""
+            "A": "Magistrates",
+            "B": "The Magistrates' legal adviser",
+            "C": "A High Court Judge",
+            "D": "The Police Commissioner"
         },
         "answer": {
-            "options": "", 
-            "text": ""
+            "options": "A", 
+            "text": "Magistrates and Justices of the Peace (JPs) are members of the local community. In England, Wales and Scotland they usually work unpaid and do not need legal qualifications. Magistrates decide the verdict in each case that comes before them and, if the person is found guilty, the sentence that they are given."
         }
     }, 
     {
-        "question": "",
+        "question": "Police can be seriously punished for which TWO of the following?",
         "options": {
-            "A": "",
-            "B": "",
-            "C": "",
-            "D": ""
+            "A": "Exceeding their budget",
+            "B": "Corruption",
+            "C": "The misuse of authority",
+            "D": "Arresting powerful politicians"
         },
         "answer": {
-            "options": "", 
-            "text": ""
+            "options": "B, C", 
+            "text": "Police officers must themselves obey the law. They must not misuse their authority, make a false statement, be rude or abusive, or commit racial discrimination. If police officers are corrupt or misuse their authority they are severely punished."
         }
     }, 
     {
-        "question": "",
+        "question": "Equal treatment under law means that the law applies in the same way to everyone, as long as they were born in the UK.",
         "options": {
-            "A": "",
-            "B": "",
-            "C": "",
-            "D": ""
+            "A": "True",
+            "B": "False"
         },
         "answer": {
-            "options": "", 
-            "text": ""
+            "options": "B", 
+            "text": "Equal treatment under law means that the law applies in the same way to everyone, no matter who they are or where they are from."
         }
     }, 
     {
-        "question": "",
+        "question": "How are people chosen for a jury?",
         "options": {
-            "A": "",
-            "B": "",
-            "C": "",
-            "D": ""
+            "A": "Randomly, from the electoral register",
+            "B": "Randomly, from the lottery",
+            "C": "People apply to be on a jury",
+            "D": "They are appointed by legal professionals"
         },
         "answer": {
-            "options": "", 
-            "text": ""
+            "options": "A", 
+            "text": "A jury is made up of members of the public chosen at random from the local electoral register."
         }
     }, 
     {
-        "question": "",
+        "question": "How old do you have to be to buy alcohol in the UK?",
         "options": {
-            "A": "",
-            "B": "",
-            "C": "",
-            "D": ""
+            "A": "16",
+            "B": "18",
+            "C": "20",
+            "D": "21"
         },
         "answer": {
-            "options": "", 
-            "text": ""
+            "options": "B", 
+            "text": "It is a criminal offence to sell alcohol to anyone who is under 18 or to buy alcohol for people who are under the age of 18. There is one exception: people aged 16 or over can drink alcohol with a meal in a hotel or restaurant."
         }
     }, 
     {
-        "question": "",
+        "question": "It is illegal to smoke in most enclosed public spaces in the UK.",
         "options": {
-            "A": "",
-            "B": "",
-            "C": "",
-            "D": ""
+            "A": "True",
+            "B": "False"
         },
         "answer": {
-            "options": "", 
-            "text": ""
+            "options": "A", 
+            "text": "It is against the law to smoke tobacco products in nearly every enclosed public place in the UK. There are signs displayed to tell you where you cannot smoke."
         }
     }, 
     {
-        "question": "",
+        "question": "In which year were Police and Crime Commissioners first elected in England and Wales?",
         "options": {
-            "A": "",
-            "B": "",
-            "C": "",
-            "D": ""
+            "A": "1895",
+            "B": "1902",
+            "C": "1978",
+            "D": "2012"
         },
         "answer": {
-            "options": "", 
-            "text": ""
+            "options": "D", 
+            "text": "In November 2012, the public first elected Police and Crime Commissioners (PCCs) in England and Wales."
         }
     }, 
     {
-        "question": "",
+        "question": "Which of the following statements is correct?",
         "options": {
-            "A": "",
-            "B": "",
-            "C": "",
-            "D": ""
+            "A": "Police do not have the power to confiscate alcohol from people drinking in public.",
+            "B": "Police have the power to confiscate alcohol from people drinking in public."
         },
         "answer": {
-            "options": "", 
-            "text": ""
+            "options": "B", 
+            "text": "Some places have alcohol-free zones where you cannot drink in public. The police can also confiscate alcohol or move young people on from public places. You can be fined or arrested."
         }
     }, 
     {
-        "question": "",
+        "question": "There are no differences between the court systems of England, Northern Ireland, Scotland and Wales.",
         "options": {
-            "A": "",
-            "B": "",
-            "C": "",
-            "D": ""
+            "A": "True",
+            "B": "False"
         },
         "answer": {
-            "options": "", 
-            "text": ""
+            "options": "B", 
+            "text": "There are some differences between the court systems in England and Wales, Scotland and Northern Ireland."
         }
     }, 
     {
-        "question": "",
+        "question": "All solicitors are trained lawyers, but each one specialises in a particular area of law.",
         "options": {
-            "A": "",
-            "B": "",
-            "C": "",
-            "D": ""
+            "A": "True",
+            "B": "False"
         },
         "answer": {
-            "options": "", 
-            "text": ""
+            "options": "A", 
+            "text": "There are solicitors' offices throughout the UK. It is important to find out which aspects of law a solicitor specialises in and to check that they have the right experience to help you with your case."
         }
     }, 
     {
-        "question": "",
+        "question": "The High Court and the Court of Session hear the most serious civil cases.",
         "options": {
-            "A": "",
-            "B": "",
-            "C": "",
-            "D": ""
+            "A": "True",
+            "B": "False"
         },
         "answer": {
-            "options": "", 
-            "text": ""
+            "options": "A", 
+            "text": "More serious civil cases -- for example, when a large amount of compensation is being claimed -- are dealt with in the High Court in England, Wales and Northern Ireland. In Scotland, they are dealt with in the Court of Session in Edinburgh."
         }
     }, 
     {
-        "question": "",
+        "question": "Which of the following statements is correct?",
         "options": {
-            "A": "",
-            "B": "",
-            "C": "",
-            "D": ""
+            "A": "If a public body does not respect an individual's rights, the judiciary will change human rights legislation.",
+            "B": "If a public body does not respect an individual's rights, the judiciary can order it to change its practices or pay compensation (or both)."
         },
         "answer": {
-            "options": "", 
-            "text": ""
+            "options": "B", 
+            "text": "If judges find that a public body is not respecting someone's legal rights, they can order that body to change its practices and/or pay compensation."
         }
     }, 
     {
-        "question": "",
+        "question": "The term 'the judiciary' refers to judges.",
         "options": {
-            "A": "",
-            "B": "",
-            "C": "",
-            "D": ""
+            "A": "True",
+            "B": "False"
         },
         "answer": {
-            "options": "", 
-            "text": ""
-        }
-    }, 
-    {
-        "question": "",
-        "options": {
-            "A": "",
-            "B": "",
-            "C": "",
-            "D": ""
-        },
-        "answer": {
-            "options": "", 
-            "text": ""
-        }
-    }, 
-    {
-        "question": "",
-        "options": {
-            "A": "",
-            "B": "",
-            "C": "",
-            "D": ""
-        },
-        "answer": {
-            "options": "", 
-            "text": ""
-        }
-    }, 
-    {
-        "question": "",
-        "options": {
-            "A": "",
-            "B": "",
-            "C": "",
-            "D": ""
-        },
-        "answer": {
-            "options": "", 
-            "text": ""
-        }
-    }, 
-    {
-        "question": "",
-        "options": {
-            "A": "",
-            "B": "",
-            "C": "",
-            "D": ""
-        },
-        "answer": {
-            "options": "", 
-            "text": ""
+            "options": "A", 
+            "text": "Judges (who are together called the judiciary) are responsible for interpreting the law and ensuring that trials are conducted fairly. The government cannot interfere with this."
         }
     }
 ]

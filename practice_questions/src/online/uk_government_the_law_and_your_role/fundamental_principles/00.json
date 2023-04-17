@@ -1,314 +1,286 @@
 [
     {
-        "question": "",
+        "question": "How long can you use a driving licence from another country to drive in the UK?",
         "options": {
-            "A": "",
-            "B": "",
-            "C": "",
-            "D": ""
+            "A": "2 months",
+            "B": "6 months",
+            "C": "12 months",
+            "D": "24 months"
         },
         "answer": {
-            "options": "", 
-            "text": ""
+            "options": "C", 
+            "text": "If you have a licence from another country, you may use it in the UK for up to 12 months. To continue driving after that, you must get a UK full driving licence."
         }
     }, 
     {
-        "question": "",
+        "question": "In the UK it is acceptable to treat people unfairly because of their religious beliefs.",
         "options": {
-            "A": "",
-            "B": "",
-            "C": "",
-            "D": ""
+            "A": "True",
+            "B": "False"
         },
         "answer": {
-            "options": "", 
-            "text": ""
+            "options": "B", 
+            "text": "UK laws ensure that people are not treated unfairly in any area of life or work because of their age, disability, sex, pregnancy and maternity, race, religion or belief, sexuality or marital status."
         }
     }, 
     {
-        "question": "",
+        "question": "Which of the following statements is correct?",
         "options": {
-            "A": "",
-            "B": "",
-            "C": "",
-            "D": ""
+            "A": "To get a UK driving licence you must pass a driving test of both your knowledge and practical skills.",
+            "B": "To get a UK driving licence you must own a car and pass a driving test of both your knowledge and practical skills."
         },
         "answer": {
-            "options": "", 
-            "text": ""
+            "options": "A", 
+            "text": "To get a UK driving licence you must pass a driving test, which tests both your knowledge and your practical skills, but you do not have to own a car."
         }
     }, 
     {
-        "question": "",
+        "question": "Freedom of expression is one of the principles of the European Convention on Human Rights.",
         "options": {
-            "A": "",
-            "B": "",
-            "C": "",
-            "D": ""
+            "A": "True",
+            "B": "False"
         },
         "answer": {
-            "options": "", 
-            "text": ""
+            "options": "A", 
+            "text": "Some of the principles included in the European Convention on Human Rights are: • right to life • prohibition of torture • prohibition of slavery and forced labour • right to liberty and security • right to a fair trial • freedom of thought, conscience and religion • freedom of expression (speech)."
         }
     }, 
     {
-        "question": "",
+        "question": "Are arranged marriages allowed in the UK?",
         "options": {
-            "A": "",
-            "B": "",
-            "C": "",
-            "D": ""
+            "A": "Yes, as long as the parents agree",
+            "B": "Yes, as long as the people to be married agree"
         },
         "answer": {
-            "options": "", 
-            "text": ""
+            "options": "B", 
+            "text": "A marriage should be entered into with the full and free consent of both people involved. Arranged marriages, where both parties agree to the marriage, are acceptable in the UK."
         }
     }, 
     {
-        "question": "",
+        "question": "Everyone pays the correct amount of income tax through PAYE.",
         "options": {
-            "A": "",
-            "B": "",
-            "C": "",
-            "D": ""
+            "A": "True",
+            "B": "False"
         },
         "answer": {
-            "options": "", 
-            "text": ""
+            "options": "B", 
+            "text": "If you are self-employed, you need to pay your own tax through a system called self-assessment, which includes completing a tax return."
         }
     }, 
     {
-        "question": "",
+        "question": "Who amongst the following can be charged with domestic violence?",
         "options": {
-            "A": "",
-            "B": "",
-            "C": "",
-            "D": ""
+            "A": "Women",
+            "B": "Men",
+            "C": "Unmarried partners",
+            "D": "All of these"
         },
         "answer": {
-            "options": "", 
-            "text": ""
+            "options": "D", 
+            "text": "In the UK, brutality and violence in the home is a serious crime. Anyone who is violent towards their partner -- whether they are a man or a woman, married or living together -- can be prosecuted. Any man who forces a woman to have sex, including a woman's husband, can be charged with rape."
         }
     }, 
     {
-        "question": "",
+        "question": "How old must you be to ride a moped?",
         "options": {
-            "A": "",
-            "B": "",
-            "C": "",
-            "D": ""
+            "A": "12",
+            "B": "15",
+            "C": "16",
+            "D": "18"
         },
         "answer": {
-            "options": "", 
-            "text": ""
+            "options": "C", 
+            "text": "You need to be at least 16 years old to ride a moped, and there are other age requirements and special tests for driving large vehicles."
         }
     }, 
     {
-        "question": "",
+        "question": "How old must you be to drive a car or motor cycle in the UK?",
         "options": {
-            "A": "",
-            "B": "",
-            "C": "",
-            "D": ""
+            "A": "15",
+            "B": "17",
+            "C": "20",
+            "D": "25"
         },
         "answer": {
-            "options": "", 
-            "text": ""
+            "options": "B", 
+            "text": "In the UK, you must be at least 17 years old to drive a car or motor cycle and you must have a driving licence to drive on public roads."
         }
     }, 
     {
-        "question": "",
+        "question": "Which of the following is a document or piece of legislation that sets out fundamental rights or freedoms?",
         "options": {
-            "A": "",
-            "B": "",
-            "C": "",
-            "D": ""
+            "A": "The UK Constitution",
+            "B": "The Habeas Corpus Act",
+            "C": "The Statute of Rhuddlan",
+            "D": "The Act of Union"
         },
         "answer": {
-            "options": "", 
-            "text": ""
+            "options": "B", 
+            "text": "Britain has a long history of respecting an individual's rights and ensuring essential freedoms. These rights have their roots in the Magna Carta, the Habeas Corpus Act and the Bill of Rights of 1689, and they have developed over a period of time."
         }
     }, 
     {
-        "question": "",
+        "question": "Which of the following statements is correct?",
         "options": {
-            "A": "",
-            "B": "",
-            "C": "",
-            "D": ""
+            "A": "Self-employed people don't have to pay National Insurance Contributions.",
+            "B": "Self-employed people need to pay National Insurance Contributions themselves."
         },
         "answer": {
-            "options": "", 
-            "text": ""
+            "options": "B", 
+            "text": "Almost everybody in the UK who is in paid work, including self-employed people, must pay National Insurance Contributions."
         }
     }, 
     {
-        "question": "",
+        "question": "What does an MOT test stand for?",
         "options": {
-            "A": "",
-            "B": "",
-            "C": "",
-            "D": ""
+            "A": "Ministry of Truth test",
+            "B": "Mode of Transport test",
+            "C": "Music and Technology test",
+            "D": "Ministry of Transport test"
         },
         "answer": {
-            "options": "", 
-            "text": ""
+            "options": "D", 
+            "text": "If your vehicle is over three years old, you must take it for a Ministry of Transport (MOT) test every year. It is an offence not to have an MOT certificate if your vehicle is more than three years old."
         }
     }, 
     {
-        "question": "",
+        "question": "A court order can be used to protect a person from being forced into a marriage?",
         "options": {
-            "A": "",
-            "B": "",
-            "C": "",
-            "D": ""
+            "A": "True",
+            "B": "False"
         },
         "answer": {
-            "options": "", 
-            "text": ""
+            "options": "A", 
+            "text": "Court orders can be obtained to protect a person from being forced into a marriage, or to protect a person in a forced marriage."
         }
     }, 
     {
-        "question": "",
+        "question": "Which of the following statements is correct?",
         "options": {
-            "A": "",
-            "B": "",
-            "C": "",
-            "D": ""
+            "A": "A driving licence from another country allows you to drive for up to 12 months in the UK.",
+            "B": "A driving licence from another country allows you to drive in the UK for as long as that licence is valid."
         },
         "answer": {
-            "options": "", 
-            "text": ""
+            "options": "A", 
+            "text": "If you have a licence from another country, you may use it in the UK for up to 12 months. To continue driving after that, you must get a UK full driving licence."
         }
     }, 
     {
-        "question": "",
+        "question": "How often must a car over three years old have an MOT test?",
         "options": {
-            "A": "",
-            "B": "",
-            "C": "",
-            "D": ""
+            "A": "Every six months",
+            "B": "Every year",
+            "C": "Every three years",
+            "D": "Never"
         },
         "answer": {
-            "options": "", 
-            "text": ""
+            "options": "B", 
+            "text": "If your vehicle is over three years old, you must take it for a Ministry of Transport (MOT) test every year. It is an offence not to have an MOT certificate if your vehicle is more than three years old."
         }
     }, 
     {
-        "question": "",
+        "question": "If you need information about income tax, which TWO of the following would be helpful?",
         "options": {
-            "A": "",
-            "B": "",
-            "C": "",
-            "D": ""
+            "A": "HMRC's helpline",
+            "B": "NHS Direct",
+            "C": "HMRC's website",
+            "D": "Your local governing body"
         },
         "answer": {
-            "options": "", 
-            "text": ""
+            "options": "A, C", 
+            "text": "You can find out more about income tax at www.gov.uk/income-tax. You can get help and advice about taxes and completing tax forms from the HMRC self-assessment helpline on 0300 200 3310, and by visiting https://www.gov.uk/government/organisations/hm-revenue- customs."
         }
     }, 
     {
-        "question": "",
+        "question": "What do you need to provide to obtain a National Insurance number?",
         "options": {
-            "A": "",
-            "B": "",
-            "C": "",
-            "D": ""
+            "A": "That you have permission to work in the UK",
+            "B": "Proof of continuous residency in the UK",
+            "C": "That you are a British citizen",
+            "D": "That you have a job"
         },
         "answer": {
-            "options": "", 
-            "text": ""
+            "options": "A", 
+            "text": "A non-UK national living in the UK and looking for work, starting work or setting up as self-employed will need a National Insurance number. However, you can start work without one. If you have permission to work in the UK, you will need to telephone the National Insurance number application line."
         }
     }, 
     {
-        "question": "",
+        "question": "Breaking a Forced Marriage Protection Order can result in a prison sentence.",
         "options": {
-            "A": "",
-            "B": "",
-            "C": "",
-            "D": ""
+            "A": "True",
+            "B": "False"
         },
         "answer": {
-            "options": "", 
-            "text": ""
+            "options": "A", 
+            "text": "A potential victim, or someone acting for them, can apply for an order. Anyone found to have breached a Forced Marriage Protection Order can be jailed for up to two years for contempt of court."
         }
     }, 
     {
-        "question": "",
+        "question": "Where would you look for information about National Insurance Contributions?",
         "options": {
-            "A": "",
-            "B": "",
-            "C": "",
-            "D": ""
+            "A": "The local newspaper",
+            "B": "TV Guide",
+            "C": "On www.gov.uk",
+            "D": "The website of your local council"
         },
         "answer": {
-            "options": "", 
-            "text": ""
+            "options": "C", 
+            "text": "Further guidance about National Insurance Contributions is available on https://www.gov.uk/national-insurance."
         }
     }, 
     {
-        "question": "",
+        "question": "A husband cannot be charged with raping his wife.",
         "options": {
-            "A": "",
-            "B": "",
-            "C": "",
-            "D": ""
+            "A": "True",
+            "B": "False"
         },
         "answer": {
-            "options": "", 
-            "text": ""
+            "options": "B", 
+            "text": "In the UK, brutality and violence in the home is a serious crime. Anyone who is violent towards their partner -- whether they are a man or a woman, married or living together -- can be prosecuted. Any man who forces a woman to have sex, including a woman's husband, can be charged with rape."
         }
     }, 
     {
-        "question": "",
+        "question": "Which of the following statements is correct?",
         "options": {
-            "A": "",
-            "B": "",
-            "C": "",
-            "D": ""
+            "A": "It is legal to send a girl abroad for circumcision or cutting.",
+            "B": "It is illegal in the UK to send a girl abroad for circumcision or cutting."
         },
         "answer": {
-            "options": "", 
-            "text": ""
+            "options": "B", 
+            "text": "Female genital mutilation (FGM), also known as cutting or female circumcision, is illegal in the UK. Practising FGM or taking a girl or woman abroad for FGM is a criminal offence."
         }
     }, 
     {
-        "question": "",
+        "question": "Which of the following statements is correct?",
         "options": {
-            "A": "",
-            "B": "",
-            "C": "",
-            "D": ""
+            "A": "The government, public bodies and the courts must follow the principles of the European Convention on Human Rights.",
+            "B": "Only the government must follow the principles of the European Convention on Human Rights."
         },
         "answer": {
-            "options": "", 
-            "text": ""
+            "options": "A", 
+            "text": "The Human Rights Act 1998 incorporated the European Convention on Human Rights into UK law. The government, public bodies and the courts must follow the principles of the Convention."
         }
     }, 
     {
-        "question": "",
+        "question": "Employees need to pay National Insurance Contributions themselves.",
         "options": {
-            "A": "",
-            "B": "",
-            "C": "",
-            "D": ""
+            "A": "True",
+            "B": "False"
         },
         "answer": {
-            "options": "", 
-            "text": ""
+            "options": "B", 
+            "text": "Employees have their National Insurance Contributions deducted from their pay by their employer."
         }
     }, 
     {
-        "question": "",
+        "question": "UK laws aim to ensure that people are protected from unfair treatment at all times of their life or work.",
         "options": {
-            "A": "",
-            "B": "",
-            "C": "",
-            "D": ""
+            "A": "True",
+            "B": "False"
         },
         "answer": {
-            "options": "", 
-            "text": ""
+            "options": "A", 
+            "text": "UK laws ensure that people are not treated unfairly in any area of life or work because of their age, disability, sex, pregnancy and maternity, race, religion or belief, sexuality or marital status."
         }
     }
 ]

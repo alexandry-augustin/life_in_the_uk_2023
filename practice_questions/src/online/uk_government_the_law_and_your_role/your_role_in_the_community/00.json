@@ -1,314 +1,300 @@
 [
     {
-        "question": "",
+        "question": "Which of the following is a purpose of the National Citizen Service programme?",
         "options": {
-            "A": "",
-            "B": "",
-            "C": "",
-            "D": ""
+            "A": "To support the police",
+            "B": "To train young people for the army",
+            "C": "To help secure Britain's borders",
+            "D": "To give young people an opportunity to enjoy outdoor activities"
         },
         "answer": {
-            "options": "", 
-            "text": ""
+            "options": "D", 
+            "text": "There are many opportunities for younger people to volunteer and receive accreditation which will help them to develop their skills. These include the National Citizen Service programme, which gives 16- and 17-year-olds the opportunity to enjoy outdoor activities, develop their skills and take part in a community project."
         }
     }, 
     {
-        "question": "",
+        "question": "British, Irish and eligible Commonwealth citizens can stand as candidates for which positions?",
         "options": {
-            "A": "",
-            "B": "",
-            "C": "",
-            "D": ""
+            "A": "MP only",
+            "B": "Local councillor only",
+            "C": "Member of a devolved assembly only",
+            "D": "Local councillor, MP or member of a devolved assembly"
         },
         "answer": {
-            "options": "", 
-            "text": ""
+            "options": "D", 
+            "text": "British citizens can stand for office as a local councillor, a member of Parliament (or the devolved equivalents). You may also be able to stand for office if you are an Irish citizen or an eligible Commonwealth citizen."
         }
     }, 
     {
-        "question": "",
+        "question": "In the UK, it is NOT necessary to treat which group equally?",
         "options": {
-            "A": "",
-            "B": "",
-            "C": "",
-            "D": ""
+            "A": "People who follow a different religion",
+            "B": "Women",
+            "C": "People who are disabled",
+            "D": "Everyone has the right to be treated equally"
         },
         "answer": {
-            "options": "", 
-            "text": ""
+            "options": "D", 
+            "text": "Although Britain is one of the world's most diverse societies, there is a set of shared values and responsibilities that everyone can agree with. These values and responsibilities include: • to obey and respect the law • to be aware of the rights of others and respect those rights • to treat others with fairness • to behave responsibly • to help and protect your family • to respect and preserve the environment • to treat everyone equally, regardless of sex, race, religion, age, disability, class or sexual orientation • to work to provide for yourself and your family • to help others • to vote in local and national government elections."
         }
     }, 
     {
-        "question": "",
+        "question": "Which of the following is a responsibility for UK citizens?",
         "options": {
-            "A": "",
-            "B": "",
-            "C": "",
-            "D": ""
+            "A": "Standing for public office",
+            "B": "Learning to play a musical instrument",
+            "C": "Obeying the law",
+            "D": "Joining the armed forces"
         },
         "answer": {
-            "options": "", 
-            "text": ""
+            "options": "C", 
+            "text": "Although Britain is one of the world's most diverse societies, there is a set of shared values and responsibilities that everyone can agree with. These values and responsibilities include: • to obey and respect the law • to be aware of the rights of others and respect those rights • to treat others with fairness • to behave responsibly • to help and protect your family • to respect and preserve the environment • to treat everyone equally, regardless of sex, race, religion, age, disability, class or sexual orientation • to work to provide for yourself and your family • to help others • to vote in local and national government elections."
         }
     }, 
     {
-        "question": "",
+        "question": "You must always tell a canvasser how you intend to vote.",
         "options": {
-            "A": "",
-            "B": "",
-            "C": "",
-            "D": ""
+            "A": "True",
+            "B": "False"
         },
         "answer": {
-            "options": "", 
-            "text": ""
+            "options": "B", 
+            "text": "Members work hard to persuade people to vote for their candidates -- for instance, by knocking on people's doors and asking for their support. This is called canvassing. You don't have to tell a canvasser how you intend to vote if you don't want to."
         }
     }, 
     {
-        "question": "",
+        "question": "To be selected to be on a jury where must your name be recorded?",
         "options": {
-            "A": "",
-            "B": "",
-            "C": "",
-            "D": ""
+            "A": "On the voter list",
+            "B": "In The Phone Book",
+            "C": "On your driving licence",
+            "D": "On the electoral register"
         },
         "answer": {
-            "options": "", 
-            "text": ""
+            "options": "D", 
+            "text": "As well as getting the right to vote, people on the electoral register are randomly selected to serve on a jury. Anyone who is on the electoral register and is aged 18-70 (18-75 in England and Wales) can be asked to do this."
         }
     }, 
     {
-        "question": "",
+        "question": "People can be randomly chosen for jury service if they are which TWO of the following?",
         "options": {
-            "A": "",
-            "B": "",
-            "C": "",
-            "D": ""
+            "A": "A member of the police",
+            "B": "On the electoral register",
+            "C": "Aged at least 50",
+            "D": "Aged between 18 and 75"
         },
         "answer": {
-            "options": "", 
-            "text": ""
+            "options": "B, D", 
+            "text": "As well as getting the right to vote, people on the electoral register are randomly selected to serve on a jury. Anyone who is on the electoral register and is aged 18-70 (18-75 in England and Wales) can be asked to do this."
         }
     }, 
     {
-        "question": "",
+        "question": "Some people volunteer to improve the environment, perhaps by picking up rubbish.",
         "options": {
-            "A": "",
-            "B": "",
-            "C": "",
-            "D": ""
+            "A": "True",
+            "B": "False"
         },
         "answer": {
-            "options": "", 
-            "text": ""
+            "options": "A", 
+            "text": "You can volunteer for many activities, including helping improve the environment -- for example, participating in a litter pick-up in the local area."
         }
     }, 
     {
-        "question": "",
+        "question": "From what age are you eligible to be called for jury service?",
         "options": {
-            "A": "",
-            "B": "",
-            "C": "",
-            "D": ""
+            "A": "14",
+            "B": "16",
+            "C": "18",
+            "D": "21"
         },
         "answer": {
-            "options": "", 
-            "text": ""
+            "options": "C", 
+            "text": "As well as getting the right to vote, people on the electoral register are randomly selected to serve on a jury. Anyone who is on the electoral register and is aged 18-70 (18-75 in England and Wales) can be asked to do this."
         }
     }, 
     {
-        "question": "",
+        "question": "Which of the following statements is correct?",
         "options": {
-            "A": "",
-            "B": "",
-            "C": "",
-            "D": ""
+            "A": "The National Citizen Service programme gives 16- and 17-year-olds the opportunity to enjoy outdoor activities.",
+            "B": "The National Citizen Service programme gives 18- and 19-year-olds the opportunity to enjoy indoor activities."
         },
         "answer": {
-            "options": "", 
-            "text": ""
+            "options": "A", 
+            "text": "There are many opportunities for younger people to volunteer and receive accreditation which will help them to develop their skills. These include the National Citizen Service programme, which gives 16- and 17-year-olds the opportunity to enjoy outdoor activities, develop their skills and take part in a community project. You can find out more about these opportunities as follows: - National Citizen Service: at https://wearencs.com - England: at www.vinspired.com - Wales: at https://volunteering-wales.net/vk/volunteers/index.htm - Scotland: at www.volunteerscotland.net - Northern Ireland: at www.volunteernow.co.uk"
         }
     }, 
     {
-        "question": "",
+        "question": "What does 'canvassing' for a political party mean?",
         "options": {
-            "A": "",
-            "B": "",
-            "C": "",
-            "D": ""
+            "A": "To cast your vote for a party",
+            "B": "To join a party",
+            "C": "To oppose the views of the party",
+            "D": "To ask for someone's support for the party"
         },
         "answer": {
-            "options": "", 
-            "text": ""
+            "options": "D", 
+            "text": "Political parties work hard to persuade people to vote for their candidates -- for instance, by handing out leaflets in the street or by knocking on people's doors and asking for their support. This is called 'canvassing'."
         }
     }, 
     {
-        "question": "",
+        "question": "Which TWO of the following are responsibilities of school governors?",
         "options": {
-            "A": "",
-            "B": "",
-            "C": "",
-            "D": ""
+            "A": "To set the school's strategic direction",
+            "B": "To write the school curriculum",
+            "C": "To monitor and evaluate the school's performance",
+            "D": "To interview new teachers"
         },
         "answer": {
-            "options": "", 
-            "text": ""
+            "options": "A, C", 
+            "text": "Governors and school boards have an important part to play in raising school standards. They have three key roles: • setting the strategic direction of the school • ensuring accountability • monitoring and evaluating school performance."
         }
     }, 
     {
-        "question": "",
+        "question": "What is a way in which parents can help in schools?",
         "options": {
-            "A": "",
-            "B": "",
-            "C": "",
-            "D": ""
+            "A": "They can teach classes",
+            "B": "They can replace the head teacher",
+            "C": "They can do the children's homework for them",
+            "D": "They can listen to children read in the classroom"
         },
         "answer": {
-            "options": "", 
-            "text": ""
+            "options": "D", 
+            "text": "If you have children, there are many ways in which you can help at their schools. Parents can often help in classrooms, by supporting activities or listening to children read."
         }
     }, 
     {
-        "question": "",
+        "question": "School governors must be at least how old?",
         "options": {
-            "A": "",
-            "B": "",
-            "C": "",
-            "D": ""
+            "A": "16",
+            "B": "18",
+            "C": "21",
+            "D": "25"
         },
         "answer": {
-            "options": "", 
-            "text": ""
+            "options": "B", 
+            "text": "School governorsare people from the local community who wish to make a positive contribution to children's education. They must be aged 18 or over at the date of their election or appointment."
         }
     }, 
     {
-        "question": "",
+        "question": "Charities need volunteers to help with which TWO of the following?",
         "options": {
-            "A": "",
-            "B": "",
-            "C": "",
-            "D": ""
+            "A": "Party-political campaigning",
+            "B": "Law enforcement",
+            "C": "Raising money",
+            "D": "Activities"
         },
         "answer": {
-            "options": "", 
-            "text": ""
+            "options": "C, D", 
+            "text": "Volunteers are needed to help charities with their activities and to raise money."
         }
     }, 
     {
-        "question": "",
+        "question": "What are TWO examples of canvassing that you might encounter in the lead up to an election?",
         "options": {
-            "A": "",
-            "B": "",
-            "C": "",
-            "D": ""
+            "A": "Political party members handing out leaflets in the street",
+            "B": "People knocking on your door and asking you to support a candidate",
+            "C": "Receiving a poll card",
+            "D": "Receiving a postal ballot"
         },
         "answer": {
-            "options": "", 
-            "text": ""
+            "options": "A, B", 
+            "text": "Political parties are particularly busy at election times. Members work hard to persuade people to vote for their candidates -- for instance, by handing out leaflets in the street or by knocking on people's doors and asking for their support. This is called 'canvassing'."
         }
     }, 
     {
-        "question": "",
+        "question": "Charities exist to help which of the following causes?",
         "options": {
-            "A": "",
-            "B": "",
-            "C": "",
-            "D": ""
+            "A": "Bankers",
+            "B": "Medical research",
+            "C": "Members of Parliament",
+            "D": "Pharmaceutical companies"
         },
         "answer": {
-            "options": "", 
-            "text": ""
+            "options": "B", 
+            "text": "There are thousands of active charities and voluntary organisations in the UK. They work to improve the lives of people, animals and the environment in many different ways."
         }
     }, 
     {
-        "question": "",
+        "question": "Hospitals often need donated blood to help people who are ill or injured.",
         "options": {
-            "A": "",
-            "B": "",
-            "C": "",
-            "D": ""
+            "A": "True",
+            "B": "False"
         },
         "answer": {
-            "options": "", 
-            "text": ""
+            "options": "A", 
+            "text": "Donated blood is used by hospitals to help people with a wide range of injuries and illnesses. Giving blood only takes about an hour to do. You can register to give blood at: - England and North Wales: www.blood.co.uk - Rest of Wales: www.welsh-blood.org.uk - Scotland: www.scotblood.co.uk - Northern Ireland: https://nibts.hscni.net"
         }
     }, 
     {
-        "question": "",
+        "question": "Using recycled materials to make new products uses less energy and means that we do not need to extract more raw materials from the earth.",
         "options": {
-            "A": "",
-            "B": "",
-            "C": "",
-            "D": ""
+            "A": "True",
+            "B": "False"
         },
         "answer": {
-            "options": "", 
-            "text": ""
+            "options": "A", 
+            "text": "It is important to recycle as much of your waste as you can. Using recycled materials to make new products uses less energy and means that we do not need to extract more raw materials from the earth."
         }
     }, 
     {
-        "question": "",
+        "question": "What are the benefits of understanding and following British values and responsibilities?",
         "options": {
-            "A": "",
-            "B": "",
-            "C": "",
-            "D": ""
+            "A": "You will earn a higher salary",
+            "B": "You will find it easier to play an active role as a citizen",
+            "C": "You will earn less respect",
+            "D": "There are no benefits to following British values and responsibilities"
         },
         "answer": {
-            "options": "", 
-            "text": ""
+            "options": "B", 
+            "text": "Taking on these British values and responsibilities will make it easier for you to become a full and active citizen."
         }
     }, 
     {
-        "question": "",
+        "question": "It is compulsory for 16 and 17 year olds to participate in the National Citizen Service programme.",
         "options": {
-            "A": "",
-            "B": "",
-            "C": "",
-            "D": ""
+            "A": "True",
+            "B": "False"
         },
         "answer": {
-            "options": "", 
-            "text": ""
+            "options": "B", 
+            "text": "There are many opportunities for younger people to volunteer and receive accreditation which will help them to develop their skills. These include the National Citizen Service programme, which gives 16- and 17-year-olds the opportunity to enjoy outdoor activities, develop their skills and take part in a community project."
         }
     }, 
     {
-        "question": "",
+        "question": "What age group is the National Citizen Service for?",
         "options": {
-            "A": "",
-            "B": "",
-            "C": "",
-            "D": ""
+            "A": "Under 10",
+            "B": "12- to 18-year-olds",
+            "C": "16- and 17-year-olds",
+            "D": "18- to 30-year-olds"
         },
         "answer": {
-            "options": "", 
-            "text": ""
+            "options": "C", 
+            "text": "The National Citizen Service programme gives 16- and 17-year-olds the opportunity to enjoy outdoor activities, develop their skills and take part in a community project."
         }
     }, 
     {
-        "question": "",
+        "question": "Which of the following statements is correct?",
         "options": {
-            "A": "",
-            "B": "",
-            "C": "",
-            "D": ""
+            "A": "The only way to become a school governor is by applying at the Governors for Schools website.",
+            "B": "It is possible to become a school governor by asking a local school if they need a new governor."
         },
         "answer": {
-            "options": "", 
-            "text": ""
+            "options": "B", 
+            "text": "You can contact your local school to ask if they need a new governor. In England, you can also apply online at the Governors for Schools website at www.governorsforschools.org.uk."
         }
     }, 
     {
-        "question": "",
+        "question": "Which TWO of the following are shared values of the UK?",
         "options": {
-            "A": "",
-            "B": "",
-            "C": "",
-            "D": ""
+            "A": "To only look after yourself",
+            "B": "To obey and respect the law",
+            "C": "To treat others with fairness",
+            "D": "To disregard the environment"
         },
         "answer": {
-            "options": "", 
-            "text": ""
+            "options": "B, C", 
+            "text": "Although Britain is one of the world's most diverse societies, there is a set of shared values and responsibilities that everyone can agree with. These values and responsibilities include: • to obey and respect the law • to be aware of the rights of others and respect those rights • to treat others with fairness • to behave responsibly • to help and protect your family • to respect and preserve the environment • to treat everyone equally, regardless of sex, race, religion, age, disability, class or sexual orientation • to work to provide for yourself and your family • to help others • to vote in local and national government elections."
         }
     }
 ]

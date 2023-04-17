@@ -73,7 +73,7 @@
         "question": "Which of the following statements is correct?",
         "options": {
             "A": "If they are married, both parents are equally responsible for their children.",
-            "B": "If they are married, the woman has sole legal responsibility for a couple’s children."
+            "B": "If they are married, the woman has sole legal responsibility for a couple's children."
         },
         "answer": {
             "options": "A", 
@@ -123,7 +123,7 @@
         },
         "answer": {
             "options": "A", 
-            "text": "The English language has many accents and dialects. In Wales, many people speak Welsh – a completely different language from English. In Scotland, Gaelic is spoken in some parts of the Highlands and Islands, and in Northern Ireland some people speak Irish Gaelic."
+            "text": "The English language has many accents and dialects. In Wales, many people speak Welsh -- a completely different language from English. In Scotland, Gaelic is spoken in some parts of the Highlands and Islands, and in Northern Ireland some people speak Irish Gaelic."
         }
     }, 
     {
@@ -151,16 +151,16 @@
         }
     }, 
     {
-        "question": "The longest distance in mainland Britain, at 870 miles (1,400 kilometres), is between John O’Groats and where?",
+        "question": "The longest distance in mainland Britain, at 870 miles (1,400 kilometres), is between John O'Groats and where?",
         "options": {
-            "A": "Land’s End",
+            "A": "Land's End",
             "B": "Dover",
             "C": "Bournemouth",
             "D": "Bideford"
         },
         "answer": {
             "options": "A", 
-            "text": "The longest distance on the mainland is from John O’Groats on the north coast of Scotland to Land’s End in the south west corner of England. It is about 870 miles (approximately 1,400 kilometres)."
+            "text": "The longest distance on the mainland is from John O'Groats on the north coast of Scotland to Land's End in the south west corner of England. It is about 870 miles (approximately 1,400 kilometres)."
         }
     }, 
     {

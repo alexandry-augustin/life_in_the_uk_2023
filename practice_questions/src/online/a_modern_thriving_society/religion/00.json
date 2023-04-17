@@ -33,7 +33,7 @@
         },
         "answer": {
             "options": "B", 
-            "text": "England, Scotland, Wales and Northern Ireland each have a national saint, called a patron saint. Each saint has a special day: - 1 March: St David’s Day, Wales"
+            "text": "England, Scotland, Wales and Northern Ireland each have a national saint, called a patron saint. Each saint has a special day: - 1 March: St David's Day, Wales"
         }
     }, 
     {
@@ -98,7 +98,7 @@
     {
         "question": "After Protestants, which is the biggest denomination of Christianity in the UK?",
         "options": {
-            "A": "Jehovah’s Witnesses",
+            "A": "Jehovah's Witnesses",
             "B": "Roman Catholic",
             "C": "Ethiopian Orthodox",
             "D": "Christian Science"
@@ -150,14 +150,14 @@
     {
         "question": "Which of these national saints' days is incorrect?",
         "options": {
-            "A": "1 March: St David’s Day, Wales",
-            "B": "17 March: St Patrick’s Day, Northern Ireland",
-            "C": "23 April: St George’s Day, England",
-            "D": "1 November: St Matthew’s Day, Scotland"
+            "A": "1 March: St David's Day, Wales",
+            "B": "17 March: St Patrick's Day, Northern Ireland",
+            "C": "23 April: St George's Day, England",
+            "D": "1 November: St Matthew's Day, Scotland"
         },
         "answer": {
             "options": "D", 
-            "text": "Each saint has a special day: • 1 March: St David’s Day, Wales • 17 March: St Patrick’s Day, Northern Ireland • 23 April: St George’s Day, England • 30 November: St Andrew’s Day, Scotland."
+            "text": "Each saint has a special day: • 1 March: St David's Day, Wales • 17 March: St Patrick's Day, Northern Ireland • 23 April: St George's Day, England • 30 November: St Andrew's Day, Scotland."
         }
     }, 
     {
@@ -168,7 +168,7 @@
         },
         "answer": {
             "options": "A", 
-            "text": "Only Scotland and Northern Ireland have their patron saint’s day as an official holiday (although in Scotland not all businesses and offices will close)."
+            "text": "Only Scotland and Northern Ireland have their patron saint's day as an official holiday (although in Scotland not all businesses and offices will close)."
         }
     }, 
     {
@@ -218,7 +218,7 @@
         },
         "answer": {
             "options": "C", 
-            "text": "England, Scotland, Wales and Northern Ireland each have a national saint, called a patron saint. Each saint has a special day: - 30 November: St Andrew’s Day, Scotland."
+            "text": "England, Scotland, Wales and Northern Ireland each have a national saint, called a patron saint. Each saint has a special day: - 30 November: St Andrew's Day, Scotland."
         }
     }, 
     {
@@ -226,7 +226,7 @@
         "options": {
             "A": "Westminster Abbey",
             "B": "York Minster",
-            "C": "St Paul’s Cathedral",
+            "C": "St Paul's Cathedral",
             "D": "Westminster Cathedral"
         },
         "answer": {

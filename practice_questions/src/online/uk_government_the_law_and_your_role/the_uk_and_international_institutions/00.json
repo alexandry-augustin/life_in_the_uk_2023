@@ -1,314 +1,292 @@
 [
     {
-        "question": "",
+        "question": "Which of the following statements is correct?",
         "options": {
-            "A": "",
-            "B": "",
-            "C": "",
-            "D": ""
+            "A": "Countries must join the Commonwealth if the monarch commands it.",
+            "B": "Countries join the Commonwealth voluntarily."
         },
         "answer": {
-            "options": "", 
-            "text": ""
+            "options": "B", 
+            "text": "The King is the ceremonial head of the Commonwealth, which currently has 54 member states. Membership is voluntary."
         }
     }, 
     {
-        "question": "",
+        "question": "The UK has never been a member of NATO.",
         "options": {
-            "A": "",
-            "B": "",
-            "C": "",
-            "D": ""
+            "A": "True",
+            "B": "False"
         },
         "answer": {
-            "options": "", 
-            "text": ""
+            "options": "B", 
+            "text": "The UK is a member of NATO. NATO is a group of European and North American countries that have agreed to help each other if they come under attack. It also aims to maintain peace between all of its members."
         }
     }, 
     {
-        "question": "",
+        "question": "Which TWO of the following countries are members of the Commonwealth?",
         "options": {
-            "A": "",
-            "B": "",
-            "C": "",
-            "D": ""
+            "A": "USA",
+            "B": "Pakistan",
+            "C": "Canada",
+            "D": "Brazil"
         },
         "answer": {
-            "options": "", 
-            "text": ""
+            "options": "B, C", 
+            "text": "The Commonwealth makes up 54 member states, including Pakistan and Canada."
         }
     }, 
     {
-        "question": "",
+        "question": "The UK is a permanent member of the UN Security Council.",
         "options": {
-            "A": "",
-            "B": "",
-            "C": "",
-            "D": ""
+            "A": "True",
+            "B": "False"
         },
         "answer": {
-            "options": "", 
-            "text": ""
+            "options": "A", 
+            "text": "There are 15 members on the UN Security Council, which recommends action when there are international crises and threats to peace. The UK is one of five permanent members of the Security Council."
         }
     }, 
     {
-        "question": "",
+        "question": "Which of the following statements is correct?",
         "options": {
-            "A": "",
-            "B": "",
-            "C": "",
-            "D": ""
+            "A": "The United Nations was set up between the First and Second World Wars.",
+            "B": "The United Nations was set up after the Second World War."
         },
         "answer": {
-            "options": "", 
-            "text": ""
+            "options": "B", 
+            "text": "The UN was set up after the Second World War and aims to prevent war and promote international peace and security."
         }
     }, 
     {
-        "question": "",
+        "question": "Which of the following statements is correct?",
         "options": {
-            "A": "",
-            "B": "",
-            "C": "",
-            "D": ""
+            "A": "The King is the elected leader of the Commonwealth.",
+            "B": "The King is the ceremonial head of the Commonwealth."
         },
         "answer": {
-            "options": "", 
-            "text": ""
+            "options": "B", 
+            "text": "The King is the ceremonial head of the Commonwealth, which currently has 54 member states."
         }
     }, 
     {
-        "question": "",
+        "question": "Which of the following is NOT a member of the Commonwealth?",
         "options": {
-            "A": "",
-            "B": "",
-            "C": "",
-            "D": ""
+            "A": "Australia",
+            "B": "USA",
+            "C": "Kenya",
+            "D": "Bangladesh"
         },
         "answer": {
-            "options": "", 
-            "text": ""
+            "options": "B", 
+            "text": "Australia, Kenya and Bangladesh are members of the Commonwealth. The King is the ceremonial head of the Commonwealth, which currently has 54 member states."
         }
     }, 
     {
-        "question": "",
+        "question": "Which of the following statements is correct?",
         "options": {
-            "A": "",
-            "B": "",
-            "C": "",
-            "D": ""
+            "A": "More than 190 countries belong to NATO.",
+            "B": "More than 190 countries belong to the United Nations."
         },
         "answer": {
-            "options": "", 
-            "text": ""
+            "options": "B", 
+            "text": "The UK is part of the United Nations (UN), an international organisation with more than 190 countries as members."
         }
     }, 
     {
-        "question": "",
+        "question": "The Commonwealth can suspend members.",
         "options": {
-            "A": "",
-            "B": "",
-            "C": "",
-            "D": ""
+            "A": "True",
+            "B": "False"
         },
         "answer": {
-            "options": "", 
-            "text": ""
+            "options": "A", 
+            "text": "The Commonwealth has no power over its members, although it can suspend membership. The Commonwealth is based on the core values of democracy, good government and the rule of law."
         }
     }, 
     {
-        "question": "",
+        "question": "Which of the following is an aim of the United Nations?",
         "options": {
-            "A": "",
-            "B": "",
-            "C": "",
-            "D": ""
+            "A": "Protecting UK wildlife",
+            "B": "Promoting international security",
+            "C": "Teaching people English",
+            "D": "Promoting free trade"
         },
         "answer": {
-            "options": "", 
-            "text": ""
+            "options": "B", 
+            "text": "The UN was set up after the Second World War and aims to prevent war and promote international peace and security."
         }
     }, 
     {
-        "question": "",
+        "question": "Which TWO of the following countries belong to the Commonwealth?",
         "options": {
-            "A": "",
-            "B": "",
-            "C": "",
-            "D": ""
+            "A": "Switzerland",
+            "B": "Germany",
+            "C": "Cameroon",
+            "D": "Singapore"
         },
         "answer": {
-            "options": "", 
-            "text": ""
+            "options": "C, D", 
+            "text": "Cameroon and Singapore are members of the Commonwealth."
         }
     }, 
     {
-        "question": "",
+        "question": "How many countries belong to the Commonwealth?",
         "options": {
-            "A": "",
-            "B": "",
-            "C": "",
-            "D": ""
+            "A": "12",
+            "B": "25",
+            "C": "39",
+            "D": "54"
         },
         "answer": {
-            "options": "", 
-            "text": ""
+            "options": "D", 
+            "text": "The King is the ceremonial head of the Commonwealth, which currently has 54 member states."
         }
     }, 
     {
-        "question": "",
+        "question": "Which of the following is a core value of the Commonwealth?",
         "options": {
-            "A": "",
-            "B": "",
-            "C": "",
-            "D": ""
+            "A": "Intolerance",
+            "B": "Slavery",
+            "C": "Inequality",
+            "D": "Good government"
         },
         "answer": {
-            "options": "", 
-            "text": ""
+            "options": "D", 
+            "text": "The Commonwealth has no power over its members, although it can suspend membership. The Commonwealth is based on the core values of democracy, good government and the rule of law."
         }
     }, 
     {
-        "question": "",
+        "question": "NATO is a group of North American and European countries which have agreed to do which TWO of the following?",
         "options": {
-            "A": "",
-            "B": "",
-            "C": "",
-            "D": ""
+            "A": "Maintain peace between member countries",
+            "B": "Promote traditional culture",
+            "C": "To protect each other when under attack",
+            "D": "To allow the free movement of people across borders"
         },
         "answer": {
-            "options": "", 
-            "text": ""
+            "options": "A, C", 
+            "text": "The UK is a member of the North Atlantic Treaty Organisation (NATO). NATO is a group of European and North American countries that have agreed to help each other if they come under attack. It also aims to maintain peace between all of its members."
         }
     }, 
     {
-        "question": "",
+        "question": "Which international organisation, of which the UK is a member, was set up to promote international peace and security?",
         "options": {
-            "A": "",
-            "B": "",
-            "C": "",
-            "D": ""
+            "A": "FIFA",
+            "B": "World Health Organization",
+            "C": "The United Nations",
+            "D": "The Eisteddfod"
         },
         "answer": {
-            "options": "", 
-            "text": ""
+            "options": "C", 
+            "text": "The UN was set up after the Second World War and aims to prevent war and promote international peace and security."
         }
     }, 
     {
-        "question": "",
+        "question": "Which of the following statements is correct?",
         "options": {
-            "A": "",
-            "B": "",
-            "C": "",
-            "D": ""
+            "A": "The Commonwealth is a group of countries which support each other and work together.",
+            "B": "The Commonwealth is a group of regions which compete together at the Olympics."
         },
         "answer": {
-            "options": "", 
-            "text": ""
+            "options": "A", 
+            "text": "The Commonwealth is an association of countries that support each other and work together towards shared goals in democracy and development."
         }
     }, 
     {
-        "question": "",
+        "question": "Which of the following statements is correct?",
         "options": {
-            "A": "",
-            "B": "",
-            "C": "",
-            "D": ""
+            "A": "NATO stands for the North Atlantic Treaty Organisation.",
+            "B": "NATO stands for the North Atlantic Territorial Organisation."
         },
         "answer": {
-            "options": "", 
-            "text": ""
+            "options": "A", 
+            "text": "The UK is a member of the North Atlantic Treaty Organisation (NATO)."
         }
     }, 
     {
-        "question": "",
+        "question": "The UK belongs to which of the following?",
         "options": {
-            "A": "",
-            "B": "",
-            "C": "",
-            "D": ""
+            "A": "The Women's Franchise League",
+            "B": "The Australasian Union",
+            "C": "The Commonwealth",
+            "D": "The Arab League"
         },
         "answer": {
-            "options": "", 
-            "text": ""
+            "options": "C", 
+            "text": "The UK is a member of the Commonwealth."
         }
     }, 
     {
-        "question": "",
+        "question": "After which war was the UN created?",
         "options": {
-            "A": "",
-            "B": "",
-            "C": "",
-            "D": ""
+            "A": "English Civil War",
+            "B": "Boer War",
+            "C": "Second World War",
+            "D": "First World War"
         },
         "answer": {
-            "options": "", 
-            "text": ""
+            "options": "C", 
+            "text": "The UN was set up after the Second World War and aims to prevent war and promote international peace and security."
         }
     }, 
     {
-        "question": "",
+        "question": "The UK belongs to which TWO international bodies?",
         "options": {
-            "A": "",
-            "B": "",
-            "C": "",
-            "D": ""
+            "A": "The Commonwealth",
+            "B": "Collective Security Treaty Organization (CSTO)",
+            "C": "The North American Free Trade Agreement (NAFTA)",
+            "D": "The North Atlantic Treaty Organization (NATO)"
         },
         "answer": {
-            "options": "", 
-            "text": ""
+            "options": "A, D", 
+            "text": "The UK belongs to many International bodies including NATO (North Atlantic Treaty Organization) and the Commonwealth."
         }
     }, 
     {
-        "question": "",
+        "question": "The UK is one of five permanent members of the UN Security Council.",
         "options": {
-            "A": "",
-            "B": "",
-            "C": "",
-            "D": ""
+            "A": "True",
+            "B": "False"
         },
         "answer": {
-            "options": "", 
-            "text": ""
+            "options": "C", 
+            "text": "There are 15 members on the UN Security Council, which recommends action when there are international crises and threats to peace. The UK is one of five permanent members of the Security Council."
         }
     }, 
     {
-        "question": "",
+        "question": "What is the full title of the European Convention on Human Rights?",
         "options": {
-            "A": "",
-            "B": "",
-            "C": "",
-            "D": ""
+            "A": "The European Convention on Human and Animal Rights",
+            "B": "The European Convention on Human and State Rights",
+            "C": "The European Convention on Human Rights and Fundamental Freedoms",
+            "D": "The European Convention on Human Rights and Government Freedoms"
         },
         "answer": {
-            "options": "", 
-            "text": ""
+            "options": "C", 
+            "text": "The Council of Europe has 47 member countries, including the UK, and is responsible for the protection and promotion of human rights in those countries. It has no power to make laws but draws up conventions and charters, the most well-known of which is the European Convention on Human Rights and Fundamental Freedoms, usually called the European Convention on Human Rights."
         }
     }, 
     {
-        "question": "",
+        "question": "All member states of the Commonwealth were once part of the British Empire.",
         "options": {
-            "A": "",
-            "B": "",
-            "C": "",
-            "D": ""
+            "A": "True",
+            "B": "False"
         },
         "answer": {
-            "options": "", 
-            "text": ""
+            "options": "B", 
+            "text": "The Commonwealth is an association of countries that support each other and work together towards shared goals in democracy and development. Most member states were once part of the British Empire, although a few countries which were not have also joined."
         }
     }, 
     {
-        "question": "",
+        "question": "Who is the ceremonial head of the Commonwealth?",
         "options": {
-            "A": "",
-            "B": "",
-            "C": "",
-            "D": ""
+            "A": "The Prime Minister",
+            "B": "The President of the USA",
+            "C": "The King",
+            "D": "The Prince of Wales"
         },
         "answer": {
-            "options": "", 
-            "text": ""
+            "options": "C", 
+            "text": "The King is the ceremonial head of the Commonwealth, which currently has 54 member states."
         }
     }
 ]
