@@ -1,0 +1,787 @@
+[
+    {
+        "question": "What are those elected to the Scottish Parliament known as?",
+        "options": {
+            "A": "MPs",
+            "B": "Lords",
+            "C": "AMs",
+            "D": "MSPs"
+        },
+        "answer": {
+            "options": "D", 
+            "text": "There are 129 members of the Scottish Parliament (MSPs), elected by a form of proportional representation."
+        }
+    }, 
+    {
+        "question": "Which TWO things is Sake Dean Mahomet most famous for?",
+        "options": {
+            "A": "Opening the first curry house in Britain",
+            "B": "Resisting British colonialism in Bengal",
+            "C": "He was a general in the Bengal army",
+            "D": "Introducing shampooing (Indian head massage) to Britain"
+        },
+        "answer": {
+            "options": "D", 
+            "text": "Mahomet was born in 1759 and grew up in the Bengal region of India. In 1810 he opened the Hindoostane Coffee House in George Street, London. It was the first curry house to open in Britain. Mahomet and his wife also introduced 'shampooing', the Indian art of head massage, to Britain."
+        }
+    }, 
+    {
+        "question": "Who wrote the poem The Tyger?",
+        "options": {
+            "A": "Jane Austen",
+            "B": "William Blake",
+            "C": "William Shakespeare",
+            "D": "Emmeline Pankhurst"
+        },
+        "answer": {
+            "options": "B", 
+            "text": "'Tyger! Tyger! Burning bright In the forests of the night, What immortal hand or eye Could frame thy fearful symmetry?' (William Blake, 1757-1827 -- The Tyger)"
+        }
+    }, 
+    {
+        "question": "What is another name used for the Church of England elsewhere in the world?",
+        "options": {
+            "A": "Anglican Church",
+            "B": "Mormon Church",
+            "C": "Zen Church",
+            "D": "Adventist Church"
+        },
+        "answer": {
+            "options": "A", 
+            "text": "The official church of the state is the Church of England (called the Anglican Church in other countries and the Episcopal Church in Scotland and the United States)."
+        }
+    }, 
+    {
+        "question": "Who was Sir Edwin Lutyens?",
+        "options": {
+            "A": "A British architect",
+            "B": "A British composer",
+            "C": "A British swimmer",
+            "D": "A British scientist"
+        },
+        "answer": {
+            "options": "A", 
+            "text": "Sir Edwin Lutyens was a British architect who had an influence throughout the British Empire."
+        }
+    }, 
+    {
+        "question": "Which of the following statements is correct?",
+        "options": {
+            "A": "The attack on Normandy by Allied forces is often called D-Day.",
+            "B": "D-Day was an Allied operation that attacked German forces in France by advancing through Spain."
+        },
+        "answer": {
+            "options": "A", 
+            "text": "German losses in the Soviet Union, combined with the support of the Americans, meant that the Allies were eventually strong enough to attack Hitler's forces in Western Europe. On 6 June 1944, allied forces landed in Normandy (this event is often referred to as 'D-Day')."
+        }
+    }, 
+    {
+        "question": "Official reports of parliamentary proceedings are published in which of the following?",
+        "options": {
+            "A": "Juilliard",
+            "B": "Hansard",
+            "C": "The Telegraph",
+            "D": "The Sunday Times"
+        },
+        "answer": {
+            "options": "B", 
+            "text": "Proceedings in Parliament are broadcast on television and published in official reports called Hansard."
+        }
+    }, 
+    {
+        "question": "Who appoints MPs to the cabinet?",
+        "options": {
+            "A": "The Archbishop of Canterbury",
+            "B": "The Queen",
+            "C": "The Prime Minister",
+            "D": "UK residents in a General Election"
+        },
+        "answer": {
+            "options": "C", 
+            "text": "The Prime Minister appoints about 20 senior MPs to become ministers in charge of departments. This group of ministers is known as the cabinet."
+        }
+    }, 
+    {
+        "question": "Who wrote Charlie and the Chocolate Factory and George's Marvellous Medicine?",
+        "options": {
+            "A": "Thomas Hardy",
+            "B": "Kingsley Amis",
+            "C": "Roald Dahl",
+            "D": "Sir Arthur Conan Doyle"
+        },
+        "answer": {
+            "options": "C", 
+            "text": "Roald Dahl is most well known for his children's books, although he also wrote for adults. His best-known works include Charlie and the Chocolate Factory and George's Marvellous Medicine. Several of his books have been made into films."
+        }
+    }, 
+    {
+        "question": "Where did the Vikings form their first communities in Britain?",
+        "options": {
+            "A": "Wales and Scotland",
+            "B": "Eastern England and Scotland",
+            "C": "Northern Ireland and Wales",
+            "D": "South-west England and Wales"
+        },
+        "answer": {
+            "options": "B", 
+            "text": "The Vikings came from Denmark, Norway and Sweden. They first visited Britain in AD 789 to raid coastal towns and take away goods and slaves. Then, they began to stay and form their own communities in the east of England and Scotland."
+        }
+    }, 
+    {
+        "question": "What were the Crusades?",
+        "options": {
+            "A": "A fleet of ships sent from Spain to attack England",
+            "B": "The dissolution of the monasteries by Henry VIII",
+            "C": "The civil war between the Royalists and the Parliamentarians",
+            "D": "The fight for control of the Holy Land by European Christians"
+        },
+        "answer": {
+            "options": "D", 
+            "text": "During the Middle Ages, the English kings fought a number of wars abroad. Many knights took part in the Crusades, in which European Christians fought for control of the Holy Land."
+        }
+    }, 
+    {
+        "question": "Charles I believed in, and tried to rule in line with, what principle?",
+        "options": {
+            "A": "Democracy",
+            "B": "Communism",
+            "C": "Religious virtue",
+            "D": "The Divine Right of Kings"
+        },
+        "answer": {
+            "options": "D", 
+            "text": "James I and his son Charles I were less skilled politically than Elizabeth I. Both believed in the 'Divine Right of Kings': the idea that the king was directly appointed by God to rule."
+        }
+    }, 
+    {
+        "question": "England has a devolved government.",
+        "options": {
+            "A": "True",
+            "B": "False"
+        },
+        "answer": {
+            "options": "B", 
+            "text": "There are devolved governments in Scotland, Wales and Northern Ireland that have the power to legislate on certain issues."
+        }
+    }, 
+    {
+        "question": "Which of the armed forces fought in the Battle of Britain?",
+        "options": {
+            "A": "Royal Air Force",
+            "B": "Royal Navy",
+            "C": "The Army",
+            "D": "Royal Marines"
+        },
+        "answer": {
+            "options": "A", 
+            "text": "The Battle of Britain', was an aerial battle fought in the summer of 1940 by the Royal Air Force."
+        }
+    }, 
+    {
+        "question": "The Black Death caused the deaths of one-third of the population of England.",
+        "options": {
+            "A": "True",
+            "B": "False"
+        },
+        "answer": {
+            "options": "A", 
+            "text": "In 1348, a disease, probably a form of plague, came to Britain. This was known as the Black Death. One third of the population of England died."
+        }
+    }, 
+    {
+        "question": "Who was the longest-serving British Prime Minister of the 20th century?",
+        "options": {
+            "A": "Boris Johnson",
+            "B": "Winston Churchill",
+            "C": "David Cameron",
+            "D": "Margaret Thatcher"
+        },
+        "answer": {
+            "options": "D", 
+            "text": "Margaret Thatcher was the longest-serving Prime Minister of the 20th century, remaining in office until 1990."
+        }
+    }, 
+    {
+        "question": "Which town or city is famous for its celebration of the Hindu and Sikh festival of Diwali?",
+        "options": {
+            "A": "Birmingham",
+            "B": "Slough",
+            "C": "Leicester",
+            "D": "Plymouth"
+        },
+        "answer": {
+            "options": "C", 
+            "text": "There is a famous celebration of Diwali in Leicester."
+        }
+    }, 
+    {
+        "question": "Which TWO of the following former colonies were granted independence in 1947?",
+        "options": {
+            "A": "Pakistan",
+            "B": "Sierra Leone",
+            "C": "Jamaica",
+            "D": "Ceylon (now Sri Lanka)"
+        },
+        "answer": {
+            "options": "A, D", 
+            "text": "In 1947, independence was granted to nine countries, including India, Pakistan and Ceylon (now Sri Lanka)."
+        }
+    }, 
+    {
+        "question": "The right for every adult male and female to vote is usually known as what?",
+        "options": {
+            "A": "Universal balloting",
+            "B": "Universal democracy",
+            "C": "Universal voting rights",
+            "D": "Universal suffrage"
+        },
+        "answer": {
+            "options": "D", 
+            "text": "Universal suffrage is the right of every adult, male or female, to vote in parliamentary elections."
+        }
+    }, 
+    {
+        "question": "The Cenotaph in Trafalgar Square is a monument to Admiral Nelson.",
+        "options": {
+            "A": "True",
+            "B": "False"
+        },
+        "answer": {
+            "options": "B", 
+            "text": "Britain's navy fought against combined French and Spanish fleets, winning the Battle of Trafalgar in 1805. Admiral Nelson was in charge of the British fleet at Trafalgar and was killed in the battle. Nelson's Column in Trafalgar Square, London, is a monument to him."
+        }
+    }, 
+    {
+        "question": "During the early 1970s, Britain admitted 28,000 people of Indian origin who had been forced to leave Uganda.",
+        "options": {
+            "A": "True",
+            "B": "False"
+        },
+        "answer": {
+            "options": "A", 
+            "text": "During the early 1970s, Britain admitted 28,000 people of Indian origin who had been forced to leave Uganda."
+        }
+    }, 
+    {
+        "question": "In 1805, Britain's navy fought combined fleets from which nations to win the Battle of Trafalgar? ",
+        "options": {
+            "A": "France and Spain",
+            "B": "Spain and Italy",
+            "C": "France and Italy",
+            "D": "France and the Netherlands"
+        },
+        "answer": {
+            "options": "A", 
+            "text": "Britain's navy fought against combined French and Spanish fleets, winning the Battle of Trafalgar in 1805."
+        }
+    }, 
+    {
+        "question": "When England became a republic, after Charles I lost the English Civil War, it no longer had what?",
+        "options": {
+            "A": "A parliament",
+            "B": "A national anthem",
+            "C": "A monarch",
+            "D": "A Prime Minister"
+        },
+        "answer": {
+            "options": "C", 
+            "text": "By 1646, it was clear that Parliament had won the war. Charles was held prisoner by the parliamentary army. He was still unwilling to reach any agreement with Parliament and in 1649 he was executed. England declared itself a republic, called the Commonwealth. It no longer had a monarch."
+        }
+    }, 
+    {
+        "question": "Which of the following statements is correct?",
+        "options": {
+            "A": "The UK has a constitutional monarchy, which means that the king or queen appoints the government, as chosen in a democratic election.",
+            "B": "The UK has a constitutional monarchy, which means that the king or queen alone chooses the government."
+        },
+        "answer": {
+            "options": "A", 
+            "text": "The UK has a constitutional monarchy. This means that the king or queen does not rule the country but appoints the government, which the people have chosen in a democratic election."
+        }
+    }, 
+    {
+        "question": "Sake Dean Mahomet opened which establishment in George Street, London in 1810?",
+        "options": {
+            "A": "Hindoostane Coffee House",
+            "B": "Pakistan Curry House",
+            "C": "Mahomet Coffee House",
+            "D": "Mahomet Shampoo Parlour"
+        },
+        "answer": {
+            "options": "A", 
+            "text": "Mahomet was born in 1759 and grew up in the Bengal region of India. In 1810 he opened the Hindoostane Coffee House in George Street, London."
+        }
+    }, 
+    {
+        "question": "The UK is a parliamentary democracy.",
+        "options": {
+            "A": "True",
+            "B": "False"
+        },
+        "answer": {
+            "options": "A", 
+            "text": "The system of government in the UK is a parliamentary democracy."
+        }
+    }, 
+    {
+        "question": "Which of the following statements is correct?",
+        "options": {
+            "A": "Many of the Viking invaders stayed in Britain, in an area known as the Danelaw.",
+            "B": "Many of the Viking invaders stayed in Britain, in an area known as Deptford."
+        },
+        "answer": {
+            "options": "A", 
+            "text": "Many of the Viking invaders stayed in Britain -- especially in the east and north of England, in an area known as the Danelaw (many places names there, such as Grimsby and Scunthorpe, come from the Viking languages). The Viking settlers mixed with local communities and some converted to Christianity."
+        }
+    }, 
+    {
+        "question": "All MPs represent one of the main political parties.",
+        "options": {
+            "A": "True",
+            "B": "False"
+        },
+        "answer": {
+            "options": "B", 
+            "text": "There are a few MPs who do not represent any of the main political parties. They are called independents and usually represent an issue important to their constituency."
+        }
+    }, 
+    {
+        "question": "Who did John Major succeed as Prime Minister?",
+        "options": {
+            "A": "Tony Blair",
+            "B": "Clement Attlee",
+            "C": "Sir Robert Walpole",
+            "D": "Margaret Thatcher"
+        },
+        "answer": {
+            "options": "D", 
+            "text": "John Major was Prime Minister after Margaret Thatcher."
+        }
+    }, 
+    {
+        "question": "Who could not get Parliament to agree to their religious and foreign policy views and tried to rule without Parliament?",
+        "options": {
+            "A": "Charles I",
+            "B": "Elizabeth I",
+            "C": "Bloody Mary",
+            "D": "Henry VIII"
+        },
+        "answer": {
+            "options": "D", 
+            "text": "When Charles I inherited the thrones of England, Wales, Ireland and Scotland, he tried to rule in line with this principle. When he could not get Parliament to agree with his religious and foreign policies, he tried to rule without Parliament at all."
+        }
+    }, 
+    {
+        "question": "The first Union Flag was created in 1606.",
+        "options": {
+            "A": "True",
+            "B": "False"
+        },
+        "answer": {
+            "options": "A", 
+            "text": "There is also an official Welsh flag, which shows a Welsh dragon. The Welsh dragon does not appear on the Union Flag because, when the first Union Flag was created in 1606 from the flags of Scotland and England, the Principality of Wales was already united with England."
+        }
+    }, 
+    {
+        "question": "Which of the following is paid for by National Insurance Contributions?",
+        "options": {
+            "A": "State retirement pensions",
+            "B": "The armed forces",
+            "C": "Parliamentary expenses",
+            "D": "The Department for Work and Pensions"
+        },
+        "answer": {
+            "options": "A", 
+            "text": "The money raised from National Insurance Contributions is used to pay for state benefits and services such as the state retirement pension and the National Health Service (NHS)."
+        }
+    }, 
+    {
+        "question": "Queen Victoria's reign ended in 1952, and she was succeeded by Elizabeth II.",
+        "options": {
+            "A": "True",
+            "B": "False"
+        },
+        "answer": {
+            "options": "B", 
+            "text": "In 1837, Queen Victoria became queen of the UK at the age of 18. She reigned until 1901."
+        }
+    }, 
+    {
+        "question": "What currency is used in the UK?",
+        "options": {
+            "A": "Euro",
+            "B": "Dollar",
+            "C": "Pound sterling",
+            "D": "Ruble"
+        },
+        "answer": {
+            "options": "C", 
+            "text": "The currency in the UK is the pound sterling."
+        }
+    }, 
+    {
+        "question": "The BBC began the world's first regular television service in 1936.",
+        "options": {
+            "A": "True",
+            "B": "False"
+        },
+        "answer": {
+            "options": "A", 
+            "text": "The BBC started radio broadcasts in 1922 and began the world's first regular television service in 1936."
+        }
+    }, 
+    {
+        "question": "Which organisation did the UK vote to leave at a referendum on 23 June 2016?",
+        "options": {
+            "A": "United Nations",
+            "B": "Commonwealth",
+            "C": "European Union",
+            "D": "NATO"
+        },
+        "answer": {
+            "options": "C", 
+            "text": "The Conservative government called a referendum on the UK's membership of the European Union. This was held on 23 June 2016. The UK voted by a margin of 51.9% to 48.1% to leave the European Union."
+        }
+    }, 
+    {
+        "question": "Which of these sectors was nationalised by the post-war Labour government?",
+        "options": {
+            "A": "Coal mining",
+            "B": "The banks",
+            "C": "The airlines",
+            "D": "Farming"
+        },
+        "answer": {
+            "options": "A", 
+            "text": "The Labour government elected in 1945 took into public ownership (nationalised) the railways, coal mines and gas, water and electricity supplies."
+        }
+    }, 
+    {
+        "question": "Who or what were the 'clans'?",
+        "options": {
+            "A": "English lords",
+            "B": "Welsh landowners",
+            "C": "Prominent families in Scotland and Ireland",
+            "D": "Prominent families in England and Wales"
+        },
+        "answer": {
+            "options": "C", 
+            "text": "The feudal system developed in southern Scotland. In the north of Scotland and Ireland, land was owned by members of the 'clans' (prominent families)."
+        }
+    }, 
+    {
+        "question": "Which of the following is a core value of the civil service?",
+        "options": {
+            "A": "Laziness",
+            "B": "Party loyalty",
+            "C": "Integrity",
+            "D": "Favouritism"
+        },
+        "answer": {
+            "options": "C", 
+            "text": "Civil servants are expected to carry out their role with dedication and a commitment to the civil service and its core values. These are: integrity, honesty, objectivity and impartiality (including being politically neutral)."
+        }
+    }, 
+    {
+        "question": "Which of the following happened in 1707?",
+        "options": {
+            "A": "The Act of Union was agreed, creating the Kingdom of Great Britain",
+            "B": "The Hundred Years War began",
+            "C": "The English Civil War ended",
+            "D": "The Emancipation Act abolished slavery"
+        },
+        "answer": {
+            "options": "A", 
+            "text": "The Act of Union, known as the Treaty of Union in Scotland, was agreed in 1707, creating the Kingdom of Great Britain. Although Scotland was no longer an independent country, it kept its own legal and education systems and Presbyterian Church."
+        }
+    }, 
+    {
+        "question": "A delay in introducing Home Rule to Ireland resulted in the Easter Rising, which took place in which city?",
+        "options": {
+            "A": "Belfast",
+            "B": "Dublin",
+            "C": "Liverpool",
+            "D": "London"
+        },
+        "answer": {
+            "options": "B", 
+            "text": " The outbreak of the First World War led the British government to postpone any changes in Ireland. Irish Nationalists were not willing to wait and in 1916 there was an uprising (the Easter Rising) against the British in Dublin. "
+        }
+    }, 
+    {
+        "question": "King Edward I of England annexed Wales to the crown of England by which statute?",
+        "options": {
+            "A": "The Statute of Caernarfon",
+            "B": "The Statute of Gwynedd",
+            "C": "The Statute of Carmarthen",
+            "D": "The Statute of Rhuddlan"
+        },
+        "answer": {
+            "options": "D", 
+            "text": "The English kings fought with the Welsh, Scottish and Irish noblemen for control of their lands. In Wales, the English were able to establish their rule. In 1284 King Edward I of England introduced the Statute of Rhuddlan, which annexed Wales to the Crown of England."
+        }
+    }, 
+    {
+        "question": "Which of the following statements is correct?",
+        "options": {
+            "A": "In some areas local councils are appointed by local business owners.",
+            "B": "Local councils are always elected."
+        },
+        "answer": {
+            "options": "B", 
+            "text": "Towns, cities and rural areas in the UK are governed by democratically elected councils, often called local authorities."
+        }
+    }, 
+    {
+        "question": "Which TWO of these countries fought on the side of the Allied Powers during the First World War?",
+        "options": {
+            "A": "Bulgaria",
+            "B": "Italy",
+            "C": "Germany",
+            "D": "France"
+        },
+        "answer": {
+            "options": "B, D", 
+            "text": "The First World War was centred in Europe, but it was a global war involving nations from around the world. Britain was part of the Allied Powers, which included (amongst others) France, Russia, Japan, Belgium, Serbia -- and later, Greece, Italy, Romania and the United States."
+        }
+    }, 
+    {
+        "question": "Which government department collects taxes?",
+        "options": {
+            "A": "PAYE",
+            "B": "NHS",
+            "C": "HMRC",
+            "D": "HMSO"
+        },
+        "answer": {
+            "options": "C", 
+            "text": "For most people, the right amount of income tax is automatically taken from their income from employment by their employer and paid directly to HM Revenue & Customs (HMRC), the government department that collects taxes."
+        }
+    }, 
+    {
+        "question": "On which day do people send cards anonymously to someone they admire?",
+        "options": {
+            "A": "Christmas Day",
+            "B": "New Year's Day",
+            "C": "Valentine's Day",
+            "D": "April Fool's Day"
+        },
+        "answer": {
+            "options": "C", 
+            "text": "Valentine's Day, 14 February, is when lovers exchange cards and gifts. Sometimes people send anonymous cards to someone they secretly admire."
+        }
+    }, 
+    {
+        "question": "Which Scottish poet was known as The Bard?",
+        "options": {
+            "A": "Robert Burns",
+            "B": "Robert the Bruce",
+            "C": "Bonnie Prince Charlie",
+            "D": "Robert Davidson"
+        },
+        "answer": {
+            "options": "A", 
+            "text": "Known in Scotland as The Bard, Robert Burns was a Scottish poet."
+        }
+    }, 
+    {
+        "question": "Income tax is paid on which of the following forms of income?",
+        "options": {
+            "A": "Shopping vouchers",
+            "B": "Money you win on the lottery",
+            "C": "Pensions",
+            "D": "Small gifts of money"
+        },
+        "answer": {
+            "options": "C", 
+            "text": "People in the UK have to pay tax on their income, which includes: • wages from paid employment • profits from self-employment • taxable benefits • pensions • income from property, savings and dividends."
+        }
+    }, 
+    {
+        "question": "Winston Churchill became Britain's Prime Minister in the early years of the Second World War.",
+        "options": {
+            "A": "True",
+            "B": "False"
+        },
+        "answer": {
+            "options": "A", 
+            "text": "Having occupied Austria and invaded Czechoslovakia, Hitler followed his invasion of Poland by taking control of Belgium and the Netherlands. Then, in 1940, German forces defeated allied troops and advanced through France. At this time of national crisis, Winston Churchill became Prime Minister and Britain's war leader."
+        }
+    }, 
+    {
+        "question": "Which TWO of the following have the right to vote to elect members of Parliament?",
+        "options": {
+            "A": "Adults who have been granted an indefinite right to remain in the UK",
+            "B": "Adult citizens who were born in the UK",
+            "C": "Adults who have been given a visa to study in the UK",
+            "D": "Adults who are naturalised citizens of the UK"
+        },
+        "answer": {
+            "options": "B, D", 
+            "text": "The present voting age of 18 was set in 1969 and (with a few exceptions) all UK-born and naturalised adult citizens have the right to vote."
+        }
+    }, 
+    {
+        "question": "Which of the following said 'I have nothing to offer but blood, toil, tears and sweat'?",
+        "options": {
+            "A": "Charles II",
+            "B": "Margaret Thatcher",
+            "C": "Robert Browning",
+            "D": "Winston Churchill"
+        },
+        "answer": {
+            "options": "D", 
+            "text": "Winston Churchill said, 'I have nothing to offer but blood, toil, tears and sweat' during his first speech to the House of Commons after he became Prime Minister in 1940."
+        }
+    }, 
+    {
+        "question": "Which of these is a Christmas tradition in the UK?",
+        "options": {
+            "A": "Eating chocolate eggs",
+            "B": "Having a barbecue",
+            "C": "Fireworks displays",
+            "D": "Decorating houses and trees"
+        },
+        "answer": {
+            "options": "D", 
+            "text": "Christmas is celebrated in a traditional way. People usually spend the day at home and eat a special meal, which often includes roast turkey, Christmas pudding and mince pies. They give gifts, send cards and decorate their houses. Many people decorate a tree in their home."
+        }
+    }, 
+    {
+        "question": "Who invaded Britain after the Roman army left?",
+        "options": {
+            "A": "Japan",
+            "B": "Germany",
+            "C": "The Normans",
+            "D": "The Jutes, the Angles and the Saxons"
+        },
+        "answer": {
+            "options": "D", 
+            "text": "The Roman army left Britain in AD 410 to defend other parts of the Roman Empire and never returned. Britain was again invaded by tribes from northern Europe: the Jutes, the Angles and the Saxons."
+        }
+    }, 
+    {
+        "question": "What is New Year's Eve called in Scotland?",
+        "options": {
+            "A": "Boxing Day",
+            "B": "Hogmanay",
+            "C": "Auld Lang Syne",
+            "D": "St Andrew's Day"
+        },
+        "answer": {
+            "options": "B", 
+            "text": "Robert Burns' best-known work is probably the song Auld Lang Syne, which is sung by people in the UK and other countries when they are celebrating the New Year (or Hogmanay as it is called in Scotland)."
+        }
+    }, 
+    {
+        "question": "Which king united the people of what is now Scotland to protect them from the threat of Viking attacks?",
+        "options": {
+            "A": "Kenneth MacAlpin",
+            "B": "Robert Bruce",
+            "C": "Robert Burns",
+            "D": "William Wallace"
+        },
+        "answer": {
+            "options": "A", 
+            "text": "The threat of attack by Vikings had encouraged the people to unite under one king, Kenneth MacAlpin. The term Scotland then began to be used to describe that country."
+        }
+    }, 
+    {
+        "question": "Which of the following statements is correct?",
+        "options": {
+            "A": "The Wimbledon Championships is an athletics tournament.",
+            "B": "The Wimbledon Championships is a tennis tournament."
+        },
+        "answer": {
+            "options": "B", 
+            "text": ""
+        }
+    }, 
+    {
+        "question": "The Festival of Lights is another name for which of the following?",
+        "options": {
+            "A": "Vaisakhi",
+            "B": "Christmas",
+            "C": "Diwali",
+            "D": "Eid ul Adha"
+        },
+        "answer": {
+            "options": "C", 
+            "text": "Diwali is popularly known as the Festival of Lights."
+        }
+    }, 
+    {
+        "question": "Which is the biggest stretch of water in the Lake District?",
+        "options": {
+            "A": "Coniston Water",
+            "B": "Derwentwater",
+            "C": "Ullswater",
+            "D": "Windermere"
+        },
+        "answer": {
+            "options": "D", 
+            "text": "The Lake District is England's largest national park. It covers 885 square miles (2,292 square kilometres). The biggest stretch of water is Windermere."
+        }
+    }, 
+    {
+        "question": "A conflict in which of these areas in the 1990s involved British troops?",
+        "options": {
+            "A": "The Maldives",
+            "B": "The Former Republic of Yugoslavia",
+            "C": "South Africa",
+            "D": "France"
+        },
+        "answer": {
+            "options": "B", 
+            "text": "Throughout the 1990s, Britain played a leading role in coalition forces involved in the liberation of Kuwait, following the Iraqi invasion in 1990, and the conflict in the former Republic of Yugoslavia."
+        }
+    }, 
+    {
+        "question": "What is the name of a major sports stadium in Cardiff?",
+        "options": {
+            "A": "The Welsh Arena",
+            "B": "The Principality Stadium",
+            "C": "Cardiff Park",
+            "D": "South Wales Stadium"
+        },
+        "answer": {
+            "options": "B", 
+            "text": "Many sporting events take place at major stadiums such as Wembley Stadium in London and the Principality Stadium in Cardiff."
+        }
+    }, 
+    {
+        "question": "Which of the following is a ministerial position appointed to the cabinet?",
+        "options": {
+            "A": "The Chancellor of the Exchequer",
+            "B": "The Speaker",
+            "C": "The leader of the opposition",
+            "D": "Chief Constable"
+        },
+        "answer": {
+            "options": "A", 
+            "text": "The Prime Minister appoints about 20 senior MPs to become ministers in charge of departments. These include: • Chancellor of the Exchequer • Home Secretary • Foreign Secretary • Other ministers (called Secretaries of State)."
+        }
+    }, 
+    {
+        "question": "After the Second World War, the British government encouraged workers from Ireland and other parts of Europe to come to the UK and help to rebuild Britain.",
+        "options": {
+            "A": "True",
+            "B": "False"
+        },
+        "answer": {
+            "options": "A", 
+            "text": "Rebuilding Britain after the Second World War was a huge task. There were labour shortages and the British government encouraged workers from Ireland and other parts of Europe to come to the UK and help with the reconstruction."
+        }
+    }, 
+    {
+        "question": "Which of the following statements is correct?",
+        "options": {
+            "A": "The Scottish Parliament can pass laws for Scotland on all matters.",
+            "B": "The Scottish Parliament can only pass legislation for Scotland on certain matters."
+        },
+        "answer": {
+            "options": "B", 
+            "text": "The Scottish Parliament can pass laws for Scotland on all matters which are not specifically reserved to the UK Parliament. The matters on which the Scottish Parliament can legislate include: • civil and criminal law • health • education • planning • additional tax-rising powers."
+        }
+    }
+]
