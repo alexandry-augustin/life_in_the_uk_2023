@@ -84,10 +84,10 @@ a|
 |1640
 a|
 * [red]#Son of James I#
-* [red]#Invaded parliament and tried to arrest 5 parliamentary leaders#
 * Charles I tries to introduce a revised Prayer Book in Scotland, causing rebellion. 
 * He recalls Parliament to try and raise money for an army to repel the Scots. 
 * The Protestant and Puritan Parliament refuse to give Charles the money, even after the Scottish invade
+* [red]#Invaded parliament and tried to arrest 5 parliamentary leaders#
 
 // |
 // |
